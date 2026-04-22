@@ -39,14 +39,18 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run scraper
-        run: python scrape_internships.py --output data/internships.json --days 7
+        run: |
+          python scrape_internships.py \
+            --output data/internships.json \
+            --seen data/seen.json \
+            --new-output data/new_today.json
         continue-on-error: true  # 即使一個平台掛了也要 commit 其他平台結果
 
       - name: Commit updated data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/internships.json
+          git add data/internships.json data/seen.json
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
@@ -58,4 +62,4 @@ jobs:
         if: github.event.schedule == '0 1 * * *' || github.event.inputs.notify == 'true'
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-        run: python notify_discord.py data/internships.json
+        run: python notify_discord.py data/new_today.json
