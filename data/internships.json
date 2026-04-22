@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-22T15:26:07",
+  "generated_at": "2026-04-22T15:31:29",
   "params": {
     "days": null,
     "keyword": "實習",
     "salary_filter": false
   },
   "summary": {
-    "total": 304,
-    "new_today": 0,
+    "total": 305,
+    "new_today": 1,
     "by_platform": {
-      "104": 240,
+      "104": 241,
       "CakeResume": 0,
       "Yourator": 64
     }
@@ -90,7 +90,7 @@
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 14
+      "count": 15
     },
     {
       "key": "operations",
@@ -3294,6 +3294,20 @@
       "first_seen": "2026-04-22"
     },
     {
+      "platform": "104",
+      "title": "稽核人員Internal Audit",
+      "company": "美商安瑞科技股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-21",
+      "url": "https://www.104.com.tw/job/8zro8",
+      "description": "所實習/工作經驗\n★稽核經驗\n★★英語能力能溝通",
+      "category": "accounting",
+      "first_seen": "2026-04-22"
+    },
+    {
       "platform": "Yourator",
       "title": "Company Operations Intern",
       "company": "PicCollage 拼貼趣",
@@ -4135,20 +4149,6 @@
     },
     {
       "platform": "104",
-      "title": "大學以上在學專案企業實習生（寒假）",
-      "company": "新光人壽保險股份有限公司_民權通訊處(蔡彥志)(核准編號: E-AC-114-060)",
-      "location": "台中市西屯區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/7xf2c",
-      "description": "寒假企業實習，不限系所科別",
-      "category": "other",
-      "first_seen": "2026-04-22"
-    },
-    {
-      "platform": "104",
       "title": "水工試驗實習生",
       "company": "金屬中心_財團法人金屬工業研究發展中心",
       "location": "高雄市茄萣區",
@@ -4158,6 +4158,20 @@
       "posted_at": "2026-04-22",
       "url": "https://www.104.com.tw/job/8va88",
       "description": "水工試驗整備、數據收錄。",
+      "category": "other",
+      "first_seen": "2026-04-22"
+    },
+    {
+      "platform": "104",
+      "title": "大學以上在學專案企業實習生（寒假）",
+      "company": "新光人壽保險股份有限公司_民權通訊處(蔡彥志)(核准編號: E-AC-114-060)",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-22",
+      "url": "https://www.104.com.tw/job/7xf2c",
+      "description": "寒假企業實習，不限系所科別",
       "category": "other",
       "first_seen": "2026-04-22"
     },
