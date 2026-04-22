@@ -1,0 +1,10 @@
+{
+  "generated_at": null,
+  "params": { "days": 7, "keyword": "實習", "salary_filter": true },
+  "summary": {
+    "total_raw": 0,
+    "total_after_filter": 0,
+    "by_platform": { "104": 0, "CakeResume": 0, "Yourator": 0 }
+  },
+  "jobs": []
+}

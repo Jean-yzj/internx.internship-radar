@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>實習雷達 · Internship Radar</title>
+<meta name="description" content="即時彙整 104、CakeResume、Yourator 的最新實習職缺">
+<style>
+  :root {
+    color-scheme: light;
+    --bg: #fafafa;
+    --panel: #ffffff;
+    --border: #e5e5e5;
+    --text: #18181b;
+    --muted: #71717a;
+    --accent: #2563eb;
+    --accent-soft: #dbeafe;
+    --tag-104: #e74c3c;
+    --tag-cake: #ff6900;
+    --tag-yourator: #2dd4bf;
+    --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 0 0 1px rgba(0,0,0,0.04);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", "PingFang TC", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+  }
+  header {
+    padding: 32px 24px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  h1 {
+    margin: 0 0 6px;
+    font-size: 28px;
+    letter-spacing: -0.02em;
+  }
+  .subtitle {
+    color: var(--muted);
+    font-size: 14px;
+    margin: 0;
+  }
+  .meta {
+    margin-top: 14px;
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .meta span { white-space: nowrap; }
+  .meta strong { color: var(--text); font-weight: 600; }
+
+  main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 24px 60px;
+  }
+
+  .controls {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    gap: 10px;
+    background: var(--panel);
+    padding: 14px;
+    border-radius: 10px;
+    box-shadow: var(--shadow);
+    margin-bottom: 16px;
+  }
+  @media (max-width: 720px) {
+    .controls { grid-template-columns: 1fr 1fr; }
+  }
+  .controls input, .controls select {
+    padding: 8px 12px;
+    font-size: 14px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: #fff;
+    font-family: inherit;
+    color: var(--text);
+    width: 100%;
+  }
+  .controls input:focus, .controls select:focus {
+    outline: 2px solid var(--accent);
+    outline-offset: -1px;
+    border-color: var(--accent);
+  }
+
+  .platform-tabs {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+  }
+  .tab {
+    padding: 6px 14px;
+    border-radius: 999px;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    cursor: pointer;
+    font-size: 13px;
+    color: var(--muted);
+    transition: all 0.12s;
+    font-family: inherit;
+  }
+  .tab:hover { color: var(--text); }
+  .tab.active {
+    background: var(--text);
+    color: #fff;
+    border-color: var(--text);
+  }
+  .tab .count {
+    margin-left: 6px;
+    opacity: 0.7;
+    font-size: 12px;
+  }
+
+  .jobs {
+    display: grid;
+    gap: 10px;
+  }
+  .job {
+    background: var(--panel);
+    border-radius: 10px;
+    padding: 16px 18px;
+    box-shadow: var(--shadow);
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 4px 20px;
+    align-items: start;
+    transition: transform 0.08s, box-shadow 0.08s;
+  }
+  .job:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08), 0 0 0 1px rgba(0,0,0,0.04);
+  }
+  .job-title {
+    font-weight: 600;
+    font-size: 15px;
+    margin: 0 0 4px;
+  }
+  .job-title a {
+    color: var(--text);
+    text-decoration: none;
+  }
+  .job-title a:hover { color: var(--accent); text-decoration: underline; }
+  .job-company {
+    color: var(--muted);
+    font-size: 13px;
+    margin-bottom: 6px;
+  }
+  .job-meta {
+    display: flex;
+    gap: 10px;
+    font-size: 12px;
+    color: var(--muted);
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .job-meta .pill {
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: #f4f4f5;
+    font-size: 11px;
+  }
+  .job-meta .pill.platform-104    { background: #fee2e2; color: #991b1b; }
+  .job-meta .pill.platform-CakeResume { background: #ffedd5; color: #9a3412; }
+  .job-meta .pill.platform-Yourator  { background: #ccfbf1; color: #115e59; }
+  .job-salary {
+    font-size: 14px;
+    font-weight: 600;
+    color: #059669;
+    text-align: right;
+    white-space: nowrap;
+  }
+  .job-salary.negotiable { color: var(--muted); font-weight: 400; }
+  .job-date {
+    font-size: 12px;
+    color: var(--muted);
+    text-align: right;
+  }
+
+  .empty, .loading {
+    text-align: center;
+    padding: 60px 20px;
+    color: var(--muted);
+  }
+  .empty h3 { color: var(--text); margin: 0 0 6px; }
+  .error {
+    background: #fef2f2;
+    border: 1px solid #fecaca;
+    color: #991b1b;
+    padding: 14px 16px;
+    border-radius: 8px;
+    margin: 20px 0;
+    font-size: 14px;
+  }
+  .error code {
+    background: rgba(0,0,0,0.06);
+    padding: 1px 5px;
+    border-radius: 3px;
+  }
+
+  footer {
+    max-width: 1200px;
+    margin: 40px auto 0;
+    padding: 20px 24px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 12px;
+    border-top: 1px solid var(--border);
+  }
+  footer a { color: var(--muted); }
+</style>
+</head>
+<body>
+<header>
+  <h1>實習雷達</h1>
+  <p class="subtitle">彙整 104 / CakeResume / Yourator 最新實習職缺</p>
+  <div class="meta" id="meta">
+    <span>載入中...</span>
+  </div>
+</header>
+
+<main>
+  <div class="controls">
+    <input type="search" id="q" placeholder="🔍 搜尋職稱、公司、地點...">
+    <select id="salary-type">
+      <option value="">所有薪資類型</option>
+      <option value="monthly">月薪</option>
+      <option value="hourly">時薪</option>
+      <option value="negotiable">面議</option>
+    </select>
+    <select id="min-salary">
+      <option value="0">任何薪資</option>
+      <option value="25000">月薪 25k+</option>
+      <option value="30000">月薪 30k+</option>
+      <option value="35000">月薪 35k+</option>
+      <option value="40000">月薪 40k+</option>
+      <option value="50000">月薪 50k+</option>
+    </select>
+    <select id="sort">
+      <option value="date">📅 最新優先</option>
+      <option value="salary">💰 薪資高到低</option>
+      <option value="company">🏢 公司 A-Z</option>
+    </select>
+  </div>
+
+  <div class="platform-tabs" id="tabs"></div>
+
+  <div id="jobs" class="jobs">
+    <div class="loading">載入實習資料...</div>
+  </div>
+</main>
+
+<footer>
+  資料來源：104 人力銀行 · CakeResume · Yourator
+  | 由 GitHub Actions 定期更新 · <a href="https://github.com" target="_blank" rel="noopener">原始碼</a>
+</footer>
+
+<script>
+const PLATFORMS = ["104", "CakeResume", "Yourator"];
+let data = { jobs: [], generated_at: null, summary: {} };
+let currentPlatform = "all";
+
+async function load() {
+  try {
+    const res = await fetch("./data/internships.json?v=" + Date.now());
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    data = await res.json();
+    render();
+  } catch (e) {
+    document.getElementById("jobs").innerHTML =
+      `<div class="error">
+        無法載入資料：<code>${e.message}</code><br>
+        如果這是剛部署的版本，可能是第一次 GitHub Action 還沒跑完，
+        稍等幾分鐘或到 Actions 頁手動觸發 <code>Update Internship Data</code>。
+      </div>`;
+    document.getElementById("meta").innerHTML = "<span>尚無資料</span>";
+  }
+}
+
+function renderMeta() {
+  const m = document.getElementById("meta");
+  if (!data.generated_at) { m.innerHTML = ""; return; }
+  const when = new Date(data.generated_at);
+  const ago = Math.round((Date.now() - when.getTime()) / 60000);
+  const agoText = ago < 60 ? `${ago} 分鐘前`
+    : ago < 60*24 ? `${Math.round(ago/60)} 小時前`
+    : `${Math.round(ago/60/24)} 天前`;
+  const params = data.params || {};
+  m.innerHTML = `
+    <span>📊 共 <strong>${data.jobs.length}</strong> 筆</span>
+    <span>🕒 更新於 <strong>${agoText}</strong> (${when.toLocaleString("zh-TW")})</span>
+    <span>🎯 篩選：近 <strong>${params.days ?? 7}</strong> 天 · ${params.salary_filter ? "只看有薪資" : "含面議"}</span>
+  `;
+}
+
+function renderTabs() {
+  const byPlat = {};
+  for (const p of PLATFORMS) byPlat[p] = 0;
+  for (const j of data.jobs) byPlat[j.platform] = (byPlat[j.platform] || 0) + 1;
+
+  const tabs = document.getElementById("tabs");
+  const all = data.jobs.length;
+  tabs.innerHTML =
+    `<button class="tab ${currentPlatform === "all" ? "active" : ""}" data-p="all">全部 <span class="count">${all}</span></button>` +
+    PLATFORMS.map(p =>
+      `<button class="tab ${currentPlatform === p ? "active" : ""}" data-p="${p}">${p} <span class="count">${byPlat[p] || 0}</span></button>`
+    ).join("");
+
+  tabs.querySelectorAll(".tab").forEach(btn => {
+    btn.onclick = () => {
+      currentPlatform = btn.dataset.p;
+      renderList();
+      renderTabs();
+    };
+  });
+}
+
+function renderList() {
+  const q = document.getElementById("q").value.toLowerCase().trim();
+  const stype = document.getElementById("salary-type").value;
+  const minSal = parseInt(document.getElementById("min-salary").value) || 0;
+  const sortBy = document.getElementById("sort").value;
+
+  let list = data.jobs.filter(j => {
+    if (currentPlatform !== "all" && j.platform !== currentPlatform) return false;
+    if (stype && j.salary_type !== stype) return false;
+    if (minSal > 0 && (!j.salary_min || j.salary_min < minSal)) return false;
+    if (q) {
+      const hay = `${j.title} ${j.company} ${j.location}`.toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  list.sort((a, b) => {
+    if (sortBy === "salary") return (b.salary_min || 0) - (a.salary_min || 0);
+    if (sortBy === "company") return (a.company || "").localeCompare(b.company || "");
+    return (b.posted_at || "").localeCompare(a.posted_at || "");
+  });
+
+  const container = document.getElementById("jobs");
+  if (list.length === 0) {
+    container.innerHTML = `
+      <div class="empty">
+        <h3>沒有符合條件的實習</h3>
+        <p>試著放寬搜尋條件，或降低薪資下限。</p>
+      </div>`;
+    return;
+  }
+
+  container.innerHTML = list.map(j => {
+    const salaryClass = j.salary_type === "negotiable" ? "negotiable" : "";
+    const salaryDisplay = j.salary || "—";
+    return `
+      <article class="job">
+        <div>
+          <h3 class="job-title"><a href="${escapeHtml(j.url)}" target="_blank" rel="noopener">${escapeHtml(j.title)}</a></h3>
+          <div class="job-company">${escapeHtml(j.company)}</div>
+          <div class="job-meta">
+            <span class="pill platform-${j.platform}">${j.platform}</span>
+            ${j.location ? `<span>📍 ${escapeHtml(j.location)}</span>` : ""}
+          </div>
+        </div>
+        <div>
+          <div class="job-salary ${salaryClass}">${escapeHtml(salaryDisplay)}</div>
+          <div class="job-date">${escapeHtml(j.posted_at || "")}</div>
+        </div>
+      </article>`;
+  }).join("");
+}
+
+function escapeHtml(s) {
+  return String(s ?? "").replace(/[&<>"']/g, ch =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
+}
+
+function render() {
+  renderMeta();
+  renderTabs();
+  renderList();
+}
+
+["q", "salary-type", "min-salary", "sort"].forEach(id => {
+  document.getElementById(id).addEventListener("input", renderList);
+});
+
+load();
+</script>
+</body>
+</html>
