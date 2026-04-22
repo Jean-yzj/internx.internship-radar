@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T01:28:26",
+  "generated_at": "2026-04-22T17:29:55",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -8,7 +8,7 @@
   },
   "summary": {
     "total": 139,
-    "new_today": 139,
+    "new_today": 0,
     "by_platform": {
       "104": 59,
       "CakeResume": 16,
@@ -140,7 +140,7 @@
       "label": "生產／製造",
       "emoji": "🏭",
       "color": "#ea580c",
-      "count": 1
+      "count": 0
     },
     {
       "key": "supply_chain",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 6
+      "count": 7
     }
   ],
   "jobs": [
@@ -185,7 +185,7 @@
       "description": " AutoCAD 為主要工具，實際參與以下項目，以符合業務營運需求：\n  • 學習完整的模板與施工架設計流程\n  • 執行基本的結構與機械分析(力學分析)\n  • 理解並應用相關的設計標準與規範\n  • 製作技術圖面與相關文件\n\n除了辦公室的設計工作外，實習內容",
       "category": "engineering",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -201,7 +201,7 @@
       "description": "intern / Firmware / System Integration / Mechanical engineer",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -217,7 +217,7 @@
       "description": "startup / software / User / Online Community",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -233,7 +233,7 @@
       "description": "AI / BigData / CRM / Salesforce",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -249,7 +249,7 @@
       "description": "Internship / Fluent in English / Product Testing / Chinese",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -265,7 +265,7 @@
       "description": "",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -281,7 +281,7 @@
       "description": "",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": "2026-05-06"
     },
     {
@@ -297,7 +297,7 @@
       "description": "",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -313,7 +313,7 @@
       "description": "專案企劃 / 智慧樓宇 / AI建築",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -329,7 +329,7 @@
       "description": "intern / web3 / developer",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -345,7 +345,7 @@
       "description": "軟體開發 / iOS / 工具類軟體 / 行動裝置 / 行動應用 / Pyhon",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -361,7 +361,7 @@
       "description": "Python / AI / Java / docker / Linux command",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -377,7 +377,7 @@
       "description": "",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -393,7 +393,7 @@
       "description": "",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -409,7 +409,7 @@
       "description": "1.專案相容性測試、DQA相關測試、實驗統計\n2.專案安規ESD/EFT/CS驗證Solution/Project PCB上件製作\n3.專案可靠度測試\n4.IC 驗證及特性量測，高低溫實驗與量測\n5.IC code 燒錄與產測",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -425,7 +425,7 @@
       "description": "1.執行影像Label工作                   \n2.建立Database相關資訊",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -441,7 +441,7 @@
       "description": "1.Windows硬體驗證測試 (win10 & win11)\n2.支援FAE調code與重測",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -457,7 +457,7 @@
       "description": "【矽科宏晟 X 共創未來 X 實習專區】High-Tech Facility Internship Program\n\n加入半導體國家隊，打造護國神山的隱形英雄！\n跨足高科技廠房建設，掌握關鍵化學供酸系統（Chemical Dispense",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -473,7 +473,7 @@
       "description": "期間：2026年7月-2027年6月\n地點：台北\n\n實習內容：\n1.協助正職同仁辦理各類資安作業，如 : 資料外洩防護管理、海外子公司資安業務、物聯網資安例行作業、資安相關會議協助、資安作業文件整理等。\n2.協助研究金融業資安管理實務。\n3.支援",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -489,7 +489,7 @@
       "description": "【2026 Internship Program 學年實習專案 】\n從理論到實務的探索、學習、實踐，接軌未來職涯，發展社會人際脈絡。\n歡迎加入我們！養成職場即戰力！\n－\n• 需檢附在校歷年成績單\n• 配合學校簽定實習合約\n• 對象：在學學生\n•",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -505,7 +505,7 @@
       "description": "【歡迎在校生實習】\n實習期間：周一到週五 09:00-18:00 (若因課程安排需調實習天數，可另行協調討論)\n\n工作內容：\n1. 歸納整理技術文檔\n2. 蒐集與分析車規及工規市場需求及同業狀況，並調查市面上競品規格\n3. 依據客戶提供規格，尋找",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -521,7 +521,7 @@
       "description": "還在擔心沒有相關工作經驗嗎？履歷不夠亮眼嗎？\n加入富采光電實習星任務，提前累積職場實戰力，為未來職涯加分吧！\n\n加入富采光電，您將獲得：\n#實際參與專案實習，實戰經驗大提升\n#彈性工時，每週安排至少3天實習\n#專業實習認證，讓實習更有份量\n#跨縣",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -537,7 +537,7 @@
       "description": "還在擔心沒有相關工作經驗嗎？履歷不夠亮眼嗎？\n加入富采光電實習星任務，提前累積職場實戰力，為未來職涯加分吧！\n\n加入富采光電，您將獲得：\n#實際參與專案實習，實戰經驗大提升\n#彈性工時，每週安排至少3天實習\n#專業實習認證，讓實習更有份量\n#跨縣",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -553,7 +553,7 @@
       "description": "* 負責雲端Server伺服器的相關工作\n1. DC Power測試計畫／報告撰寫與執行\n2. 替代料及PCN之評估與驗證\n3. 線路圖及Layout圖檢查\n4. 協助除錯與系統驗證\n\n• 計畫介紹： \n• 實習期間: 即日起-2027/6 (長",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -569,7 +569,7 @@
       "description": "  \n\n▋【上班安排】\n- 每週需到公司 3 天以上，不開放遠端實習  \n- 可實習 5 個月以上者優先，接受學期實習  \n\n▋【發展機會】\n- 早期加入高速成長的 AI 新創，與團隊共同定義市場策略  \n- 參與並推動已被指標性企業／上市櫃公司驗",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -585,7 +585,7 @@
       "description": "**【限在校生】**\n1.遊戲測試\n2.遊戲設備維護、更新\n3.玩家體驗協助\n4.其他主管交辦事項\n\n※如有作品集將優先進入徵選",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -601,7 +601,7 @@
       "description": "**【限在校生】**\n工作內容包含下列一或多項：\n1. 協助使用Unity或Unreal遊戲引擎開發遊戲與維護\n2. 協助以C#語言或C++開發遊戲相關系統功能\n3. 協助遊戲編輯器開發\n4. 協助正職程式人員進行開發與測試\n\n※如有作品集將優先進入徵選\n",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -617,7 +617,7 @@
       "description": "【Why Ingrasys】\n鴻佰科技是世界級智慧型網路產品之技術領導者。\n鴻佰科技的產品服務，支撐資通訊及元宇宙世代大量運算需求。\n「掌握數據．掌控未來」Your Data, Our Mission. \n\n【Internship",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -633,7 +633,7 @@
       "description": "1.工程技術支援、測試板焊接製作\n2.IC 高低溫測試、應用方案及觸控應用測試\n3.工程實驗室維護、物料及儀器管理",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -646,10 +646,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/inline/jobs/quality-assurance-internship",
-      "description": "實習生 · ・ · 實習 · Quality Assurance Internship 品質測試實習生 inline 樂排股份有限公司 Inline is looking for a Quality Assurance Intern with a career interest in Software as a Service (SaaS) Engineer role.\ninline makes ",
+      "description": "Internship · ・ · Internship · Quality Assurance Internship 品質測試實習生 inline 樂排股份有限公司 Inline is looking for a Quality Assurance Intern with a career interest in Software as a Service (SaaS) Engineer role",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -662,10 +662,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/Google/jobs/102119429319336646-software-engineering-intern-phd-summer-2026-4c66e77bd0f331f6d0ffe5fc55e651",
-      "description": "實習生 · ・ · 實習 · Software Engineering Intern , PhD, Summer 2026 Google Applications will be reviewed on a rolling basis and it’s in the candidate’s best interest to apply early. The anticipated applicat",
+      "description": "Internship · ・ · Internship · Software Engineering Intern , PhD, Summer 2026 Google Applications will be reviewed on a rolling basis and it’s in the candidate’s best interest to apply early. The antic",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -678,10 +678,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/qpp/jobs/r-amp-d-team_-ai-developer-copy-a02",
-      "description": "實習生 · ・ · 實習 · 實習生全端工程師_( Internship )Full Stack Developer 遠距辦公/跨國團隊 雋思集團_香港商雋思產品發展有限公司(台灣) 【你將參與的內容】\n1.協助開發與維護 Web 前後端功能，並參與 API 設計與整合\n2.使用 React/Angular 開發互動式前端介面，優化使用者體驗\n3.使用 Java與 Python 進行後端開發、資料",
+      "description": "Internship · ・ · Internship · 實習生全端工程師_( Internship )Full Stack Developer 遠距辦公/跨國團隊 雋思集團_香港商雋思產品發展有限公司(台灣) 【你將參與的內容】\n1.協助開發與維護 Web 前後端功能，並參與 API 設計與整合\n2.使用 React/Angular 開發互動式前端介面，優化使用者體驗\n3.使用 Java與 P",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -697,7 +697,7 @@
       "description": "實習 / 全端工程師 / CRM / Salesforce",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -713,7 +713,7 @@
       "description": "",
       "category": "tech",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -729,7 +729,7 @@
       "description": "Internship / web3 / Business",
       "category": "pm",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -745,7 +745,7 @@
       "description": "",
       "category": "pm",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -758,10 +758,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/aift/jobs/045028",
-      "description": "實習生 · ・ · 實習 · Web3 Product Management Intern , OneInfinity AIFT Job Overview\nOneSavie Lab, OneInfinity 是一個結合 Web3與AI科技的頂尖實驗室，致力於為Web3 生態系統以及眾多參與者提供先進的智能風險監控和管理工具，包括中心化和去中心化的多元策略選擇。 OneSavie Lab的核心使命是",
+      "description": "Internship · ・ · Internship · Web3 Product Management Intern , OneInfinity AIFT Job Overview\nOneSavie Lab, OneInfinity 是一個結合 Web3與AI科技的頂尖實驗室，致力於為Web3 生態系統以及眾多參與者提供先進的智能風險監控和管理工具，包括中心化和去中心化的多元策略選擇。 One",
       "category": "pm",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -777,7 +777,7 @@
       "description": "數位行銷 / 軟體開發 / 網路新創 / 商業應用",
       "category": "healthcare",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -793,7 +793,7 @@
       "description": "blockchain / crypto / web3 / DeFi / Market research / Quantitative Trading",
       "category": "finance",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -809,7 +809,7 @@
       "description": "區塊鏈 / blockchain / crypto / DeFi / 金融研究員 / Market research",
       "category": "finance",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -825,7 +825,7 @@
       "description": "產業分析 / 策略分析 / 產業研究",
       "category": "finance",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -841,7 +841,7 @@
       "description": "BD / consultant / Slack",
       "category": "consulting",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -857,7 +857,7 @@
       "description": "",
       "category": "consulting",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -873,7 +873,7 @@
       "description": "跨國團隊 / 新創 / AI / 遊戲產業 / 社群行銷 / 營運",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -889,7 +889,7 @@
       "description": "Social media / Internship / Fluent in English / Marketing Intern 社群行銷實習生 / Social Trend / Romte",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -905,7 +905,7 @@
       "description": "跨國團隊 / 網路新創 / 工讀生 / 影音製作 / 影像製作",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -921,7 +921,7 @@
       "description": "APP / 社群軟體",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -937,7 +937,7 @@
       "description": "數據分析 / 廣告行銷 / 廣告優化",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -953,7 +953,7 @@
       "description": "",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -969,7 +969,7 @@
       "description": "",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -985,7 +985,7 @@
       "description": "",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1001,7 +1001,7 @@
       "description": "",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1017,7 +1017,7 @@
       "description": "",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1033,7 +1033,7 @@
       "description": "",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1049,7 +1049,7 @@
       "description": "電商 / 數位行銷 / 數位廣告 / 家居品牌",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1065,7 +1065,7 @@
       "description": "數位行銷 / 教育 / 線上課程 / 實習 / 文案 / 英文",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1081,7 +1081,7 @@
       "description": "",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1097,7 +1097,7 @@
       "description": "業務 / 業務助理 / 實習 / 實習生 / 助理 / 學生實習",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1113,7 +1113,7 @@
       "description": "",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1129,7 +1129,7 @@
       "description": "",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1145,7 +1145,7 @@
       "description": "【關於我們】\n我們專注於空間設計與品牌空間規劃，致力於將設計概念轉化為實際空間，並重視設計細節與整體呈現。\n\n【實習內容】\n你將參與設計專案的過程，從概念到執行，累積實務經驗：\n◆ 協助設計提案簡報與相關視覺素材製作\n◆ 參與設計討論，了解專案發",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1161,7 +1161,7 @@
       "description": "⭐ 讓你的創意，照亮全台商場\n加入 Global Mall 行銷企劃實習生，你的點子不只是想法，而是能落地、被看見、被感受到的行動力。\n從檔期活動、展覽到社群與媒體，每個企劃都能帶來真實影響，讓你累積實戰經驗，寫進作品集與履歷。\n\n⭐ 你的實習亮",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1177,7 +1177,7 @@
       "description": "⭐ 讓你的創意，照亮全台商場\n加入 Global Mall 行銷企劃實習生，你的點子不只是想法，而是能落地、被看見、被感受到的行動力。\n從檔期活動、展覽到社群與媒體，每個企劃都能帶來真實影響，讓你累積實戰經驗，寫進作品集與履歷。\n\n⭐ 你的實習亮",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1193,7 +1193,7 @@
       "description": "實習期間 2026 年 9 月~2027 年 8 月\n\n加入啟夢實習夥伴招募LINE 社群：https://enlightendream.pse.is/8tjt7z\n\n\n\n ※ 視表現未來有機會轉正\n\n ▏適合對象 大二以上的學生 \n\n【負責任】",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1209,7 +1209,7 @@
       "description": "品牌認識、協助樓面庶務工作、進撤櫃管理、代扣作業。\n\n（協助正職同仁業務，並參與特定專案，透過培訓及部門歷練，實習結束後表現優良者可獲得轉正機會，年資累計。）",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1225,7 +1225,7 @@
       "description": "⭐ 一份能邊逛街、邊學營業管理的實習工作\n加入 Global Mall，你的實習不坐辦公室，而是在商場第一線。\n每天接觸品牌、活動與顧客，把每天看到的流行與動態，轉化為專業能力與實戰經驗。\n\n⭐ 工作內容\n✔ 商場營運管理：觀察顧客、商品陳列與品",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1241,7 +1241,7 @@
       "description": "⭐ 一份能邊逛街、邊學營業管理的實習工作\n加入 Global Mall，你的實習不坐辦公室，而是在商場第一線。\n每天接觸品牌、活動與顧客，把每天看到的流行與動態，轉化為專業能力與實戰經驗。\n\n⭐ 工作內容\n✔ 商場營運管理：觀察顧客、商品陳列與品",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1254,10 +1254,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/iscoollab/jobs/marketing-intern-6720f0",
-      "description": "實習生 · ・ · 初階 · Marketing Intern 伊斯酷軟體科技股份有限公司 Job Description:\nAs a Marketing Intern at IsCoolLab, you will support our team in the development and execution of marketing campaigns. This role offers t",
+      "description": "Internship · ・ · Entry level · Marketing Intern 伊斯酷軟體科技股份有限公司 Job Description:\nAs a Marketing Intern at IsCoolLab, you will support our team in the development and execution of marketing campaigns. Th",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1270,10 +1270,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/bespo-marketing/jobs/marketing-planning-intern-301bf2",
-      "description": "實習生 · ・ · 實習 · 行銷企劃實習生Marketing Intern 上策行銷有限公司 Bespo Marketing 【Bespo實習生培訓系統】第一步、到職註冊第二步、口碑行銷基礎概念培訓第三步、初試考核 (到職滿一個月)考核六項口碑行銷基礎能力通過與否將決定實習生之去留通過者將進入第二階段完整寫文訓練第四步、二試考核(到職滿三個月)寫文考試，確認實習生之文案能力與語風經組長及客戶審核",
+      "description": "Internship · ・ · Internship · 行銷企劃實習生Marketing Intern 上策行銷有限公司 Bespo Marketing 【Bespo實習生培訓系統】第一步、到職註冊第二步、口碑行銷基礎概念培訓第三步、初試考核 (到職滿一個月)考核六項口碑行銷基礎能力通過與否將決定實習生之去留通過者將進入第二階段完整寫文訓練第四步、二試考核(到職滿三個月)寫文考試，確認實習生之",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1286,10 +1286,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/unme-design/jobs/marketing-animal-intern",
-      "description": "實習生 · ・ · 實習 · 市場行銷 實習 生 非我設計｜UNME DESIGN UNME 是一個具備商業思維的跨域整合設計策略團隊。專注於透過設計輔助企業營運、提升競爭優勢，提供從品牌規劃、空間場域設計到設計策略顧問的整合服務。\n與學校的訓練不同，UNME 的 實習 規劃著重於跳脫框架與思維轉換，透過真實專案培養執行力與策略思考。不限於任何產業經驗背景，如果你對設計、行銷與數位媒體有熱情，並希",
+      "description": "Internship · ・ · Internship · 市場行銷 實習 生 非我設計｜UNME DESIGN UNME 是一個具備商業思維的跨域整合設計策略團隊。專注於透過設計輔助企業營運、提升競爭優勢，提供從品牌規劃、空間場域設計到設計策略顧問的整合服務。\n與學校的訓練不同，UNME 的 實習 規劃著重於跳脫框架與思維轉換，透過真實專案培養執行力與策略思考。不限於任何產業經驗背景，如果你對設",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1302,10 +1302,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/hububble/jobs/hbb-marketing-intern-program",
-      "description": "實習生 · ・ · 實習 · 2026 數位行銷 實習 生計劃 Hububble 集客式行銷公司｜HubSpot 台灣最高等級代理商 Hububble 是一間數位轉型顧問公司，專注代理 HubSpot 並提供優質的 SEO 和網站建置服務，以幫助客戶實現他們的數位目標。我們注重創新和團隊合作，並為每位成員提供成長和發展的機會。 \n👀  我們正在尋找一位數位行銷 實習 生。如果你對科技產業充滿興趣，",
+      "description": "Internship · ・ · Internship · 2026 數位行銷 實習 生計劃 Hububble 集客式行銷公司｜HubSpot 台灣最高等級代理商 Hububble 是一間數位轉型顧問公司，專注代理 HubSpot 並提供優質的 SEO 和網站建置服務，以幫助客戶實現他們的數位目標。我們注重創新和團隊合作，並為每位成員提供成長和發展的機會。 \n👀  我們正在尋找一位數位行銷 實習 ",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1318,10 +1318,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/meitu-740e16/jobs/th-vn-id-marketing-assistant",
-      "description": "實習生 · ・ · 實習 · 海外行銷運營 實習 生(TH/VN/ID) - 泰越印 (非短期寒暑假 實習 ) 玩美行動股份有限公司 ยินดีต้อนรับผู้สมัครสัญชาติไทย โดยต้องมีความสามารถด้านภาษาจีนChúng tôi hoan nghênh các ứng viên người Việt Nam. Ứng viên cần có khả n",
+      "description": "Internship · ・ · Internship · 海外行銷運營 實習 生(TH/VN/ID) - 泰越印 (非短期寒暑假 實習 ) 玩美行動股份有限公司 ยินดีต้อนรับผู้สมัครสัญชาติไทย โดยต้องมีความสามารถด้านภาษาจีนChúng tôi hoan nghênh các ứng viên người Việt Nam. Ứng vi",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1334,10 +1334,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/meitu-740e16/jobs/b06838",
-      "description": "實習生 · ・ · 實習 · 海外行銷運營 實習 生(TW/JP/KR) - 台日韓 (非短期寒暑假 實習 ) 玩美行動股份有限公司 【台日韓市場行銷 實習 生】 招募中！如果你熱愛拍照修圖、是社群媒體重度使用者、了解年輕人最新流行趨勢，歡迎投遞履歷！加入我們，你將負責或參與這些工作內容：◆官方社群經營 (IG/Twitter/Tiktok等)◆節慶推廣、文案撰寫、翻譯及視覺創意發想◆市場調查/趨",
+      "description": "Internship · ・ · Internship · 海外行銷運營 實習 生(TW/JP/KR) - 台日韓 (非短期寒暑假 實習 ) 玩美行動股份有限公司 【台日韓市場行銷 實習 生】 招募中！如果你熱愛拍照修圖、是社群媒體重度使用者、了解年輕人最新流行趨勢，歡迎投遞履歷！加入我們，你將負責或參與這些工作內容：◆官方社群經營 (IG/Twitter/Tiktok等)◆節慶推廣、文案撰寫、翻",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1353,7 +1353,7 @@
       "description": "產品行銷 / 國外業務",
       "category": "marketing",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1369,7 +1369,7 @@
       "description": "電商 / 跨國團隊",
       "category": "content",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1385,7 +1385,7 @@
       "description": "電商 / 家居品牌 / 影片製作 / 剪輯助理",
       "category": "content",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1401,7 +1401,7 @@
       "description": "職缺及工作內容：\n1.櫃檯接待員-協助旅客住房登.退房帳務確認.旅遊諮詢服務\n2.房務員-客房清潔整理.公共區域清潔\n3.餐飲外場服務員-餐廳外場服務.領檯帶位.餐具清潔\n4.廚房助理廚師-協助食材前置處理.每日廚房環境清潔\n\n可選擇上班地點:捷絲旅西門館、捷絲旅臺大館、捷絲旅林森館、捷絲旅礁溪館",
       "category": "content",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1417,7 +1417,7 @@
       "description": "職缺及工作內容：\n1.櫃檯接待員-協助旅客住房登.退房帳務確認.旅遊諮詢服務\n2.房務員-客房清潔整理.公共區域清潔\n3.餐飲外場服務員-餐廳外場服務.領檯帶位.餐具清潔\n4.廚房助理廚師-協助食材前置處理.每日廚房環境清潔\n",
       "category": "content",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1433,7 +1433,7 @@
       "description": "【工作內容】\n1.   ISO資料整理及資料建檔\n2.   行政相關支援作業\n\n【應徵資格】\n1.   各大專院校在學學生(化學 / 化妝品 / 食品相關科系佳)\n2.   需有實習學分需求\n3.   態度積極、細心負責、願意學習\n4.   能依",
       "category": "content",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1449,7 +1449,7 @@
       "description": "*實習期間：一年制\n*實習每週工作天數：五天(週一至週五)\n\n*實習工作內容：\n1.硬體維護與除錯：個人電腦（PC/Laptop）軟硬體安裝及周邊設備之故障排除。\n2.網路與通訊管理：基礎網路連線維護。\n3.視訊環境管理：會議室投影、視訊設備設定",
       "category": "content",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1465,7 +1465,7 @@
       "description": "business development / SALES",
       "category": "bd_sales",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1481,7 +1481,7 @@
       "description": "長心態，展現面對困難的勇氣，願意擁抱未知\n✔ 能夠在快節奏的環境中舒適地工作\n\n[ 薪資結構 ]\n✔ 帶薪培訓，實習生培訓階段月薪：$30000，實習培訓時間約2~3個月依學習狀況及認證開課狀況而定。\n✔ 除保障底薪外，每月另有個人獎金。\n✔ 獎金",
       "category": "bd_sales",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1497,7 +1497,7 @@
       "description": "【實習徵才資訊】\n\n半年期 - 明年1~2月開始實習，為期4.5~6個月\n一年 - 明年1~2月 或 明年7~9月開始，為期9個月~1年\n\n歡迎各大專院校正在尋找實習單位的同學們(外籍生亦可)前來應徵，不論您是對於餐飲、房務還是客務，或者是其他飯",
       "category": "bd_sales",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1510,10 +1510,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/inline/jobs/account-operation-intern",
-      "description": "實習生 · ・ · 實習 · Business Operation Internship 客戶關係經營實習生 inline 樂排股份有限公司 About inline \ninline is a software startup focused on maximizing restaurant efficiency managing tables and reservations. We have ",
+      "description": "Internship · ・ · Internship · Business Operation Internship 客戶關係經營實習生 inline 樂排股份有限公司 About inline \ninline is a software startup focused on maximizing restaurant efficiency managing tables and reserva",
       "category": "bd_sales",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1526,10 +1526,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/iscoollab/jobs/sales-intern",
-      "description": "實習生 · ・ · 實習 · Sales Intern 伊斯酷軟體科技股份有限公司 Job Overview:\nWe are looking for a motivated and dynamic Sales Intern to assist in lead generation through cold calling and cold email campaigns. This role is",
+      "description": "Internship · ・ · Internship · Sales Intern 伊斯酷軟體科技股份有限公司 Job Overview:\nWe are looking for a motivated and dynamic Sales Intern to assist in lead generation through cold calling and cold email campaign",
       "category": "bd_sales",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1545,7 +1545,7 @@
       "description": "",
       "category": "design",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1561,7 +1561,7 @@
       "description": "平面設計／美編人員 / 網頁設計師 / 視覺設計師",
       "category": "design",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1577,7 +1577,7 @@
       "description": "",
       "category": "design",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1593,7 +1593,7 @@
       "description": "",
       "category": "hr",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1609,7 +1609,7 @@
       "description": "",
       "category": "hr",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1625,7 +1625,7 @@
       "description": "電商 / 新創 / startup",
       "category": "hr",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1641,7 +1641,7 @@
       "description": "115學年度上學期  校園種子實習申請計畫 HESS Internship Program\n\n你，就是我們要找的明日之星\n提早踏入職場，培養就業軟實力\n\n◇招募對象：大專院校大三以上與研究所在學生，我們都歡迎 妳/你 提出申請\n\n◆實習類別：",
       "category": "hr",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1657,7 +1657,7 @@
       "description": "【實習昇涯啟航計畫~熱烈招募中！】\n想要在大學的旅程增加點刺激嗎？\n快來加入實習昇涯啟航計畫，讓你昇活多變化！\n\n◎實習期間：115.07.01~116.06.30(可視學校實習規劃調整)\n◎實習津貼：31,000元/月\n◎實習地點：\n  內湖旗",
       "category": "hr",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1673,7 +1673,7 @@
       "description": "*實習期間：一年制\n*實習每週工作天數：五天(週一至週五)\n\n*實習工作內容：\n1. 人資招募工作執行。\n2. 員工關係活動規劃與執行\n3. 主管交辦專案任務。\n\n\n*透過此實習計畫，讓您熟悉物流產業的運作模式，並提前適應職場生態，以為未來求職做",
       "category": "hr",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1686,10 +1686,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/cake/jobs/business-operations-recruitment-project-intern",
-      "description": "實習生 · ・ · 實習 · Business Operations Intern/Part-Time, Recruitment Project 招募專案商務營運 實習 生/兼職 Cake 關於 Cake\nCake 是 2016 年成立於台灣的國際人才社群，以「聚焦人才的價值與歸屬」為核心，提供履歷與作品集 AI 工具、求職攻略、職場交流社群資源及國際化工作機會，全方位滿足職涯發展中的所有需求。C",
+      "description": "Internship · ・ · Internship · Business Operations Intern/Part-Time, Recruitment Project 招募專案商務營運 實習 生/兼職 Cake 關於 Cake\nCake 是 2016 年成立於台灣的國際人才社群，以「聚焦人才的價值與歸屬」為核心，提供履歷與作品集 AI 工具、求職攻略、職場交流社群資源及國際化工作機會，全方",
       "category": "hr",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1702,10 +1702,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/corporateconnections/jobs/corporateconnections-event-planning-intern",
-      "description": "實習生 · ・ · 實習 · CorporateConnections® 活動策劃 - 實習 生 CorporateConnections® Taiwan 大商匯集有限公司 【 實習 機會｜CorporateConnections® Taiwan 招募中】\n想在國際級商務人脈平台累積實戰經驗嗎？\nCorporateConnections® Taiwan 正在招募 實習 生，加入我們，與33國企業領",
+      "description": "Internship · ・ · Internship · CorporateConnections® 活動策劃 - 實習 生 CorporateConnections® Taiwan 大商匯集有限公司 【 實習 機會｜CorporateConnections® Taiwan 招募中】\n想在國際級商務人脈平台累積實戰經驗嗎？\nCorporateConnections® Taiwan 正在招募 實習",
       "category": "hr",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1721,7 +1721,7 @@
       "description": "",
       "category": "hr",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1737,7 +1737,7 @@
       "description": "電商 / 跨國團隊",
       "category": "accounting",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1753,7 +1753,7 @@
       "description": "⭐ 從課堂走進實務：你的財務實習第一站\n想把課本上的會計、財管知識，真正用在實際工作中嗎？\n加入 Global Mall 財務實習生，你將直接參與大型商場的財務運作，不只是打雜，而是從專櫃帳務、合約到財務報表，完整接觸真實的企業財務流程。全台持續",
       "category": "accounting",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1769,7 +1769,7 @@
       "description": "⭐ 從課堂走進實務：你的財務實習第一站\n想把課本上的會計、財管知識，真正用在實際工作中嗎？\n加入 Global Mall 財務實習生，你將直接參與大型商場的財務運作，不只是打雜，而是從專櫃帳務、合約到財務報表，完整接觸真實的企業財務流程。全台持續",
       "category": "accounting",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1785,7 +1785,7 @@
       "description": "",
       "category": "education",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1801,7 +1801,7 @@
       "description": "",
       "category": "education",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1817,7 +1817,7 @@
       "description": "Operation / Internship / Event planning / Office Management / company operations",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1833,7 +1833,7 @@
       "description": "",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1849,7 +1849,7 @@
       "description": "",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1865,7 +1865,7 @@
       "description": "",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1881,7 +1881,7 @@
       "description": "",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1897,7 +1897,7 @@
       "description": "",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1913,7 +1913,7 @@
       "description": "專案管理 / 實習 / 專案執行 / 課程企劃 / 創業 / 創業育成",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": "2026-04-30"
     },
     {
@@ -1929,7 +1929,7 @@
       "description": "青年領航店家 (職缺編號15533)\n\n1.執行髮型及造型設計。\n2.執行洗髮及吹整髮型等工作。\n3.進行燙髮。\n4.進行染漂頭髮。\n5.進行假髮設計。\n_\n額外福利\n實習店抽成\n美髮產品抽成\n護髮抽成\n(與設計師抽成相同)\n歡迎想自我成長的夥伴",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1945,7 +1945,7 @@
       "description": "1.協助部門公文收發及郵務作業\n2.負責一般文書處理及歸檔工作\n3.負責保單姓名檢核作業\n\n",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1961,7 +1961,7 @@
       "description": "排班三天以上。\n7.  可配合學校簽立實習合約。",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1977,7 +1977,7 @@
       "description": "排班三天以上。\n7.  可配合學校簽立實習合約。",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -1993,7 +1993,7 @@
       "description": "準備好開啟您的客戶訂單管理職涯嗎？\n想要獲得實務經驗、挑戰自我並成長發展嗎？\n加入我們的客戶訂單管理(SO)團隊，參與專案，優化整體訂單至出貨的流程，並與合作夥伴協作，一同達成目標。\n\n1.D2C Order Excellence Program D2C 訂單卓越計畫\n - 協助官方商城網站(D2C)訂單流程，從建立訂單到出貨，包含安裝等作業。\n - 協助維護與管控後台庫存及建立庫存報表。\n - ",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2009,7 +2009,7 @@
       "description": "1.AI協助合約歸檔、表單整理與追簽 \n2.AI輔助蒐集與彙整IR資訊，快速生成分析報告\n3.透過AI工具設計流程與資料管理方案提升作業效率",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2022,10 +2022,10 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/hour-loop/jobs/f19e15",
-      "description": "實習生 · ・ · 初階 · 【亞馬遜Amazon】電商實習生 (兼職、轉正機會) Amazon Project Assistant Intern （Part-time） Hour Loop 飛輪電商 【Hour Loop 飛輪電商】在2013年成立，並於2022年初在美國那斯達克上市。作為亞馬遜 (Amazon) 第三方賣家，我們的工作不只廠商開發，還包括商品上架、價格制定，以及物流與庫存管理，",
+      "description": "Internship · ・ · Entry level · 【亞馬遜Amazon】電商實習生 (兼職、轉正機會) Amazon Project Assistant Intern （Part-time） Hour Loop 飛輪電商 【Hour Loop 飛輪電商】在2013年成立，並於2022年初在美國那斯達克上市。作為亞馬遜 (Amazon) 第三方賣家，我們的工作不只廠商開發，還包括商品上架",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2041,7 +2041,7 @@
       "description": "",
       "category": "operations",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2057,7 +2057,7 @@
       "description": "【Why Ingrasys】\n鴻佰科技是世界級智慧型網路產品之技術領導者。\n鴻佰科技的產品服務，支撐資通訊及元宇宙世代大量運算需求。\n「掌握數據．掌控未來」Your Data, Our Mission. \n\n【Internship",
       "category": "legal",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2073,7 +2073,7 @@
       "description": "工作內容：\n1、協助律師處理民、刑事及行政訴訟案件。\n2、協助審閱合約並提供初步意見。\n3、其他律師交辦的事項。",
       "category": "legal",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2089,7 +2089,7 @@
       "description": "工作內容：\n  1.案件分析及研究、卷證整理。\n  2.審閱及撰擬契約。\n  3.撰擬法律意見書或書狀。\n  4.開會紀錄、見習開庭。\n  5.其他交辦事項。",
       "category": "legal",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2105,7 +2105,7 @@
       "description": "業建議。\n\n【徵才條件】\n\n具律師執業執照（律師高考及格並完成實習）。\n\n具備良好溝通能力與文字組織能力。\n\n工作態度積極負責，能維持優良案件辦理品質。\n\n",
       "category": "legal",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2121,23 +2121,7 @@
       "description": "1、研究法律見解、法律原理，以及各級法院判決、判例。 \n2、撰寫民/刑事訴訟書狀。\n3、其他及相關交辦事項。\n(有法務相關經驗者，薪水可議)",
       "category": "legal",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
-      "deadline": ""
-    },
-    {
-      "platform": "CakeResume",
-      "title": "2026 TSMC DNAInternship",
-      "company": "TSMC 台積電",
-      "location": "",
-      "salary": "面議",
-      "salary_min": null,
-      "salary_type": "negotiable",
-      "posted_at": "",
-      "url": "https://www.cake.me/companies/tsmc/jobs/2026-tsmc-dna-internship",
-      "description": "實習生 · ・ · 實習 · 2026 TSMC DNA Internship TSMC 台積電 Established in 1987 and headquartered in Taiwan, TSMC pioneered the pure-play foundry business model with an exclusive focus on manufacturing its custo",
-      "category": "manufacturing",
-      "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2153,7 +2137,7 @@
       "description": "*歡迎學生找一年期-實習* 請於投遞時備註可實習時程，謝謝！\n※ 預計任用時程 (需配合一~五全天實習)\n半年期 : 2026/9-2027/1\n半年期 : 2027/1-2027/6\n一年期 : 2026/9-2027/6\n\n[採購部實習生]",
       "category": "supply_chain",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2169,7 +2153,7 @@
       "description": "*實習期間：一年制\n*實習每週工作天數：五天(週一至週五)\n\n*實習工作內容：\n1.處理客戶出貨需求及貨況追蹤\n2.CW1系統及出口提單製作\n3.報表彙整製作與資料分析\n4.ISO文件表單更新及維護\n5.主管交辦事項\n\n*透過此實習計畫，讓您熟悉",
       "category": "supply_chain",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2185,7 +2169,7 @@
       "description": "作為一家專業的報關公司，我們一直致力於為客戶提供高品質、高效率的報關服務。我們相信，您的加入將會為我們的團隊帶來新的活力和創新思維。\n\n在這份報關實習生職位中，您將有機會接觸到報關的各個環節，包括報關文件的處理、報關流程的規劃和客戶溝通等。我們會",
       "category": "supply_chain",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2201,7 +2185,7 @@
       "description": "加認識啤酒、自在與人交流對談，享受美好的夜晚聚會時光。\n\n工作地點：\n臺虎精釀門市_台北市各啜飲室\n\n工作時間：\n實習夥伴--排班彈性(每週至少需提供給公司能排班三天或工作時數20 小時以上，實際排班時間以營運狀況為準) \n\n\n【工作內容】\n\n1.",
       "category": "hospitality",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2217,7 +2201,7 @@
       "description": "想成為〈晶華國際酒店集團〉擴大事業版圖，最得力的其中一份子嗎?\n若您就讀相關科系，且想利用在學期間，到業界實習，增進自己的專業職能，選擇飯店業的龍頭指標 - 台北晶華酒店，將會是您的最佳選擇。\n\n實習相關福利：1. 留任回聘獎金",
       "category": "hospitality",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2233,7 +2217,7 @@
       "description": "加認識啤酒、自在與人交流對談，享受美好的夜晚聚會時光。\n\n工作地點：\n臺虎精釀門市_台北市各啜飲室\n\n工作時間：\n實習夥伴--排班彈性(每週至少需提供給公司能排班三天或工作時數20 小時以上，實際排班時間以營運狀況為準) \n\n\n【工作內容】\n\n1.",
       "category": "hospitality",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2249,7 +2233,7 @@
       "description": "想成為〈晶華國際酒店集團〉擴大事業版圖，最得力的其中一份子嗎?\n若您就讀相關科系，想利用在學期間，到業界實習，豐富自己的專業經歷，選擇飯店業的龍頭指標 - 台北晶華酒店，將會是您的最佳選擇。\n\n實習相關福利：1. 留任回聘獎金",
       "category": "hospitality",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2265,7 +2249,7 @@
       "description": "想成為〈晶華國際酒店集團〉擴大事業版圖，最得力的其中一份子嗎?\n若您就讀相關科系，想利用在學期間，到業界實習，豐富自己的專業經歷，選擇飯店業的龍頭指標 - 台北晶華酒店，將會是您的最佳選擇。\n\n實習相關福利：1. 留任回聘獎金",
       "category": "hospitality",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2281,7 +2265,7 @@
       "description": "想成為〈晶華國際酒店集團〉擴大事業版圖，最得力的其中一份子嗎?\n若您就讀相關科系，且想利用在學期間，到業界實習，增進自己的專業職能，選擇飯店業的龍頭指標 - 台北晶華酒店，將會是您的最佳選擇。\n\n實習相關福利：1. 留任回聘獎金",
       "category": "hospitality",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2297,7 +2281,7 @@
       "description": "1. 負責各式宴會場地佈置、桌椅擺設、活動結束後整理等。\n2. 會議展場、宴會餐飲之賓客服務等。\n3. 人員分配與宴席結帳\n4. 回收賓客滿意度",
       "category": "hospitality",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2313,7 +2297,7 @@
       "description": "",
       "category": "other",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2329,7 +2313,7 @@
       "description": "實習生 / 儲備幹部 / 企劃實習 / 設計實習",
       "category": "other",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2345,7 +2329,7 @@
       "description": "周一~周五(最少3天)\nA班:pm4:00~7:00\nB班:pm5:30~8:30\nC班週三12:00～18:00",
       "category": "other",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2361,7 +2345,7 @@
       "description": "★★2025年實習生召募中★★\n\n歡迎喜歡晶泉丰旅/捷絲旅的你 !\n加入晶泉丰旅/捷絲旅實習生菁英培育計畫，職場實務等你體驗！\n\n\n如果你個性外向活潑，期待與來自世界各地旅客互動，請選擇客務部\n如果你每次整理後都獲得成就感，且注重工作中各項細節，",
       "category": "other",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2377,7 +2361,7 @@
       "description": "學期16週企業實習，不限系所科別",
       "category": "other",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     },
     {
@@ -2393,7 +2377,23 @@
       "description": "聞\n\n\n<請注意: 此職缺以長期(至少半年以上)實習為主, 暫無短期實習職缺",
       "category": "other",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
+      "deadline": ""
+    },
+    {
+      "platform": "CakeResume",
+      "title": "2026 TSMC DNAInternship",
+      "company": "TSMC 台積電",
+      "location": "",
+      "salary": "面議",
+      "salary_min": null,
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/tsmc/jobs/2026-tsmc-dna-internship",
+      "description": "Internship · ・ · Internship · 2026 TSMC DNA Internship TSMC 台積電 Established in 1987 and headquartered in Taiwan, TSMC pioneered the pure-play foundry business model with an exclusive focus on manufact",
+      "category": "other",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-22",
       "deadline": ""
     }
   ]
