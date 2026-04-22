@@ -73,10 +73,14 @@
   }
 
   .container { max-width: 1160px; margin: 0 auto; padding: 0 20px; }
+  @media (max-width: 480px) { .container { padding: 0 16px; } }
 
   /* ---------- Hero ---------- */
   header.hero {
-    padding: 48px 0 28px;
+    padding: 40px 0 24px;
+  }
+  @media (max-width: 720px) {
+    header.hero { padding: 24px 0 16px; }
   }
   .hero-top { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
   h1 {
@@ -87,6 +91,10 @@
     display: flex;
     align-items: center;
     gap: 10px;
+  }
+  @media (max-width: 720px) {
+    h1 { font-size: 24px; gap: 8px; }
+    h1 .dot { width: 8px; height: 8px; box-shadow: 0 0 0 3px var(--new-soft); }
   }
   h1 .dot {
     width: 10px; height: 10px; border-radius: 999px;
@@ -104,6 +112,9 @@
     margin: 6px 0 0;
     max-width: 640px;
   }
+  @media (max-width: 720px) {
+    .subtitle { font-size: 13.5px; line-height: 1.5; }
+  }
 
   .stats {
     display: grid;
@@ -112,7 +123,7 @@
     margin-top: 24px;
   }
   @media (max-width: 720px) {
-    .stats { grid-template-columns: repeat(2, 1fr); }
+    .stats { grid-template-columns: repeat(2, 1fr); gap: 8px; margin-top: 16px; }
   }
   .stat-card {
     background: var(--panel);
@@ -121,6 +132,7 @@
     padding: 14px 16px;
     box-shadow: var(--shadow-sm);
   }
+  @media (max-width: 720px) { .stat-card { padding: 10px 12px; border-radius: 10px; } }
   .stat-card .label {
     font-size: 12px;
     color: var(--text-muted);
@@ -129,12 +141,17 @@
     display: flex;
     align-items: center;
     gap: 6px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
+  @media (max-width: 720px) { .stat-card .label { font-size: 11px; } }
   .stat-card .value {
     font-size: 24px;
     font-weight: 700;
     letter-spacing: -0.01em;
   }
+  @media (max-width: 720px) { .stat-card .value { font-size: 20px; } }
   .stat-card .delta {
     font-size: 12px;
     color: var(--new);
@@ -151,6 +168,11 @@
     flex-wrap: wrap;
   }
   .meta-row span strong { color: var(--text); font-weight: 600; }
+  @media (max-width: 720px) {
+    .meta-row { font-size: 12px; gap: 8px; margin-top: 10px; }
+    /* 手機版只顯示「更新時間」那一行，自動排程說明省略 */
+    .meta-row span:nth-child(n+2) { display: none; }
+  }
 
   /* ---------- Controls ---------- */
   .controls-wrap {
@@ -164,13 +186,25 @@
     padding: 12px 0;
     margin: 8px 0 16px;
   }
+  @media (max-width: 720px) {
+    .controls-wrap { padding: 10px 0; margin: 4px 0 12px; }
+  }
   .controls {
     display: grid;
     grid-template-columns: 2fr 1fr 1fr 1fr;
     gap: 10px;
   }
+  /* 平板：search 占滿一行，其他 3 選單 1 行 */
   @media (max-width: 720px) {
-    .controls { grid-template-columns: 1fr 1fr; }
+    .controls {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+    }
+    .search-wrap { grid-column: 1 / -1; }
+  }
+  /* 最小螢幕：3 個選單放不下時自動降到 1 個一列 */
+  @media (max-width: 380px) {
+    .controls { grid-template-columns: 1fr; }
   }
   .search-wrap { position: relative; }
   .search-wrap::before {
@@ -194,8 +228,12 @@
     color: var(--text-faint);
     font-family: inherit;
   }
+  /* 手機觸控裝置用不到鍵盤快捷鍵 */
+  @media (hover: none), (max-width: 720px) {
+    .search-wrap kbd { display: none; }
+  }
   .controls input, .controls select {
-    padding: 9px 12px;
+    padding: 11px 12px;
     font-size: 14px;
     border: 1px solid var(--border);
     border-radius: 8px;
@@ -204,8 +242,16 @@
     font-family: inherit;
     width: 100%;
     transition: border-color 0.1s, box-shadow 0.1s;
+    min-height: 42px;
+  }
+  /* iOS 在 font-size < 16px 時會自動放大頁面 → 手機版強制 16px */
+  @media (max-width: 720px) {
+    .controls input, .controls select { font-size: 16px; padding: 10px 12px; }
   }
   .controls .search-wrap input { padding-left: 36px; padding-right: 48px; }
+  @media (max-width: 720px) {
+    .controls .search-wrap input { padding-right: 14px; }
+  }
   .controls input:focus, .controls select:focus {
     outline: none;
     border-color: var(--accent);
@@ -227,9 +273,10 @@
     margin-right: 4px;
     text-transform: uppercase;
     letter-spacing: 0.05em;
+    flex-shrink: 0;
   }
   .tab {
-    padding: 6px 13px;
+    padding: 7px 14px;
     border-radius: 999px;
     background: var(--panel);
     border: 1px solid var(--border);
@@ -241,6 +288,9 @@
     display: inline-flex;
     align-items: center;
     gap: 6px;
+    white-space: nowrap;
+    flex-shrink: 0;
+    min-height: 36px;
   }
   .tab:hover { color: var(--text); border-color: var(--border-strong); }
   .tab.active {
@@ -258,6 +308,26 @@
     width: 7px; height: 7px;
     border-radius: 999px;
     background: var(--other);
+  }
+
+  /* 手機版：tabs 改成橫向滑動，不換行；邊緣淡化提示可捲動 */
+  @media (max-width: 720px) {
+    .tabs-row {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      scroll-snap-type: x proximity;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      padding-bottom: 4px;
+      margin-left: -16px;
+      margin-right: -16px;
+      padding-left: 16px;
+      padding-right: 16px;
+      mask-image: linear-gradient(to right, transparent, black 16px, black calc(100% - 16px), transparent);
+      -webkit-mask-image: linear-gradient(to right, transparent, black 16px, black calc(100% - 16px), transparent);
+    }
+    .tabs-row::-webkit-scrollbar { display: none; }
+    .tab { scroll-snap-align: start; }
   }
 
   /* ---------- Jobs ---------- */
@@ -280,6 +350,7 @@
     transition: transform 0.1s, box-shadow 0.1s, border-color 0.1s;
     position: relative;
   }
+  @media (max-width: 600px) { .job { padding: 12px 14px; border-radius: 10px; gap: 2px 12px; } }
   .job:hover {
     transform: translateY(-1px);
     border-color: var(--border-strong);
@@ -299,12 +370,17 @@
     font-weight: 600;
     font-size: 15px;
     margin: 0;
+    line-height: 1.4;
   }
   .job-title a {
     color: var(--text);
     text-decoration: none;
   }
   .job-title a:hover { color: var(--accent); }
+  @media (max-width: 600px) {
+    .job-title { font-size: 14.5px; }
+    .job-title-row { gap: 6px; }
+  }
   .new-badge {
     display: inline-flex;
     align-items: center;
@@ -325,6 +401,9 @@
     overflow: hidden;
     text-overflow: ellipsis;
   }
+  @media (max-width: 600px) {
+    .job-company { font-size: 12.5px; margin: 2px 0 4px; white-space: normal; }
+  }
   .job-meta {
     display: flex;
     gap: 8px;
@@ -332,6 +411,9 @@
     color: var(--text-faint);
     flex-wrap: wrap;
     align-items: center;
+  }
+  @media (max-width: 600px) {
+    .job-meta { gap: 6px; font-size: 11.5px; }
   }
   .pill {
     padding: 2px 8px;
@@ -373,8 +455,20 @@
 
   @media (max-width: 600px) {
     .job { grid-template-columns: auto 1fr; }
-    .job-right { grid-column: 1 / -1; text-align: left; margin-top: 6px; display: flex; gap: 10px; align-items: center; }
-    .job-date { margin-top: 0; }
+    .job-right {
+      grid-column: 1 / -1;
+      text-align: left;
+      margin-top: 8px;
+      padding-top: 8px;
+      border-top: 1px dashed var(--border);
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      justify-content: space-between;
+      white-space: normal;
+    }
+    .job-salary { font-size: 13.5px; }
+    .job-date { margin-top: 0; font-size: 11px; }
   }
 
   /* ---------- Empty / loading / error ---------- */
