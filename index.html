@@ -4,267 +4,521 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>實習雷達 · Internship Radar</title>
-<meta name="description" content="即時彙整 104、CakeResume、Yourator 的最新實習職缺">
+<meta name="description" content="每天自動彙整 104、CakeResume、Yourator 的最新實習職缺，分類呈現。">
+<meta property="og:title" content="實習雷達 · Internship Radar">
+<meta property="og:description" content="每天自動彙整 104、CakeResume、Yourator 的最新實習職缺。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🎯%3C/text%3E%3C/svg%3E">
 <style>
   :root {
-    color-scheme: light;
-    --bg: #fafafa;
+    color-scheme: light dark;
+    --bg: #f7f7f8;
+    --bg-gradient: linear-gradient(180deg, #eef2ff 0%, #f7f7f8 260px);
     --panel: #ffffff;
-    --border: #e5e5e5;
-    --text: #18181b;
-    --muted: #71717a;
-    --accent: #2563eb;
-    --accent-soft: #dbeafe;
-    --tag-104: #e74c3c;
-    --tag-cake: #ff6900;
-    --tag-yourator: #2dd4bf;
-    --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 0 0 1px rgba(0,0,0,0.04);
+    --panel-2: #fafafa;
+    --border: #e5e7eb;
+    --border-strong: #d4d4d8;
+    --text: #111827;
+    --text-muted: #6b7280;
+    --text-faint: #9ca3af;
+    --accent: #4f46e5;
+    --accent-soft: #eef2ff;
+    --tech: #2563eb;
+    --tech-soft: #dbeafe;
+    --finance: #d97706;
+    --finance-soft: #fef3c7;
+    --other: #6b7280;
+    --other-soft: #f3f4f6;
+    --new: #10b981;
+    --new-soft: #d1fae5;
+    --shadow-sm: 0 1px 2px rgba(17,24,39,0.04), 0 0 0 1px rgba(17,24,39,0.05);
+    --shadow-md: 0 4px 14px rgba(17,24,39,0.06), 0 0 0 1px rgba(17,24,39,0.04);
   }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #09090b;
+      --bg-gradient: linear-gradient(180deg, #1e1b4b 0%, #09090b 320px);
+      --panel: #18181b;
+      --panel-2: #101013;
+      --border: #27272a;
+      --border-strong: #3f3f46;
+      --text: #f4f4f5;
+      --text-muted: #a1a1aa;
+      --text-faint: #71717a;
+      --accent: #818cf8;
+      --accent-soft: #1e1b4b;
+      --tech: #60a5fa;
+      --tech-soft: #1e3a8a;
+      --finance: #fbbf24;
+      --finance-soft: #78350f;
+      --other: #a1a1aa;
+      --other-soft: #27272a;
+      --new: #34d399;
+      --new-soft: #064e3b;
+      --shadow-sm: 0 1px 2px rgba(0,0,0,0.3), 0 0 0 1px rgba(255,255,255,0.04);
+      --shadow-md: 0 4px 14px rgba(0,0,0,0.4), 0 0 0 1px rgba(255,255,255,0.04);
+    }
+  }
+
   * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
   body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", "PingFang TC", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
     background: var(--bg);
+    background-image: var(--bg-gradient);
+    background-attachment: fixed;
     color: var(--text);
-    line-height: 1.5;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    min-height: 100vh;
   }
-  header {
-    padding: 32px 24px 20px;
-    max-width: 1200px;
-    margin: 0 auto;
+
+  .container { max-width: 1160px; margin: 0 auto; padding: 0 20px; }
+
+  /* ---------- Hero ---------- */
+  header.hero {
+    padding: 48px 0 28px;
   }
+  .hero-top { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
   h1 {
-    margin: 0 0 6px;
-    font-size: 28px;
+    margin: 0;
+    font-size: 32px;
+    font-weight: 700;
     letter-spacing: -0.02em;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  h1 .dot {
+    width: 10px; height: 10px; border-radius: 999px;
+    background: var(--new);
+    box-shadow: 0 0 0 4px var(--new-soft);
+    animation: pulse 2.2s infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.55; }
   }
   .subtitle {
-    color: var(--muted);
-    font-size: 14px;
-    margin: 0;
+    color: var(--text-muted);
+    font-size: 15px;
+    margin: 6px 0 0;
+    max-width: 640px;
   }
-  .meta {
-    margin-top: 14px;
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 12px;
+    margin-top: 24px;
+  }
+  @media (max-width: 720px) {
+    .stats { grid-template-columns: repeat(2, 1fr); }
+  }
+  .stat-card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 16px;
+    box-shadow: var(--shadow-sm);
+  }
+  .stat-card .label {
+    font-size: 12px;
+    color: var(--text-muted);
+    font-weight: 500;
+    margin-bottom: 4px;
     display: flex;
-    gap: 16px;
-    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px;
+  }
+  .stat-card .value {
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  .stat-card .delta {
+    font-size: 12px;
+    color: var(--new);
+    margin-top: 2px;
+    font-weight: 500;
+  }
+
+  .meta-row {
+    margin-top: 14px;
     font-size: 13px;
-    color: var(--muted);
+    color: var(--text-muted);
+    display: flex;
+    gap: 14px;
+    flex-wrap: wrap;
   }
-  .meta span { white-space: nowrap; }
-  .meta strong { color: var(--text); font-weight: 600; }
+  .meta-row span strong { color: var(--text); font-weight: 600; }
 
-  main {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 24px 60px;
+  /* ---------- Controls ---------- */
+  .controls-wrap {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background: color-mix(in srgb, var(--bg) 80%, transparent);
+    backdrop-filter: saturate(180%) blur(12px);
+    -webkit-backdrop-filter: saturate(180%) blur(12px);
+    border-bottom: 1px solid var(--border);
+    padding: 12px 0;
+    margin: 8px 0 16px;
   }
-
   .controls {
     display: grid;
     grid-template-columns: 2fr 1fr 1fr 1fr;
     gap: 10px;
-    background: var(--panel);
-    padding: 14px;
-    border-radius: 10px;
-    box-shadow: var(--shadow);
-    margin-bottom: 16px;
   }
   @media (max-width: 720px) {
     .controls { grid-template-columns: 1fr 1fr; }
   }
+  .search-wrap { position: relative; }
+  .search-wrap::before {
+    content: "🔍";
+    position: absolute;
+    left: 12px; top: 50%;
+    transform: translateY(-50%);
+    font-size: 14px;
+    opacity: 0.6;
+    pointer-events: none;
+  }
+  .search-wrap kbd {
+    position: absolute;
+    right: 8px; top: 50%;
+    transform: translateY(-50%);
+    font-size: 11px;
+    padding: 2px 6px;
+    background: var(--panel-2);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    color: var(--text-faint);
+    font-family: inherit;
+  }
   .controls input, .controls select {
-    padding: 8px 12px;
+    padding: 9px 12px;
     font-size: 14px;
     border: 1px solid var(--border);
-    border-radius: 6px;
-    background: #fff;
-    font-family: inherit;
+    border-radius: 8px;
+    background: var(--panel);
     color: var(--text);
+    font-family: inherit;
     width: 100%;
+    transition: border-color 0.1s, box-shadow 0.1s;
   }
+  .controls .search-wrap input { padding-left: 36px; padding-right: 48px; }
   .controls input:focus, .controls select:focus {
-    outline: 2px solid var(--accent);
-    outline-offset: -1px;
+    outline: none;
     border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-soft);
   }
 
-  .platform-tabs {
+  /* ---------- Tabs ---------- */
+  .tabs-row {
     display: flex;
     gap: 6px;
-    margin-bottom: 16px;
+    margin-bottom: 14px;
     flex-wrap: wrap;
+    align-items: center;
+  }
+  .tabs-row .tabs-label {
+    font-size: 12px;
+    color: var(--text-faint);
+    font-weight: 500;
+    margin-right: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
   }
   .tab {
-    padding: 6px 14px;
+    padding: 6px 13px;
     border-radius: 999px;
     background: var(--panel);
     border: 1px solid var(--border);
     cursor: pointer;
     font-size: 13px;
-    color: var(--muted);
-    transition: all 0.12s;
+    color: var(--text-muted);
+    transition: all 0.1s;
     font-family: inherit;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
   }
-  .tab:hover { color: var(--text); }
+  .tab:hover { color: var(--text); border-color: var(--border-strong); }
   .tab.active {
     background: var(--text);
-    color: #fff;
+    color: var(--panel);
     border-color: var(--text);
   }
   .tab .count {
-    margin-left: 6px;
-    opacity: 0.7;
-    font-size: 12px;
+    font-size: 11px;
+    opacity: 0.75;
+    font-weight: 500;
+  }
+  .tab.active .count { opacity: 0.85; }
+  .tab .cat-dot {
+    width: 7px; height: 7px;
+    border-radius: 999px;
+    background: var(--other);
   }
 
-  .jobs {
-    display: grid;
-    gap: 10px;
+  /* ---------- Jobs ---------- */
+  main { padding-bottom: 80px; }
+  .result-info {
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-bottom: 10px;
   }
+  .jobs { display: grid; gap: 8px; }
   .job {
     background: var(--panel);
-    border-radius: 10px;
-    padding: 16px 18px;
-    box-shadow: var(--shadow);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 18px;
     display: grid;
-    grid-template-columns: 1fr auto;
-    gap: 4px 20px;
+    grid-template-columns: auto 1fr auto;
+    gap: 4px 16px;
     align-items: start;
-    transition: transform 0.08s, box-shadow 0.08s;
+    transition: transform 0.1s, box-shadow 0.1s, border-color 0.1s;
+    position: relative;
   }
   .job:hover {
     transform: translateY(-1px);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08), 0 0 0 1px rgba(0,0,0,0.04);
+    border-color: var(--border-strong);
+    box-shadow: var(--shadow-md);
   }
+  .job .cat-rail {
+    width: 4px;
+    align-self: stretch;
+    border-radius: 2px;
+    margin-right: 2px;
+    background: var(--other);
+  }
+
+  .job-body { min-width: 0; }
+  .job-title-row { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
   .job-title {
     font-weight: 600;
     font-size: 15px;
-    margin: 0 0 4px;
+    margin: 0;
   }
   .job-title a {
     color: var(--text);
     text-decoration: none;
   }
-  .job-title a:hover { color: var(--accent); text-decoration: underline; }
+  .job-title a:hover { color: var(--accent); }
+  .new-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 1px 7px;
+    border-radius: 999px;
+    background: var(--new-soft);
+    color: var(--new);
+    letter-spacing: 0.02em;
+  }
   .job-company {
-    color: var(--muted);
+    color: var(--text-muted);
     font-size: 13px;
-    margin-bottom: 6px;
+    margin: 2px 0 6px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
   .job-meta {
     display: flex;
-    gap: 10px;
+    gap: 8px;
     font-size: 12px;
-    color: var(--muted);
+    color: var(--text-faint);
     flex-wrap: wrap;
     align-items: center;
   }
-  .job-meta .pill {
+  .pill {
     padding: 2px 8px;
     border-radius: 999px;
-    background: #f4f4f5;
     font-size: 11px;
+    font-weight: 500;
   }
-  .job-meta .pill.platform-104    { background: #fee2e2; color: #991b1b; }
-  .job-meta .pill.platform-CakeResume { background: #ffedd5; color: #9a3412; }
-  .job-meta .pill.platform-Yourator  { background: #ccfbf1; color: #115e59; }
+  .pill.platform-104         { background: #fee2e2; color: #991b1b; }
+  .pill.platform-CakeResume  { background: #ffedd5; color: #9a3412; }
+  .pill.platform-Yourator    { background: #ccfbf1; color: #115e59; }
+  @media (prefers-color-scheme: dark) {
+    .pill.platform-104        { background: #450a0a; color: #fca5a5; }
+    .pill.platform-CakeResume { background: #431407; color: #fdba74; }
+    .pill.platform-Yourator   { background: #042f2e; color: #5eead4; }
+  }
+  .pill.cat-badge {
+    /* color + background set inline from category metadata */
+  }
+
+  .job-right {
+    text-align: right;
+    white-space: nowrap;
+    min-width: 0;
+  }
   .job-salary {
     font-size: 14px;
     font-weight: 600;
     color: #059669;
-    text-align: right;
-    white-space: nowrap;
   }
-  .job-salary.negotiable { color: var(--muted); font-weight: 400; }
+  @media (prefers-color-scheme: dark) {
+    .job-salary { color: #34d399; }
+  }
+  .job-salary.negotiable { color: var(--text-muted); font-weight: 400; }
   .job-date {
     font-size: 12px;
-    color: var(--muted);
-    text-align: right;
+    color: var(--text-faint);
+    margin-top: 2px;
   }
 
+  @media (max-width: 600px) {
+    .job { grid-template-columns: auto 1fr; }
+    .job-right { grid-column: 1 / -1; text-align: left; margin-top: 6px; display: flex; gap: 10px; align-items: center; }
+    .job-date { margin-top: 0; }
+  }
+
+  /* ---------- Empty / loading / error ---------- */
   .empty, .loading {
     text-align: center;
-    padding: 60px 20px;
-    color: var(--muted);
+    padding: 72px 20px;
+    color: var(--text-muted);
   }
-  .empty h3 { color: var(--text); margin: 0 0 6px; }
+  .empty h3 { color: var(--text); margin: 0 0 6px; font-size: 17px; }
+  .empty p { margin: 0; font-size: 14px; }
+  .spinner {
+    width: 24px; height: 24px;
+    border: 2px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 999px;
+    margin: 0 auto 12px;
+    animation: spin 0.8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
   .error {
-    background: #fef2f2;
+    background: var(--panel);
     border: 1px solid #fecaca;
-    color: #991b1b;
-    padding: 14px 16px;
-    border-radius: 8px;
+    border-left: 3px solid #ef4444;
+    padding: 16px 18px;
+    border-radius: 10px;
     margin: 20px 0;
     font-size: 14px;
   }
+  @media (prefers-color-scheme: dark) {
+    .error { border-color: #7f1d1d; border-left-color: #ef4444; }
+  }
   .error code {
-    background: rgba(0,0,0,0.06);
-    padding: 1px 5px;
-    border-radius: 3px;
+    background: var(--panel-2);
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-size: 12.5px;
   }
 
   footer {
-    max-width: 1200px;
-    margin: 40px auto 0;
-    padding: 20px 24px;
+    padding: 28px 0 40px;
+    margin-top: 40px;
     text-align: center;
-    color: var(--muted);
+    color: var(--text-faint);
     font-size: 12px;
     border-top: 1px solid var(--border);
   }
-  footer a { color: var(--muted); }
+  footer a { color: var(--text-muted); text-decoration: none; }
+  footer a:hover { color: var(--text); text-decoration: underline; }
 </style>
 </head>
 <body>
-<header>
-  <h1>實習雷達</h1>
-  <p class="subtitle">彙整 104 / CakeResume / Yourator 最新實習職缺</p>
-  <div class="meta" id="meta">
-    <span>載入中...</span>
+
+<header class="hero">
+  <div class="container">
+    <div class="hero-top">
+      <div>
+        <h1><span class="dot"></span>實習雷達</h1>
+        <p class="subtitle">每天自動彙整 104、CakeResume、Yourator 目前開放中的實習，依科技 / 金融管顧 / 其他分類。</p>
+      </div>
+    </div>
+
+    <div class="stats" id="stats">
+      <div class="stat-card"><div class="label">📊 總職缺</div><div class="value" id="s-total">—</div></div>
+      <div class="stat-card"><div class="label" id="s-cat1-label">💻 科技</div><div class="value" id="s-cat1">—</div></div>
+      <div class="stat-card"><div class="label" id="s-cat2-label">📣 行銷</div><div class="value" id="s-cat2">—</div></div>
+      <div class="stat-card"><div class="label">✨ 今日新增</div><div class="value" id="s-new">—</div></div>
+    </div>
+
+    <div class="meta-row" id="meta"><span>載入中...</span></div>
   </div>
 </header>
 
-<main>
-  <div class="controls">
-    <input type="search" id="q" placeholder="🔍 搜尋職稱、公司、地點...">
-    <select id="salary-type">
-      <option value="">所有薪資類型</option>
-      <option value="monthly">月薪</option>
-      <option value="hourly">時薪</option>
-      <option value="negotiable">面議</option>
-    </select>
-    <select id="min-salary">
-      <option value="0">任何薪資</option>
-      <option value="25000">月薪 25k+</option>
-      <option value="30000">月薪 30k+</option>
-      <option value="35000">月薪 35k+</option>
-      <option value="40000">月薪 40k+</option>
-      <option value="50000">月薪 50k+</option>
-    </select>
-    <select id="sort">
-      <option value="date">📅 最新優先</option>
-      <option value="salary">💰 薪資高到低</option>
-      <option value="company">🏢 公司 A-Z</option>
-    </select>
+<div class="controls-wrap">
+  <div class="container">
+    <div class="controls">
+      <div class="search-wrap">
+        <input type="search" id="q" placeholder="搜尋職稱、公司、地點..." autocomplete="off">
+        <kbd>/</kbd>
+      </div>
+      <select id="salary-type">
+        <option value="">所有薪資類型</option>
+        <option value="monthly">月薪</option>
+        <option value="hourly">時薪</option>
+        <option value="negotiable">面議</option>
+      </select>
+      <select id="min-salary">
+        <option value="0">任何薪資</option>
+        <option value="25000">月薪 25k+</option>
+        <option value="30000">月薪 30k+</option>
+        <option value="35000">月薪 35k+</option>
+        <option value="40000">月薪 40k+</option>
+        <option value="50000">月薪 50k+</option>
+      </select>
+      <select id="sort">
+        <option value="category">🎯 科技優先</option>
+        <option value="date">📅 最新上架</option>
+        <option value="salary">💰 薪資高到低</option>
+        <option value="company">🏢 公司 A-Z</option>
+      </select>
+    </div>
   </div>
+</div>
 
-  <div class="platform-tabs" id="tabs"></div>
-
-  <div id="jobs" class="jobs">
-    <div class="loading">載入實習資料...</div>
+<main>
+  <div class="container">
+    <div class="tabs-row" id="cat-tabs"></div>
+    <div class="tabs-row" id="plat-tabs"></div>
+    <div class="result-info" id="result-info"></div>
+    <div id="jobs" class="jobs">
+      <div class="loading"><div class="spinner"></div>載入實習資料...</div>
+    </div>
   </div>
 </main>
 
 <footer>
-  資料來源：104 人力銀行 · CakeResume · Yourator
-  | 由 GitHub Actions 定期更新 · <a href="https://github.com" target="_blank" rel="noopener">原始碼</a>
+  <div class="container">
+    資料來源：104 人力銀行 · CakeResume · Yourator
+    · 由 <a href="https://github.com/Jean-yzj/internx.internship-radar" target="_blank" rel="noopener">GitHub Actions</a> 每天自動更新
+  </div>
 </footer>
 
 <script>
 const PLATFORMS = ["104", "CakeResume", "Yourator"];
-let data = { jobs: [], generated_at: null, summary: {} };
-let currentPlatform = "all";
+const TODAY = new Date().toISOString().slice(0, 10);
+
+let data = { jobs: [], generated_at: null, summary: {}, categories: [] };
+let currentCat = "all";
+let currentPlat = "all";
+
+// 將 hex 轉 rgba（用於 pill soft background）
+function hexToSoft(hex, alpha = 0.14) {
+  const h = (hex || "#94a3b8").replace("#", "");
+  const r = parseInt(h.substring(0,2), 16);
+  const g = parseInt(h.substring(2,4), 16);
+  const b = parseInt(h.substring(4,6), 16);
+  return `rgba(${r},${g},${b},${alpha})`;
+}
+
+function catMeta(key) {
+  return (data.categories || []).find(c => c.key === key) || {
+    key, label: key, emoji: "📋", color: "#94a3b8", count: 0,
+  };
+}
 
 async function load() {
   try {
@@ -273,13 +527,36 @@ async function load() {
     data = await res.json();
     render();
   } catch (e) {
-    document.getElementById("jobs").innerHTML =
-      `<div class="error">
-        無法載入資料：<code>${e.message}</code><br>
+    document.getElementById("jobs").innerHTML = `
+      <div class="error">
+        <strong>無法載入資料：</strong> <code>${escapeHtml(e.message)}</code><br>
         如果這是剛部署的版本，可能是第一次 GitHub Action 還沒跑完，
         稍等幾分鐘或到 Actions 頁手動觸發 <code>Update Internship Data</code>。
       </div>`;
     document.getElementById("meta").innerHTML = "<span>尚無資料</span>";
+  }
+}
+
+function renderStats() {
+  const jobs = data.jobs || [];
+  const cats = data.categories || [];
+  let newCount = 0;
+  for (const j of jobs) if (j.first_seen === TODAY) newCount++;
+
+  document.getElementById("s-total").textContent = jobs.length.toLocaleString();
+  document.getElementById("s-new").textContent   = newCount.toLocaleString();
+
+  // 前兩大分類（顯示在 stat cards）
+  const top = [...cats].filter(c => c.key !== "other").sort((a,b) => b.count - a.count).slice(0, 2);
+  if (top[0]) {
+    document.getElementById("s-cat1-label").innerHTML =
+      `<span style="color:${top[0].color}">●</span> ${top[0].emoji} ${escapeHtml(top[0].label)}`;
+    document.getElementById("s-cat1").textContent = top[0].count.toLocaleString();
+  }
+  if (top[1]) {
+    document.getElementById("s-cat2-label").innerHTML =
+      `<span style="color:${top[1].color}">●</span> ${top[1].emoji} ${escapeHtml(top[1].label)}`;
+    document.getElementById("s-cat2").textContent = top[1].count.toLocaleString();
   }
 }
 
@@ -288,36 +565,54 @@ function renderMeta() {
   if (!data.generated_at) { m.innerHTML = ""; return; }
   const when = new Date(data.generated_at);
   const ago = Math.round((Date.now() - when.getTime()) / 60000);
-  const agoText = ago < 60 ? `${ago} 分鐘前`
-    : ago < 60*24 ? `${Math.round(ago/60)} 小時前`
-    : `${Math.round(ago/60/24)} 天前`;
-  const params = data.params || {};
+  const agoText = ago < 1     ? "剛剛"
+                : ago < 60    ? `${ago} 分鐘前`
+                : ago < 60*24 ? `${Math.round(ago/60)} 小時前`
+                :               `${Math.round(ago/60/24)} 天前`;
   m.innerHTML = `
-    <span>📊 共 <strong>${data.jobs.length}</strong> 筆</span>
-    <span>🕒 更新於 <strong>${agoText}</strong> (${when.toLocaleString("zh-TW")})</span>
-    <span>🎯 篩選：近 <strong>${params.days ?? 7}</strong> 天 · ${params.salary_filter ? "只看有薪資" : "含面議"}</span>
+    <span>🕒 資料更新於 <strong>${agoText}</strong>（${when.toLocaleString("zh-TW", {hour12: false})}）</span>
+    <span>📡 每天台灣時間 <strong>01:00 / 14:00 / 20:00</strong> 自動更新</span>
   `;
 }
 
 function renderTabs() {
-  const byPlat = {};
-  for (const p of PLATFORMS) byPlat[p] = 0;
-  for (const j of data.jobs) byPlat[j.platform] = (byPlat[j.platform] || 0) + 1;
+  const jobs = data.jobs || [];
+  const cats = data.categories || [];
 
-  const tabs = document.getElementById("tabs");
-  const all = data.jobs.length;
-  tabs.innerHTML =
-    `<button class="tab ${currentPlatform === "all" ? "active" : ""}" data-p="all">全部 <span class="count">${all}</span></button>` +
+  const platCounts = { all: jobs.length };
+  for (const p of PLATFORMS) platCounts[p] = 0;
+  for (const j of jobs) platCounts[j.platform] = (platCounts[j.platform] || 0) + 1;
+
+  // 分類 tabs：全部 + 所有有資料的類別
+  const catTabs = [`
+    <button class="tab ${currentCat === "all" ? "active" : ""}" data-cat="all">
+      🎯 全部 <span class="count">${jobs.length}</span>
+    </button>`];
+  for (const c of cats) {
+    if (c.count === 0) continue;
+    const active = currentCat === c.key;
+    catTabs.push(`
+      <button class="tab ${active ? "active" : ""}" data-cat="${escapeHtml(c.key)}">
+        <span class="cat-dot" style="background:${c.color}"></span>
+        ${c.emoji} ${escapeHtml(c.label)}
+        <span class="count">${c.count}</span>
+      </button>`);
+  }
+  document.getElementById("cat-tabs").innerHTML =
+    `<span class="tabs-label">分類</span>` + catTabs.join("");
+
+  document.getElementById("plat-tabs").innerHTML =
+    `<span class="tabs-label">平台</span>` +
+    `<button class="tab ${currentPlat === "all" ? "active" : ""}" data-plat="all">全部 <span class="count">${platCounts.all}</span></button>` +
     PLATFORMS.map(p =>
-      `<button class="tab ${currentPlatform === p ? "active" : ""}" data-p="${p}">${p} <span class="count">${byPlat[p] || 0}</span></button>`
+      `<button class="tab ${currentPlat === p ? "active" : ""}" data-plat="${p}">${p} <span class="count">${platCounts[p] || 0}</span></button>`
     ).join("");
 
-  tabs.querySelectorAll(".tab").forEach(btn => {
-    btn.onclick = () => {
-      currentPlatform = btn.dataset.p;
-      renderList();
-      renderTabs();
-    };
+  document.querySelectorAll("#cat-tabs .tab").forEach(btn => {
+    btn.onclick = () => { currentCat = btn.dataset.cat; render(); };
+  });
+  document.querySelectorAll("#plat-tabs .tab").forEach(btn => {
+    btn.onclick = () => { currentPlat = btn.dataset.plat; render(); };
   });
 }
 
@@ -327,8 +622,12 @@ function renderList() {
   const minSal = parseInt(document.getElementById("min-salary").value) || 0;
   const sortBy = document.getElementById("sort").value;
 
-  let list = data.jobs.filter(j => {
-    if (currentPlatform !== "all" && j.platform !== currentPlatform) return false;
+  const cats = data.categories || [];
+  const catOrder = Object.fromEntries(cats.map((c, i) => [c.key, i]));
+
+  let list = (data.jobs || []).filter(j => {
+    if (currentCat !== "all" && j.category !== currentCat) return false;
+    if (currentPlat !== "all" && j.platform !== currentPlat) return false;
     if (stype && j.salary_type !== stype) return false;
     if (minSal > 0 && (!j.salary_min || j.salary_min < minSal)) return false;
     if (q) {
@@ -339,36 +638,53 @@ function renderList() {
   });
 
   list.sort((a, b) => {
-    if (sortBy === "salary") return (b.salary_min || 0) - (a.salary_min || 0);
+    if (sortBy === "salary")  return (b.salary_min || 0) - (a.salary_min || 0);
     if (sortBy === "company") return (a.company || "").localeCompare(b.company || "");
-    return (b.posted_at || "").localeCompare(a.posted_at || "");
+    if (sortBy === "date")    return (b.posted_at || "").localeCompare(a.posted_at || "");
+    // 分類優先順序（大學生投遞熱度） → first_seen 新的 → 薪資高的
+    const c = (catOrder[a.category] ?? 99) - (catOrder[b.category] ?? 99);
+    if (c !== 0) return c;
+    const fs = (b.first_seen || "").localeCompare(a.first_seen || "");
+    if (fs !== 0) return fs;
+    return (b.salary_min || 0) - (a.salary_min || 0);
   });
+
+  const totalJobs = (data.jobs || []).length;
+  document.getElementById("result-info").textContent =
+    list.length === 0 ? "" :
+    `顯示 ${list.length} 筆` + (list.length !== totalJobs ? `（共 ${totalJobs} 筆）` : "");
 
   const container = document.getElementById("jobs");
   if (list.length === 0) {
     container.innerHTML = `
       <div class="empty">
         <h3>沒有符合條件的實習</h3>
-        <p>試著放寬搜尋條件，或降低薪資下限。</p>
+        <p>試著放寬搜尋條件，或切換分類 / 平台。</p>
       </div>`;
     return;
   }
 
   container.innerHTML = list.map(j => {
+    const isNew = j.first_seen === TODAY;
     const salaryClass = j.salary_type === "negotiable" ? "negotiable" : "";
-    const salaryDisplay = j.salary || "—";
+    const cm = catMeta(j.category || "other");
     return `
       <article class="job">
-        <div>
-          <h3 class="job-title"><a href="${escapeHtml(j.url)}" target="_blank" rel="noopener">${escapeHtml(j.title)}</a></h3>
-          <div class="job-company">${escapeHtml(j.company)}</div>
+        <div class="cat-rail" style="background:${cm.color}"></div>
+        <div class="job-body">
+          <div class="job-title-row">
+            <h3 class="job-title"><a href="${escapeHtml(j.url)}" target="_blank" rel="noopener">${escapeHtml(j.title)}</a></h3>
+            ${isNew ? '<span class="new-badge">✨ NEW</span>' : ""}
+          </div>
+          <div class="job-company">${escapeHtml(j.company || "—")}</div>
           <div class="job-meta">
-            <span class="pill platform-${j.platform}">${j.platform}</span>
+            <span class="pill cat-badge" style="background:${hexToSoft(cm.color)};color:${cm.color}">${cm.emoji} ${escapeHtml(cm.label)}</span>
+            <span class="pill platform-${escapeHtml(j.platform)}">${escapeHtml(j.platform)}</span>
             ${j.location ? `<span>📍 ${escapeHtml(j.location)}</span>` : ""}
           </div>
         </div>
-        <div>
-          <div class="job-salary ${salaryClass}">${escapeHtml(salaryDisplay)}</div>
+        <div class="job-right">
+          <div class="job-salary ${salaryClass}">${escapeHtml(j.salary || "—")}</div>
           <div class="job-date">${escapeHtml(j.posted_at || "")}</div>
         </div>
       </article>`;
@@ -381,6 +697,7 @@ function escapeHtml(s) {
 }
 
 function render() {
+  renderStats();
   renderMeta();
   renderTabs();
   renderList();
@@ -388,6 +705,18 @@ function render() {
 
 ["q", "salary-type", "min-salary", "sort"].forEach(id => {
   document.getElementById(id).addEventListener("input", renderList);
+});
+
+// Keyboard shortcut: `/` to focus search
+document.addEventListener("keydown", (e) => {
+  if (e.key === "/" && !e.target.matches("input, select, textarea")) {
+    e.preventDefault();
+    document.getElementById("q").focus();
+  }
+  if (e.key === "Escape" && document.activeElement === document.getElementById("q")) {
+    document.getElementById("q").value = "";
+    renderList();
+  }
 });
 
 load();

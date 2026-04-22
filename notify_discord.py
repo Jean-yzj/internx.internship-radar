@@ -1,12 +1,16 @@
-"""將每日實習資料推到 Discord 頻道。
+"""將每日實習推到 Discord（以 embed 分類呈現）。
 
-讀取 scrape_internships.py 產生的 JSON，分類後發送：
-  1. 科技業（優先）
-  2. 金融／管顧
-  3. 其他
+讀取 scrape_internships.py 產生的 JSON，每日選出最多 50 筆，
+依 categories.py 的分類分組送出 — 供行銷同仁產出 Thread 貼文用。
 
-Webhook URL 必須放在環境變數 DISCORD_WEBHOOK_URL，絕不寫在程式碼中。
+選擇演算法：
+  - 若總筆數 ≤ 50，全部發出
+  - 否則按各分類 top_n 配額挑選，不足的名額再按優先順序補給科技類
+  - 每個分類內排序：first_seen 新的優先 → salary 高的優先
+
+Webhook URL 必須放在環境變數 DISCORD_WEBHOOK_URL。
 """
+
 from __future__ import annotations
 
 import argparse
@@ -18,94 +22,146 @@ import time
 
 import requests
 
-
-TECH_KEYWORDS = [
-    # 職務
-    "工程師", "engineer", "developer", "開發", "程式", "軟體", "software",
-    "資料", "data", "人工智慧", "機器學習", "深度學習",
-    "研發", "r&d", "前端", "frontend", "後端", "backend",
-    "full stack", "full-stack", "全端", "devops", "sre", "qa",
-    "測試工程", "自動化", "ux", "ui",
-    "技術", "tech", "資訊", "演算法", "algorithm",
-    "雲端", "cloud", "資安", "security", "網路工程",
-    "ios", "android", "mobile", "app開發",
-    "數據", "database",
-]
-
-TECH_KEYWORDS_EXACT = [" ai ", "ai實習", "ai工程", "ml實習", "ml工程"]
-
-FINANCE_CONSULTING_KEYWORDS = [
-    "金融", "finance", "financial", "銀行", "bank",
-    "投資", "investment", "證券", "securities", "基金", "fund",
-    "保險", "insurance", "管顧", "consulting", "consultant", "顧問",
-    "策略", "strategy", "會計", "accounting", "審計", "audit",
-    "m&a", "併購", "財務", "treasury", "精算", "actuarial",
-    "交易員", "trading", "trader", "風控", "信貸", "理財",
-]
+from categories import CATEGORIES, CATEGORY_BY_KEY, color_int
 
 
-def categorize(job: dict) -> str:
-    hay = " ".join([
-        (job.get("title") or "").lower(),
-        (job.get("company") or "").lower(),
-        (job.get("description") or "").lower(),
-    ])
-    padded = f" {hay} "
-    if any(k in hay for k in TECH_KEYWORDS) or any(k in padded for k in TECH_KEYWORDS_EXACT):
-        return "tech"
-    if any(k in hay for k in FINANCE_CONSULTING_KEYWORDS):
-        return "finance"
-    return "other"
+MAX_JOBS = 50
+EMBED_DESC_LIMIT = 4000
+EMBEDS_PER_MESSAGE = 10
+TOTAL_EMBED_CHARS_PER_MESSAGE = 5800
 
 
-def format_job_line(j: dict) -> str:
-    title = j.get("title") or "—"
+def select_top(jobs: list[dict], limit: int = MAX_JOBS) -> dict[str, list[dict]]:
+    """回傳 {category_key: [jobs]}（順序與 CATEGORIES 一致，空類別略過）。"""
+    buckets: dict[str, list[dict]] = {c["key"]: [] for c in CATEGORIES}
+    for j in jobs:
+        key = j.get("category") or "other"
+        buckets.setdefault(key, []).append(j)
+
+    # 分類內排序：first_seen 新 → salary 高
+    def job_score(j: dict):
+        fs = j.get("first_seen") or ""
+        sal = j.get("salary_min") or 0
+        return (fs, sal)
+    for k in buckets:
+        buckets[k].sort(key=job_score, reverse=True)
+
+    if len(jobs) <= limit:
+        return {k: v for k, v in buckets.items() if v}
+
+    # 依 top_n 配額挑選
+    selected: dict[str, list[dict]] = {}
+    used = 0
+    for cat in CATEGORIES:
+        key = cat["key"]
+        quota = cat.get("top_n", 0)
+        if quota <= 0 or not buckets.get(key):
+            continue
+        take = min(quota, len(buckets[key]))
+        selected[key] = buckets[key][:take]
+        used += take
+        if used >= limit:
+            break
+
+    # 配額沒填滿的名額：按優先順序補（取各類別剩下的）
+    remaining = limit - used
+    if remaining > 0:
+        for cat in CATEGORIES:
+            key = cat["key"]
+            if remaining <= 0:
+                break
+            pool = buckets.get(key, [])
+            already = len(selected.get(key, []))
+            extra = pool[already:already + remaining]
+            if extra:
+                selected.setdefault(key, []).extend(extra)
+                remaining -= len(extra)
+
+    return selected
+
+
+def format_job(j: dict) -> str:
+    title = (j.get("title") or "—").replace("\n", " ").strip()
     url = j.get("url") or ""
-    head = f"[**{title}**](<{url}>)" if url else f"**{title}**"
-    head += f" · {j.get('company') or '—'}"
+    is_new = j.get("first_seen") == dt.date.today().isoformat()
+    head = f"**[{title}]({url})**" if url else f"**{title}**"
+    if is_new:
+        head = f"✨ {head}"
 
-    meta_parts = []
+    company = (j.get("company") or "").strip()
+    location = (j.get("location") or "").strip()
+    line2_parts = []
+    if company:
+        line2_parts.append(f"🏢 {company}")
+    if location:
+        line2_parts.append(f"📍 {location}")
+    line2 = " · ".join(line2_parts)
+
+    line3_parts = []
     if j.get("salary"):
-        meta_parts.append(f"💰 {j['salary']}")
-    if j.get("location"):
-        meta_parts.append(f"📍 {j['location']}")
-    if j.get("posted_at"):
-        meta_parts.append(f"🗓 {j['posted_at']}")
-    meta_parts.append(f"_{j.get('platform', '?')}_")
-    return f"• {head}\n  {' · '.join(meta_parts)}"
+        line3_parts.append(f"💰 {j['salary']}")
+    line3_parts.append(f"_{j.get('platform', '?')}_")
+    line3 = " · ".join(line3_parts)
+
+    parts = [head]
+    if line2:
+        parts.append(line2)
+    parts.append(line3)
+    return "\n".join(parts)
 
 
-def chunk_messages(
-    header: str,
-    sections: list[tuple[str, list[dict]]],
-    max_len: int = 1900,
-) -> list[str]:
-    """將 header + 多個 section 切成 <=max_len 字的訊息陣列。"""
-    messages: list[str] = []
-    current = header
-    for section_title, jobs in sections:
-        block = f"\n\n━━━━━━━━━━━━━━━━\n{section_title}"
-        if len(current) + len(block) > max_len:
-            messages.append(current)
-            current = block.lstrip()
-        else:
-            current += block
+def build_embeds(selected: dict[str, list[dict]]) -> list[dict]:
+    embeds: list[dict] = []
+    for cat in CATEGORIES:
+        key = cat["key"]
+        jobs = selected.get(key) or []
+        if not jobs:
+            continue
+        # 切 block，單 embed description <= 4000 字
+        blocks: list[list[str]] = [[]]
+        cur_len = 0
         for j in jobs:
-            line = "\n" + format_job_line(j)
-            if len(current) + len(line) > max_len:
-                messages.append(current)
-                current = line.lstrip()
-            else:
-                current += line
-    if current.strip():
-        messages.append(current)
-    return messages
+            txt = format_job(j)
+            if cur_len + len(txt) + 2 > EMBED_DESC_LIMIT and blocks[-1]:
+                blocks.append([])
+                cur_len = 0
+            blocks[-1].append(txt)
+            cur_len += len(txt) + 2
+        total_blocks = len(blocks)
+        for i, blk in enumerate(blocks):
+            if not blk:
+                continue
+            suffix = "" if total_blocks == 1 else f" ({i + 1}/{total_blocks})"
+            embeds.append({
+                "title": f"{cat['emoji']} {cat['label']} · {len(jobs)} 筆{suffix}",
+                "description": "\n\n".join(blk),
+                "color": color_int(key),
+            })
+    return embeds
 
 
-def post(webhook: str, content: str) -> None:
-    payload = {"content": content, "allowed_mentions": {"parse": []}}
-    for attempt in range(3):
-        r = requests.post(webhook, json=payload, timeout=15)
+def chunk_embeds(embeds: list[dict]) -> list[list[dict]]:
+    batches: list[list[dict]] = [[]]
+    cur_chars = 0
+    for emb in embeds:
+        cost = len(emb.get("title", "")) + len(emb.get("description", ""))
+        if (len(batches[-1]) >= EMBEDS_PER_MESSAGE
+                or cur_chars + cost > TOTAL_EMBED_CHARS_PER_MESSAGE):
+            batches.append([])
+            cur_chars = 0
+        batches[-1].append(emb)
+        cur_chars += cost
+    return [b for b in batches if b]
+
+
+def post(webhook: str, content: str | None = None, embeds: list[dict] | None = None) -> None:
+    payload: dict = {"allowed_mentions": {"parse": []}}
+    if content:
+        payload["content"] = content
+    if embeds:
+        payload["embeds"] = embeds
+    for _ in range(3):
+        r = requests.post(webhook, json=payload, timeout=20)
         if r.status_code == 429:
             try:
                 wait = float(r.json().get("retry_after", 1))
@@ -120,7 +176,7 @@ def post(webhook: str, content: str) -> None:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("input", nargs="?", default="data/internships.json")
+    ap.add_argument("input", nargs="?", default="data/new_today.json")
     args = ap.parse_args()
 
     webhook = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
@@ -131,42 +187,44 @@ def main() -> int:
     with open(args.input, "r", encoding="utf-8") as f:
         data = json.load(f)
 
-    jobs = data.get("jobs", [])
+    jobs = data.get("jobs", []) or []
     today = dt.date.today().isoformat()
-    days = (data.get("params") or {}).get("days", 7)
 
     if not jobs:
-        post(
-            webhook,
-            f"🎯 **實習雷達 · {today}**\n"
-            f"今天沒有符合條件的新職缺（過去 {days} 天內上架、有明確薪資）。",
-        )
+        post(webhook,
+             content=f"🎯 **實習雷達 · {today}**\n今天沒有新發現的實習職缺。")
+        print("Posted empty-day notice.")
         return 0
 
-    buckets: dict[str, list[dict]] = {"tech": [], "finance": [], "other": []}
-    for j in jobs:
-        buckets[categorize(j)].append(j)
+    selected = select_top(jobs, MAX_JOBS)
+    total_selected = sum(len(v) for v in selected.values())
+    total_available = len(jobs)
+
+    # Header：統計 + 說明
+    cat_counts_text = " / ".join(
+        f"{CATEGORY_BY_KEY[k]['emoji']}{len(v)}"
+        for k in [c["key"] for c in CATEGORIES]
+        if (v := selected.get(k))
+    )
+    truncated_note = ""
+    if total_available > total_selected:
+        truncated_note = f"（共發現 {total_available} 筆，精選前 {total_selected} 筆）"
 
     header = (
         f"🎯 **實習雷達 · {today}**\n"
-        f"來源：104 / CakeResume / Yourator · 過去 {days} 天上架 · 有明確薪資\n"
-        f"共 **{len(jobs)}** 筆 · "
-        f"科技 {len(buckets['tech'])} / 金融管顧 {len(buckets['finance'])} / 其他 {len(buckets['other'])}"
+        f"本次推播 **{total_selected}** 筆{truncated_note}\n"
+        f"{cat_counts_text}"
     )
 
-    sections = [
-        (f"💻 **科技業（{len(buckets['tech'])} 筆）**", buckets["tech"]),
-        (f"💰 **金融／管顧（{len(buckets['finance'])} 筆）**", buckets["finance"]),
-        (f"📋 **其他（{len(buckets['other'])} 筆）**", buckets["other"]),
-    ]
-    sections = [(t, js) for t, js in sections if js]
+    embeds = build_embeds(selected)
+    batches = chunk_embeds(embeds)
 
-    messages = chunk_messages(header, sections)
-    for i, msg in enumerate(messages):
-        post(webhook, msg)
-        if i < len(messages) - 1:
-            time.sleep(0.6)
-    print(f"Posted {len(messages)} message(s), {len(jobs)} jobs total.")
+    for i, batch in enumerate(batches):
+        post(webhook, content=header if i == 0 else None, embeds=batch)
+        if i < len(batches) - 1:
+            time.sleep(0.7)
+
+    print(f"Posted {len(batches)} message(s) / {len(embeds)} embed(s) / {total_selected} jobs.")
     return 0
 
 
