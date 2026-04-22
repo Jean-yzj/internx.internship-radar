@@ -7,20 +7,46 @@
 
 分類按「大學生投遞熱度」由高到低排序；排在前面的優先 match，
 且 Discord 會分配較多名額。
+
+注意分類順序影響 first-match 判定：
+  - engineering（硬體／機電工程）放在 tech 之前，讓「機械工程師」、
+    「半導體製程」這類職缺命中 engineering 而非落到 tech。
+  - tech 的 keywords 裡保留 "engineer" 作為 fallback — 經過 engineering
+    精準關鍵字之後才到 tech，所以純 "Engineer Intern" 仍會歸類在 tech。
 """
 
 from __future__ import annotations
 
-# 排序代表 (a) 前端分類 tab 顯示順序、(b) 分類判斷優先順序 (first match wins)、(c) Discord 優先。
-# top_n 是 Discord 每日前 50 的名額分配（總和 50；實際少於此數會自動 shrink）。
 
 CATEGORIES: list[dict] = [
+    {
+        "key": "engineering",
+        "label": "工程（機電）",
+        "emoji": "🔧",
+        "color": "#0369a1",
+        "top_n": 3,
+        "keywords_contain": [
+            "機械工程", "mechanical engineer", "機械設計",
+            "電機工程", "electrical engineer", "電子工程", "electronics engineer",
+            "土木工程", "civil engineer", "結構工程", "structural engineer",
+            "化工工程", "chemical engineer", "化學工程",
+            "材料工程", "materials engineer",
+            "半導體", "semiconductor",
+            "製程工程", "process engineer",
+            "設備工程", "equipment engineer",
+            "廠務工程", "facility engineer",
+            "光電", "photonics",
+            "ic 設計", "ic design", "晶圓", "wafer",
+            "光學工程", "optics engineer",
+            "生產工程", "production engineer",
+        ],
+    },
     {
         "key": "tech",
         "label": "科技／軟體",
         "emoji": "💻",
         "color": "#2563eb",
-        "top_n": 10,
+        "top_n": 8,
         "keywords_exact": [" ai ", "ai實習", "ai工程", "ai應用", "ml實習", "ml工程",
                            " ios ", " android ", " ml "],
         "keywords_contain": [
@@ -47,7 +73,7 @@ CATEGORIES: list[dict] = [
         "label": "資料分析",
         "emoji": "📊",
         "color": "#14b8a6",
-        "top_n": 4,
+        "top_n": 3,
         "keywords_contain": [
             "資料分析", "data analyst", "data analysis",
             "數據分析", "business analyst", "商業分析",
@@ -71,11 +97,50 @@ CATEGORIES: list[dict] = [
         ],
     },
     {
+        "key": "biotech",
+        "label": "生技／製藥",
+        "emoji": "🧬",
+        "color": "#4d7c0f",
+        "top_n": 1,
+        "keywords_contain": [
+            "生物技術", "biotechnology", "biotech",
+            "生技", "biology", "生物實驗", "生醫",
+            "biomedical", "生物醫學",
+            "製藥", "pharmaceutical", "pharma", "藥廠",
+            "生化", "biochem", "biochemistry",
+            "分子生物", "molecular biology",
+            "細胞培養", "cell culture",
+            "基因", "genomics", "gene editing",
+            "clinical trial", "臨床試驗", "新藥研發",
+        ],
+    },
+    {
+        "key": "healthcare",
+        "label": "醫療／健康",
+        "emoji": "🏥",
+        "color": "#db2777",
+        "top_n": 1,
+        "keywords_contain": [
+            "醫療", "medical", "healthcare",
+            "護理", "nursing", "nurse",
+            "臨床", "clinical",
+            "藥師", "pharmacist",
+            "藥局", "pharmacy",
+            "物理治療", "physical therapy",
+            "職能治療", "occupational therapy",
+            "營養師", "dietitian", "nutritionist",
+            "診所", "clinic", "醫院", "hospital",
+            "公衛", "public health",
+            "長照", "long-term care",
+            "復健",
+        ],
+    },
+    {
         "key": "finance",
         "label": "金融",
         "emoji": "💰",
         "color": "#f59e0b",
-        "top_n": 5,
+        "top_n": 4,
         "keywords_contain": [
             "金融", "financial", "finance",
             "銀行", "bank", "banking",
@@ -99,7 +164,7 @@ CATEGORIES: list[dict] = [
         "label": "管顧／策略",
         "emoji": "🧭",
         "color": "#ec4899",
-        "top_n": 4,
+        "top_n": 3,
         "keywords_contain": [
             "管顧", "consulting", "consultant", "顧問",
             "策略", "strategy", "strategic",
@@ -112,7 +177,7 @@ CATEGORIES: list[dict] = [
         "label": "行銷／品牌",
         "emoji": "📣",
         "color": "#dc2626",
-        "top_n": 5,
+        "top_n": 4,
         "keywords_contain": [
             "行銷", "marketing", "marketer",
             "品牌", "brand",
@@ -133,7 +198,7 @@ CATEGORIES: list[dict] = [
         "label": "內容／媒體",
         "emoji": "✍️",
         "color": "#10b981",
-        "top_n": 3,
+        "top_n": 2,
         "keywords_contain": [
             "內容", "content",
             "編輯", "editor", "editorial",
@@ -146,24 +211,6 @@ CATEGORIES: list[dict] = [
             "podcast", "直播", "主持",
             "編導", "節目",
             "自媒體",
-        ],
-    },
-    {
-        "key": "design",
-        "label": "設計／UIUX",
-        "emoji": "🎨",
-        "color": "#f472b6",
-        "top_n": 3,
-        "keywords_contain": [
-            "設計師", "designer", "design intern",
-            "視覺", "visual",
-            "ui/ux", "uiux", " ux ", " ui ",
-            "user experience", "user interface",
-            "平面設計", "graphic design",
-            "插畫", "illustration",
-            "美術", "art director",
-            "動畫", "motion graphics",
-            "工業設計", "industrial design",
         ],
     },
     {
@@ -184,11 +231,30 @@ CATEGORIES: list[dict] = [
         ],
     },
     {
+        "key": "design",
+        "label": "設計／UIUX",
+        "emoji": "🎨",
+        "color": "#f472b6",
+        "top_n": 3,
+        "keywords_contain": [
+            "設計師", "designer", "design intern",
+            "視覺", "visual",
+            "ui/ux", "uiux", " ux ", " ui ",
+            "user experience", "user interface",
+            "平面設計", "graphic design",
+            "插畫", "illustration",
+            "美術", "art director",
+            "動畫", "motion graphics",
+            "工業設計", "industrial design",
+            "室內設計", "interior design",
+        ],
+    },
+    {
         "key": "hr",
         "label": "人資",
         "emoji": "👥",
         "color": "#6366f1",
-        "top_n": 3,
+        "top_n": 2,
         "keywords_contain": [
             "人資", "hr intern", "hr實習",
             "human resources",
@@ -214,6 +280,25 @@ CATEGORIES: list[dict] = [
             "稅務", "tax",
             "內控", "內部稽核", "internal control", "internal audit",
             "帳務", "出納",
+        ],
+    },
+    {
+        "key": "education",
+        "label": "教育／輔導",
+        "emoji": "📚",
+        "color": "#0891b2",
+        "top_n": 1,
+        "keywords_contain": [
+            "家教", "tutor", "tutoring",
+            "教學助理", "teaching assistant", "ta實習",
+            "輔導", "課輔",
+            "補教", "補習班",
+            "教學實習", "實習老師", "實習教師",
+            "師培", "師資培育",
+            "課程設計", "curriculum",
+            "教練", "coach",
+            "教務", "教案",
+            "instructor",
         ],
     },
     {
@@ -247,6 +332,21 @@ CATEGORIES: list[dict] = [
         ],
     },
     {
+        "key": "manufacturing",
+        "label": "生產／製造",
+        "emoji": "🏭",
+        "color": "#ea580c",
+        "top_n": 1,
+        "keywords_contain": [
+            "生產製造", "生產線", "manufacturing",
+            "工廠", "factory", "plant operator",
+            "品管", "品保", "quality control", "quality assurance engineer",
+            " qc ",
+            "工安", "環安", "安全衛生", "ehs",
+            "製程操作", "機台操作",
+        ],
+    },
+    {
         "key": "supply_chain",
         "label": "供應鏈",
         "emoji": "📦",
@@ -260,6 +360,24 @@ CATEGORIES: list[dict] = [
             "貿易", "trade operation",
             "空運", "海運", "air freight", "sea freight",
             "進出口", "出口", "報關", "customs",
+        ],
+    },
+    {
+        "key": "hospitality",
+        "label": "餐飲／旅遊",
+        "emoji": "🍽️",
+        "color": "#d946ef",
+        "top_n": 1,
+        "keywords_contain": [
+            "餐飲", "f&b", "restaurant", "餐廳",
+            "烘焙", "bakery",
+            "咖啡", "barista", "咖啡廳",
+            "廚房", "廚師", "chef",
+            "飯店", "hotel", "酒店", "旅館",
+            "民宿", "bnb",
+            "旅行社", "travel agency",
+            "觀光", "tourism", "旅遊",
+            "會展", "exhibition",
         ],
     },
     {
@@ -312,13 +430,11 @@ def categorize(title: str, company: str, description: str) -> str:
     hit = match(t)
     if hit:
         return hit
-    # 退一步：title + description
     hit = match(f"{t} {(description or '').lower()}")
     return hit or "other"
 
 
 def hex_to_int(hex_color: str) -> int:
-    """Discord embed color 要整數 (0xRRGGBB)。"""
     return int(hex_color.lstrip("#"), 16)
 
 

@@ -564,10 +564,25 @@
         <option value="50000">月薪 50k+</option>
       </select>
       <select id="sort">
-        <option value="category">🎯 科技優先</option>
-        <option value="date">📅 最新上架</option>
-        <option value="salary">💰 薪資高到低</option>
-        <option value="company">🏢 公司 A-Z</option>
+        <optgroup label="推薦">
+          <option value="category">🎯 分類優先（預設）</option>
+        </optgroup>
+        <optgroup label="薪資">
+          <option value="salary-desc">💰 薪資 高→低</option>
+          <option value="salary-asc">💰 薪資 低→高</option>
+        </optgroup>
+        <optgroup label="上架日">
+          <option value="date-desc">📅 最新上架</option>
+          <option value="date-asc">📅 最舊上架</option>
+        </optgroup>
+        <optgroup label="發現日">
+          <option value="first_seen-desc">✨ 最新發現</option>
+          <option value="first_seen-asc">✨ 最早發現</option>
+        </optgroup>
+        <optgroup label="公司">
+          <option value="company-asc">🏢 公司 A→Z</option>
+          <option value="company-desc">🏢 公司 Z→A</option>
+        </optgroup>
       </select>
     </div>
   </div>
@@ -732,15 +747,33 @@ function renderList() {
   });
 
   list.sort((a, b) => {
-    if (sortBy === "salary")  return (b.salary_min || 0) - (a.salary_min || 0);
-    if (sortBy === "company") return (a.company || "").localeCompare(b.company || "");
-    if (sortBy === "date")    return (b.posted_at || "").localeCompare(a.posted_at || "");
-    // 分類優先順序（大學生投遞熱度） → first_seen 新的 → 薪資高的
-    const c = (catOrder[a.category] ?? 99) - (catOrder[b.category] ?? 99);
-    if (c !== 0) return c;
-    const fs = (b.first_seen || "").localeCompare(a.first_seen || "");
-    if (fs !== 0) return fs;
-    return (b.salary_min || 0) - (a.salary_min || 0);
+    if (sortBy === "category") {
+      // 分類優先順序（大學生投遞熱度） → first_seen 新 → 薪資高
+      const c = (catOrder[a.category] ?? 99) - (catOrder[b.category] ?? 99);
+      if (c !== 0) return c;
+      const fs = (b.first_seen || "").localeCompare(a.first_seen || "");
+      if (fs !== 0) return fs;
+      return (b.salary_min || 0) - (a.salary_min || 0);
+    }
+
+    // field-direction 格式，例如 "salary-desc" / "company-asc"
+    const dashIdx = sortBy.lastIndexOf("-");
+    const field = dashIdx > 0 ? sortBy.slice(0, dashIdx) : sortBy;
+    const dir = sortBy.slice(dashIdx + 1) === "asc" ? 1 : -1;
+
+    if (field === "salary") {
+      return ((a.salary_min || 0) - (b.salary_min || 0)) * dir;
+    }
+    if (field === "company") {
+      return (a.company || "").localeCompare(b.company || "") * dir;
+    }
+    if (field === "date") {
+      return (a.posted_at || "").localeCompare(b.posted_at || "") * dir;
+    }
+    if (field === "first_seen") {
+      return (a.first_seen || "").localeCompare(b.first_seen || "") * dir;
+    }
+    return 0;
   });
 
   const totalJobs = (data.jobs || []).length;
