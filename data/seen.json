@@ -1,186 +1,561 @@
 {
-  "last_updated": "2026-04-23T00:33:02",
+  "last_updated": "2026-04-23T01:28:26",
   "urls": {
-    "https://www.104.com.tw/job/8zro8": "2026-04-23",
-    "https://www.104.com.tw/job/90de4": "2026-04-23",
-    "https://www.104.com.tw/job/6e6pv": "2026-04-23",
-    "https://www.104.com.tw/job/4sp7h": "2026-04-23",
-    "https://www.104.com.tw/job/6jt87": "2026-04-23",
-    "https://www.104.com.tw/job/m9cv": "2026-04-23",
-    "https://www.104.com.tw/job/7xk0a": "2026-04-23",
-    "https://www.104.com.tw/job/8brld": "2026-04-23",
-    "https://www.104.com.tw/job/82rx5": "2026-04-23",
-    "https://www.104.com.tw/job/8brle": "2026-04-23",
-    "https://www.104.com.tw/job/8ox1g": "2026-04-23",
-    "https://www.104.com.tw/job/83183": "2026-04-23",
-    "https://www.104.com.tw/job/82rxk": "2026-04-23",
-    "https://www.104.com.tw/job/8nct7": "2026-04-23",
-    "https://www.104.com.tw/job/90b3g": "2026-04-23",
-    "https://www.104.com.tw/job/8ywii": "2026-04-23",
-    "https://www.104.com.tw/job/7z1o3": "2026-04-23",
-    "https://www.104.com.tw/job/8a1hq": "2026-04-23",
-    "https://www.104.com.tw/job/7uhw8": "2026-04-23",
-    "https://www.104.com.tw/job/8vmkp": "2026-04-23",
-    "https://www.104.com.tw/job/90s2z": "2026-04-23",
-    "https://www.104.com.tw/job/8t07r": "2026-04-23",
-    "https://www.104.com.tw/job/90qzz": "2026-04-23",
-    "https://www.104.com.tw/job/90scx": "2026-04-23",
-    "https://www.104.com.tw/job/7pgb2": "2026-04-23",
-    "https://www.104.com.tw/job/90s3q": "2026-04-23",
-    "https://www.104.com.tw/job/90qt0": "2026-04-23",
-    "https://www.104.com.tw/job/90qro": "2026-04-23",
-    "https://www.104.com.tw/job/7ml9u": "2026-04-23",
-    "https://www.104.com.tw/job/817zm": "2026-04-23",
-    "https://www.104.com.tw/job/8ywn6": "2026-04-23",
-    "https://www.104.com.tw/job/8ytrq": "2026-04-23",
-    "https://www.104.com.tw/job/8yaoo": "2026-04-23",
-    "https://www.104.com.tw/job/8o0sj": "2026-04-23",
-    "https://www.104.com.tw/job/90rqt": "2026-04-23",
-    "https://www.104.com.tw/job/90rkq": "2026-04-23",
-    "https://www.104.com.tw/job/7xf26": "2026-04-23",
-    "https://www.104.com.tw/job/7tqng": "2026-04-23",
-    "https://www.104.com.tw/job/862sc": "2026-04-23",
-    "https://www.104.com.tw/job/8p7qc": "2026-04-23",
-    "https://www.104.com.tw/job/89i6v": "2026-04-23",
-    "https://www.104.com.tw/job/90ehx": "2026-04-23",
-    "https://www.104.com.tw/job/90rnx": "2026-04-23",
-    "https://www.104.com.tw/job/7kx2c": "2026-04-23",
-    "https://www.104.com.tw/job/8oe7d": "2026-04-23",
-    "https://www.104.com.tw/job/6q6y5": "2026-04-23",
-    "https://www.104.com.tw/job/8yalw": "2026-04-23",
-    "https://www.104.com.tw/job/8yamp": "2026-04-23",
-    "https://www.104.com.tw/job/7atvv": "2026-04-23",
-    "https://www.104.com.tw/job/907rs": "2026-04-23",
-    "https://www.104.com.tw/job/8t24m": "2026-04-23",
-    "https://www.104.com.tw/job/8yb0w": "2026-04-23",
-    "https://www.104.com.tw/job/8yax0": "2026-04-23",
-    "https://www.104.com.tw/job/90scm": "2026-04-23",
-    "https://www.104.com.tw/job/90gey": "2026-04-23",
-    "https://www.104.com.tw/job/6o0as": "2026-04-23",
-    "https://www.104.com.tw/job/75em5": "2026-04-23",
-    "https://www.104.com.tw/job/907x2": "2026-04-23",
-    "https://www.104.com.tw/job/90scj": "2026-04-23",
-    "https://www.104.com.tw/job/8wiaf": "2026-04-23",
-    "https://www.104.com.tw/job/8mtcf": "2026-04-23",
-    "https://www.104.com.tw/job/90rki": "2026-04-23",
-    "https://www.104.com.tw/job/7xf20": "2026-04-23",
-    "https://www.104.com.tw/job/8x5i6": "2026-04-23",
-    "https://www.104.com.tw/job/90qu2": "2026-04-23",
-    "https://www.104.com.tw/job/90rrr": "2026-04-23",
-    "https://www.104.com.tw/job/90h5b": "2026-04-23",
-    "https://www.104.com.tw/job/8wia9": "2026-04-23",
-    "https://www.104.com.tw/job/896jd": "2026-04-23",
-    "https://www.104.com.tw/job/8zf73": "2026-04-23",
-    "https://www.104.com.tw/job/8yam4": "2026-04-23",
-    "https://www.104.com.tw/job/8x3ro": "2026-04-23",
-    "https://www.104.com.tw/job/77g48": "2026-04-23",
-    "https://www.104.com.tw/job/90rn6": "2026-04-23",
-    "https://www.104.com.tw/job/7nkq5": "2026-04-23",
-    "https://www.104.com.tw/job/8ytyl": "2026-04-23",
-    "https://www.104.com.tw/job/8wdsq": "2026-04-23",
-    "https://www.104.com.tw/job/8yamb": "2026-04-23",
-    "https://www.104.com.tw/job/907g3": "2026-04-23",
-    "https://www.104.com.tw/job/8wu0t": "2026-04-23",
-    "https://www.104.com.tw/job/90g3e": "2026-04-23",
-    "https://www.104.com.tw/job/8orri": "2026-04-23",
-    "https://www.104.com.tw/job/8tipb": "2026-04-23",
-    "https://www.104.com.tw/job/8yb1s": "2026-04-23",
-    "https://www.104.com.tw/job/907ut": "2026-04-23",
-    "https://www.104.com.tw/job/9083h": "2026-04-23",
-    "https://www.104.com.tw/job/8yaxb": "2026-04-23",
-    "https://www.104.com.tw/job/90rd8": "2026-04-23",
-    "https://www.104.com.tw/job/90rd6": "2026-04-23",
-    "https://www.104.com.tw/job/90rd4": "2026-04-23",
-    "https://www.104.com.tw/job/90rd1": "2026-04-23",
-    "https://www.104.com.tw/job/90rd0": "2026-04-23",
-    "https://www.104.com.tw/job/90rcy": "2026-04-23",
-    "https://www.104.com.tw/job/908mn": "2026-04-23",
-    "https://www.104.com.tw/job/90rcu": "2026-04-23",
-    "https://www.104.com.tw/job/90rcp": "2026-04-23",
-    "https://www.104.com.tw/job/8oru3": "2026-04-23",
-    "https://www.104.com.tw/job/90qun": "2026-04-23",
-    "https://www.104.com.tw/job/8yaoh": "2026-04-23",
-    "https://www.104.com.tw/job/63qai": "2026-04-23",
-    "https://www.104.com.tw/job/7vwz4": "2026-04-23",
-    "https://www.104.com.tw/job/71csz": "2026-04-23",
-    "https://www.104.com.tw/job/8w9re": "2026-04-23",
-    "https://www.104.com.tw/job/8yaoj": "2026-04-23",
-    "https://www.104.com.tw/job/8vett": "2026-04-23",
-    "https://www.104.com.tw/job/8pume": "2026-04-23",
-    "https://www.104.com.tw/job/7frja": "2026-04-23",
-    "https://www.104.com.tw/job/8zk6j": "2026-04-23",
-    "https://www.104.com.tw/job/8yawv": "2026-04-23",
-    "https://www.104.com.tw/job/8y3pi": "2026-04-23",
-    "https://www.104.com.tw/job/7n6r8": "2026-04-23",
-    "https://www.104.com.tw/job/82h5h": "2026-04-23",
-    "https://www.104.com.tw/job/908ns": "2026-04-23",
-    "https://www.104.com.tw/job/7444x": "2026-04-23",
-    "https://www.104.com.tw/job/6xppg": "2026-04-23",
-    "https://www.104.com.tw/job/8lkp3": "2026-04-23",
-    "https://www.104.com.tw/job/7zqd9": "2026-04-23",
-    "https://www.yourator.co/companies/AmazingTalker/jobs/20938": "2026-04-23",
-    "https://www.yourator.co/companies/AAMA/jobs/29605": "2026-04-23",
-    "https://www.yourator.co/companies/JunyiAcademy/jobs/46638": "2026-04-23",
-    "https://www.yourator.co/companies/PChome/jobs/40580": "2026-04-23",
-    "https://www.yourator.co/companies/Yourator/jobs/46508": "2026-04-23",
-    "https://www.yourator.co/companies/Aidmics/jobs/35058": "2026-04-23",
-    "https://www.yourator.co/companies/may4s/jobs/38139": "2026-04-23",
-    "https://www.yourator.co/companies/shopline/jobs/40842": "2026-04-23",
-    "https://www.yourator.co/companies/shopline/jobs/24396": "2026-04-23",
-    "https://www.yourator.co/companies/shopline/jobs/34132": "2026-04-23",
-    "https://www.yourator.co/companies/PicCollage/jobs/41551": "2026-04-23",
-    "https://www.yourator.co/companies/PicCollage/jobs/38293": "2026-04-23",
-    "https://www.yourator.co/companies/PicCollage/jobs/38409": "2026-04-23",
-    "https://www.yourator.co/companies/AlleyPin/jobs/8737": "2026-04-23",
-    "https://www.yourator.co/companies/AlleyPin/jobs/46488": "2026-04-23",
-    "https://www.yourator.co/companies/PicCollage/jobs/46859": "2026-04-23",
-    "https://www.yourator.co/companies/25sprout/jobs/46821": "2026-04-23",
-    "https://www.yourator.co/companies/MrLiving/jobs/30234": "2026-04-23",
-    "https://www.yourator.co/companies/sudoresearch/jobs/46536": "2026-04-23",
-    "https://www.yourator.co/companies/sudoresearch/jobs/26012": "2026-04-23",
-    "https://www.yourator.co/companies/Dcard/jobs/6900": "2026-04-23",
-    "https://www.yourator.co/companies/Dcard/jobs/29871": "2026-04-23",
-    "https://www.yourator.co/companies/CLN/jobs/10962": "2026-04-23",
-    "https://www.yourator.co/companies/profetai/jobs/46837": "2026-04-23",
-    "https://www.yourator.co/companies/btse/jobs/42139": "2026-04-23",
-    "https://www.yourator.co/companies/upyoung/jobs/40272": "2026-04-23",
-    "https://www.yourator.co/companies/elaiksir/jobs/46534": "2026-04-23",
-    "https://www.yourator.co/companies/JunyiAcademy/jobs/46633": "2026-04-23",
-    "https://www.yourator.co/companies/jpcco/jobs/46816": "2026-04-23",
-    "https://www.yourator.co/companies/OakMega/jobs/29927": "2026-04-23",
-    "https://www.yourator.co/companies/may4s/jobs/40048": "2026-04-23",
-    "https://www.yourator.co/companies/may4s/jobs/32773": "2026-04-23",
-    "https://www.yourator.co/companies/JunyiAcademy/jobs/46637": "2026-04-23",
-    "https://www.yourator.co/companies/ogilvy/jobs/38113": "2026-04-23",
-    "https://www.yourator.co/companies/TOUCHWOW/jobs/28244": "2026-04-23",
-    "https://www.yourator.co/companies/bankofculture/jobs/14910": "2026-04-23",
-    "https://www.yourator.co/companies/bankofculture/jobs/14912": "2026-04-23",
-    "https://www.yourator.co/companies/Tripplus/jobs/26054": "2026-04-23",
-    "https://www.yourator.co/companies/Cathay-Financial-Holding/jobs/38990": "2026-04-23",
-    "https://www.yourator.co/companies/MrLiving/jobs/42123": "2026-04-23",
-    "https://www.yourator.co/companies/aift/jobs/32816": "2026-04-23",
-    "https://www.yourator.co/companies/aift/jobs/32817": "2026-04-23",
-    "https://www.yourator.co/companies/JunyiAcademy/jobs/46635": "2026-04-23",
-    "https://www.yourator.co/companies/JunyiAcademy/jobs/46595": "2026-04-23",
-    "https://www.yourator.co/companies/JunyiAcademy/jobs/46640": "2026-04-23",
-    "https://www.yourator.co/companies/JunyiAcademy/jobs/46636": "2026-04-23",
-    "https://www.yourator.co/companies/JunyiAcademy/jobs/46641": "2026-04-23",
-    "https://www.yourator.co/companies/JunyiAcademy/jobs/46639": "2026-04-23",
-    "https://www.yourator.co/companies/digitm/jobs/46681": "2026-04-23",
-    "https://www.yourator.co/companies/JunyiAcademy/jobs/46634": "2026-04-23",
-    "https://www.yourator.co/companies/Koka/jobs/42157": "2026-04-23",
-    "https://www.yourator.co/companies/upyoung/jobs/41112": "2026-04-23",
-    "https://www.yourator.co/companies/Aidmics/jobs/34956": "2026-04-23",
-    "https://www.yourator.co/companies/taiwanmobile/jobs/26757": "2026-04-23",
-    "https://www.yourator.co/companies/PChome/jobs/40581": "2026-04-23",
-    "https://www.yourator.co/companies/PChome/jobs/40538": "2026-04-23",
-    "https://www.yourator.co/companies/BOSCH/jobs/41960": "2026-04-23",
-    "https://www.yourator.co/companies/hourloop/jobs/41405": "2026-04-23",
-    "https://www.yourator.co/companies/hourloop/jobs/41387": "2026-04-23",
-    "https://www.yourator.co/companies/hourloop/jobs/41388": "2026-04-23",
-    "https://www.yourator.co/companies/hourloop/jobs/41493": "2026-04-23",
-    "https://www.yourator.co/companies/GliaCloud/jobs/46692": "2026-04-23",
-    "https://www.yourator.co/companies/7ELEVEn/jobs/43717": "2026-04-23",
-    "https://www.yourator.co/companies/ph2/jobs/46119": "2026-04-23"
+    "https://www.104.com.tw/job/6e6pv": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/4sp7h": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/6jt87": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/m9cv": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/7xk0a": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8brld": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/82rx5": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8brle": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8iaqr": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8ox1g": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/83183": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8iabv": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8iacg": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/82rxk": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8nct7": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8iacq": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/7z1o3": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8a1hq": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/7uhw8": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8vmkp": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/90s2z": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8t07r": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/90qzz": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/90scx": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/7pgb2": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/90s3q": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/90qt0": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/90qro": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/7ml9u": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8ywn6": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/817zm": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8ytrq": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8yaoo": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8o0sj": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/90rqt": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/90rkq": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/7xf26": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/7tqng": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/862sc": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8p7qc": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/89i6v": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/90ehx": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/90rnx": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/7kx2c": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8oe7d": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/6q6y5": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8yalw": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8yamp": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/7atvv": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/907rs": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8t24m": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8yb0w": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/8yax0": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/90scm": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/90gey": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/6o0as": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/75em5": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/907x2": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.104.com.tw/job/90scj": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/inline/jobs/account-operation-intern": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/inline/jobs/quality-assurance-internship": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/iscoollab/jobs/sales-intern": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/iscoollab/jobs/marketing-intern-6720f0": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/aift/jobs/045028": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/tsmc/jobs/2026-tsmc-dna-internship": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/bespo-marketing/jobs/marketing-planning-intern-301bf2": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/Google/jobs/102119429319336646-software-engineering-intern-phd-summer-2026-4c66e77bd0f331f6d0ffe5fc55e651": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/hour-loop/jobs/f19e15": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/qpp/jobs/r-amp-d-team_-ai-developer-copy-a02": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/unme-design/jobs/marketing-animal-intern": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/hububble/jobs/hbb-marketing-intern-program": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/meitu-740e16/jobs/th-vn-id-marketing-assistant": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/cake/jobs/business-operations-recruitment-project-intern": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/meitu-740e16/jobs/b06838": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.cake.me/companies/corporateconnections/jobs/corporateconnections-event-planning-intern": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/AmazingTalker/jobs/20938": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/AAMA/jobs/29605": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/JunyiAcademy/jobs/46638": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/PChome/jobs/40580": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/Yourator/jobs/46508": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/Aidmics/jobs/35058": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/may4s/jobs/38139": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/shopline/jobs/40842": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/shopline/jobs/24396": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/shopline/jobs/34132": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/PicCollage/jobs/41551": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/PicCollage/jobs/38293": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/PicCollage/jobs/38409": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/AlleyPin/jobs/8737": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/AlleyPin/jobs/46488": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/PicCollage/jobs/46859": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/25sprout/jobs/46821": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/MrLiving/jobs/30234": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/sudoresearch/jobs/46536": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/sudoresearch/jobs/26012": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/Dcard/jobs/6900": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/Dcard/jobs/29871": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/CLN/jobs/10962": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/profetai/jobs/46837": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/btse/jobs/42139": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/upyoung/jobs/40272": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/elaiksir/jobs/46534": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/JunyiAcademy/jobs/46633": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/jpcco/jobs/46816": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/OakMega/jobs/29927": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/may4s/jobs/40048": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/may4s/jobs/32773": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/JunyiAcademy/jobs/46637": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/ogilvy/jobs/38113": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/TOUCHWOW/jobs/28244": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/bankofculture/jobs/14910": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/bankofculture/jobs/14912": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/Tripplus/jobs/26054": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/Cathay-Financial-Holding/jobs/38990": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/MrLiving/jobs/42123": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/aift/jobs/32816": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/aift/jobs/32817": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/JunyiAcademy/jobs/46635": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/JunyiAcademy/jobs/46595": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/JunyiAcademy/jobs/46640": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/JunyiAcademy/jobs/46636": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/JunyiAcademy/jobs/46641": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/JunyiAcademy/jobs/46639": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/digitm/jobs/46681": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/JunyiAcademy/jobs/46634": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/Koka/jobs/42157": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/upyoung/jobs/41112": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/Aidmics/jobs/34956": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/taiwanmobile/jobs/26757": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/PChome/jobs/40581": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/PChome/jobs/40538": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/BOSCH/jobs/41960": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/hourloop/jobs/41405": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/hourloop/jobs/41387": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/hourloop/jobs/41388": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/hourloop/jobs/41493": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/GliaCloud/jobs/46692": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/7ELEVEn/jobs/43717": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    },
+    "https://www.yourator.co/companies/ph2/jobs/46119": {
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23"
+    }
   }
 }

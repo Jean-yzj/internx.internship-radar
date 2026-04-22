@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-04-23T00:33:02",
+  "generated_at": "2026-04-23T01:28:26",
   "params": {
     "days": null,
     "keyword": "實習",
-    "salary_filter": false
+    "salary_filter": false,
+    "llm_categorized": false
   },
   "summary": {
-    "total": 181,
-    "new_today": 181,
+    "total": 139,
+    "new_today": 139,
     "by_platform": {
-      "104": 117,
-      "CakeResume": 0,
+      "104": 59,
+      "CakeResume": 16,
       "Yourator": 64
     }
   },
@@ -20,14 +21,14 @@
       "label": "工程（機電）",
       "emoji": "🔧",
       "color": "#0369a1",
-      "count": 5
+      "count": 1
     },
     {
       "key": "tech",
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 39
+      "count": 33
     },
     {
       "key": "data",
@@ -41,7 +42,7 @@
       "label": "產品",
       "emoji": "🎯",
       "color": "#8b5cf6",
-      "count": 2
+      "count": 3
     },
     {
       "key": "biotech",
@@ -62,35 +63,35 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 7
+      "count": 3
     },
     {
       "key": "consulting",
       "label": "管顧／策略",
       "emoji": "🧭",
       "color": "#ec4899",
-      "count": 4
+      "count": 2
     },
     {
       "key": "marketing",
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 38
+      "count": 31
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 9
+      "count": 6
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 9
+      "count": 5
     },
     {
       "key": "design",
@@ -104,28 +105,28 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 7
+      "count": 9
     },
     {
       "key": "accounting",
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 7
+      "count": 3
     },
     {
       "key": "education",
       "label": "教育／輔導",
       "emoji": "📚",
       "color": "#0891b2",
-      "count": 3
+      "count": 2
     },
     {
       "key": "operations",
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 18
+      "count": 15
     },
     {
       "key": "legal",
@@ -146,14 +147,14 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 4
+      "count": 3
     },
     {
       "key": "hospitality",
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 9
+      "count": 7
     },
     {
       "key": "research",
@@ -167,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 10
+      "count": 6
     }
   ],
   "jobs": [
@@ -183,63 +184,9 @@
       "url": "https://www.104.com.tw/job/8p7qc",
       "description": " AutoCAD 為主要工具，實際參與以下項目，以符合業務營運需求：\n  • 學習完整的模板與施工架設計流程\n  • 執行基本的結構與機械分析(力學分析)\n  • 理解並應用相關的設計標準與規範\n  • 製作技術圖面與相關文件\n\n除了辦公室的設計工作外，實習內容",
       "category": "engineering",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "Panasonic_實習電子工程助理~2027/06",
-      "company": "台灣松下電腦股份有限公司",
-      "location": "新北市中和區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90h5b",
-      "description": "1.電氣：負責產品電氣測試作業（如電阻、電壓量測等）、數據收集/分析。\n2.軟體：協助產品功能測試與驗證作業。\n3.機構：協助尺寸量測、產品評估及相關測試作業、數據收集/分析。\n4.其他：協助進出口物品寄送搬運及資產盤點。\n\n實習期間:2026/",
-      "category": "engineering",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "實習-設備工程師-龍潭廠-ATT260027",
-      "company": "艾克爾國際科技股份有限公司",
-      "location": "桃園市龍潭區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90rd8",
-      "description": "1.機台設備維護保養\r\n2.零組件控管\r\n3.機台異常維修復歸\r\n\r\n*可實習一學年者優先錄取(預計2026/7月開始)\r\n*本實習職務為全職職聘用型式\r\n*如為常日班職務每週需至少到班四天（含）以上，如為輪班則需配合做二休二班制\r\n*需可配合與",
-      "category": "engineering",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "實習-設備工程師-湖口廠-ATT260026",
-      "company": "艾克爾國際科技股份有限公司",
-      "location": "新竹縣湖口鄉",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90rd6",
-      "description": "1.生產治具組裝維護\r\n2.設備機構電路分析維護\r\n3.設備自動化系統開發 \r\n\r\n*可實習一學年者優先錄取(預計2026/7月開始)\r\n*本實習職務為全職職聘用型式\r\n*如為常日班職務每週需至少到班四天（含）以上，如為輪班則需配合做二休二班制",
-      "category": "engineering",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "實習-製程工程師-湖口廠-ATT260024",
-      "company": "艾克爾國際科技股份有限公司",
-      "location": "新竹縣湖口鄉",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90rd1",
-      "description": "1.開發以及維護自動化系統\u000b\r\n2.可靠度與驗證測試\u000b\r\n3.新產品導入\u000b\r\n4.跨部門專案合作\u000b\r\n5.分析數據以及優化流程\u000b\r\n6.標準化制定\r\n\u000b7.異常分析調查\r\n\r\n*可實習一學年者優先錄取(預計2026/7月開始)\r\n*本實習職務為全",
-      "category": "engineering",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -253,7 +200,9 @@
       "url": "https://www.yourator.co/companies/elaiksir/jobs/46534",
       "description": "intern / Firmware / System Integration / Mechanical engineer",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -267,7 +216,9 @@
       "url": "https://www.yourator.co/companies/PicCollage/jobs/38409",
       "description": "startup / software / User / Online Community",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -281,7 +232,9 @@
       "url": "https://www.yourator.co/companies/may4s/jobs/38139",
       "description": "AI / BigData / CRM / Salesforce",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -295,7 +248,9 @@
       "url": "https://www.yourator.co/companies/PicCollage/jobs/41551",
       "description": "Internship / Fluent in English / Product Testing / Chinese",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -309,7 +264,9 @@
       "url": "https://www.yourator.co/companies/7ELEVEn/jobs/43717",
       "description": "",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -323,7 +280,9 @@
       "url": "https://www.yourator.co/companies/profetai/jobs/46837",
       "description": "",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": "2026-05-06"
     },
     {
       "platform": "Yourator",
@@ -337,7 +296,9 @@
       "url": "https://www.yourator.co/companies/jpcco/jobs/46816",
       "description": "",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -351,7 +312,9 @@
       "url": "https://www.yourator.co/companies/Cathay-Financial-Holding/jobs/38990",
       "description": "專案企劃 / 智慧樓宇 / AI建築",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -365,7 +328,9 @@
       "url": "https://www.yourator.co/companies/aift/jobs/32816",
       "description": "intern / web3 / developer",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -379,7 +344,9 @@
       "url": "https://www.yourator.co/companies/Aidmics/jobs/34956",
       "description": "軟體開發 / iOS / 工具類軟體 / 行動裝置 / 行動應用 / Pyhon",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -393,7 +360,9 @@
       "url": "https://www.yourator.co/companies/taiwanmobile/jobs/26757",
       "description": "Python / AI / Java / docker / Linux command",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -407,7 +376,9 @@
       "url": "https://www.yourator.co/companies/JunyiAcademy/jobs/46633",
       "description": "",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -421,7 +392,57 @@
       "url": "https://www.yourator.co/companies/JunyiAcademy/jobs/46634",
       "description": "",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
+    },
+    {
+      "platform": "104",
+      "title": "《IS-09》(實習/約聘)工程支援助理工程師",
+      "company": "義隆電子股份有限公司",
+      "location": "新竹縣寶山鄉",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-22",
+      "url": "https://www.104.com.tw/job/8iabv",
+      "description": "1.專案相容性測試、DQA相關測試、實驗統計\n2.專案安規ESD/EFT/CS驗證Solution/Project PCB上件製作\n3.專案可靠度測試\n4.IC 驗證及特性量測，高低溫實驗與量測\n5.IC code 燒錄與產測",
+      "category": "tech",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
+    },
+    {
+      "platform": "104",
+      "title": "《IS-06》(實習/約聘)影像標記助理工程師",
+      "company": "義隆電子股份有限公司",
+      "location": "新竹縣寶山鄉",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-22",
+      "url": "https://www.104.com.tw/job/8iacg",
+      "description": "1.執行影像Label工作                   \n2.建立Database相關資訊",
+      "category": "tech",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
+    },
+    {
+      "platform": "104",
+      "title": "《IS-07》(實習/約聘) HCK測試助理工程師",
+      "company": "義隆電子股份有限公司",
+      "location": "新竹縣寶山鄉",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-22",
+      "url": "https://www.104.com.tw/job/8iacq",
+      "description": "1.Windows硬體驗證測試 (win10 & win11)\n2.支援FAE調code與重測",
+      "category": "tech",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -435,21 +456,9 @@
       "url": "https://www.104.com.tw/job/90scx",
       "description": "【矽科宏晟 X 共創未來 X 實習專區】High-Tech Facility Internship Program\n\n加入半導體國家隊，打造護國神山的隱形英雄！\n跨足高科技廠房建設，掌握關鍵化學供酸系統（Chemical Dispense",
       "category": "tech",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "Gogoro Service Center Engineer 服務中心工程師【2026 Internship Program 學年實習專案】",
-      "company": "台竣實業股份有限公司",
-      "location": "台中市西屯區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/817zm",
-      "description": "【2026 Internship Program 學年實習專案 】\n從理論到實務的探索、學習、實踐，接軌未來職涯，發展社會人際脈絡。\n歡迎加入我們！養成職場即戰力！\n－\n• 需檢附在校歷年成績單\n• 配合學校簽定實習合約\n• 對象：在學學生\n•",
-      "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -463,7 +472,25 @@
       "url": "https://www.104.com.tw/job/8ywn6",
       "description": "期間：2026年7月-2027年6月\n地點：台北\n\n實習內容：\n1.協助正職同仁辦理各類資安作業，如 : 資料外洩防護管理、海外子公司資安業務、物聯網資安例行作業、資安相關會議協助、資安作業文件整理等。\n2.協助研究金融業資安管理實務。\n3.支援",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
+    },
+    {
+      "platform": "104",
+      "title": "Gogoro Service Center Engineer 服務中心工程師【2026 Internship Program 學年實習專案】",
+      "company": "台竣實業股份有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-22",
+      "url": "https://www.104.com.tw/job/817zm",
+      "description": "【2026 Internship Program 學年實習專案 】\n從理論到實務的探索、學習、實踐，接軌未來職涯，發展社會人際脈絡。\n歡迎加入我們！養成職場即戰力！\n－\n• 需檢附在校歷年成績單\n• 配合學校簽定實習合約\n• 對象：在學學生\n•",
+      "category": "tech",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -477,7 +504,9 @@
       "url": "https://www.104.com.tw/job/8o0sj",
       "description": "【歡迎在校生實習】\n實習期間：周一到週五 09:00-18:00 (若因課程安排需調實習天數，可另行協調討論)\n\n工作內容：\n1. 歸納整理技術文檔\n2. 蒐集與分析車規及工規市場需求及同業狀況，並調查市面上競品規格\n3. 依據客戶提供規格，尋找",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -491,7 +520,9 @@
       "url": "https://www.104.com.tw/job/90rqt",
       "description": "還在擔心沒有相關工作經驗嗎？履歷不夠亮眼嗎？\n加入富采光電實習星任務，提前累積職場實戰力，為未來職涯加分吧！\n\n加入富采光電，您將獲得：\n#實際參與專案實習，實戰經驗大提升\n#彈性工時，每週安排至少3天實習\n#專業實習認證，讓實習更有份量\n#跨縣",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -505,7 +536,9 @@
       "url": "https://www.104.com.tw/job/90rnx",
       "description": "還在擔心沒有相關工作經驗嗎？履歷不夠亮眼嗎？\n加入富采光電實習星任務，提前累積職場實戰力，為未來職涯加分吧！\n\n加入富采光電，您將獲得：\n#實際參與專案實習，實戰經驗大提升\n#彈性工時，每週安排至少3天實習\n#專業實習認證，讓實習更有份量\n#跨縣",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -519,7 +552,9 @@
       "url": "https://www.104.com.tw/job/907rs",
       "description": "* 負責雲端Server伺服器的相關工作\n1. DC Power測試計畫／報告撰寫與執行\n2. 替代料及PCN之評估與驗證\n3. 線路圖及Layout圖檢查\n4. 協助除錯與系統驗證\n\n• 計畫介紹： \n• 實習期間: 即日起-2027/6 (長",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -533,7 +568,9 @@
       "url": "https://www.104.com.tw/job/8t24m",
       "description": "  \n\n▋【上班安排】\n- 每週需到公司 3 天以上，不開放遠端實習  \n- 可實習 5 個月以上者優先，接受學期實習  \n\n▋【發展機會】\n- 早期加入高速成長的 AI 新創，與團隊共同定義市場策略  \n- 參與並推動已被指標性企業／上市櫃公司驗",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -547,7 +584,9 @@
       "url": "https://www.104.com.tw/job/6o0as",
       "description": "**【限在校生】**\n1.遊戲測試\n2.遊戲設備維護、更新\n3.玩家體驗協助\n4.其他主管交辦事項\n\n※如有作品集將優先進入徵選",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -561,7 +600,9 @@
       "url": "https://www.104.com.tw/job/75em5",
       "description": "**【限在校生】**\n工作內容包含下列一或多項：\n1. 協助使用Unity或Unreal遊戲引擎開發遊戲與維護\n2. 協助以C#語言或C++開發遊戲相關系統功能\n3. 協助遊戲編輯器開發\n4. 協助正職程式人員進行開發與測試\n\n※如有作品集將優先進入徵選\n",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -575,189 +616,73 @@
       "url": "https://www.104.com.tw/job/907x2",
       "description": "【Why Ingrasys】\n鴻佰科技是世界級智慧型網路產品之技術領導者。\n鴻佰科技的產品服務，支撐資通訊及元宇宙世代大量運算需求。\n「掌握數據．掌控未來」Your Data, Our Mission. \n\n【Internship",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
-      "title": "實習助理工程師（一～五）",
-      "company": "泰積達科技股份有限公司",
-      "location": "台中市后里區",
+      "title": "《IS-10》(實習/約聘) IC測試助理工程師",
+      "company": "義隆電子股份有限公司",
+      "location": "新竹縣寶山鄉",
       "salary": "",
       "salary_min": null,
       "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8x5i6",
-      "description": "歡迎學生找實習*請於投遞時備註可實習時程，謝謝！\n\n\n\n預計任用時程（需配合一～五全天實習）\n3個月：2026/1-2026/3\n\n半年期：2026/2-2026/6\n\n半年期： 2026/9-2027/1\n\n［技術部門-設備實習生-助工］\n1.",
+      "posted_at": "2026-04-20",
+      "url": "https://www.104.com.tw/job/8iaqr",
+      "description": "1.工程技術支援、測試板焊接製作\n2.IC 高低溫測試、應用方案及觸控應用測試\n3.工程實驗室維護、物料及儀器管理",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
-      "platform": "104",
-      "title": "【鴻佰科技實習專區 Ingrasys Internship Program】- PM專案實習生 實習廠區：土城",
-      "company": "鴻佰科技股份有限公司",
-      "location": "新北市土城區",
-      "salary": "",
+      "platform": "CakeResume",
+      "title": "Quality AssuranceInternship品質測試實習生",
+      "company": "inline 樂排股份有限公司",
+      "location": "",
+      "salary": "面議",
       "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/896jd",
-      "description": "【Why Ingrasys】\n鴻佰科技是世界級智慧型網路產品之技術領導者。\n鴻佰科技的產品服務，支撐資通訊及元宇宙世代大量運算需求。\n「掌握數據．掌控未來」Your Data, Our Mission. \n\n【Internship",
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/inline/jobs/quality-assurance-internship",
+      "description": "實習生 · ・ · 實習 · Quality Assurance Internship 品質測試實習生 inline 樂排股份有限公司 Inline is looking for a Quality Assurance Intern with a career interest in Software as a Service (SaaS) Engineer role.\ninline makes ",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
-      "platform": "104",
-      "title": "《實習》零售管理處-不動產資訊實習生",
-      "company": "永豐商業銀行股份有限公司",
-      "location": "台北市中正區",
-      "salary": "",
+      "platform": "CakeResume",
+      "title": "Software EngineeringIntern, PhD, Summer 2026",
+      "company": "Google",
+      "location": "",
+      "salary": "面議",
       "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8x3ro",
-      "description": "1. 動態網頁開發及GAI應用\n2. Python-Streamlit 程式設計\n3. 地產SQL Server 資料庫維護\n4. 地產數據清整及統計分析\n5. 主管交辦事項",
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/Google/jobs/102119429319336646-software-engineering-intern-phd-summer-2026-4c66e77bd0f331f6d0ffe5fc55e651",
+      "description": "實習生 · ・ · 實習 · Software Engineering Intern , PhD, Summer 2026 Google Applications will be reviewed on a rolling basis and it’s in the candidate’s best interest to apply early. The anticipated applicat",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
-      "platform": "104",
-      "title": "O'right｜AI實習生",
-      "company": "歐萊德國際股份有限公司",
-      "location": "桃園市龍潭區",
-      "salary": "",
+      "platform": "CakeResume",
+      "title": "實習生全端工程師_(Internship)Full Stack Developer 遠距辦公/跨國團隊",
+      "company": "雋思集團_香港商雋思產品發展有限公司(台灣)",
+      "location": "",
+      "salary": "面議",
       "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8wdsq",
-      "description": "AI 小組並肩合作，實際負責以下任務（依能力與興趣分配）：\n • AI 行銷企劃：協助 O'right 品牌活動、內容規劃\n • 網站內容企劃：協作官網頁面、腳本撰寫、品牌語言 AI 化\n • 電商投手實習：素材生成、投放邏輯、數據追蹤\n • 永續",
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/qpp/jobs/r-amp-d-team_-ai-developer-copy-a02",
+      "description": "實習生 · ・ · 實習 · 實習生全端工程師_( Internship )Full Stack Developer 遠距辦公/跨國團隊 雋思集團_香港商雋思產品發展有限公司(台灣) 【你將參與的內容】\n1.協助開發與維護 Web 前後端功能，並參與 API 設計與整合\n2.使用 React/Angular 開發互動式前端介面，優化使用者體驗\n3.使用 Java與 Python 進行後端開發、資料",
       "category": "tech",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "2026微程式資訊實習計畫(MP Internship Program，MPIP)",
-      "company": "微程式資訊股份有限公司",
-      "location": "台中市西屯區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8wu0t",
-      "description": "《實習計畫簡介》\n\n投遞履歷時，請備註您欲應徵的實習職務名稱。\n\n▍實習期間\n\n2026/07/01 起至 2027/01/31 止，每週至少四天以上可進公司，上午九點至下午六點。\n\n▍申請資格\n\n1. 大學四年級以上(含碩士)在學學生。\n2.",
-      "category": "tech",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "實習-產品工程師-龍科廠-ATT260025",
-      "company": "艾克爾國際科技股份有限公司",
-      "location": "桃園市龍潭區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90rd4",
-      "description": "1.開發以及維護自動化系統\r\n2.協助系統流程優化與SOP撰寫\r\n3.工程師事項協助與產品量測及數據分析需求(需進產線)\r\n4. 跨部門專案合作及執行\r\n\r\n*可實習一學年者優先錄取(預計2026/7月開始)\r\n*本實習職務為全職職聘用型式\r\n*",
-      "category": "tech",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "實習-IE工業工程師-龍潭廠-ATT260023",
-      "company": "艾克爾國際科技股份有限公司",
-      "location": "桃園市龍潭區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90rd0",
-      "description": "1.開發或維護自動化系統\r\n2.資料蒐集解析(WPH, UPH)\r\n3.專案任務協助\r\n\r\n*可實習一學年者優先錄取(預計2026/7月開始)\r\n*本實習職務為全職職聘用型式\r\n*如為常日班職務每週需至少到班四天（含）以上，如為輪班則需配合做二休",
-      "category": "tech",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "實習-IE工業工程師-湖口廠-ATT260022",
-      "company": "艾克爾國際科技股份有限公司",
-      "location": "新竹縣湖口鄉",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90rcy",
-      "description": "1.開發或維護自動化系統\r\n2.資料蒐集解析(WPH, UPH)\r\n3.專案任務協助\r\n\r\n*可實習一學年者優先錄取(預計2026/7月開始)\r\n*本實習職務為全職職聘用型式\r\n*如為常日班職務每週需至少到班四天（含）以上，如為輪班則需配合做二休",
-      "category": "tech",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "★學生實習/工讀-助理工程師 [見紅休假]",
-      "company": "麗源光電股份有限公司",
-      "location": "新北市土城區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/908mn",
-      "description": "迎所有求職者，與日間就讀中、夜間就讀中、學生實習等",
-      "category": "tech",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "實習-資訊工程師-龍潭廠-ATT260032",
-      "company": "艾克爾國際科技股份有限公司",
-      "location": "桃園市龍潭區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90rcu",
-      "description": "SQL)\r\n\r\n*可實習一學年者優先錄取\r\n*本實習職務為全職職聘用型式\r\n*如為常日班職務每週需至少到班四天（含）以上，如為輪班則需配合做二休二班制\r\n*需可配合與校方簽訂實習相關合約文件",
-      "category": "tech",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "實習-資訊工程師-湖口廠-ATT260031",
-      "company": "艾克爾國際科技股份有限公司",
-      "location": "新竹縣湖口鄉",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90rcp",
-      "description": "\r\n\r\n需求技能：\r\n1.程式語言(VB or C# .NET, Python, PL/SQL)\r\n\r\n*可實習一學年者優先錄取\r\n*本實習職務為全職職聘用型式\r\n*如為常日班職務每週需至少到班四天（含）以上，如為輪班則需配合做二休二班制\r\n*需可配合與",
-      "category": "tech",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "在校實習生",
-      "company": "巨耀資訊顧問有限公司",
-      "location": "新北市中和區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8vett",
-      "description": "1.目前就讀高中或大學日夜間部都可\n2.軟體諮詢與客戶服務工作，包含電話、LINE@等\n3.可學習到資訊服務業相關知識\n\n",
-      "category": "tech",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "【學期實習專區】技術實習生",
-      "company": "嘉鎷興業股份有限公司",
-      "location": "台北市南港區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8pume",
-      "description": "1. 執行客戶委託之車輛保修\n2. 依照原廠標準作業流程執行工作\n3. 正確使用特殊工具/設備\n4. 保管設備與環境整潔\n5. 公司活動支援\n6. 主管交辦事項\n\n歡迎大四全學期實習生\n實習期間：2026/07/01~2027/06/30 全學年",
-      "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -771,7 +696,9 @@
       "url": "https://www.yourator.co/companies/may4s/jobs/32773",
       "description": "實習 / 全端工程師 / CRM / Salesforce",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -785,7 +712,9 @@
       "url": "https://www.yourator.co/companies/PChome/jobs/40538",
       "description": "",
       "category": "tech",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -799,7 +728,9 @@
       "url": "https://www.yourator.co/companies/aift/jobs/32817",
       "description": "Internship / web3 / Business",
       "category": "pm",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -813,7 +744,25 @@
       "url": "https://www.yourator.co/companies/25sprout/jobs/46821",
       "description": "",
       "category": "pm",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
+    },
+    {
+      "platform": "CakeResume",
+      "title": "Web3 Product ManagementIntern, OneInfinity",
+      "company": "AIFT",
+      "location": "",
+      "salary": "面議",
+      "salary_min": null,
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/aift/jobs/045028",
+      "description": "實習生 · ・ · 實習 · Web3 Product Management Intern , OneInfinity AIFT Job Overview\nOneSavie Lab, OneInfinity 是一個結合 Web3與AI科技的頂尖實驗室，致力於為Web3 生態系統以及眾多參與者提供先進的智能風險監控和管理工具，包括中心化和去中心化的多元策略選擇。 OneSavie Lab的核心使命是",
+      "category": "pm",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -827,7 +776,9 @@
       "url": "https://www.yourator.co/companies/AlleyPin/jobs/8737",
       "description": "數位行銷 / 軟體開發 / 網路新創 / 商業應用",
       "category": "healthcare",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -841,7 +792,9 @@
       "url": "https://www.yourator.co/companies/sudoresearch/jobs/46536",
       "description": "blockchain / crypto / web3 / DeFi / Market research / Quantitative Trading",
       "category": "finance",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -855,7 +808,9 @@
       "url": "https://www.yourator.co/companies/sudoresearch/jobs/26012",
       "description": "區塊鏈 / blockchain / crypto / DeFi / 金融研究員 / Market research",
       "category": "finance",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -869,63 +824,9 @@
       "url": "https://www.yourator.co/companies/upyoung/jobs/41112",
       "description": "產業分析 / 策略分析 / 產業研究",
       "category": "finance",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "財務實習生 (Accounts Payable Intern)",
-      "company": "海龍二號風電股份有限公司",
-      "location": "台北市中山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90qu2",
-      "description": "\tUniversity student or fresh graduate in Accounting, Finance, Business Administration, or a related field.\n2.\tInternship or",
-      "category": "finance",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "【校園實習計畫】財務實習生 Finance Intern",
-      "company": "英屬開曼群島商萬里雲互聯股份有限公司台灣分公司",
-      "location": "台北市信義區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/907ut",
-      "description": "※【投遞方式】※\n應徵請至此連結：https://forms.gle/wWrHUZ8ir5oMssYp7，\n請按表單內容要求上傳檔案，恕不接受 104 系統投遞，謝謝!\n\n【藍色種子計畫官網】(可查看實習計畫時程、開放職缺、學長姐心得及相關資訊)",
-      "category": "finance",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "【王道銀行】2026 Intern Program-分行櫃員實習生(桃園)",
-      "company": "O-Bank_王道商業銀行股份有限公司",
-      "location": "桃園市桃園區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8w9re",
-      "description": "【工作內容】\n1. 處理客戶各類業務申請暨服務等作業\n2. 各類台外幣存提轉匯等帳務作業\n3. 各項業務申報與解繳等作業\n4. 完成主管交辦事項\n\n【申請條件】\n實習期間：一年期，每週可到班3-4天（可配合學校合約與課表調整）\n實習對象：大三以上",
-      "category": "finance",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "【2026年遇見未來･富邦實習】學生職場實習_作業風控人員",
-      "company": "富邦人壽保險股份有限公司(總公司)",
-      "location": "台北市松山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-17",
-      "url": "https://www.104.com.tw/job/90b3g",
-      "description": "期間：2026年7月-2027年6月\n地點：台北\n\n實習內容：\n1.協助單位有關風控機制、主要風險指標之建置與調整。\n2.推動不誠信風險評估作業。\n3.個人資料保護相關作業。\n4.新興科技之風險管理。(例如生成式 AI、雲端服務安全及社群媒體控管",
-      "category": "finance",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -939,7 +840,9 @@
       "url": "https://www.yourator.co/companies/may4s/jobs/40048",
       "description": "BD / consultant / Slack",
       "category": "consulting",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -953,35 +856,9 @@
       "url": "https://www.yourator.co/companies/JunyiAcademy/jobs/46638",
       "description": "",
       "category": "consulting",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "奢華旅遊顧問實習助理",
-      "company": "鴻軒逸遊旅行社有限公司",
-      "location": "台北市松山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90rrr",
-      "description": "球頂級酒店、米其林餐廳及獨家活動資訊（如：私人酒莊探訪、特殊閉館參觀）。\n客戶資料維護： 精準紀錄客戶偏好（從枕頭材質到飲食禁忌），確保服務的一致性。\n市場趨勢追蹤： 監測全球旅遊動態、新開精品酒店與航空業最新趨勢。\n\n【實習收穫】\n深入了解頂級旅",
-      "category": "consulting",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "行政類(台北)_企業管理顧問長期實習生",
-      "company": "資誠企業管理顧問股份有限公司",
-      "location": "台北市信義區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90rn6",
-      "description": "一、公開薪酬資料庫建置、管理與分析\n二、企業人才永續資料彙整與分析\n三、各類專案執行作業協助(如:HRM、HRD、DEI、員工意見調查等)\n\n-2026年4月至5月間到職，穩定配合實習期間至少六個月，每週需排班 20 小時以上\n（以連續 4 小時",
-      "category": "consulting",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -995,7 +872,9 @@
       "url": "https://www.yourator.co/companies/Koka/jobs/42157",
       "description": "跨國團隊 / 新創 / AI / 遊戲產業 / 社群行銷 / 營運",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1009,7 +888,9 @@
       "url": "https://www.yourator.co/companies/PicCollage/jobs/46859",
       "description": "Social media / Internship / Fluent in English / Marketing Intern 社群行銷實習生 / Social Trend / Romte",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1023,7 +904,9 @@
       "url": "https://www.yourator.co/companies/AmazingTalker/jobs/20938",
       "description": "跨國團隊 / 網路新創 / 工讀生 / 影音製作 / 影像製作",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1037,7 +920,9 @@
       "url": "https://www.yourator.co/companies/Dcard/jobs/6900",
       "description": "APP / 社群軟體",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1051,7 +936,9 @@
       "url": "https://www.yourator.co/companies/Dcard/jobs/29871",
       "description": "數據分析 / 廣告行銷 / 廣告優化",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1065,7 +952,9 @@
       "url": "https://www.yourator.co/companies/bankofculture/jobs/14912",
       "description": "",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1079,7 +968,9 @@
       "url": "https://www.yourator.co/companies/digitm/jobs/46681",
       "description": "",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1093,7 +984,9 @@
       "url": "https://www.yourator.co/companies/Yourator/jobs/46508",
       "description": "",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1107,7 +1000,9 @@
       "url": "https://www.yourator.co/companies/JunyiAcademy/jobs/46637",
       "description": "",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1121,7 +1016,9 @@
       "url": "https://www.yourator.co/companies/JunyiAcademy/jobs/46640",
       "description": "",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1135,7 +1032,9 @@
       "url": "https://www.yourator.co/companies/JunyiAcademy/jobs/46639",
       "description": "",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1149,7 +1048,9 @@
       "url": "https://www.yourator.co/companies/MrLiving/jobs/30234",
       "description": "電商 / 數位行銷 / 數位廣告 / 家居品牌",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1163,7 +1064,9 @@
       "url": "https://www.yourator.co/companies/CLN/jobs/10962",
       "description": "數位行銷 / 教育 / 線上課程 / 實習 / 文案 / 英文",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1177,7 +1080,9 @@
       "url": "https://www.yourator.co/companies/ogilvy/jobs/38113",
       "description": "",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1191,7 +1096,9 @@
       "url": "https://www.yourator.co/companies/Tripplus/jobs/26054",
       "description": "業務 / 業務助理 / 實習 / 實習生 / 助理 / 學生實習",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1205,7 +1112,9 @@
       "url": "https://www.yourator.co/companies/PChome/jobs/40581",
       "description": "",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1219,7 +1128,9 @@
       "url": "https://www.yourator.co/companies/upyoung/jobs/40272",
       "description": "",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1233,7 +1144,9 @@
       "url": "https://www.104.com.tw/job/6jt87",
       "description": "【關於我們】\n我們專注於空間設計與品牌空間規劃，致力於將設計概念轉化為實際空間，並重視設計細節與整體呈現。\n\n【實習內容】\n你將參與設計專案的過程，從概念到執行，累積實務經驗：\n◆ 協助設計提案簡報與相關視覺素材製作\n◆ 參與設計討論，了解專案發",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1247,7 +1160,9 @@
       "url": "https://www.104.com.tw/job/8ytrq",
       "description": "⭐ 讓你的創意，照亮全台商場\n加入 Global Mall 行銷企劃實習生，你的點子不只是想法，而是能落地、被看見、被感受到的行動力。\n從檔期活動、展覽到社群與媒體，每個企劃都能帶來真實影響，讓你累積實戰經驗，寫進作品集與履歷。\n\n⭐ 你的實習亮",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1261,7 +1176,9 @@
       "url": "https://www.104.com.tw/job/8yaoo",
       "description": "⭐ 讓你的創意，照亮全台商場\n加入 Global Mall 行銷企劃實習生，你的點子不只是想法，而是能落地、被看見、被感受到的行動力。\n從檔期活動、展覽到社群與媒體，每個企劃都能帶來真實影響，讓你累積實戰經驗，寫進作品集與履歷。\n\n⭐ 你的實習亮",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1275,7 +1192,9 @@
       "url": "https://www.104.com.tw/job/90rkq",
       "description": "實習期間 2026 年 9 月~2027 年 8 月\n\n加入啟夢實習夥伴招募LINE 社群：https://enlightendream.pse.is/8tjt7z\n\n\n\n ※ 視表現未來有機會轉正\n\n ▏適合對象 大二以上的學生 \n\n【負責任】",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1289,7 +1208,9 @@
       "url": "https://www.104.com.tw/job/7tqng",
       "description": "品牌認識、協助樓面庶務工作、進撤櫃管理、代扣作業。\n\n（協助正職同仁業務，並參與特定專案，透過培訓及部門歷練，實習結束後表現優良者可獲得轉正機會，年資累計。）",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1303,7 +1224,9 @@
       "url": "https://www.104.com.tw/job/8yb0w",
       "description": "⭐ 一份能邊逛街、邊學營業管理的實習工作\n加入 Global Mall，你的實習不坐辦公室，而是在商場第一線。\n每天接觸品牌、活動與顧客，把每天看到的流行與動態，轉化為專業能力與實戰經驗。\n\n⭐ 工作內容\n✔ 商場營運管理：觀察顧客、商品陳列與品",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1317,189 +1240,105 @@
       "url": "https://www.104.com.tw/job/8yax0",
       "description": "⭐ 一份能邊逛街、邊學營業管理的實習工作\n加入 Global Mall，你的實習不坐辦公室，而是在商場第一線。\n每天接觸品牌、活動與顧客，把每天看到的流行與動態，轉化為專業能力與實戰經驗。\n\n⭐ 工作內容\n✔ 商場營運管理：觀察顧客、商品陳列與品",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
-      "platform": "104",
-      "title": "【學生實習】社群企劃實習生",
-      "company": "艾肯娛樂股份有限公司",
-      "location": "台北市信義區",
-      "salary": "",
+      "platform": "CakeResume",
+      "title": "MarketingIntern",
+      "company": "伊斯酷軟體科技股份有限公司",
+      "location": "",
+      "salary": "面議",
       "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8wiaf",
-      "description": "＊限大學在校生＊\n**請附作品集**\n**需與學校簽訂校外實習合約**\n\n1.協作社群平台，例行性的社群貼文執行\n2.活動發想\n3.創意素材發想(制作)\n\n",
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/iscoollab/jobs/marketing-intern-6720f0",
+      "description": "實習生 · ・ · 初階 · Marketing Intern 伊斯酷軟體科技股份有限公司 Job Description:\nAs a Marketing Intern at IsCoolLab, you will support our team in the development and execution of marketing campaigns. This role offers t",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
-      "platform": "104",
-      "title": "【新創實習】活動企劃與執行實習生（部分遠端、有轉正機會、學年制）",
-      "company": "啟夢股份有限公司",
-      "location": "新北市三重區",
-      "salary": "",
+      "platform": "CakeResume",
+      "title": "行銷企劃實習生MarketingIntern",
+      "company": "上策行銷有限公司 Bespo Marketing",
+      "location": "",
+      "salary": "面議",
       "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90rki",
-      "description": "【自然組-活動企劃與執行實習生】職位介紹（背景可跨領域！）\n實習期間 2026 年 9 月~2027 年 8 月\n\n履歷先到先審，履歷通過將在群組內公告，並請留意私人信箱和line訊息。將跟你約定面試時間。\n加入啟夢實習夥伴招募LINE 社群：",
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/bespo-marketing/jobs/marketing-planning-intern-301bf2",
+      "description": "實習生 · ・ · 實習 · 行銷企劃實習生Marketing Intern 上策行銷有限公司 Bespo Marketing 【Bespo實習生培訓系統】第一步、到職註冊第二步、口碑行銷基礎概念培訓第三步、初試考核 (到職滿一個月)考核六項口碑行銷基礎能力通過與否將決定實習生之去留通過者將進入第二階段完整寫文訓練第四步、二試考核(到職滿三個月)寫文考試，確認實習生之文案能力與語風經組長及客戶審核",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
-      "platform": "104",
-      "title": "【2026實習】Layout實習生_數位發展中心(中壢)",
-      "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
-      "location": "桃園市中壢區",
-      "salary": "",
+      "platform": "CakeResume",
+      "title": "市場行銷實習生",
+      "company": "非我設計｜UNME DESIGN",
+      "location": "",
+      "salary": "面議",
       "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8zf73",
-      "description": "2026台達實習招募熱烈進行中，歡迎你/妳與我們一起進步成長！\n\n◎工作職掌\n1. 建立Layout 零件庫。 \n2. 建立Layout library data base。\n\n◎實習條件\n1年實習（2026/7/6~2027/6/30）\n\n◎",
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/unme-design/jobs/marketing-animal-intern",
+      "description": "實習生 · ・ · 實習 · 市場行銷 實習 生 非我設計｜UNME DESIGN UNME 是一個具備商業思維的跨域整合設計策略團隊。專注於透過設計輔助企業營運、提升競爭優勢，提供從品牌規劃、空間場域設計到設計策略顧問的整合服務。\n與學校的訓練不同，UNME 的 實習 規劃著重於跳脫框架與思維轉換，透過真實專案培養執行力與策略思考。不限於任何產業經驗背景，如果你對設計、行銷與數位媒體有熱情，並希",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
-      "platform": "104",
-      "title": "大四行銷/業務實習生(面試行銷需要提供相關的行銷計劃書)",
-      "company": "戰國策網路科技股份有限公司",
-      "location": "台北市信義區",
-      "salary": "",
+      "platform": "CakeResume",
+      "title": "2026 數位行銷實習生計劃",
+      "company": "Hububble 集客式行銷公司｜HubSpot 台灣最高等級代理商",
+      "location": "",
+      "salary": "面議",
       "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/7nkq5",
-      "description": "、LinkedIn、Twiter、Google我的商家等社群媒體經營。\n9.支援業務部門行銷輔銷工作\n\n職務升遷輪調計畫 :\n行銷實習生>>行銷專員(1年~1年6個月績效達標)>> 行銷主任(1年~1年6個月績效達標)>> 行銷副理(1年~1年6個",
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/hububble/jobs/hbb-marketing-intern-program",
+      "description": "實習生 · ・ · 實習 · 2026 數位行銷 實習 生計劃 Hububble 集客式行銷公司｜HubSpot 台灣最高等級代理商 Hububble 是一間數位轉型顧問公司，專注代理 HubSpot 並提供優質的 SEO 和網站建置服務，以幫助客戶實現他們的數位目標。我們注重創新和團隊合作，並為每位成員提供成長和發展的機會。 \n👀  我們正在尋找一位數位行銷 實習 生。如果你對科技產業充滿興趣，",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
-      "platform": "104",
-      "title": "行銷企劃實習生-2025年實習生 (一年期)",
-      "company": "嘉聯科技股份有限公司",
-      "location": "新北市板橋區",
-      "salary": "",
+      "platform": "CakeResume",
+      "title": "海外行銷運營實習生(TH/VN/ID) - 泰越印 (非短期寒暑假實習)",
+      "company": "玩美行動股份有限公司",
+      "location": "",
+      "salary": "面議",
       "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8orri",
-      "description": "經營( Facebook / Instagram)。\n5.協助客戶推廣品牌能力。\n6.若有需要，可接受派駐至北部[公家機關] 進行專案管理。\n\n歡迎升大四有興趣同學的校外實習，可選擇嘉聯科技，會提供同學可以學習完整實務及進而獨立作業。\n這是一個充滿",
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/meitu-740e16/jobs/th-vn-id-marketing-assistant",
+      "description": "實習生 · ・ · 實習 · 海外行銷運營 實習 生(TH/VN/ID) - 泰越印 (非短期寒暑假 實習 ) 玩美行動股份有限公司 ยินดีต้อนรับผู้สมัครสัญชาติไทย โดยต้องมีความสามารถด้านภาษาจีนChúng tôi hoan nghênh các ứng viên người Việt Nam. Ứng viên cần có khả n",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
-      "platform": "104",
-      "title": "板橋車站：行銷企劃實習生(Global Mall)",
-      "company": "環球購物中心股份有限公司",
-      "location": "新北市板橋區",
-      "salary": "",
+      "platform": "CakeResume",
+      "title": "海外行銷運營實習生(TW/JP/KR) - 台日韓 (非短期寒暑假實習)",
+      "company": "玩美行動股份有限公司",
+      "location": "",
+      "salary": "面議",
       "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8yaoh",
-      "description": "⭐ 讓你的創意，照亮全台商場\n加入 Global Mall 行銷企劃實習生，你的點子不只是想法，而是能落地、被看見、被感受到的行動力。\n從檔期活動、展覽到社群與媒體，每個企劃都能帶來真實影響，讓你累積實戰經驗，寫進作品集與履歷。\n\n⭐ 你的實習亮",
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/meitu-740e16/jobs/b06838",
+      "description": "實習生 · ・ · 實習 · 海外行銷運營 實習 生(TW/JP/KR) - 台日韓 (非短期寒暑假 實習 ) 玩美行動股份有限公司 【台日韓市場行銷 實習 生】 招募中！如果你熱愛拍照修圖、是社群媒體重度使用者、了解年輕人最新流行趨勢，歡迎投遞履歷！加入我們，你將負責或參與這些工作內容：◆官方社群經營 (IG/Twitter/Tiktok等)◆節慶推廣、文案撰寫、翻譯及視覺創意發想◆市場調查/趨",
       "category": "marketing",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "桃園A8/林口A9：行銷企劃實習生(Global Mall)",
-      "company": "環球購物中心股份有限公司",
-      "location": "桃園市龜山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8yaoj",
-      "description": "⭐ 讓你的創意，照亮全台商場\n加入 Global Mall 行銷企劃實習生，你的點子不只是想法，而是能落地、被看見、被感受到的行動力。\n從檔期活動、展覽到社群與媒體，每個企劃都能帶來真實影響，讓你累積實戰經驗，寫進作品集與履歷。\n\n⭐ 你的實習亮",
-      "category": "marketing",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "〈2026 嘉人實習計劃〉永續發展辦公室_公關與視覺設計實習生",
-      "company": "嘉新企業團_嘉新水泥股份有限公司",
-      "location": "台北市中山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8zk6j",
-      "description": "★ 實習期間：2026/7/1~2027/1/31(以每週能來公司實習2天以上為主)\n★ 工作地點：台北市中山區\n❋ 中午休息時間：12：00 ~ 13：30\n❋ 待遇：200元/時薪\n❋ 彈性上下班制度\n❋ 導師（mentor）制度\n❋ 實習生",
-      "category": "marketing",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "板橋車站：營業管理實習生(Global Mall)",
-      "company": "環球購物中心股份有限公司",
-      "location": "新北市板橋區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8yawv",
-      "description": "⭐ 一份能邊逛街、邊學營業管理的實習工作\n加入 Global Mall，你的實習不坐辦公室，而是在商場第一線。\n每天接觸品牌、活動與顧客，把每天看到的流行與動態，轉化為專業能力與實戰經驗。\n\n⭐ 工作內容\n✔ 商場營運管理：觀察顧客、商品陳列與品",
-      "category": "marketing",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "【2026夏季大專院校實習專區－Begin、Belong、Become】",
-      "company": "台北(國泰)萬怡酒店_國泰飯店管理顧問事業股份有限公司民生建國分公司",
-      "location": "台北市中山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8y3pi",
-      "description": "【2026.2月春季大專院校實習專區－Begin、Belong、Become】\n實習是讓你拿到畢業後夢想工作的入場券，如果您未來想從事飯店/奢侈品銷售/空服員等相關產業，那麼國泰萬怡酒店將是最佳的實習單位，我們是萬豪集團旗下間數第一品牌飯店，同時",
-      "category": "marketing",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "企劃實習",
-      "company": "墨石創意國際有限公司",
-      "location": "台北市南港區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/7n6r8",
-      "description": "提案發想及撰寫，協助活動推廣執行，社群分析及貼文規劃。",
-      "category": "marketing",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "寵物用品品牌實習習生",
-      "company": "bonbonpet蹦蹦跳_大大小小行創股份有限公司",
-      "location": "新北市土城區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/6xppg",
-      "description": "1.可學習電商營運及社群行銷等技能。\n\n2.學習公司行政事務之工作。\n\n3.對動保有熱忱，具備高度親和力\n\n4.個性積極主動、有責任感、適應力強、抗壓性佳,擅用AI。\n\n5.協助電商整理訂單/包貨/出貨等執行。\n\n",
-      "category": "marketing",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "行銷部實習生",
-      "company": "瀚亞證券投資信託股份有限公司",
-      "location": "台北市信義區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/7zqd9",
-      "description": "Eastspring Taiwan's Marketing team is starting its annual internship recruitment process. We are looking for candidates who",
-      "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1513,7 +1352,9 @@
       "url": "https://www.yourator.co/companies/Aidmics/jobs/35058",
       "description": "產品行銷 / 國外業務",
       "category": "marketing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1527,7 +1368,9 @@
       "url": "https://www.yourator.co/companies/shopline/jobs/34132",
       "description": "電商 / 跨國團隊",
       "category": "content",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1541,7 +1384,9 @@
       "url": "https://www.yourator.co/companies/MrLiving/jobs/42123",
       "description": "電商 / 家居品牌 / 影片製作 / 剪輯助理",
       "category": "content",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1555,7 +1400,9 @@
       "url": "https://www.104.com.tw/job/7xk0a",
       "description": "職缺及工作內容：\n1.櫃檯接待員-協助旅客住房登.退房帳務確認.旅遊諮詢服務\n2.房務員-客房清潔整理.公共區域清潔\n3.餐飲外場服務員-餐廳外場服務.領檯帶位.餐具清潔\n4.廚房助理廚師-協助食材前置處理.每日廚房環境清潔\n\n可選擇上班地點:捷絲旅西門館、捷絲旅臺大館、捷絲旅林森館、捷絲旅礁溪館",
       "category": "content",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1569,7 +1416,9 @@
       "url": "https://www.104.com.tw/job/7uhw8",
       "description": "職缺及工作內容：\n1.櫃檯接待員-協助旅客住房登.退房帳務確認.旅遊諮詢服務\n2.房務員-客房清潔整理.公共區域清潔\n3.餐飲外場服務員-餐廳外場服務.領檯帶位.餐具清潔\n4.廚房助理廚師-協助食材前置處理.每日廚房環境清潔\n",
       "category": "content",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1583,7 +1432,9 @@
       "url": "https://www.104.com.tw/job/90ehx",
       "description": "【工作內容】\n1.   ISO資料整理及資料建檔\n2.   行政相關支援作業\n\n【應徵資格】\n1.   各大專院校在學學生(化學 / 化妝品 / 食品相關科系佳)\n2.   需有實習學分需求\n3.   態度積極、細心負責、願意學習\n4.   能依",
       "category": "content",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1597,49 +1448,9 @@
       "url": "https://www.104.com.tw/job/90scj",
       "description": "*實習期間：一年制\n*實習每週工作天數：五天(週一至週五)\n\n*實習工作內容：\n1.硬體維護與除錯：個人電腦（PC/Laptop）軟硬體安裝及周邊設備之故障排除。\n2.網路與通訊管理：基礎網路連線維護。\n3.視訊環境管理：會議室投影、視訊設備設定",
       "category": "content",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "【2026年一年期實習專區】電商服務部_實習生",
-      "company": "新竹物流股份有限公司",
-      "location": "台中市大雅區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8mtcf",
-      "description": "【實習期間】\n2026/7/1~2027/6/30\n\n【工作內容】\n1.客服電話作業處理 \n2.每日資料整理匯報 \n3.需配合假日出勤\n\n★歡迎主動積極、樂於學習的你加入 HCT，一起累積職場實戰經驗★",
-      "category": "content",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "【學生實習】多媒體影音實習生",
-      "company": "艾肯娛樂股份有限公司",
-      "location": "台北市信義區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8wia9",
-      "description": "＊限大學在校生＊\n**請附作品集**\n**需與學校簽訂校外實習合約**\n\n1.影片後製：配音、調色、字幕與成品影片的靜動態字卡製作。\n2.製作 Motion Graphic：包含片尾、標題、字卡等。\n3.主視覺與角色拆件L2D動態製作。\n4.短動",
-      "category": "content",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "【校園實習計畫】解決方案架構師實習生 (Infra/Security)",
-      "company": "英屬開曼群島商萬里雲互聯股份有限公司台灣分公司",
-      "location": "台北市信義區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/9083h",
-      "description": "※【投遞方式】※\n應徵請至此連結：https://forms.gle/wWrHUZ8ir5oMssYp7。\n請按表單內容要求上傳檔案，恕不接受 104 系統投遞，謝謝!\n\n【藍色種子計畫官網】(可查看實習計畫時程、開放職缺、學長姐心得及相關資訊)",
-      "category": "content",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1653,7 +1464,9 @@
       "url": "https://www.yourator.co/companies/OakMega/jobs/29927",
       "description": "business development / SALES",
       "category": "bd_sales",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1667,7 +1480,9 @@
       "url": "https://www.104.com.tw/job/7z1o3",
       "description": "長心態，展現面對困難的勇氣，願意擁抱未知\n✔ 能夠在快節奏的環境中舒適地工作\n\n[ 薪資結構 ]\n✔ 帶薪培訓，實習生培訓階段月薪：$30000，實習培訓時間約2~3個月依學習狀況及認證開課狀況而定。\n✔ 除保障底薪外，每月另有個人獎金。\n✔ 獎金",
       "category": "bd_sales",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1681,91 +1496,41 @@
       "url": "https://www.104.com.tw/job/8vmkp",
       "description": "【實習徵才資訊】\n\n半年期 - 明年1~2月開始實習，為期4.5~6個月\n一年 - 明年1~2月 或 明年7~9月開始，為期9個月~1年\n\n歡迎各大專院校正在尋找實習單位的同學們(外籍生亦可)前來應徵，不論您是對於餐飲、房務還是客務，或者是其他飯",
       "category": "bd_sales",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
-      "platform": "104",
-      "title": "南區實習生",
-      "company": "沛榮國際股份有限公司",
-      "location": "高雄市前鎮區",
-      "salary": "",
+      "platform": "CakeResume",
+      "title": "Business OperationInternship客戶關係經營實習生",
+      "company": "inline 樂排股份有限公司",
+      "location": "",
+      "salary": "面議",
       "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/77g48",
-      "description": "船務文件提單繕打編列與製作、協助業務相關事項，實習結束後可轉正職，有升遷管道。\n歡迎大四生加入我們。",
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/inline/jobs/account-operation-intern",
+      "description": "實習生 · ・ · 實習 · Business Operation Internship 客戶關係經營實習生 inline 樂排股份有限公司 About inline \ninline is a software startup focused on maximizing restaurant efficiency managing tables and reservations. We have ",
       "category": "bd_sales",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
-      "platform": "104",
-      "title": "業務助理實習生/科工",
-      "company": "創鉅先進材料股份有限公司",
-      "location": "台南市安南區",
-      "salary": "",
+      "platform": "CakeResume",
+      "title": "SalesIntern",
+      "company": "伊斯酷軟體科技股份有限公司",
+      "location": "",
+      "salary": "面議",
       "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8ytyl",
-      "description": "【公司福利~比照正職員工】\n\n1. 提供免費午餐\n2. 免費汽機車停車場\n3. 可供宿舍申請，歡迎外縣市同學報名實習\n4. 所有實習同學享有勞、團、健保\n\n聰明的你，趕快報名實習啦～(●ˇ∀ˇ●)\n\n▲工作內容\n各項訂單，供應商與客戶資料鍵入，更",
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/iscoollab/jobs/sales-intern",
+      "description": "實習生 · ・ · 實習 · Sales Intern 伊斯酷軟體科技股份有限公司 Job Overview:\nWe are looking for a motivated and dynamic Sales Intern to assist in lead generation through cold calling and cold email campaigns. This role is",
       "category": "bd_sales",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "中區實習生",
-      "company": "沛榮國際股份有限公司",
-      "location": "台中市西區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/71csz",
-      "description": "船務文件提單繕打編列與製作、協助業務相關事項，實習結束後可轉正職，有升遷管道。\n歡迎大四生加入我們。",
-      "category": "bd_sales",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "【學生實習】2026年中租迪和企金業務實習生(中租各縣市分公司皆可實習)",
-      "company": "中租控股_中租迪和股份有限公司",
-      "location": "台北市內湖區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/7frja",
-      "description": "【實習期間】\n2026/7/6~2026/10/31(可配合產學簽約)\n※一週需至少實習三個整天(含)以上\n\n【實習地點】\n中租各縣市分公司皆可實習(選擇前三志願依缺額狀況分配)\n內湖、新莊、板橋、桃園、新竹、台中、彰化、嘉義、台南、高雄、屏東",
-      "category": "bd_sales",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "中區實習生",
-      "company": "沛華實業股份有限公司",
-      "location": "台中市西區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/7444x",
-      "description": "船務文件提單繕打編列與製作、協助業務相關事項，實習結束後直接轉正職，並提供機會輔導您往海空運專業運務人員發展。公司提供完整的培訓，未來也有暢通的升遷管道。 \n\n目前航運業甚為火熱，正是進入這個產業的最佳時機，歡迎加入我們。",
-      "category": "bd_sales",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "【2026年遇見未來･富邦實習】學生職場實習_銀保法金通路實習生B",
-      "company": "富邦人壽保險股份有限公司(總公司)",
-      "location": "台北市松山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-16",
-      "url": "https://www.104.com.tw/job/8ywii",
-      "description": "期間：2026年7月-2027年6月\n地點：台北\n\n實習內容：\n1.協助資料統計分析及報表製作。\n2.支援通路業務及行銷活動。\n3.協助部門例行行政事務及臨時緊急庶務。\n\n工作環境：\n1.安排職場先修課程，了解職場新鮮人該如何建立正確的職場思維與",
-      "category": "bd_sales",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1779,7 +1544,9 @@
       "url": "https://www.yourator.co/companies/bankofculture/jobs/14910",
       "description": "",
       "category": "design",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1793,7 +1560,9 @@
       "url": "https://www.yourator.co/companies/AlleyPin/jobs/46488",
       "description": "平面設計／美編人員 / 網頁設計師 / 視覺設計師",
       "category": "design",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1807,7 +1576,9 @@
       "url": "https://www.yourator.co/companies/JunyiAcademy/jobs/46641",
       "description": "",
       "category": "design",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1821,7 +1592,9 @@
       "url": "https://www.yourator.co/companies/btse/jobs/42139",
       "description": "",
       "category": "hr",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1835,7 +1608,9 @@
       "url": "https://www.yourator.co/companies/JunyiAcademy/jobs/46595",
       "description": "",
       "category": "hr",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1849,7 +1624,9 @@
       "url": "https://www.yourator.co/companies/shopline/jobs/40842",
       "description": "電商 / 新創 / startup",
       "category": "hr",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1863,7 +1640,9 @@
       "url": "https://www.104.com.tw/job/7ml9u",
       "description": "115學年度上學期  校園種子實習申請計畫 HESS Internship Program\n\n你，就是我們要找的明日之星\n提早踏入職場，培養就業軟實力\n\n◇招募對象：大專院校大三以上與研究所在學生，我們都歡迎 妳/你 提出申請\n\n◆實習類別：",
       "category": "hr",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1877,7 +1656,9 @@
       "url": "https://www.104.com.tw/job/7kx2c",
       "description": "【實習昇涯啟航計畫~熱烈招募中！】\n想要在大學的旅程增加點刺激嗎？\n快來加入實習昇涯啟航計畫，讓你昇活多變化！\n\n◎實習期間：115.07.01~116.06.30(可視學校實習規劃調整)\n◎實習津貼：31,000元/月\n◎實習地點：\n  內湖旗",
       "category": "hr",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1891,7 +1672,41 @@
       "url": "https://www.104.com.tw/job/90scm",
       "description": "*實習期間：一年制\n*實習每週工作天數：五天(週一至週五)\n\n*實習工作內容：\n1. 人資招募工作執行。\n2. 員工關係活動規劃與執行\n3. 主管交辦專案任務。\n\n\n*透過此實習計畫，讓您熟悉物流產業的運作模式，並提前適應職場生態，以為未來求職做",
       "category": "hr",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
+    },
+    {
+      "platform": "CakeResume",
+      "title": "Business Operations Intern/Part-Time, Recruitment Project 招募專案商務營運實習生/兼職",
+      "company": "Cake",
+      "location": "",
+      "salary": "面議",
+      "salary_min": null,
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/cake/jobs/business-operations-recruitment-project-intern",
+      "description": "實習生 · ・ · 實習 · Business Operations Intern/Part-Time, Recruitment Project 招募專案商務營運 實習 生/兼職 Cake 關於 Cake\nCake 是 2016 年成立於台灣的國際人才社群，以「聚焦人才的價值與歸屬」為核心，提供履歷與作品集 AI 工具、求職攻略、職場交流社群資源及國際化工作機會，全方位滿足職涯發展中的所有需求。C",
+      "category": "hr",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
+    },
+    {
+      "platform": "CakeResume",
+      "title": "CorporateConnections® 活動策劃 -實習生",
+      "company": "CorporateConnections® Taiwan 大商匯集有限公司",
+      "location": "",
+      "salary": "面議",
+      "salary_min": null,
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/corporateconnections/jobs/corporateconnections-event-planning-intern",
+      "description": "實習生 · ・ · 實習 · CorporateConnections® 活動策劃 - 實習 生 CorporateConnections® Taiwan 大商匯集有限公司 【 實習 機會｜CorporateConnections® Taiwan 招募中】\n想在國際級商務人脈平台累積實戰經驗嗎？\nCorporateConnections® Taiwan 正在招募 實習 生，加入我們，與33國企業領",
+      "category": "hr",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1905,7 +1720,9 @@
       "url": "https://www.yourator.co/companies/PChome/jobs/40580",
       "description": "",
       "category": "hr",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -1919,7 +1736,9 @@
       "url": "https://www.yourator.co/companies/shopline/jobs/24396",
       "description": "電商 / 跨國團隊",
       "category": "accounting",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1933,7 +1752,9 @@
       "url": "https://www.104.com.tw/job/8yalw",
       "description": "⭐ 從課堂走進實務：你的財務實習第一站\n想把課本上的會計、財管知識，真正用在實際工作中嗎？\n加入 Global Mall 財務實習生，你將直接參與大型商場的財務運作，不只是打雜，而是從專櫃帳務、合約到財務報表，完整接觸真實的企業財務流程。全台持續",
       "category": "accounting",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -1947,63 +1768,9 @@
       "url": "https://www.104.com.tw/job/8yamp",
       "description": "⭐ 從課堂走進實務：你的財務實習第一站\n想把課本上的會計、財管知識，真正用在實際工作中嗎？\n加入 Global Mall 財務實習生，你將直接參與大型商場的財務運作，不只是打雜，而是從專櫃帳務、合約到財務報表，完整接觸真實的企業財務流程。全台持續",
       "category": "accounting",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "新北中和：財務實習生(Global Mall)",
-      "company": "環球購物中心股份有限公司",
-      "location": "新北市中和區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8yam4",
-      "description": "⭐ 從課堂走進實務：你的財務實習第一站\n想把課本上的會計、財管知識，真正用在實際工作中嗎？\n加入 Global Mall 財務實習生，你將直接參與大型商場的財務運作，不只是打雜，而是從專櫃帳務、合約到財務報表，完整接觸真實的企業財務流程。全台持續",
-      "category": "accounting",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "桃園A19：財務實習生(Global Mall)",
-      "company": "環球購物中心股份有限公司",
-      "location": "桃園市中壢區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8yamb",
-      "description": "⭐ 從課堂走進實務：你的財務實習第一站\n想把課本上的會計、財管知識，真正用在實際工作中嗎？\n加入 Global Mall 財務實習生，你將直接參與大型商場的財務運作，不只是打雜，而是從專櫃帳務、合約到財務報表，完整接觸真實的企業財務流程。全台持續",
-      "category": "accounting",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "會計助理(工讀生.實習生)",
-      "company": "德誼數位科技股份有限公司",
-      "location": "台北市內湖區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90qun",
-      "description": "\n【工作內容】\n1.廠商每月貨款審核及相關會計帳務處理\n2.其他一般會計帳務處理\n3.其他主管交辦事項\n\n【工作時間】\n1.Part time：每週約20~30小時，時間可彈性安排。\n2.歡迎學生短期打工。\n3.可接受學校實習計畫。\n\n【工作條件",
-      "category": "accounting",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "稽核人員Internal Audit",
-      "company": "美商安瑞科技股份有限公司",
-      "location": "台北市內湖區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-21",
-      "url": "https://www.104.com.tw/job/8zro8",
-      "description": "所實習/工作經驗\n★稽核經驗\n★★英語能力能溝通",
-      "category": "accounting",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -2017,7 +1784,9 @@
       "url": "https://www.yourator.co/companies/JunyiAcademy/jobs/46635",
       "description": "",
       "category": "education",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -2031,21 +1800,9 @@
       "url": "https://www.yourator.co/companies/JunyiAcademy/jobs/46636",
       "description": "",
       "category": "education",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "醫美實習生（桃園館-近桃園火車站）-供宿",
-      "company": "聖宜醫美集團_聖宜診所",
-      "location": "桃園市桃園區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/82h5h",
-      "description": "1.學習醫美專業知識。\n2.與輔導員一同提供客戶基礎潔膚/卸妝清潔技巧/臉部保養等美療服務。   \n3.櫃檯服務及文書資料紀錄整理及歸檔。   \n4.器材保養及環境清潔。\n\n上班時間與休假制度：12:00~21:00(若配合客人異動班別依店主管布達為準)，28天排休8天(遇國定假日視人力需求調整加班或休假日)。報到起三個月須配合輔導員班表共同排休。\n\n福利(依公司當年度規劃為主)：員工聚餐、春酒、",
-      "category": "education",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -2059,7 +1816,9 @@
       "url": "https://www.yourator.co/companies/PicCollage/jobs/38293",
       "description": "Operation / Internship / Event planning / Office Management / company operations",
       "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -2073,7 +1832,9 @@
       "url": "https://www.yourator.co/companies/ph2/jobs/46119",
       "description": "",
       "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -2087,7 +1848,9 @@
       "url": "https://www.yourator.co/companies/hourloop/jobs/41405",
       "description": "",
       "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -2101,7 +1864,9 @@
       "url": "https://www.yourator.co/companies/hourloop/jobs/41387",
       "description": "",
       "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -2115,7 +1880,9 @@
       "url": "https://www.yourator.co/companies/hourloop/jobs/41388",
       "description": "",
       "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -2129,7 +1896,9 @@
       "url": "https://www.yourator.co/companies/hourloop/jobs/41493",
       "description": "",
       "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -2143,7 +1912,9 @@
       "url": "https://www.yourator.co/companies/AAMA/jobs/29605",
       "description": "專案管理 / 實習 / 專案執行 / 課程企劃 / 創業 / 創業育成",
       "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": "2026-04-30"
     },
     {
       "platform": "104",
@@ -2157,7 +1928,9 @@
       "url": "https://www.104.com.tw/job/6e6pv",
       "description": "青年領航店家 (職缺編號15533)\n\n1.執行髮型及造型設計。\n2.執行洗髮及吹整髮型等工作。\n3.進行燙髮。\n4.進行染漂頭髮。\n5.進行假髮設計。\n_\n額外福利\n實習店抽成\n美髮產品抽成\n護髮抽成\n(與設計師抽成相同)\n歡迎想自我成長的夥伴",
       "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2171,21 +1944,9 @@
       "url": "https://www.104.com.tw/job/4sp7h",
       "description": "1.協助部門公文收發及郵務作業\n2.負責一般文書處理及歸檔工作\n3.負責保單姓名檢核作業\n\n",
       "category": "operations",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "教育訓練專員/助理｜歡迎實習生/應屆畢業生｜台北 <82-84>",
-      "company": "程曦資訊整合股份有限公司",
-      "location": "台北市大同區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90de4",
-      "description": "自己嘗試解決，卡關時主動提問\n    4.樂於溝通與合作：能與不同部門一起把事情做好\n    5.對學習與成長有興趣：喜歡讓事情更清楚、更有效率，並從中獲得成就\n    6.相關經驗(加分)：教育訓練、活動企劃、社團或實習經驗皆加分\n\n✅ 這份工作",
-      "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2199,7 +1960,9 @@
       "url": "https://www.104.com.tw/job/90s2z",
       "description": "排班三天以上。\n7.  可配合學校簽立實習合約。",
       "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2213,7 +1976,9 @@
       "url": "https://www.104.com.tw/job/90s3q",
       "description": "排班三天以上。\n7.  可配合學校簽立實習合約。",
       "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2227,7 +1992,9 @@
       "url": "https://www.104.com.tw/job/90qro",
       "description": "準備好開啟您的客戶訂單管理職涯嗎？\n想要獲得實務經驗、挑戰自我並成長發展嗎？\n加入我們的客戶訂單管理(SO)團隊，參與專案，優化整體訂單至出貨的流程，並與合作夥伴協作，一同達成目標。\n\n1.D2C Order Excellence Program D2C 訂單卓越計畫\n - 協助官方商城網站(D2C)訂單流程，從建立訂單到出貨，包含安裝等作業。\n - 協助維護與管控後台庫存及建立庫存報表。\n - ",
       "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2241,49 +2008,25 @@
       "url": "https://www.104.com.tw/job/90gey",
       "description": "1.AI協助合約歸檔、表單整理與追簽 \n2.AI輔助蒐集與彙整IR資訊，快速生成分析報告\n3.透過AI工具設計流程與資料管理方案提升作業效率",
       "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
-      "platform": "104",
-      "title": "助理實習生(客服/專案)-2025年實習生 (一年期)",
-      "company": "嘉聯科技股份有限公司",
-      "location": "新北市板橋區",
-      "salary": "",
+      "platform": "CakeResume",
+      "title": "【亞馬遜Amazon】電商實習生 (兼職、轉正機會) Amazon Project AssistantIntern（Part-time）",
+      "company": "Hour Loop 飛輪電商",
+      "location": "",
+      "salary": "面議",
       "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8oru3",
-      "description": "處理/標案相關\n10. 若有需要，可接受派駐至北部[公家機關] 進行專案管理。\n歡迎升大四有興趣同學的校外實習，可選擇嘉聯科技，會提供同學可以學習完整實務及進而獨立作業。\n這是一個充滿挑戰且學習機會多多的實習職位，加入我們的團隊，您將獲得寶貴的經驗",
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/hour-loop/jobs/f19e15",
+      "description": "實習生 · ・ · 初階 · 【亞馬遜Amazon】電商實習生 (兼職、轉正機會) Amazon Project Assistant Intern （Part-time） Hour Loop 飛輪電商 【Hour Loop 飛輪電商】在2013年成立，並於2022年初在美國那斯達克上市。作為亞馬遜 (Amazon) 第三方賣家，我們的工作不只廠商開發，還包括商品上架、價格制定，以及物流與庫存管理，",
       "category": "operations",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "集團總管理處_行政助理工讀生(長期兼職/實習)",
-      "company": "旭榮集團_旭寬企業股份有限公司",
-      "location": "台北市中正區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/63qai",
-      "description": "迎大四/碩二實習身份或夜校生兼職 ※",
-      "category": "operations",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "集團總管理處_行政助理工讀生(長期兼職/實習)",
-      "company": "旭榮集團_旭榮製衣股份有限公司",
-      "location": "台北市中正區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/7vwz4",
-      "description": "迎大四/碩二實習身份或夜校生兼職 ※\n",
-      "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -2297,7 +2040,9 @@
       "url": "https://www.yourator.co/companies/BOSCH/jobs/41960",
       "description": "",
       "category": "operations",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2311,7 +2056,9 @@
       "url": "https://www.104.com.tw/job/8t07r",
       "description": "【Why Ingrasys】\n鴻佰科技是世界級智慧型網路產品之技術領導者。\n鴻佰科技的產品服務，支撐資通訊及元宇宙世代大量運算需求。\n「掌握數據．掌控未來」Your Data, Our Mission. \n\n【Internship",
       "category": "legal",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2325,7 +2072,9 @@
       "url": "https://www.104.com.tw/job/90qzz",
       "description": "工作內容：\n1、協助律師處理民、刑事及行政訴訟案件。\n2、協助審閱合約並提供初步意見。\n3、其他律師交辦的事項。",
       "category": "legal",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2339,7 +2088,9 @@
       "url": "https://www.104.com.tw/job/7pgb2",
       "description": "工作內容：\n  1.案件分析及研究、卷證整理。\n  2.審閱及撰擬契約。\n  3.撰擬法律意見書或書狀。\n  4.開會紀錄、見習開庭。\n  5.其他交辦事項。",
       "category": "legal",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2353,7 +2104,9 @@
       "url": "https://www.104.com.tw/job/90qt0",
       "description": "業建議。\n\n【徵才條件】\n\n具律師執業執照（律師高考及格並完成實習）。\n\n具備良好溝通能力與文字組織能力。\n\n工作態度積極負責，能維持優良案件辦理品質。\n\n",
       "category": "legal",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2367,21 +2120,25 @@
       "url": "https://www.104.com.tw/job/6q6y5",
       "description": "1、研究法律見解、法律原理，以及各級法院判決、判例。 \n2、撰寫民/刑事訴訟書狀。\n3、其他及相關交辦事項。\n(有法務相關經驗者，薪水可議)",
       "category": "legal",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
-      "platform": "104",
-      "title": "工安實習生-A923100",
-      "company": "昇陽國際半導體股份有限公司",
-      "location": "新竹市",
-      "salary": "",
+      "platform": "CakeResume",
+      "title": "2026 TSMC DNAInternship",
+      "company": "TSMC 台積電",
+      "location": "",
+      "salary": "面議",
       "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90g3e",
-      "description": "鼓勵先實習並考取證照，領先同學提前就業!",
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/tsmc/jobs/2026-tsmc-dna-internship",
+      "description": "實習生 · ・ · 實習 · 2026 TSMC DNA Internship TSMC 台積電 Established in 1987 and headquartered in Taiwan, TSMC pioneered the pure-play foundry business model with an exclusive focus on manufacturing its custo",
       "category": "manufacturing",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2395,7 +2152,9 @@
       "url": "https://www.104.com.tw/job/89i6v",
       "description": "*歡迎學生找一年期-實習* 請於投遞時備註可實習時程，謝謝！\n※ 預計任用時程 (需配合一~五全天實習)\n半年期 : 2026/9-2027/1\n半年期 : 2027/1-2027/6\n一年期 : 2026/9-2027/6\n\n[採購部實習生]",
       "category": "supply_chain",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2409,7 +2168,9 @@
       "url": "https://www.104.com.tw/job/8oe7d",
       "description": "*實習期間：一年制\n*實習每週工作天數：五天(週一至週五)\n\n*實習工作內容：\n1.處理客戶出貨需求及貨況追蹤\n2.CW1系統及出口提單製作\n3.報表彙整製作與資料分析\n4.ISO文件表單更新及維護\n5.主管交辦事項\n\n*透過此實習計畫，讓您熟悉",
       "category": "supply_chain",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2423,21 +2184,9 @@
       "url": "https://www.104.com.tw/job/7atvv",
       "description": "作為一家專業的報關公司，我們一直致力於為客戶提供高品質、高效率的報關服務。我們相信，您的加入將會為我們的團隊帶來新的活力和創新思維。\n\n在這份報關實習生職位中，您將有機會接觸到報關的各個環節，包括報關文件的處理、報關流程的規劃和客戶溝通等。我們會",
       "category": "supply_chain",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "【2026新鮮人搶先就業】實習/兼職 觀音物流中心_倉儲物流理貨人員-全勤獎金另計",
-      "company": "IKEA_宜家家居股份有限公司",
-      "location": "桃園市觀音區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8lkp3",
-      "description": "學校簽定實習合約\n \n打破你對物流中心的想像，智慧自動化倉儲物流技術，省時省工高效率！\nIKEA物流中心支援全台門市與線上購物倉儲需求。實踐全零售通路的物流整合，加速購物流程，為消費者帶來更便捷輕鬆的購物體驗。同時引進綠色運輸使用電動大貨車運送物品",
-      "category": "supply_chain",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2451,7 +2200,9 @@
       "url": "https://www.104.com.tw/job/8brld",
       "description": "加認識啤酒、自在與人交流對談，享受美好的夜晚聚會時光。\n\n工作地點：\n臺虎精釀門市_台北市各啜飲室\n\n工作時間：\n實習夥伴--排班彈性(每週至少需提供給公司能排班三天或工作時數20 小時以上，實際排班時間以營運狀況為準) \n\n\n【工作內容】\n\n1.",
       "category": "hospitality",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2465,7 +2216,9 @@
       "url": "https://www.104.com.tw/job/82rx5",
       "description": "想成為〈晶華國際酒店集團〉擴大事業版圖，最得力的其中一份子嗎?\n若您就讀相關科系，且想利用在學期間，到業界實習，增進自己的專業職能，選擇飯店業的龍頭指標 - 台北晶華酒店，將會是您的最佳選擇。\n\n實習相關福利：1. 留任回聘獎金",
       "category": "hospitality",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2479,7 +2232,9 @@
       "url": "https://www.104.com.tw/job/8brle",
       "description": "加認識啤酒、自在與人交流對談，享受美好的夜晚聚會時光。\n\n工作地點：\n臺虎精釀門市_台北市各啜飲室\n\n工作時間：\n實習夥伴--排班彈性(每週至少需提供給公司能排班三天或工作時數20 小時以上，實際排班時間以營運狀況為準) \n\n\n【工作內容】\n\n1.",
       "category": "hospitality",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2493,7 +2248,9 @@
       "url": "https://www.104.com.tw/job/83183",
       "description": "想成為〈晶華國際酒店集團〉擴大事業版圖，最得力的其中一份子嗎?\n若您就讀相關科系，想利用在學期間，到業界實習，豐富自己的專業經歷，選擇飯店業的龍頭指標 - 台北晶華酒店，將會是您的最佳選擇。\n\n實習相關福利：1. 留任回聘獎金",
       "category": "hospitality",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2507,7 +2264,9 @@
       "url": "https://www.104.com.tw/job/82rxk",
       "description": "想成為〈晶華國際酒店集團〉擴大事業版圖，最得力的其中一份子嗎?\n若您就讀相關科系，想利用在學期間，到業界實習，豐富自己的專業經歷，選擇飯店業的龍頭指標 - 台北晶華酒店，將會是您的最佳選擇。\n\n實習相關福利：1. 留任回聘獎金",
       "category": "hospitality",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2521,7 +2280,9 @@
       "url": "https://www.104.com.tw/job/8nct7",
       "description": "想成為〈晶華國際酒店集團〉擴大事業版圖，最得力的其中一份子嗎?\n若您就讀相關科系，且想利用在學期間，到業界實習，增進自己的專業職能，選擇飯店業的龍頭指標 - 台北晶華酒店，將會是您的最佳選擇。\n\n實習相關福利：1. 留任回聘獎金",
       "category": "hospitality",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2535,35 +2296,9 @@
       "url": "https://www.104.com.tw/job/8a1hq",
       "description": "1. 負責各式宴會場地佈置、桌椅擺設、活動結束後整理等。\n2. 會議展場、宴會餐飲之賓客服務等。\n3. 人員分配與宴席結帳\n4. 回收賓客滿意度",
       "category": "hospitality",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "【企業實習生】總務實習生(台中大里)(餐飲科系尤佳)",
-      "company": "網銀國際股份有限公司",
-      "location": "台中市大里區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/907g3",
-      "description": "網銀國際 2026 實習計畫開跑！\n在學期間即加入企業團隊，參與實務運作，\n以貼近正職的工作模式，培養職場即戰力、累積未來競爭優勢。\n\n如果你渴望在有溫度的環境中成長，\n歡迎加入我們，從實習開始，Beyond Stars With Us 邁向更好",
-      "category": "hospitality",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "Sheraton Hsinchu 休憩實習生 Recreation Intern",
-      "company": "新竹喜來登飯店_承恩餐旅管理顧問股份有限公司",
-      "location": "新竹縣竹北市",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8tipb",
-      "description": "【休憩活動實習生】\n1. 協助休憩活動之研發及執行。\n2. 飯店團體客製化休憩旅遊活動之執行。\n3. 休憩波波夢幻島、波波冒險營業點服務項目工作。\n4. 半日遊、異業合作合約流程，與旅遊票券整合相關工作。\n\n【休憩櫃台實習生】\n1. 協助小型休憩",
-      "category": "hospitality",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -2577,7 +2312,9 @@
       "url": "https://www.yourator.co/companies/GliaCloud/jobs/46692",
       "description": "",
       "category": "other",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "Yourator",
@@ -2591,7 +2328,9 @@
       "url": "https://www.yourator.co/companies/TOUCHWOW/jobs/28244",
       "description": "實習生 / 儲備幹部 / 企劃實習 / 設計實習",
       "category": "other",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2605,7 +2344,9 @@
       "url": "https://www.104.com.tw/job/m9cv",
       "description": "周一~周五(最少3天)\nA班:pm4:00~7:00\nB班:pm5:30~8:30\nC班週三12:00～18:00",
       "category": "other",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2619,7 +2360,9 @@
       "url": "https://www.104.com.tw/job/8ox1g",
       "description": "★★2025年實習生召募中★★\n\n歡迎喜歡晶泉丰旅/捷絲旅的你 !\n加入晶泉丰旅/捷絲旅實習生菁英培育計畫，職場實務等你體驗！\n\n\n如果你個性外向活潑，期待與來自世界各地旅客互動，請選擇客務部\n如果你每次整理後都獲得成就感，且注重工作中各項細節，",
       "category": "other",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2633,7 +2376,9 @@
       "url": "https://www.104.com.tw/job/7xf26",
       "description": "學期16週企業實習，不限系所科別",
       "category": "other",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     },
     {
       "platform": "104",
@@ -2647,63 +2392,9 @@
       "url": "https://www.104.com.tw/job/862sc",
       "description": "聞\n\n\n<請注意: 此職缺以長期(至少半年以上)實習為主, 暫無短期實習職缺",
       "category": "other",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "大學以上在學專案企業實習生（暑期）",
-      "company": "新光人壽保險股份有限公司_民權通訊處(蔡彥志)(核准編號: E-AC-114-060)",
-      "location": "台中市西屯區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/7xf20",
-      "description": "暑期8週企業實習，不限系所科別\n",
-      "category": "other",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "桃園A19：服務實習生(Global Mall)",
-      "company": "環球購物中心股份有限公司",
-      "location": "桃園市中壢區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8yb1s",
-      "description": "⭐ 把每一次微笑、每一次幫助，都變成專業實力\n加入 Global Mall 顧客服務實習生，你的舞台不在辦公室，而是在商場第一線。\n每天面對不同顧客，從贈品兌換、嬰兒車租借，到退稅與外幣兌換，每一次互動都是累積專業能力的機會。全台快速展店，每天都",
-      "category": "other",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "新北中和：服務實習生(Global Mall)",
-      "company": "環球購物中心股份有限公司",
-      "location": "新北市中和區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/8yaxb",
-      "description": "⭐ 把每一次微笑、每一次幫助，都變成專業實力\n加入 Global Mall 顧客服務實習生，你的舞台不在辦公室，而是在商場第一線。\n每天面對不同顧客，從贈品兌換、嬰兒車租借，到退稅與外幣兌換，每一次互動都是累積專業能力的機會。全台快速展店，每天都",
-      "category": "other",
-      "first_seen": "2026-04-23"
-    },
-    {
-      "platform": "104",
-      "title": "★學生實習/工讀-客服 [見紅休假]",
-      "company": "麗源光電股份有限公司",
-      "location": "新北市土城區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/908ns",
-      "description": "工讀勿洽。 \n2. 一週須至少能夠安排3個整天以上，須配合長期\n3. 個性積極主動、勇於表達想法，並擁有責任感及良好的團隊合作能力\n\n※歡迎所有求職者，與日間就讀中、夜間就讀中、學生實習等",
-      "category": "other",
-      "first_seen": "2026-04-23"
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": ""
     }
   ]
 }

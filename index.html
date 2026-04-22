@@ -393,6 +393,25 @@
     color: var(--new);
     letter-spacing: 0.02em;
   }
+  .deadline-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 1px 7px;
+    border-radius: 999px;
+    background: #fef3c7;
+    color: #92400e;
+    letter-spacing: 0.02em;
+  }
+  .deadline-badge.urgent { background: #fee2e2; color: #991b1b; }
+  .deadline-badge.expired { background: #f3f4f6; color: #9ca3af; }
+  @media (prefers-color-scheme: dark) {
+    .deadline-badge { background: #422006; color: #fde68a; }
+    .deadline-badge.urgent { background: #450a0a; color: #fca5a5; }
+    .deadline-badge.expired { background: #27272a; color: #71717a; }
+  }
   .job-company {
     color: var(--text-muted);
     font-size: 13px;
@@ -578,6 +597,10 @@
         <optgroup label="發現日">
           <option value="first_seen-desc">✨ 最新發現</option>
           <option value="first_seen-asc">✨ 最早發現</option>
+        </optgroup>
+        <optgroup label="截止日">
+          <option value="deadline-asc">⏰ 快要截止</option>
+          <option value="deadline-desc">⏰ 最晚截止</option>
         </optgroup>
         <optgroup label="公司">
           <option value="company-asc">🏢 公司 A→Z</option>
@@ -773,6 +796,15 @@ function renderList() {
     if (field === "first_seen") {
       return (a.first_seen || "").localeCompare(b.first_seen || "") * dir;
     }
+    if (field === "deadline") {
+      // 沒有 deadline 的放最後（不論升降序）
+      const av = a.deadline || "9999-12-31";
+      const bv = b.deadline || "9999-12-31";
+      if (!a.deadline && !b.deadline) return 0;
+      if (!a.deadline) return 1;
+      if (!b.deadline) return -1;
+      return av.localeCompare(bv) * dir;
+    }
     return 0;
   });
 
@@ -795,6 +827,7 @@ function renderList() {
     const isNew = j.first_seen === TODAY;
     const salaryClass = j.salary_type === "negotiable" ? "negotiable" : "";
     const cm = catMeta(j.category || "other");
+    const deadlineBadge = deadlineBadgeHtml(j.deadline);
     return `
       <article class="job">
         <div class="cat-rail" style="background:${cm.color}"></div>
@@ -802,6 +835,7 @@ function renderList() {
           <div class="job-title-row">
             <h3 class="job-title"><a href="${escapeHtml(j.url)}" target="_blank" rel="noopener">${escapeHtml(j.title)}</a></h3>
             ${isNew ? '<span class="new-badge">✨ NEW</span>' : ""}
+            ${deadlineBadge}
           </div>
           <div class="job-company">${escapeHtml(j.company || "—")}</div>
           <div class="job-meta">
@@ -821,6 +855,28 @@ function renderList() {
 function escapeHtml(s) {
   return String(s ?? "").replace(/[&<>"']/g, ch =>
     ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
+}
+
+function deadlineBadgeHtml(deadline) {
+  if (!deadline) return "";
+  const today = new Date(TODAY);
+  const d = new Date(deadline);
+  const diffDays = Math.round((d - today) / 86400000);
+  let cls = "deadline-badge";
+  let label;
+  if (diffDays < 0) {
+    cls += " expired";
+    label = `已截止 ${deadline.slice(5)}`;
+  } else if (diffDays === 0) {
+    cls += " urgent";
+    label = `⏰ 今天截止`;
+  } else if (diffDays <= 7) {
+    cls += " urgent";
+    label = `⏰ ${diffDays} 天後截止`;
+  } else {
+    label = `⏰ ${deadline.slice(5)} 截止`;
+  }
+  return `<span class="${cls}">${escapeHtml(label)}</span>`;
 }
 
 function render() {
