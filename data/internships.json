@@ -1,10 +1,18 @@
 {
-  "generated_at": null,
-  "params": { "days": 7, "keyword": "實習", "salary_filter": true },
+  "generated_at": "2026-04-22T14:43:28",
+  "params": {
+    "days": 7,
+    "keyword": "實習",
+    "salary_filter": true
+  },
   "summary": {
     "total_raw": 0,
     "total_after_filter": 0,
-    "by_platform": { "104": 0, "CakeResume": 0, "Yourator": 0 }
+    "by_platform": {
+      "104": 0,
+      "CakeResume": 0,
+      "Yourator": 0
+    }
   },
   "jobs": []
 }
