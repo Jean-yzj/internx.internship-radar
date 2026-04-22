@@ -420,9 +420,37 @@
     overflow: hidden;
     text-overflow: ellipsis;
   }
+  .job-company .company-link {
+    color: inherit;
+    cursor: pointer;
+    text-decoration: none;
+    border-bottom: 1px dashed transparent;
+    transition: border-color 0.1s, color 0.1s;
+  }
+  .job-company .company-link:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+  }
   @media (max-width: 600px) {
     .job-company { font-size: 12.5px; margin: 2px 0 4px; white-space: normal; }
   }
+
+  /* Star button */
+  .star-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 4px 6px;
+    line-height: 1;
+    color: var(--text-faint);
+    transition: color 0.1s, transform 0.1s;
+    font-family: inherit;
+    flex-shrink: 0;
+  }
+  .star-btn:hover { color: #f59e0b; transform: scale(1.15); }
+  .star-btn.active { color: #f59e0b; }
+  .star-btn:focus { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
   .job-meta {
     display: flex;
     gap: 8px;
@@ -614,6 +642,7 @@
 <main>
   <div class="container">
     <div class="tabs-row" id="cat-tabs"></div>
+    <div class="tabs-row" id="loc-tabs"></div>
     <div class="tabs-row" id="plat-tabs"></div>
     <div class="result-info" id="result-info"></div>
     <div id="jobs" class="jobs">
@@ -633,11 +662,55 @@
 const PLATFORMS = ["104", "CakeResume", "Yourator"];
 const TODAY = new Date().toISOString().slice(0, 10);
 
-let data = { jobs: [], generated_at: null, summary: {}, categories: [] };
-let currentCat = "all";
-let currentPlat = "all";
+// 地區分桶（依 j.location 字串）
+const LOCATION_BUCKETS = [
+  { key: "remote",      label: "💻 遠端",    re: /remote|遠端|在家|work from home|wfh|anywhere/i },
+  { key: "taipei",      label: "🏙 台北",    re: /台北(?!縣)|taipei/i },
+  { key: "new-taipei",  label: "🏙 新北",    re: /新北|new taipei/i },
+  { key: "taoyuan",     label: "📍 桃園",    re: /桃園|taoyuan/i },
+  { key: "hsinchu",     label: "🔬 新竹",    re: /新竹|hsinchu/i },
+  { key: "taichung",    label: "📍 台中",    re: /台中|taichung/i },
+  { key: "tainan",      label: "📍 台南",    re: /台南|tainan/i },
+  { key: "kaohsiung",   label: "📍 高雄",    re: /高雄|kaohsiung/i },
+  { key: "overseas",    label: "🌏 海外",    re: /海外|overseas|美國|usa|日本|japan|singapore|新加坡|malaysia|馬來|indonesia|印尼|thailand|泰|hong kong|香港|vietnam|越南|越|philippines|菲律賓/i },
+  { key: "other-tw",    label: "📌 其他",    re: /花蓮|hualien|基隆|keelung|宜蘭|yilan|苗栗|miaoli|彰化|changhua|雲林|yunlin|嘉義|chiayi|屏東|pingtung|澎湖|金門|連江|南投|nantou/i },
+];
+function locationBucket(loc) {
+  const s = (loc || "").trim();
+  if (!s) return "unknown";
+  for (const b of LOCATION_BUCKETS) if (b.re.test(s)) return b.key;
+  return "unknown";
+}
+const LOCATION_LABELS = Object.fromEntries(
+  LOCATION_BUCKETS.map(b => [b.key, b.label]).concat([["unknown", "❓ 未標註"]])
+);
 
-// 將 hex 轉 rgba（用於 pill soft background）
+let data = { jobs: [], generated_at: null, summary: {}, categories: [] };
+let currentCat  = "all";
+let currentPlat = "all";
+let currentLoc  = "all";
+let starred     = new Set();
+
+// ---- LocalStorage bookmarks ----
+const LS_KEY = "internradar:starred:v1";
+function loadStarred() {
+  try {
+    const raw = localStorage.getItem(LS_KEY);
+    if (raw) starred = new Set(JSON.parse(raw));
+  } catch { starred = new Set(); }
+}
+function saveStarred() {
+  try { localStorage.setItem(LS_KEY, JSON.stringify([...starred])); } catch {}
+}
+function toggleStar(url) {
+  if (!url) return;
+  if (starred.has(url)) starred.delete(url);
+  else starred.add(url);
+  saveStarred();
+  render();
+}
+
+// ---- hex → soft rgba background ----
 function hexToSoft(hex, alpha = 0.14) {
   const h = (hex || "#94a3b8").replace("#", "");
   const r = parseInt(h.substring(0,2), 16);
@@ -650,6 +723,43 @@ function catMeta(key) {
   return (data.categories || []).find(c => c.key === key) || {
     key, label: key, emoji: "📋", color: "#94a3b8", count: 0,
   };
+}
+
+// ---- URL state sync ----
+function readUrlState() {
+  const p = new URLSearchParams(location.search);
+  currentCat  = p.get("cat")  || "all";
+  currentPlat = p.get("plat") || "all";
+  currentLoc  = p.get("loc")  || "all";
+  const qEl = document.getElementById("q");
+  const stypeEl = document.getElementById("salary-type");
+  const minEl = document.getElementById("min-salary");
+  const sortEl = document.getElementById("sort");
+  qEl.value = p.get("q") || "";
+  stypeEl.value = p.get("stype") || "";
+  minEl.value = p.get("min") || "0";
+  const sortVal = p.get("sort") || "category";
+  if (Array.from(sortEl.options).some(o => o.value === sortVal)) {
+    sortEl.value = sortVal;
+  } else {
+    sortEl.value = "category";
+  }
+}
+function writeUrlState() {
+  const p = new URLSearchParams();
+  const q = document.getElementById("q").value.trim();
+  const stype = document.getElementById("salary-type").value;
+  const minSal = document.getElementById("min-salary").value;
+  const sort = document.getElementById("sort").value;
+  if (currentCat !== "all")  p.set("cat", currentCat);
+  if (currentPlat !== "all") p.set("plat", currentPlat);
+  if (currentLoc !== "all")  p.set("loc", currentLoc);
+  if (q)                     p.set("q", q);
+  if (stype)                 p.set("stype", stype);
+  if (minSal && minSal !== "0") p.set("min", minSal);
+  if (sort !== "category")   p.set("sort", sort);
+  const qs = p.toString();
+  history.replaceState(null, "", location.pathname + (qs ? "?" + qs : ""));
 }
 
 async function load() {
@@ -674,11 +784,8 @@ function renderStats() {
   const cats = data.categories || [];
   let newCount = 0;
   for (const j of jobs) if (j.first_seen === TODAY) newCount++;
-
   document.getElementById("s-total").textContent = jobs.length.toLocaleString();
   document.getElementById("s-new").textContent   = newCount.toLocaleString();
-
-  // 前兩大分類（顯示在 stat cards）
   const top = [...cats].filter(c => c.key !== "other").sort((a,b) => b.count - a.count).slice(0, 2);
   if (top[0]) {
     document.getElementById("s-cat1-label").innerHTML =
@@ -711,15 +818,34 @@ function renderTabs() {
   const jobs = data.jobs || [];
   const cats = data.categories || [];
 
+  // 平台計數
   const platCounts = { all: jobs.length };
   for (const p of PLATFORMS) platCounts[p] = 0;
   for (const j of jobs) platCounts[j.platform] = (platCounts[j.platform] || 0) + 1;
 
-  // 分類 tabs：全部 + 所有有資料的類別
+  // 地區計數
+  const locCounts = {};
+  for (const j of jobs) {
+    const k = locationBucket(j.location);
+    locCounts[k] = (locCounts[k] || 0) + 1;
+  }
+
+  // 分類 tabs：全部 + ⭐收藏 + 所有有資料的類別
   const catTabs = [`
     <button class="tab ${currentCat === "all" ? "active" : ""}" data-cat="all">
       🎯 全部 <span class="count">${jobs.length}</span>
     </button>`];
+  if (starred.size > 0) {
+    catTabs.push(`
+      <button class="tab ${currentCat === "starred" ? "active" : ""}" data-cat="starred">
+        ⭐ 收藏 <span class="count">${starred.size}</span>
+      </button>`);
+  } else {
+    catTabs.push(`
+      <button class="tab" data-cat="starred" style="opacity:0.5" title="收藏任何職缺後，這裡會顯示你的收藏列表">
+        ⭐ 收藏 <span class="count">0</span>
+      </button>`);
+  }
   for (const c of cats) {
     if (c.count === 0) continue;
     const active = currentCat === c.key;
@@ -733,6 +859,24 @@ function renderTabs() {
   document.getElementById("cat-tabs").innerHTML =
     `<span class="tabs-label">分類</span>` + catTabs.join("");
 
+  // 地區 tabs（按資料動態，0 筆不顯示）
+  const locOrder = LOCATION_BUCKETS.map(b => b.key).concat(["unknown"]);
+  const locTabs = [`
+    <button class="tab ${currentLoc === "all" ? "active" : ""}" data-loc="all">
+      全部 <span class="count">${jobs.length}</span>
+    </button>`];
+  for (const k of locOrder) {
+    if (!locCounts[k]) continue;
+    const label = LOCATION_LABELS[k] || k;
+    locTabs.push(`
+      <button class="tab ${currentLoc === k ? "active" : ""}" data-loc="${escapeHtml(k)}">
+        ${label} <span class="count">${locCounts[k]}</span>
+      </button>`);
+  }
+  document.getElementById("loc-tabs").innerHTML =
+    `<span class="tabs-label">地區</span>` + locTabs.join("");
+
+  // 平台 tabs
   document.getElementById("plat-tabs").innerHTML =
     `<span class="tabs-label">平台</span>` +
     `<button class="tab ${currentPlat === "all" ? "active" : ""}" data-plat="all">全部 <span class="count">${platCounts.all}</span></button>` +
@@ -741,10 +885,13 @@ function renderTabs() {
     ).join("");
 
   document.querySelectorAll("#cat-tabs .tab").forEach(btn => {
-    btn.onclick = () => { currentCat = btn.dataset.cat; render(); };
+    btn.onclick = () => { currentCat = btn.dataset.cat; writeUrlState(); render(); };
+  });
+  document.querySelectorAll("#loc-tabs .tab").forEach(btn => {
+    btn.onclick = () => { currentLoc = btn.dataset.loc; writeUrlState(); render(); };
   });
   document.querySelectorAll("#plat-tabs .tab").forEach(btn => {
-    btn.onclick = () => { currentPlat = btn.dataset.plat; render(); };
+    btn.onclick = () => { currentPlat = btn.dataset.plat; writeUrlState(); render(); };
   });
 }
 
@@ -758,7 +905,12 @@ function renderList() {
   const catOrder = Object.fromEntries(cats.map((c, i) => [c.key, i]));
 
   let list = (data.jobs || []).filter(j => {
-    if (currentCat !== "all" && j.category !== currentCat) return false;
+    if (currentCat === "starred") {
+      if (!starred.has(j.url)) return false;
+    } else if (currentCat !== "all" && j.category !== currentCat) {
+      return false;
+    }
+    if (currentLoc !== "all" && locationBucket(j.location) !== currentLoc) return false;
     if (currentPlat !== "all" && j.platform !== currentPlat) return false;
     if (stype && j.salary_type !== stype) return false;
     if (minSal > 0 && (!j.salary_min || j.salary_min < minSal)) return false;
@@ -771,39 +923,24 @@ function renderList() {
 
   list.sort((a, b) => {
     if (sortBy === "category") {
-      // 分類優先順序（大學生投遞熱度） → first_seen 新 → 薪資高
       const c = (catOrder[a.category] ?? 99) - (catOrder[b.category] ?? 99);
       if (c !== 0) return c;
       const fs = (b.first_seen || "").localeCompare(a.first_seen || "");
       if (fs !== 0) return fs;
       return (b.salary_min || 0) - (a.salary_min || 0);
     }
-
-    // field-direction 格式，例如 "salary-desc" / "company-asc"
     const dashIdx = sortBy.lastIndexOf("-");
     const field = dashIdx > 0 ? sortBy.slice(0, dashIdx) : sortBy;
     const dir = sortBy.slice(dashIdx + 1) === "asc" ? 1 : -1;
-
-    if (field === "salary") {
-      return ((a.salary_min || 0) - (b.salary_min || 0)) * dir;
-    }
-    if (field === "company") {
-      return (a.company || "").localeCompare(b.company || "") * dir;
-    }
-    if (field === "date") {
-      return (a.posted_at || "").localeCompare(b.posted_at || "") * dir;
-    }
-    if (field === "first_seen") {
-      return (a.first_seen || "").localeCompare(b.first_seen || "") * dir;
-    }
+    if (field === "salary") return ((a.salary_min || 0) - (b.salary_min || 0)) * dir;
+    if (field === "company") return (a.company || "").localeCompare(b.company || "") * dir;
+    if (field === "date") return (a.posted_at || "").localeCompare(b.posted_at || "") * dir;
+    if (field === "first_seen") return (a.first_seen || "").localeCompare(b.first_seen || "") * dir;
     if (field === "deadline") {
-      // 沒有 deadline 的放最後（不論升降序）
-      const av = a.deadline || "9999-12-31";
-      const bv = b.deadline || "9999-12-31";
       if (!a.deadline && !b.deadline) return 0;
       if (!a.deadline) return 1;
       if (!b.deadline) return -1;
-      return av.localeCompare(bv) * dir;
+      return a.deadline.localeCompare(b.deadline) * dir;
     }
     return 0;
   });
@@ -815,10 +952,13 @@ function renderList() {
 
   const container = document.getElementById("jobs");
   if (list.length === 0) {
+    const hint = currentCat === "starred"
+      ? "還沒收藏任何職缺。點職缺右邊的 ☆ 就會收藏到這裡。"
+      : "試著放寬搜尋條件，或切換分類 / 地區 / 平台。";
     container.innerHTML = `
       <div class="empty">
         <h3>沒有符合條件的實習</h3>
-        <p>試著放寬搜尋條件，或切換分類 / 平台。</p>
+        <p>${escapeHtml(hint)}</p>
       </div>`;
     return;
   }
@@ -828,6 +968,7 @@ function renderList() {
     const salaryClass = j.salary_type === "negotiable" ? "negotiable" : "";
     const cm = catMeta(j.category || "other");
     const deadlineBadge = deadlineBadgeHtml(j.deadline);
+    const isStarred = starred.has(j.url);
     return `
       <article class="job">
         <div class="cat-rail" style="background:${cm.color}"></div>
@@ -837,7 +978,9 @@ function renderList() {
             ${isNew ? '<span class="new-badge">✨ NEW</span>' : ""}
             ${deadlineBadge}
           </div>
-          <div class="job-company">${escapeHtml(j.company || "—")}</div>
+          <div class="job-company">
+            <a class="company-link" data-company="${escapeHtml(j.company || "")}" title="只看這家公司的職缺">${escapeHtml(j.company || "—")}</a>
+          </div>
           <div class="job-meta">
             <span class="pill cat-badge" style="background:${hexToSoft(cm.color)};color:${cm.color}">${cm.emoji} ${escapeHtml(cm.label)}</span>
             <span class="pill platform-${escapeHtml(j.platform)}">${escapeHtml(j.platform)}</span>
@@ -845,11 +988,31 @@ function renderList() {
           </div>
         </div>
         <div class="job-right">
+          <button class="star-btn ${isStarred ? 'active' : ''}" data-url="${escapeHtml(j.url)}"
+                  aria-label="${isStarred ? '取消收藏' : '收藏'}" title="${isStarred ? '取消收藏' : '收藏'}">
+            ${isStarred ? '★' : '☆'}
+          </button>
           <div class="job-salary ${salaryClass}">${escapeHtml(j.salary || "—")}</div>
           <div class="job-date">${escapeHtml(j.posted_at || "")}</div>
         </div>
       </article>`;
   }).join("");
+
+  // star click
+  container.querySelectorAll(".star-btn").forEach(btn => {
+    btn.onclick = (e) => { e.stopPropagation(); toggleStar(btn.dataset.url); };
+  });
+  // company click → 用公司名搜尋
+  container.querySelectorAll(".company-link").forEach(a => {
+    a.onclick = (e) => {
+      e.preventDefault();
+      const name = a.dataset.company || "";
+      if (!name) return;
+      document.getElementById("q").value = name;
+      writeUrlState();
+      render();
+    };
+  });
 }
 
 function escapeHtml(s) {
@@ -869,7 +1032,7 @@ function deadlineBadgeHtml(deadline) {
     label = `已截止 ${deadline.slice(5)}`;
   } else if (diffDays === 0) {
     cls += " urgent";
-    label = `⏰ 今天截止`;
+    label = "⏰ 今天截止";
   } else if (diffDays <= 7) {
     cls += " urgent";
     label = `⏰ ${diffDays} 天後截止`;
@@ -886,22 +1049,65 @@ function render() {
   renderList();
 }
 
+// controls → sync URL + re-render
 ["q", "salary-type", "min-salary", "sort"].forEach(id => {
-  document.getElementById(id).addEventListener("input", renderList);
+  document.getElementById(id).addEventListener("input", () => {
+    writeUrlState();
+    renderList();
+  });
 });
 
-// Keyboard shortcut: `/` to focus search
+// ---- 鍵盤快捷鍵 ----
 document.addEventListener("keydown", (e) => {
+  // `/` — 搜尋框 focus
   if (e.key === "/" && !e.target.matches("input, select, textarea")) {
     e.preventDefault();
     document.getElementById("q").focus();
+    return;
   }
+  // Esc — 搜尋框清空
   if (e.key === "Escape" && document.activeElement === document.getElementById("q")) {
     document.getElementById("q").value = "";
+    writeUrlState();
     renderList();
+    return;
+  }
+  // 下列快捷鍵在 input / select / textarea 內不觸發
+  if (e.target.matches("input, select, textarea")) return;
+  if (e.metaKey || e.ctrlKey || e.altKey) return;
+
+  // 1-9 → 切到第 N 個非零分類（按當前 data.categories 順序）
+  if (/^[1-9]$/.test(e.key)) {
+    const visibleCats = (data.categories || []).filter(c => c.count > 0);
+    const idx = parseInt(e.key, 10) - 1;
+    if (visibleCats[idx]) {
+      currentCat = visibleCats[idx].key;
+      writeUrlState();
+      render();
+    }
+    return;
+  }
+  // 0 → 全部
+  if (e.key === "0") {
+    currentCat = "all";
+    writeUrlState();
+    render();
+    return;
+  }
+  // s — 切到收藏
+  if (e.key === "s" || e.key === "S") {
+    if (starred.size > 0) {
+      currentCat = "starred";
+      writeUrlState();
+      render();
+    }
+    return;
   }
 });
 
+// ---- 啟動 ----
+loadStarred();
+readUrlState();
 load();
 </script>
 </body>
