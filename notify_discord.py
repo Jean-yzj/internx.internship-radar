@@ -177,6 +177,8 @@ def post(webhook: str, content: str | None = None, embeds: list[dict] | None = N
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("input", nargs="?", default="data/new_today.json")
+    ap.add_argument("--limit", type=int, default=MAX_JOBS,
+                    help=f"最多推送幾筆（預設 {MAX_JOBS}）")
     args = ap.parse_args()
 
     webhook = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
@@ -196,7 +198,7 @@ def main() -> int:
         print("Posted empty-day notice.")
         return 0
 
-    selected = select_top(jobs, MAX_JOBS)
+    selected = select_top(jobs, args.limit)
     total_selected = sum(len(v) for v in selected.values())
     total_available = len(jobs)
 
