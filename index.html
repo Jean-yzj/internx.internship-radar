@@ -7,7 +7,7 @@
 <meta name="description" content="每天自動彙整 104、CakeResume、Yourator 的最新實習職缺，依分類與地區呈現。">
 <meta property="og:title" content="實習雷達 · Internship Radar">
 <meta property="og:description" content="每天自動彙整 104、CakeResume、Yourator 的最新實習職缺。">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🎯%3C/text%3E%3C/svg%3E">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%234f46e5' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='10'/%3E%3Ccircle cx='12' cy='12' r='6'/%3E%3Ccircle cx='12' cy='12' r='2' fill='%234f46e5'/%3E%3C/svg%3E">
 <link rel="alternate" type="application/atom+xml" title="實習雷達 · 新增職缺" href="/data/feed.xml">
 
 <!--
@@ -302,6 +302,8 @@
   }
   .chip.empty { opacity: 0.35; }
   .chip.empty:hover { opacity: 0.6; }
+  .chip .ic-slot { display: inline-flex; align-items: center; }
+  .chip.active .ic-slot { color: var(--bg) !important; }
   .chip .count { font-size: 11px; opacity: 0.7; font-weight: 500; }
   .chip.active .count { opacity: 0.85; }
   .chip .dot {
@@ -647,26 +649,26 @@
       <kbd>/</kbd>
     </div>
     <select id="sort" title="排序">
-      <optgroup label="推薦"><option value="category">🎯 推薦</option></optgroup>
+      <optgroup label="推薦"><option value="category">推薦排序</option></optgroup>
       <optgroup label="薪資">
-        <option value="salary-desc">💰 薪資高→低</option>
-        <option value="salary-asc">💰 薪資低→高</option>
+        <option value="salary-desc">薪資 高→低</option>
+        <option value="salary-asc">薪資 低→高</option>
       </optgroup>
       <optgroup label="上架日">
-        <option value="date-desc">📅 最新上架</option>
-        <option value="date-asc">📅 最舊上架</option>
+        <option value="date-desc">最新上架</option>
+        <option value="date-asc">最舊上架</option>
       </optgroup>
       <optgroup label="發現日">
-        <option value="first_seen-desc">✨ 最新發現</option>
-        <option value="first_seen-asc">✨ 最早發現</option>
+        <option value="first_seen-desc">最新發現</option>
+        <option value="first_seen-asc">最早發現</option>
       </optgroup>
       <optgroup label="截止日">
-        <option value="deadline-asc">⏰ 快要截止</option>
-        <option value="deadline-desc">⏰ 最晚截止</option>
+        <option value="deadline-asc">快要截止</option>
+        <option value="deadline-desc">最晚截止</option>
       </optgroup>
       <optgroup label="公司">
-        <option value="company-asc">🏢 公司 A→Z</option>
-        <option value="company-desc">🏢 公司 Z→A</option>
+        <option value="company-asc">公司 A→Z</option>
+        <option value="company-desc">公司 Z→A</option>
       </optgroup>
     </select>
     <select id="loc" title="地區"><option value="all">全部地區</option></select>
@@ -687,9 +689,9 @@
     </select>
     <select id="deadline-filter" title="截止日">
       <option value="">截止日 不限</option>
-      <option value="7">⏰ 7 天內截止</option>
-      <option value="30">⏰ 30 天內截止</option>
-      <option value="has">⏰ 有設截止日</option>
+      <option value="7">7 天內截止</option>
+      <option value="30">30 天內截止</option>
+      <option value="has">有設截止日</option>
       <option value="none">無設截止日</option>
       <option value="expired">已截止</option>
     </select>
@@ -730,10 +732,41 @@ const IC = {
   rss:      '<path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/>',
   bookmark: '<path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>',
   x:        '<path d="M18 6 6 18M6 6l12 12"/>',
-  building: '<rect x="4" y="2" width="16" height="20" rx="2"/><path d="M9 22v-4h6v4M8 6h.01M16 6h.01M12 6h.01M12 10h.01M12 14h.01M16 10h.01M16 14h.01M8 10h.01M8 14h.01"/>',
 };
+
+// 分類 icon（Lucide 風格），22 個 category key → SVG path。
+// 覆寫 categories.py 提供的 emoji field，Discord 仍用 emoji、前端用 SVG。
+const CAT_IC = {
+  tech:         '<polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/>',
+  engineering:  '<path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94z"/>',
+  data:         '<line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/>',
+  pm:           '<circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2" fill="currentColor"/>',
+  finance:      '<line x1="12" y1="2" x2="12" y2="22"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/>',
+  consulting:   '<circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88"/>',
+  marketing:    '<path d="m3 11 18-5v12L3 14z"/><path d="M11.6 16.8a3 3 0 1 1-5.8-1.6"/>',
+  content:      '<path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="m18.5 2.5 3 3L12 15l-4 1 1-4z"/>',
+  design:       '<circle cx="13.5" cy="6.5" r=".5" fill="currentColor"/><circle cx="17.5" cy="10.5" r=".5" fill="currentColor"/><circle cx="8.5" cy="7.5" r=".5" fill="currentColor"/><circle cx="6.5" cy="12.5" r=".5" fill="currentColor"/><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10c.9 0 1.6-.7 1.6-1.6v-.1c0-.4-.2-.8-.4-1.1-.3-.3-.4-.7-.4-1.1a1.6 1.6 0 0 1 1.6-1.6H16c3 0 5.5-2.5 5.5-5.6C21.5 5.5 17.3 2 12 2z"/>',
+  bd_sales:     '<path d="m11 17 2 2a1 1 0 1 0 3-3"/><path d="m14 14 2.5 2.5a1 1 0 1 0 3-3l-3.88-3.88a3 3 0 0 0-4.24 0l-.88.88a1 1 0 1 1-3-3l2.81-2.81a5.8 5.8 0 0 1 7.06-.87l.47.28a2 2 0 0 0 1.42.25L21 4"/><path d="m21 3 1 11h-2"/><path d="M3 3 2 14l6.5 6.5a1 1 0 1 0 3-3"/><path d="M3 4h8"/>',
+  hr:           '<path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/>',
+  accounting:   '<rect x="4" y="2" width="16" height="20" rx="2"/><line x1="8" y1="6" x2="16" y2="6"/><line x1="16" y1="14" x2="16" y2="18"/><path d="M16 10h.01M12 10h.01M8 10h.01M12 14h.01M8 14h.01M12 18h.01M8 18h.01"/>',
+  education:    '<path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2"/>',
+  operations:   '<rect x="2" y="4" width="20" height="5" rx="2"/><path d="M4 9v9a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9"/><line x1="10" y1="14" x2="14" y2="14"/>',
+  legal:        '<path d="m16 16 3-8 3 8c-.9.6-1.9 1-3 1s-2.1-.4-3-1Z"/><path d="m2 16 3-8 3 8c-.9.6-1.9 1-3 1s-2.1-.4-3-1Z"/><path d="M7 21h10"/><path d="M12 3v18"/><path d="M3 7h2c2 0 5-1 7-2 2 1 5 2 7 2h2"/>',
+  manufacturing:'<path d="M2 20a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8l-7 5V8l-7 5V4a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2z"/><path d="M17 18h1M12 18h1M7 18h1"/>',
+  supply_chain: '<path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/>',
+  hospitality:  '<path d="M3 2v7c0 1.1.9 2 2 2h4a2 2 0 0 0 2-2V2"/><path d="M7 2v20"/><path d="M21 15V2a5 5 0 0 0-5 5v6c0 1.1.9 2 2 2h3Zm0 0v7"/>',
+  research:     '<path d="M6 18h8"/><path d="M3 22h18"/><path d="M14 22a7 7 0 1 0 0-14h-1"/><path d="M9 14h2"/><path d="M8 6h4"/><path d="M13 10V6.5a.5.5 0 0 1 .5-.5.5.5 0 0 0 .5-.5V3a1 1 0 0 0-1-1H9a1 1 0 0 0-1 1v2.5a.5.5 0 0 0 .5.5.5.5 0 0 1 .5.5V10c0 1.1-.9 2-2 2H5v4h16v-4h-1.5a1 1 0 0 1-1-1Z"/>',
+  healthcare:   '<path d="M11 2a2 2 0 0 0-2 2v5H4a2 2 0 0 0-2 2v2c0 1.1.9 2 2 2h5v5c0 1.1.9 2 2 2h2a2 2 0 0 0 2-2v-5h5a2 2 0 0 0 2-2v-2a2 2 0 0 0-2-2h-5V4a2 2 0 0 0-2-2z"/>',
+  biotech:      '<path d="M10 2v7.31"/><path d="M14 9.3V1.99"/><path d="M8.5 2h7"/><path d="M14 9.3a6.5 6.5 0 1 1-4 0"/><path d="M5.58 16.5h12.85"/>',
+  other:        '<line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/>',
+};
+
 function ic(name, cls = "") {
   return `<svg class="ic ${cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${IC[name] || ""}</svg>`;
+}
+function catIc(key, cls = "") {
+  const path = CAT_IC[key] || CAT_IC.other;
+  return `<svg class="ic ${cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${path}</svg>`;
 }
 
 // ─────────────────────────────────────────────────────
@@ -745,16 +778,16 @@ const TODAY = new Date().toISOString().slice(0, 10);
 // [台臺] 同時接「台」(U+53F0 常用) 與「臺」(U+81FA 正體)
 // Yourator 回傳繁體正體字「臺北市」，若只匹配「台」會有近 50 筆被漏掉
 const LOCATION_BUCKETS = [
-  { key: "remote",     label: "💻 遠端",    re: /remote|遠端|在家|work from home|wfh|anywhere/i },
-  { key: "taipei",     label: "🏙 台北",    re: /[台臺]北(?!縣)|taipei/i },
-  { key: "new-taipei", label: "🏙 新北",    re: /新北|new taipei/i },
-  { key: "taoyuan",    label: "📍 桃園",    re: /桃園|taoyuan/i },
-  { key: "hsinchu",    label: "🔬 新竹",    re: /新竹|hsinchu/i },
-  { key: "taichung",   label: "📍 台中",    re: /[台臺]中|taichung/i },
-  { key: "tainan",     label: "📍 台南",    re: /[台臺]南|tainan/i },
-  { key: "kaohsiung",  label: "📍 高雄",    re: /高雄|kaohsiung/i },
-  { key: "overseas",   label: "🌏 海外",    re: /海外|overseas|美國|usa|日本|japan|singapore|新加坡|malaysia|馬來|indonesia|印尼|thailand|泰|hong kong|香港|vietnam|越南|philippines|菲律賓/i },
-  { key: "other-tw",   label: "📌 其他",    re: /[台臺]東|taitung|花蓮|hualien|基隆|keelung|宜蘭|yilan|苗栗|miaoli|彰化|changhua|雲林|yunlin|嘉義|chiayi|屏東|pingtung|澎湖|金門|連江|南投|nantou/i },
+  { key: "remote",     label: "遠端",    re: /remote|遠端|在家|work from home|wfh|anywhere/i },
+  { key: "taipei",     label: "台北",    re: /[台臺]北(?!縣)|taipei/i },
+  { key: "new-taipei", label: "新北",    re: /新北|new taipei/i },
+  { key: "taoyuan",    label: "桃園",    re: /桃園|taoyuan/i },
+  { key: "hsinchu",    label: "新竹",    re: /新竹|hsinchu/i },
+  { key: "taichung",   label: "台中",    re: /[台臺]中|taichung/i },
+  { key: "tainan",     label: "台南",    re: /[台臺]南|tainan/i },
+  { key: "kaohsiung",  label: "高雄",    re: /高雄|kaohsiung/i },
+  { key: "overseas",   label: "海外",    re: /海外|overseas|美國|usa|日本|japan|singapore|新加坡|malaysia|馬來|indonesia|印尼|thailand|泰|hong kong|香港|vietnam|越南|philippines|菲律賓/i },
+  { key: "other-tw",   label: "其他",    re: /[台臺]東|taitung|花蓮|hualien|基隆|keelung|宜蘭|yilan|苗栗|miaoli|彰化|changhua|雲林|yunlin|嘉義|chiayi|屏東|pingtung|澎湖|金門|連江|南投|nantou/i },
 ];
 function locationBucket(loc) {
   const s = (loc || "").trim();
@@ -917,7 +950,7 @@ function renderStats() {
   $id("hero-stats").innerHTML = `
     <span><strong>${jobs.length}</strong>筆職缺</span>
     ${newCount ? `<span><strong>${newCount}</strong>今日新增</span>` : ""}
-    ${topCat ? `<button class="hero-cat" data-cat="${esc(topCat.key)}" title="點擊切到 ${esc(topCat.label)} 分類" style="color:${topCat.color}"><strong>${topCat.count}</strong>${esc(topCat.emoji)} ${esc(topCat.label)}</button>` : ""}
+    ${topCat ? `<button class="hero-cat" data-cat="${esc(topCat.key)}" title="點擊切到 ${esc(topCat.label)} 分類" style="color:${topCat.color}"><strong>${topCat.count}</strong>${catIc(topCat.key, "ic-sm")} ${esc(topCat.label)}</button>` : ""}
     <span>${ic("clock", "ic-sm")} ${esc(agoText)}</span>
   `;
   // 點擊 hero 的「最大分類」stat → 切換到該分類
@@ -959,8 +992,8 @@ function renderCatBar() {
     const emptyCls = contextCount === 0 && !active ? " empty" : "";
     chips.push(`
       <button class="chip ${active ? "active" : ""}${emptyCls}" data-cat="${esc(c.key)}">
-        <span class="dot" style="color:${c.color}"></span>
-        ${esc(c.emoji)} ${esc(c.label)}
+        <span class="ic-slot" style="color:${c.color}">${catIc(c.key, "ic-sm")}</span>
+        ${esc(c.label)}
         <span class="count">${contextCount}</span>
       </button>`);
   }
@@ -1017,8 +1050,8 @@ function matchFilters(j, f) {
 }
 function summariseFilters(f) {
   const parts = [];
-  if (f.cat === "starred") parts.push("⭐");
-  else if (f.cat && f.cat !== "all") parts.push(catMeta(f.cat).emoji + catMeta(f.cat).label);
+  if (f.cat === "starred") parts.push("收藏");
+  else if (f.cat && f.cat !== "all") parts.push(catMeta(f.cat).label);
   if (f.loc  !== "all") parts.push((LOCATION_LABELS[f.loc] || f.loc).replace(/^[^\s]+\s/, ""));
   if (f.plat !== "all") parts.push(f.plat);
   if (f.q) parts.push(`"${f.q}"`);
@@ -1026,7 +1059,7 @@ function summariseFilters(f) {
   if (f.stype) parts.push({monthly:"月薪",hourly:"時薪",negotiable:"面議"}[f.stype] || f.stype);
   if (f.dl) {
     const lbl = {"7":"7天內截止","30":"30天內截止","has":"有截止日","none":"無截止日","expired":"已截止"};
-    parts.push("⏰" + (lbl[f.dl] || f.dl));
+    parts.push(lbl[f.dl] || f.dl);
   }
   return parts.join(" · ") || "全部";
 }
@@ -1185,7 +1218,7 @@ function renderList() {
       chips.push({ label: "只看收藏", action: "cat-reset" });
     } else if (currentCat !== "all") {
       const cm = catMeta(currentCat);
-      chips.push({ label: `${cm.emoji} ${cm.label}`, action: "cat-reset" });
+      chips.push({ label: cm.label, action: "cat-reset" });
     }
     if (loc !== "all") chips.push({ label: LOCATION_LABELS[loc] || loc, action: "loc-reset" });
     if (plat !== "all") chips.push({ label: plat, action: "plat-reset" });
@@ -1195,7 +1228,7 @@ function renderList() {
     const dlVal = $id("deadline-filter").value;
     if (dlVal) {
       const dlLabels = { "7":"7 天內截止", "30":"30 天內截止", "has":"有設截止日", "none":"無設截止日", "expired":"已截止" };
-      chips.push({ label: "⏰ " + (dlLabels[dlVal] || dlVal), action: "dl-reset" });
+      chips.push({ label: dlLabels[dlVal] || dlVal, action: "dl-reset" });
     }
 
     const hint = currentCat === "starred" && starred.size === 0
@@ -1264,7 +1297,7 @@ function renderList() {
             <div class="job-salary ${j.salary_type === "negotiable" ? "neg" : ""}">${esc(j.salary || "—")}</div>
           </div>
           <div class="job-meta">
-            <span style="color:${cm.color}">${esc(cm.emoji)} ${esc(cm.label)}</span>
+            <span style="color:${cm.color}">${catIc(cm.key, "ic-sm")} ${esc(cm.label)}</span>
             <span class="meta-sep"></span>
             <a class="company-link" data-company="${esc(j.company || "")}">${esc(j.company || "—")}</a>
             ${j.location ? `<span class="meta-sep"></span><span>${ic("pin", "ic-sm")} ${esc(j.location)}</span>` : ""}
