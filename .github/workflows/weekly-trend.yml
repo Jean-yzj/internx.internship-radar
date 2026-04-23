@@ -1,0 +1,30 @@
+name: Weekly Trend
+
+on:
+  schedule:
+    # 每週一台灣 09:00（= 週一 01:00 UTC）—— 這時 scrape workflow 剛跑完，資料最新
+    - cron: '5 1 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  trend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Post weekly trend to Discord
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python weekly_trend.py

@@ -36,6 +36,7 @@ except ImportError:
     sys.exit(1)
 
 from categories import CATEGORIES, CATEGORY_BY_KEY, categorize
+from skills import extract_skills
 
 
 # ---------- 資料模型 ----------
@@ -56,6 +57,11 @@ class Job:
     first_seen: str = ""
     last_seen: str = ""
     deadline: str = ""
+    skills: list[str] = None  # type: ignore[assignment]
+
+    def __post_init__(self) -> None:
+        if self.skills is None:
+            self.skills = []
 
 
 UA = (
@@ -487,6 +493,59 @@ def _load_seen(seen_path: str) -> dict[str, dict]:
     return out
 
 
+def generate_feed(jobs: list[Job], output_path: str, site_url: str = "https://internshipradar.zeabur.app") -> None:
+    """輸出 Atom 1.0 feed（最多 30 筆最新），可被 RSS reader 訂閱。"""
+    from html import escape
+    # 最新的 first_seen 排前面
+    sorted_jobs = sorted(
+        jobs,
+        key=lambda j: (j.first_seen or "", j.salary_min or 0),
+        reverse=True,
+    )[:30]
+    now = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+    entries = []
+    for j in sorted_jobs:
+        title = escape(f"{j.title} · {j.company}")
+        url = escape(j.url)
+        fs = j.first_seen or dt.date.today().isoformat()
+        updated = f"{fs}T00:00:00+08:00"
+        category = escape(j.category)
+        summary_parts = []
+        if j.salary:
+            summary_parts.append(f"薪資：{j.salary}")
+        if j.location:
+            summary_parts.append(f"地點：{j.location}")
+        if j.deadline:
+            summary_parts.append(f"截止：{j.deadline}")
+        summary_parts.append(f"平台：{j.platform}")
+        summary = escape(" · ".join(summary_parts))
+        entries.append(
+            f'  <entry>\n'
+            f'    <title>{title}</title>\n'
+            f'    <id>{url}</id>\n'
+            f'    <link href="{url}" />\n'
+            f'    <updated>{updated}</updated>\n'
+            f'    <category term="{category}" />\n'
+            f'    <summary>{summary}</summary>\n'
+            f'  </entry>'
+        )
+    feed = (
+        '<?xml version="1.0" encoding="utf-8"?>\n'
+        '<feed xmlns="http://www.w3.org/2005/Atom">\n'
+        f'  <title>實習雷達</title>\n'
+        f'  <subtitle>104 · CakeResume · Yourator 每日實習彙整</subtitle>\n'
+        f'  <link href="{site_url}" rel="alternate" />\n'
+        f'  <link href="{site_url}/data/feed.xml" rel="self" />\n'
+        f'  <id>{site_url}/</id>\n'
+        f'  <updated>{now}</updated>\n'
+        + "\n".join(entries) + "\n"
+        '</feed>\n'
+    )
+    os.makedirs(os.path.dirname(output_path) or ".", exist_ok=True)
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.write(feed)
+
+
 def _prune_seen(seen: dict[str, dict], today: dt.date) -> int:
     """移除 last_seen 超過 SEEN_PRUNE_DAYS 的項目。"""
     cutoff = today - dt.timedelta(days=SEEN_PRUNE_DAYS)
@@ -545,6 +604,7 @@ def run(
     # 關鍵字分類（基本）
     for j in unique:
         j.category = categorize(j.title, j.company, j.description)
+        j.skills = extract_skills(j.title, j.description)
 
     # LLM 分類（可選，覆寫上面）
     if use_llm:
@@ -633,6 +693,13 @@ def run(
     with open(seen_path, "w", encoding="utf-8") as f:
         json.dump({"last_updated": generated_at, "urls": seen_map}, f,
                   ensure_ascii=False, indent=2)
+
+    # RSS / Atom feed
+    feed_path = os.path.join(os.path.dirname(output) or ".", "feed.xml")
+    try:
+        generate_feed(unique, feed_path)
+    except Exception as e:
+        log(f"  feed.xml 產生失敗：{e}")
 
     log(f"✅ 完成：全部 {len(unique)} 筆 / 新增 {len(new_jobs)} 筆 / 分類法：{'LLM' if use_llm else 'keyword'}")
     deadline_count = sum(1 for j in unique if j.deadline)
