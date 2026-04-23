@@ -1174,11 +1174,12 @@ function renderList() {
   const sortBy = $id("sort").value;
   const loc = $id("loc").value;
   const plat = $id("plat").value;
+  const dl = $id("deadline-filter").value;
   const cats = data.categories || [];
   const catOrder = Object.fromEntries(cats.map((c, i) => [c.key, i]));
 
   let list = (data.jobs || []).filter(j =>
-    matchFilters(j, { cat: currentCat, loc, plat, stype, min: minSal || "0", q })
+    matchFilters(j, { cat: currentCat, loc, plat, stype, min: minSal || "0", q, dl })
   );
 
   list.sort((a, b) => {
