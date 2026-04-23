@@ -261,7 +261,7 @@
   .cat-bar {
     display: flex;
     gap: 6px;
-    padding: 14px 0 2px;
+    padding: 14px 0 0;
     overflow-x: auto;
     scrollbar-width: none;
     -webkit-overflow-scrolling: touch;
@@ -331,9 +331,11 @@
     gap: 8px;
     flex-wrap: wrap;
     align-items: center;
-    padding: 10px 0 6px;
+    padding: 10px 0 0;
     font-size: 12px;
   }
+  /* 空 saved-wrap 完全不佔空間，避免 chip 和清單間出現多餘垂直間距 */
+  .saved:empty { display: none; }
   .saved-label {
     color: var(--text-faint);
     font-weight: 500;
@@ -383,7 +385,7 @@
   .result-info {
     font-size: 12.5px;
     color: var(--text-muted);
-    margin: 14px 0 10px;
+    margin: 12px 0 8px;
   }
 
   /* ─────────────────── Jobs list ─────────────────── */
