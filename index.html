@@ -261,11 +261,12 @@
   .cat-bar {
     display: flex;
     gap: 6px;
-    padding: 16px 0 4px;
+    padding: 14px 0 2px;
     overflow-x: auto;
     scrollbar-width: none;
     -webkit-overflow-scrolling: touch;
     scroll-snap-type: x proximity;
+    align-items: center;
   }
   .cat-bar::-webkit-scrollbar { display: none; }
   @media (max-width: 640px) {
@@ -283,9 +284,9 @@
     display: inline-flex;
     align-items: center;
     gap: 6px;
-    padding: 7px 13px;
-    min-height: 34px;
-    border-radius: 999px;
+    padding: 6px 11px;
+    height: 32px;
+    border-radius: 8px;
     background: var(--panel);
     border: 1px solid var(--border);
     font-size: 13px;
@@ -293,19 +294,31 @@
     font-family: inherit;
     transition: color 0.1s, border-color 0.1s, background 0.1s;
     white-space: nowrap;
+    line-height: 1;
   }
-  .chip:hover { color: var(--text); border-color: var(--border-strong); }
+  .chip > * { flex-shrink: 0; }
+  .chip:hover {
+    color: var(--text);
+    border-color: var(--border-strong);
+    background: var(--bg-soft);
+  }
   .chip.active {
     background: var(--text);
     color: var(--bg);
     border-color: var(--text);
   }
-  .chip.empty { opacity: 0.35; }
-  .chip.empty:hover { opacity: 0.6; }
-  .chip .ic-slot { display: inline-flex; align-items: center; }
+  .chip.empty { opacity: 0.4; }
+  .chip.empty:hover { opacity: 0.7; }
+  .chip .ic-slot { display: inline-flex; align-items: center; line-height: 0; }
   .chip.active .ic-slot { color: var(--bg) !important; }
-  .chip .count { font-size: 11px; opacity: 0.7; font-weight: 500; }
-  .chip.active .count { opacity: 0.85; }
+  .chip .ic { width: 14px; height: 14px; }
+  .chip .count {
+    font-size: 11px;
+    opacity: 0.6;
+    font-weight: 500;
+    padding-left: 2px;
+  }
+  .chip.active .count { opacity: 0.8; }
   .chip .dot {
     width: 7px; height: 7px; border-radius: 999px;
     background: currentColor;
