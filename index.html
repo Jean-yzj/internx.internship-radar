@@ -268,6 +268,8 @@
     color: var(--bg);
     border-color: var(--text);
   }
+  .chip.empty { opacity: 0.35; }
+  .chip.empty:hover { opacity: 0.6; }
   .chip .count { font-size: 11px; opacity: 0.7; font-weight: 500; }
   .chip.active .count { opacity: 0.85; }
   .chip .dot {
@@ -517,6 +519,43 @@
   .empty h3 { color: var(--text); margin: 0 0 6px; font-size: 16px; font-weight: 600; }
   .empty p { margin: 0; font-size: 14px; }
   .empty .emoji { font-size: 32px; display: block; margin-bottom: 10px; opacity: 0.5; }
+  .clear-row {
+    margin-top: 20px;
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  .clear-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 5px 10px 5px 12px;
+    border-radius: 999px;
+    background: var(--bg-soft);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-size: 12.5px;
+    font-family: inherit;
+  }
+  .clear-chip:hover { border-color: var(--urgent); color: var(--urgent); }
+  .clear-chip .x {
+    opacity: 0.5;
+    font-weight: 400;
+  }
+  .clear-chip:hover .x { opacity: 1; }
+  .clear-all {
+    padding: 5px 12px;
+    border-radius: 999px;
+    background: var(--urgent);
+    color: white;
+    border: none;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: inherit;
+  }
+  .clear-all:hover { opacity: 0.9; }
   .spinner {
     width: 22px; height: 22px;
     border: 2px solid var(--border);
@@ -828,20 +867,32 @@ function catMeta(key) {
 }
 function renderCatBar() {
   const jobs = data.jobs || [];
+  // Context-aware counts：套用除了「分類」以外的所有當前篩選，再統計每個分類剩幾筆。
+  // 這樣選了「台北」後，切換到「產品」前就能看到 "產品 0"，知道交集是空的。
+  const baseFilters = { ...currentFilters(), cat: "all" };
+  const eligible = jobs.filter(j => matchFilters(j, baseFilters));
+  const catCounts = {};
+  for (const j of eligible) {
+    catCounts[j.category] = (catCounts[j.category] || 0) + 1;
+  }
+  const starredCount = eligible.filter(j => starred.has(j.url)).length;
+
   const chips = [
-    `<button class="chip ${currentCat === "all" ? "active" : ""}" data-cat="all">🎯 全部 <span class="count">${jobs.length}</span></button>`,
+    `<button class="chip ${currentCat === "all" ? "active" : ""}" data-cat="all">🎯 全部 <span class="count">${eligible.length}</span></button>`,
     (starred.size > 0
-      ? `<button class="chip ${currentCat === "starred" ? "active" : ""}" data-cat="starred" style="color:var(--star)">⭐ 收藏 <span class="count">${starred.size}</span></button>`
+      ? `<button class="chip ${currentCat === "starred" ? "active" : ""} ${starredCount === 0 ? 'empty' : ''}" data-cat="starred" style="color:var(--star)">⭐ 收藏 <span class="count">${starredCount}</span></button>`
       : ""),
   ];
   for (const c of (data.categories || [])) {
-    if (!c.count) continue;
+    if (!c.count) continue;  // 全站完全 0 筆就不顯示 chip
+    const contextCount = catCounts[c.key] || 0;
     const active = currentCat === c.key;
+    const emptyCls = contextCount === 0 && !active ? " empty" : "";
     chips.push(`
-      <button class="chip ${active ? "active" : ""}" data-cat="${esc(c.key)}">
+      <button class="chip ${active ? "active" : ""}${emptyCls}" data-cat="${esc(c.key)}">
         <span class="dot" style="color:${c.color}"></span>
         ${esc(c.emoji)} ${esc(c.label)}
-        <span class="count">${c.count}</span>
+        <span class="count">${contextCount}</span>
       </button>`);
   }
   const bar = $id("cat-bar");
@@ -1010,15 +1061,61 @@ function renderList() {
 
   const cont = $id("jobs");
   if (list.length === 0) {
-    const hint = currentCat === "starred"
+    // 列出所有目前套用中的條件 + 每個旁邊一個 × 可直接拆
+    const chips = [];
+    if (currentCat === "starred") {
+      chips.push({ label: "⭐ 只看收藏", action: "cat-reset" });
+    } else if (currentCat !== "all") {
+      const cm = catMeta(currentCat);
+      chips.push({ label: `${cm.emoji} ${cm.label}`, action: "cat-reset" });
+    }
+    if (loc !== "all") chips.push({ label: LOCATION_LABELS[loc] || loc, action: "loc-reset" });
+    if (plat !== "all") chips.push({ label: plat, action: "plat-reset" });
+    if (q) chips.push({ label: `"${q}"`, action: "q-reset" });
+    if (stype) chips.push({ label: {monthly:"月薪",hourly:"時薪",negotiable:"面議"}[stype] || stype, action: "stype-reset" });
+    if (minSal > 0) chips.push({ label: `月薪 ${(minSal/1000)|0}k+`, action: "min-reset" });
+
+    const hint = currentCat === "starred" && starred.size === 0
       ? "還沒收藏任何職缺。點卡片右邊的 ☆ 就會出現在這裡。"
-      : "試著放寬搜尋條件，或換個分類／地區。";
+      : chips.length > 0
+        ? "以下條件同時套用中，點 × 可以拆掉其中之一："
+        : "試著放寬搜尋條件。";
+    const chipsHtml = chips.map(c =>
+      `<button class="clear-chip" data-action="${esc(c.action)}">${esc(c.label)} <span class="x">×</span></button>`
+    ).join("");
+    const clearAll = chips.length > 1
+      ? `<button class="clear-all" data-action="clear-all">清除全部條件</button>`
+      : "";
+
     cont.innerHTML = `
       <div class="empty">
         <span class="emoji">🔍</span>
         <h3>沒有符合條件的實習</h3>
         <p>${esc(hint)}</p>
+        ${chipsHtml ? `<div class="clear-row">${chipsHtml} ${clearAll}</div>` : ""}
       </div>`;
+
+    cont.querySelectorAll(".clear-chip, .clear-all").forEach(btn => {
+      btn.onclick = () => {
+        const act = btn.dataset.action;
+        if (act === "cat-reset")   currentCat = "all";
+        if (act === "loc-reset")   $id("loc").value = "all";
+        if (act === "plat-reset")  $id("plat").value = "all";
+        if (act === "q-reset")     $id("q").value = "";
+        if (act === "stype-reset") $id("salary-type").value = "";
+        if (act === "min-reset")   $id("min-salary").value = "0";
+        if (act === "clear-all") {
+          currentCat = "all";
+          $id("loc").value = "all";
+          $id("plat").value = "all";
+          $id("q").value = "";
+          $id("salary-type").value = "";
+          $id("min-salary").value = "0";
+        }
+        writeUrl();
+        render();
+      };
+    });
     return;
   }
 
