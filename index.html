@@ -432,6 +432,7 @@
   .badge-deadline { background: var(--warn-soft); color: var(--warn); }
   .badge-deadline.urgent { background: var(--urgent-soft); color: var(--urgent); }
   .badge-deadline.expired { background: var(--bg-soft); color: var(--text-faint); }
+  .badge-elig { background: var(--accent-soft); color: var(--accent); }
 
   .job-meta {
     margin-top: 5px;
@@ -682,17 +683,19 @@
 const PLATFORMS = ["104", "CakeResume", "Yourator"];
 const TODAY = new Date().toISOString().slice(0, 10);
 
+// [台臺] 同時接「台」(U+53F0 常用) 與「臺」(U+81FA 正體)
+// Yourator 回傳繁體正體字「臺北市」，若只匹配「台」會有近 50 筆被漏掉
 const LOCATION_BUCKETS = [
   { key: "remote",     label: "💻 遠端",    re: /remote|遠端|在家|work from home|wfh|anywhere/i },
-  { key: "taipei",     label: "🏙 台北",    re: /台北(?!縣)|taipei/i },
+  { key: "taipei",     label: "🏙 台北",    re: /[台臺]北(?!縣)|taipei/i },
   { key: "new-taipei", label: "🏙 新北",    re: /新北|new taipei/i },
   { key: "taoyuan",    label: "📍 桃園",    re: /桃園|taoyuan/i },
   { key: "hsinchu",    label: "🔬 新竹",    re: /新竹|hsinchu/i },
-  { key: "taichung",   label: "📍 台中",    re: /台中|taichung/i },
-  { key: "tainan",     label: "📍 台南",    re: /台南|tainan/i },
+  { key: "taichung",   label: "📍 台中",    re: /[台臺]中|taichung/i },
+  { key: "tainan",     label: "📍 台南",    re: /[台臺]南|tainan/i },
   { key: "kaohsiung",  label: "📍 高雄",    re: /高雄|kaohsiung/i },
   { key: "overseas",   label: "🌏 海外",    re: /海外|overseas|美國|usa|日本|japan|singapore|新加坡|malaysia|馬來|indonesia|印尼|thailand|泰|hong kong|香港|vietnam|越南|philippines|菲律賓/i },
-  { key: "other-tw",   label: "📌 其他",    re: /花蓮|hualien|基隆|keelung|宜蘭|yilan|苗栗|miaoli|彰化|changhua|雲林|yunlin|嘉義|chiayi|屏東|pingtung|澎湖|金門|連江|南投|nantou/i },
+  { key: "other-tw",   label: "📌 其他",    re: /[台臺]東|taitung|花蓮|hualien|基隆|keelung|宜蘭|yilan|苗栗|miaoli|彰化|changhua|雲林|yunlin|嘉義|chiayi|屏東|pingtung|澎湖|金門|連江|南投|nantou/i },
 ];
 function locationBucket(loc) {
   const s = (loc || "").trim();
@@ -1016,6 +1019,33 @@ function deadlineBadge(deadline) {
   return `<span class="${cls}">${esc(label)}</span>`;
 }
 
+// 年級列表 → 人類友善字串
+const GRADES_ORDERED = ["大一", "大二", "大三", "大四", "大五"];
+function formatEligibility(grades) {
+  if (!grades || grades.length === 0) return "";
+  if (grades.length === 1 && grades[0] === "不限") return "🎓 不限年級";
+  const ug = grades.filter(g => GRADES_ORDERED.includes(g));
+  const other = grades.filter(g => !GRADES_ORDERED.includes(g));
+  const parts = [];
+  if (ug.length) {
+    const idxs = ug.map(g => GRADES_ORDERED.indexOf(g));
+    // 包含研究所 + 本科起點 < 大五 → 簡化為「大X 以上」
+    if (grades.includes("研究所") && Math.min(...idxs) < 4) {
+      parts.push(`${GRADES_ORDERED[Math.min(...idxs)]}以上`);
+    } else if (ug.length > 1) {
+      parts.push(ug.join("/"));
+    } else {
+      parts.push(ug[0]);
+    }
+  }
+  for (const g of other) parts.push(g);
+  return "🎓 " + parts.join("、");
+}
+function eligibilityBadge(grades) {
+  const label = formatEligibility(grades);
+  return label ? `<span class="badge badge-elig">${esc(label)}</span>` : "";
+}
+
 function renderList() {
   const q = $id("q").value.toLowerCase().trim();
   const stype = $id("salary-type").value;
@@ -1134,6 +1164,7 @@ function renderList() {
               <a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
               ${isNew ? `<span class="badge badge-new">✨ NEW</span>` : ""}
               ${deadlineBadge(j.deadline)}
+              ${eligibilityBadge(j.eligibility)}
             </h3>
             <div class="job-salary ${j.salary_type === "negotiable" ? "neg" : ""}">${esc(j.salary || "—")}</div>
           </div>
