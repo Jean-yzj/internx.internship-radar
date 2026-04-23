@@ -37,6 +37,7 @@ except ImportError:
 
 from categories import CATEGORIES, CATEGORY_BY_KEY, categorize
 from skills import extract_skills
+from eligibility import extract_eligibility
 
 
 # ---------- 資料模型 ----------
@@ -58,10 +59,13 @@ class Job:
     last_seen: str = ""
     deadline: str = ""
     skills: list[str] = None  # type: ignore[assignment]
+    eligibility: list[str] = None  # type: ignore[assignment]
 
     def __post_init__(self) -> None:
         if self.skills is None:
             self.skills = []
+        if self.eligibility is None:
+            self.eligibility = []
 
 
 UA = (
@@ -605,6 +609,7 @@ def run(
     for j in unique:
         j.category = categorize(j.title, j.company, j.description)
         j.skills = extract_skills(j.title, j.description)
+        j.eligibility = extract_eligibility(j.title, j.description)
 
     # LLM 分類（可選，覆寫上面）
     if use_llm:
