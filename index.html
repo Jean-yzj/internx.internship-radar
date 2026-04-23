@@ -8,6 +8,20 @@
 <meta property="og:title" content="實習雷達 · Internship Radar">
 <meta property="og:description" content="每天自動彙整 104、CakeResume、Yourator 的最新實習職缺。">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🎯%3C/text%3E%3C/svg%3E">
+<link rel="alternate" type="application/atom+xml" title="實習雷達 · 新增職缺" href="/data/feed.xml">
+
+<!--
+  分析（可選）：目前兩個方案，挑一個把註解拿掉即可啟用。都無 cookie。
+
+  A) Plausible Analytics — https://plausible.io （30 天試用，之後 €9/月）
+     <script defer data-domain="internshipradar.zeabur.app" src="https://plausible.io/js/script.js"></script>
+
+  B) Cloudflare Web Analytics — 永久免費，註冊後把 token 填入
+     https://dash.cloudflare.com/?to=/:account/web-analytics
+     <script defer src='https://static.cloudflareinsights.com/beacon.min.js'
+             data-cf-beacon='{"token": "YOUR_TOKEN_HERE"}'></script>
+-->
+
 <style>
   :root {
     color-scheme: light dark;
@@ -480,6 +494,86 @@
     /* color + background set inline from category metadata */
   }
 
+  .skills-row {
+    display: flex;
+    gap: 5px;
+    margin-top: 6px;
+    flex-wrap: wrap;
+  }
+  .skill-tag {
+    display: inline-block;
+    padding: 1px 7px;
+    border-radius: 4px;
+    font-size: 10.5px;
+    font-weight: 500;
+    background: var(--panel-2);
+    color: var(--text-muted);
+    border: 1px solid var(--border);
+    cursor: pointer;
+    transition: background 0.1s, color 0.1s, border-color 0.1s;
+    font-family: inherit;
+  }
+  .skill-tag:hover {
+    background: var(--accent-soft);
+    color: var(--accent);
+    border-color: var(--accent);
+  }
+
+  /* Saved searches */
+  .saved-wrap {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin: -4px 0 12px;
+    flex-wrap: wrap;
+  }
+  .saved-label {
+    font-size: 12px;
+    color: var(--text-faint);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .saved-btn {
+    padding: 4px 10px;
+    border-radius: 999px;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    cursor: pointer;
+    font-size: 12px;
+    color: var(--text-muted);
+    font-family: inherit;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .saved-btn:hover { color: var(--text); border-color: var(--border-strong); }
+  .saved-btn .badge {
+    background: var(--new);
+    color: white;
+    border-radius: 999px;
+    padding: 1px 6px;
+    font-size: 10px;
+    font-weight: 600;
+  }
+  .saved-btn .remove {
+    opacity: 0.5;
+    margin-left: 2px;
+    cursor: pointer;
+  }
+  .saved-btn .remove:hover { opacity: 1; color: #dc2626; }
+  .save-current-btn {
+    padding: 4px 10px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    border: 1px dashed var(--accent);
+    cursor: pointer;
+    font-size: 12px;
+    color: var(--accent);
+    font-family: inherit;
+  }
+  .save-current-btn:hover { background: var(--accent); color: white; }
+
   .job-right {
     text-align: right;
     white-space: nowrap;
@@ -644,6 +738,7 @@
     <div class="tabs-row" id="cat-tabs"></div>
     <div class="tabs-row" id="loc-tabs"></div>
     <div class="tabs-row" id="plat-tabs"></div>
+    <div class="saved-wrap" id="saved-wrap"></div>
     <div class="result-info" id="result-info"></div>
     <div id="jobs" class="jobs">
       <div class="loading"><div class="spinner"></div>載入實習資料...</div>
@@ -708,6 +803,150 @@ function toggleStar(url) {
   else starred.add(url);
   saveStarred();
   render();
+}
+
+// ---- Saved searches ----
+// Shape: [{ id, name, filters: {cat, plat, loc, q, stype, min, sort}, lastChecked: ISO }]
+const LS_SAVED = "internradar:saved:v1";
+let savedSearches = [];
+function loadSaved() {
+  try {
+    savedSearches = JSON.parse(localStorage.getItem(LS_SAVED) || "[]");
+  } catch { savedSearches = []; }
+}
+function persistSaved() {
+  try { localStorage.setItem(LS_SAVED, JSON.stringify(savedSearches)); } catch {}
+}
+function currentFilters() {
+  return {
+    cat: currentCat, plat: currentPlat, loc: currentLoc,
+    q: document.getElementById("q").value.trim(),
+    stype: document.getElementById("salary-type").value,
+    min: document.getElementById("min-salary").value,
+    sort: document.getElementById("sort").value,
+  };
+}
+function summariseFilters(f) {
+  const parts = [];
+  if (f.cat && f.cat !== "all") {
+    if (f.cat === "starred") parts.push("⭐ 收藏");
+    else {
+      const cm = catMeta(f.cat);
+      parts.push(cm.emoji + cm.label);
+    }
+  }
+  if (f.loc && f.loc !== "all") {
+    parts.push((LOCATION_LABELS[f.loc] || f.loc).replace(/^[🏙📍🔬💻🌏📌❓]\s*/, ""));
+  }
+  if (f.plat && f.plat !== "all") parts.push(f.plat);
+  if (f.q) parts.push(`"${f.q}"`);
+  const min = parseInt(f.min) || 0;
+  if (min > 0) parts.push(`${(min/1000)|0}k+`);
+  if (f.stype) parts.push({monthly:"月薪",hourly:"時薪",negotiable:"面議"}[f.stype] || f.stype);
+  return parts.length ? parts.join(" · ") : "全部";
+}
+function countMatches(filters) {
+  return (data.jobs || []).filter(j => {
+    if (filters.cat === "starred") {
+      if (!starred.has(j.url)) return false;
+    } else if (filters.cat && filters.cat !== "all" && j.category !== filters.cat) return false;
+    if (filters.loc && filters.loc !== "all" && locationBucket(j.location) !== filters.loc) return false;
+    if (filters.plat && filters.plat !== "all" && j.platform !== filters.plat) return false;
+    if (filters.stype && j.salary_type !== filters.stype) return false;
+    const minS = parseInt(filters.min) || 0;
+    if (minS > 0 && (!j.salary_min || j.salary_min < minS)) return false;
+    if (filters.q) {
+      const hay = `${j.title} ${j.company} ${j.location}`.toLowerCase();
+      if (!hay.includes(filters.q.toLowerCase())) return false;
+    }
+    return true;
+  }).length;
+}
+function countNewMatches(filters, sinceIso) {
+  return (data.jobs || []).filter(j => {
+    if ((j.first_seen || "") <= sinceIso) return false;
+    if (filters.cat === "starred") {
+      if (!starred.has(j.url)) return false;
+    } else if (filters.cat && filters.cat !== "all" && j.category !== filters.cat) return false;
+    if (filters.loc && filters.loc !== "all" && locationBucket(j.location) !== filters.loc) return false;
+    if (filters.plat && filters.plat !== "all" && j.platform !== filters.plat) return false;
+    if (filters.stype && j.salary_type !== filters.stype) return false;
+    const minS = parseInt(filters.min) || 0;
+    if (minS > 0 && (!j.salary_min || j.salary_min < minS)) return false;
+    if (filters.q) {
+      const hay = `${j.title} ${j.company} ${j.location}`.toLowerCase();
+      if (!hay.includes(filters.q.toLowerCase())) return false;
+    }
+    return true;
+  }).length;
+}
+function applySaved(s) {
+  const f = s.filters;
+  currentCat  = f.cat  || "all";
+  currentPlat = f.plat || "all";
+  currentLoc  = f.loc  || "all";
+  document.getElementById("q").value = f.q || "";
+  document.getElementById("salary-type").value = f.stype || "";
+  document.getElementById("min-salary").value = f.min || "0";
+  const sortEl = document.getElementById("sort");
+  const v = f.sort || "category";
+  if (Array.from(sortEl.options).some(o => o.value === v)) sortEl.value = v;
+  // mark as checked now
+  s.lastChecked = new Date().toISOString();
+  persistSaved();
+  writeUrlState();
+  render();
+}
+function saveCurrent() {
+  const f = currentFilters();
+  const hasAny = f.cat !== "all" || f.plat !== "all" || f.loc !== "all"
+    || f.q || f.stype || (parseInt(f.min) || 0) > 0;
+  if (!hasAny) {
+    alert("目前沒有任何篩選條件，設定幾個條件後再來訂閱。");
+    return;
+  }
+  const name = prompt("幫這個訂閱取個名字（例如：新竹科技月薪30k+）", summariseFilters(f));
+  if (!name) return;
+  savedSearches.push({
+    id: String(Date.now()),
+    name,
+    filters: f,
+    lastChecked: new Date().toISOString(),
+  });
+  persistSaved();
+  renderSaved();
+}
+function removeSaved(id) {
+  savedSearches = savedSearches.filter(s => s.id !== id);
+  persistSaved();
+  renderSaved();
+}
+function renderSaved() {
+  const wrap = document.getElementById("saved-wrap");
+  const parts = [`<span class="saved-label">📌 訂閱</span>`];
+  for (const s of savedSearches) {
+    const newCount = countNewMatches(s.filters, s.lastChecked || "0000-01-01");
+    const badge = newCount > 0 ? `<span class="badge">+${newCount}</span>` : "";
+    parts.push(`
+      <button class="saved-btn" data-saved-id="${escapeHtml(s.id)}" title="套用此訂閱">
+        ${escapeHtml(s.name)} ${badge}
+        <span class="remove" data-remove-id="${escapeHtml(s.id)}" title="刪除此訂閱">✕</span>
+      </button>`);
+  }
+  parts.push(`<button class="save-current-btn" id="save-current-btn">+ 訂閱目前篩選</button>`);
+  wrap.innerHTML = parts.join("");
+  wrap.querySelectorAll(".saved-btn").forEach(btn => {
+    btn.onclick = (e) => {
+      if (e.target.classList.contains("remove")) {
+        e.stopPropagation();
+        removeSaved(e.target.dataset.removeId);
+        return;
+      }
+      const s = savedSearches.find(x => x.id === btn.dataset.savedId);
+      if (s) applySaved(s);
+    };
+  });
+  document.getElementById("save-current-btn").onclick = saveCurrent;
 }
 
 // ---- hex → soft rgba background ----
@@ -986,6 +1225,12 @@ function renderList() {
             <span class="pill platform-${escapeHtml(j.platform)}">${escapeHtml(j.platform)}</span>
             ${j.location ? `<span>📍 ${escapeHtml(j.location)}</span>` : ""}
           </div>
+          ${(j.skills && j.skills.length) ? `
+          <div class="skills-row">
+            ${j.skills.slice(0, 8).map(s =>
+              `<button class="skill-tag" data-skill="${escapeHtml(s)}" title="搜尋有 ${escapeHtml(s)} 的職缺">${escapeHtml(s)}</button>`
+            ).join("")}
+          </div>` : ""}
         </div>
         <div class="job-right">
           <button class="star-btn ${isStarred ? 'active' : ''}" data-url="${escapeHtml(j.url)}"
@@ -1009,6 +1254,15 @@ function renderList() {
       const name = a.dataset.company || "";
       if (!name) return;
       document.getElementById("q").value = name;
+      writeUrlState();
+      render();
+    };
+  });
+  // skill tag click → 用 skill 搜尋
+  container.querySelectorAll(".skill-tag").forEach(btn => {
+    btn.onclick = (e) => {
+      e.stopPropagation();
+      document.getElementById("q").value = btn.dataset.skill || "";
       writeUrlState();
       render();
     };
@@ -1046,6 +1300,7 @@ function render() {
   renderStats();
   renderMeta();
   renderTabs();
+  renderSaved();
   renderList();
 }
 
@@ -1107,6 +1362,7 @@ document.addEventListener("keydown", (e) => {
 
 // ---- 啟動 ----
 loadStarred();
+loadSaved();
 readUrlState();
 load();
 </script>

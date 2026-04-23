@@ -23,6 +23,7 @@ import time
 import requests
 
 from categories import CATEGORIES, CATEGORY_BY_KEY, color_int
+from known_companies import is_known, KNOWN_BONUS
 
 
 MAX_JOBS = 50
@@ -31,53 +32,79 @@ EMBEDS_PER_MESSAGE = 10
 TOTAL_EMBED_CHARS_PER_MESSAGE = 5800
 
 
+def _salary_percentile_map(jobs: list[dict]) -> dict[str, float]:
+    """把有薪資的職缺轉成「薪資百分位」(0..1)，沒薪資的回 0.3（中性偏低）。"""
+    pairs = [(j.get("url") or id(j), j.get("salary_min") or 0) for j in jobs]
+    valid = sorted((v for _, v in pairs if v > 0))
+    n = len(valid)
+    def pct(v: int) -> float:
+        if v <= 0 or n == 0:
+            return 0.3
+        import bisect
+        return bisect.bisect_left(valid, v) / max(1, n - 1)
+    return {k: pct(v) for k, v in pairs}
+
+
+def score_job(j: dict, salary_pct: dict, today_iso: str) -> float:
+    """Composite 分數（越高越會被選入 Top 50）。
+
+    構成（大致對應使用者的定義）：
+      - 分類優先：排越前的類別分越高（0-20）
+      - 新鮮度：first_seen 越接近今天分越高（0-15）
+      - 薪資百分位：0-15
+      - 知名公司 bonus：+KNOWN_BONUS
+    """
+    cat_idx = next(
+        (i for i, c in enumerate(CATEGORIES) if c["key"] == j.get("category")),
+        len(CATEGORIES) - 1,
+    )
+    cat_score = max(0.0, 20.0 - cat_idx * 1.0)
+
+    fs = j.get("first_seen") or ""
+    if fs and today_iso:
+        try:
+            import datetime as _dt
+            d = _dt.date.fromisoformat(fs)
+            today = _dt.date.fromisoformat(today_iso)
+            days_old = max(0, (today - d).days)
+            freshness = max(0.0, 15.0 - days_old * 2.0)
+        except Exception:
+            freshness = 0.0
+    else:
+        freshness = 0.0
+
+    key = j.get("url") or id(j)
+    sal_score = 15.0 * salary_pct.get(key, 0.3)
+
+    known_bonus = KNOWN_BONUS if is_known(j.get("company") or "") else 0.0
+
+    return cat_score + freshness + sal_score + known_bonus
+
+
 def select_top(jobs: list[dict], limit: int = MAX_JOBS) -> dict[str, list[dict]]:
-    """回傳 {category_key: [jobs]}（順序與 CATEGORIES 一致，空類別略過）。"""
+    """用 composite score 挑前 limit 筆，再按分類分組（分類內保留分數排序）。
+
+    vs 舊版配額：
+      - 舊版硬分配每類別 N 筆，常會把低分「補齊」進去
+      - 新版按全域分數挑，知名公司 + 高薪 + 新鮮的職缺會浮上來，
+        精準度大幅提升；分類仍保留在輸出結構給行銷同仁看。
+    """
+    if not jobs:
+        return {}
+    today_iso = dt.date.today().isoformat()
+    salary_pct = _salary_percentile_map(jobs)
+    scored = sorted(
+        jobs,
+        key=lambda j: score_job(j, salary_pct, today_iso),
+        reverse=True,
+    )[:limit]
+
     buckets: dict[str, list[dict]] = {c["key"]: [] for c in CATEGORIES}
-    for j in jobs:
+    for j in scored:
         key = j.get("category") or "other"
         buckets.setdefault(key, []).append(j)
 
-    # 分類內排序：first_seen 新 → salary 高
-    def job_score(j: dict):
-        fs = j.get("first_seen") or ""
-        sal = j.get("salary_min") or 0
-        return (fs, sal)
-    for k in buckets:
-        buckets[k].sort(key=job_score, reverse=True)
-
-    if len(jobs) <= limit:
-        return {k: v for k, v in buckets.items() if v}
-
-    # 依 top_n 配額挑選
-    selected: dict[str, list[dict]] = {}
-    used = 0
-    for cat in CATEGORIES:
-        key = cat["key"]
-        quota = cat.get("top_n", 0)
-        if quota <= 0 or not buckets.get(key):
-            continue
-        take = min(quota, len(buckets[key]))
-        selected[key] = buckets[key][:take]
-        used += take
-        if used >= limit:
-            break
-
-    # 配額沒填滿的名額：按優先順序補（取各類別剩下的）
-    remaining = limit - used
-    if remaining > 0:
-        for cat in CATEGORIES:
-            key = cat["key"]
-            if remaining <= 0:
-                break
-            pool = buckets.get(key, [])
-            already = len(selected.get(key, []))
-            extra = pool[already:already + remaining]
-            if extra:
-                selected.setdefault(key, []).extend(extra)
-                remaining -= len(extra)
-
-    return selected
+    return {k: v for k, v in buckets.items() if v}
 
 
 def format_job(j: dict) -> str:
