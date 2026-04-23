@@ -388,6 +388,120 @@
     margin: 12px 0 8px;
   }
 
+  /* ─────────────────── Company aggregation page ─────────────────── */
+  #company-header { padding: 20px 0 8px; }
+  .company-back {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-bottom: 18px;
+    padding: 6px 10px 6px 6px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+  }
+  .company-back:hover { color: var(--text); border-color: var(--border-strong); background: var(--bg-soft); }
+  .company-back .ic { width: 14px; height: 14px; }
+
+  .company-hero {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+    margin-bottom: 18px;
+  }
+  .company-avatar {
+    width: 64px; height: 64px;
+    border-radius: 12px;
+    display: grid;
+    place-items: center;
+    font-size: 26px;
+    font-weight: 700;
+    color: white;
+    flex-shrink: 0;
+  }
+  .company-name {
+    margin: 0 0 4px;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    line-height: 1.2;
+  }
+  .company-sub {
+    margin: 0;
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+  @media (max-width: 480px) {
+    .company-avatar { width: 52px; height: 52px; font-size: 22px; }
+    .company-name { font-size: 20px; }
+  }
+
+  .company-stats {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 10px;
+    margin-bottom: 18px;
+  }
+  @media (max-width: 640px) { .company-stats { grid-template-columns: repeat(2, 1fr); } }
+  .company-stat {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 12px 14px;
+  }
+  .company-stat .label {
+    font-size: 11.5px;
+    color: var(--text-muted);
+    margin-bottom: 3px;
+  }
+  .company-stat .value {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+  }
+  .company-stat .value.dim { color: var(--text-muted); font-size: 14px; font-weight: 500; }
+
+  .company-cats {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 14px 16px;
+    margin-bottom: 10px;
+  }
+  .company-cats h4 {
+    margin: 0 0 10px;
+    font-size: 12.5px;
+    color: var(--text-muted);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .company-cats .bar {
+    display: flex;
+    height: 6px;
+    border-radius: 999px;
+    overflow: hidden;
+    margin-bottom: 10px;
+    background: var(--bg-soft);
+  }
+  .company-cats .bar-seg { height: 100%; }
+  .company-cats .legend {
+    display: flex;
+    gap: 12px 16px;
+    flex-wrap: wrap;
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+  .company-cats .legend .dot {
+    display: inline-block;
+    width: 8px; height: 8px;
+    border-radius: 2px;
+    margin-right: 5px;
+    vertical-align: middle;
+  }
+  .company-cats .legend strong { color: var(--text); font-weight: 600; margin-left: 3px; }
+
   /* ─────────────────── Jobs list ─────────────────── */
   main { padding-bottom: 80px; }
   .jobs {
@@ -715,6 +829,23 @@
 
 <main>
   <div class="container">
+    <!-- Company aggregation header (shown only when ?company=X is set) -->
+    <section id="company-header" hidden>
+      <a class="company-back" href="/" id="company-back">
+        <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+        返回全部職缺
+      </a>
+      <div class="company-hero">
+        <div class="company-avatar" id="company-avatar"></div>
+        <div class="company-info">
+          <h2 class="company-name" id="company-name"></h2>
+          <p class="company-sub" id="company-sub"></p>
+        </div>
+      </div>
+      <div class="company-stats" id="company-stats"></div>
+      <div class="company-cats" id="company-cats"></div>
+    </section>
+
     <div class="cat-bar" id="cat-bar"></div>
     <div class="saved" id="saved-wrap"></div>
     <div class="result-info" id="result-info"></div>
@@ -838,6 +969,7 @@ function avatarInitial(name) {
 // ─────────────────────────────────────────────────────
 let data = { jobs: [], generated_at: null, summary: {}, categories: [] };
 let currentCat  = "all";
+let currentCompany = null;  // 公司聚合頁：?company=TSMC
 let starred     = new Set();
 let savedSearches = [];
 
@@ -876,6 +1008,7 @@ function $id(id) { return document.getElementById(id); }
 function readUrl() {
   const p = new URLSearchParams(location.search);
   currentCat = p.get("cat") || "all";
+  currentCompany = p.get("company") || null;
   $id("q").value            = p.get("q") || "";
   $id("loc").value          = p.get("loc") || "all";
   $id("plat").value         = p.get("plat") || "all";
@@ -889,6 +1022,7 @@ function readUrl() {
 function writeUrl() {
   const p = new URLSearchParams();
   const q = $id("q").value.trim();
+  if (currentCompany)                    p.set("company", currentCompany);
   if (currentCat !== "all")              p.set("cat", currentCat);
   if ($id("loc").value !== "all")        p.set("loc", $id("loc").value);
   if ($id("plat").value !== "all")       p.set("plat", $id("plat").value);
@@ -1049,6 +1183,7 @@ function deadlineMatch(j, mode) {
   return true;
 }
 function matchFilters(j, f) {
+  if (f.company && j.company !== f.company) return false;
   if (f.cat === "starred") { if (!starred.has(j.url)) return false; }
   else if (f.cat && f.cat !== "all" && j.category !== f.cat) return false;
   if (f.loc  && f.loc  !== "all" && locationBucket(j.location) !== f.loc) return false;
@@ -1193,7 +1328,7 @@ function renderList() {
   const catOrder = Object.fromEntries(cats.map((c, i) => [c.key, i]));
 
   let list = (data.jobs || []).filter(j =>
-    matchFilters(j, { cat: currentCat, loc, plat, stype, min: minSal || "0", q })
+    matchFilters(j, { company: currentCompany, cat: currentCat, loc, plat, stype, min: minSal || "0", q, dl })
   );
 
   list.sort((a, b) => {
@@ -1221,9 +1356,15 @@ function renderList() {
   });
 
   const total = (data.jobs || []).length;
-  $id("result-info").textContent =
-    list.length === 0 ? "" :
-    `顯示 ${list.length} 筆` + (list.length !== total ? `（全站 ${total} 筆）` : "");
+  let info = "";
+  if (list.length > 0) {
+    if (currentCompany) {
+      info = `該公司 ${list.length} 筆`;
+    } else {
+      info = `顯示 ${list.length} 筆` + (list.length !== total ? `（全站 ${total} 筆）` : "");
+    }
+  }
+  $id("result-info").textContent = info;
 
   const cont = $id("jobs");
   if (list.length === 0) {
@@ -1338,7 +1479,16 @@ function renderList() {
   cont.querySelectorAll(".star-btn").forEach(b =>
     b.onclick = (e) => { e.stopPropagation(); toggleStar(b.dataset.url); });
   cont.querySelectorAll(".company-link").forEach(a =>
-    a.onclick = () => { $id("q").value = a.dataset.company || ""; writeUrl(); render(); });
+    a.onclick = (e) => {
+      e.preventDefault();
+      const name = a.dataset.company || "";
+      if (!name) return;
+      currentCompany = name;
+      currentCat = "all";
+      writeUrl();
+      window.scrollTo({ top: 0, behavior: "smooth" });
+      render();
+    });
   cont.querySelectorAll(".skill-tag").forEach(b =>
     b.onclick = (e) => { e.stopPropagation(); $id("q").value = b.dataset.skill || ""; writeUrl(); render(); });
 }
@@ -1359,10 +1509,94 @@ function esc(s) {
 }
 
 function render() {
+  renderCompany();
   renderStats();
   renderCatBar();
   renderSaved();
   renderList();
+}
+
+// ─────────────────────────────────────────────────────
+// 公司聚合頁（?company=X 時啟用）
+// ─────────────────────────────────────────────────────
+function renderCompany() {
+  const section = $id("company-header");
+  const heroSection = document.querySelector("header.hero");
+  if (!currentCompany) {
+    section.hidden = true;
+    if (heroSection) heroSection.style.display = "";
+    document.title = "實習雷達 · Internship Radar";
+    return;
+  }
+
+  const companyJobs = (data.jobs || []).filter(j => j.company === currentCompany);
+  section.hidden = false;
+  // 公司頁把 hero 藏起來，避免重複的標題區塊
+  if (heroSection) heroSection.style.display = "none";
+  // SEO / 分享預覽
+  document.title = `${currentCompany} · 實習雷達`;
+  const desc = document.querySelector('meta[name="description"]');
+  if (desc) {
+    desc.setAttribute("content", `${currentCompany} 目前在 104 / CakeResume / Yourator 上有 ${companyJobs.length} 個實習職缺。`);
+  }
+
+  // Avatar
+  const ac = avatarColor(currentCompany);
+  const avatarEl = $id("company-avatar");
+  avatarEl.style.background = ac;
+  avatarEl.textContent = avatarInitial(currentCompany);
+
+  // Name + sub
+  $id("company-name").textContent = currentCompany;
+  if (companyJobs.length === 0) {
+    $id("company-sub").textContent = "這家公司目前沒有 open 實習（可能已截止或尚未被爬到）";
+    $id("company-stats").innerHTML = "";
+    $id("company-cats").innerHTML = "";
+    return;
+  }
+  const firstSeens = companyJobs.map(j => j.first_seen).filter(Boolean).sort();
+  const earliest = firstSeens[0];
+  const platforms = [...new Set(companyJobs.map(j => j.platform))];
+  const subParts = [`${companyJobs.length} 個 open 實習`];
+  if (earliest) subParts.push(`自 ${earliest} 起被雷達追蹤`);
+  if (platforms.length) subParts.push(platforms.join(" · "));
+  $id("company-sub").textContent = subParts.join(" · ");
+
+  // Stats
+  const salaried = companyJobs.filter(j => j.salary_min);
+  const avgSalary = salaried.length
+    ? Math.round(salaried.reduce((s, j) => s + j.salary_min, 0) / salaried.length)
+    : null;
+  const newTodayN = companyJobs.filter(j => j.first_seen === TODAY).length;
+  const withDeadlineN = companyJobs.filter(j => j.deadline).length;
+  const stats = [
+    { label: "Open 實習", value: String(companyJobs.length) },
+    { label: "平均月薪", value: avgSalary ? `NT$ ${Math.round(avgSalary/1000)}k` : "—", dim: !avgSalary },
+    { label: "今日新增", value: String(newTodayN) },
+    { label: "有截止日", value: String(withDeadlineN) },
+  ];
+  $id("company-stats").innerHTML = stats.map(s =>
+    `<div class="company-stat"><div class="label">${esc(s.label)}</div><div class="value ${s.dim ? 'dim' : ''}">${esc(s.value)}</div></div>`
+  ).join("");
+
+  // Category distribution
+  const catCounts = {};
+  for (const j of companyJobs) catCounts[j.category] = (catCounts[j.category] || 0) + 1;
+  const catEntries = Object.entries(catCounts).sort((a, b) => b[1] - a[1]);
+  const total = companyJobs.length;
+  const barSegs = catEntries.map(([k, n]) => {
+    const meta = catMeta(k);
+    return `<div class="bar-seg" style="width:${(n/total*100).toFixed(1)}%;background:${meta.color}" title="${esc(meta.label)} ${n}"></div>`;
+  }).join("");
+  const legend = catEntries.map(([k, n]) => {
+    const meta = catMeta(k);
+    return `<span><span class="dot" style="background:${meta.color}"></span>${esc(meta.label)}<strong>${n}</strong></span>`;
+  }).join("");
+  $id("company-cats").innerHTML = `
+    <h4>分類分佈</h4>
+    <div class="bar">${barSegs}</div>
+    <div class="legend">${legend}</div>
+  `;
 }
 
 // ─────────────────────────────────────────────────────
@@ -1392,6 +1626,15 @@ document.addEventListener("keydown", (e) => {
     currentCat = "starred"; writeUrl(); render(); return;
   }
 });
+
+// Back button 的 click 處理（公司聚合頁）
+document.getElementById("company-back").onclick = (e) => {
+  e.preventDefault();
+  currentCompany = null;
+  writeUrl();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+  render();
+};
 
 // ─────────────────────────────────────────────────────
 // 啟動
