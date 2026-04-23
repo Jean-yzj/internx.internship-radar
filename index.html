@@ -80,6 +80,17 @@
 
   * { box-sizing: border-box; }
   html { -webkit-text-size-adjust: 100%; }
+
+  /* ─────────── Icon base ─────────── */
+  .ic {
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    vertical-align: -0.14em;
+    flex-shrink: 0;
+  }
+  .ic-sm { width: 0.85em; height: 0.85em; }
+  .ic-lg { width: 1.2em; height: 1.2em; }
   body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
@@ -143,6 +154,20 @@
     color: var(--text-muted);
   }
   .hero-stats strong { color: var(--text); font-weight: 600; font-size: 15px; margin-right: 2px; }
+  .hero-stats .hero-cat {
+    background: none;
+    border: none;
+    padding: 0;
+    font-family: inherit;
+    font-size: inherit;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 2px;
+    border-bottom: 1px dashed transparent;
+    line-height: inherit;
+  }
+  .hero-stats .hero-cat:hover { border-bottom-color: currentColor; }
   @media (max-width: 640px) { .hero-stats { width: 100%; margin-top: 8px; } }
 
   /* ─────────────────── Toolbar ─────────────────── */
@@ -171,13 +196,20 @@
 
   .search-wrap { position: relative; }
   .search-wrap::before {
-    content: "🔍";
+    content: "";
     position: absolute;
     left: 12px; top: 50%;
     transform: translateY(-50%);
-    font-size: 14px;
+    width: 16px; height: 16px;
     opacity: 0.55;
     pointer-events: none;
+    background-color: currentColor;
+    mask-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='11' cy='11' r='8'/><path d='m21 21-4.3-4.3'/></svg>");
+    -webkit-mask-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><circle cx='11' cy='11' r='8'/><path d='m21 21-4.3-4.3'/></svg>");
+    mask-repeat: no-repeat;
+    mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
   }
   .search-wrap kbd {
     position: absolute;
@@ -313,12 +345,14 @@
     font-size: 10.5px;
     font-weight: 600;
   }
-  .saved-btn .x {
+  .saved-btn .x-btn {
+    display: inline-flex;
+    align-items: center;
     color: var(--text-faint);
     padding: 0 2px;
-    font-weight: 400;
+    line-height: 0;
   }
-  .saved-btn .x:hover { color: var(--urgent); }
+  .saved-btn .x-btn:hover { color: var(--urgent); }
   .saved-add {
     padding: 4px 10px;
     border-radius: 999px;
@@ -498,15 +532,15 @@
     background: none;
     border: none;
     cursor: pointer;
-    font-size: 18px;
-    line-height: 1;
-    padding: 4px;
+    padding: 6px;
     color: var(--text-faint);
     transition: color 0.1s, transform 0.1s;
     border-radius: 6px;
     align-self: start;
     justify-self: end;
+    line-height: 0;
   }
+  .star-btn .ic { width: 18px; height: 18px; }
   .star-btn:hover { color: var(--star); transform: scale(1.15); }
   .star-btn.on { color: var(--star); }
   .star-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
@@ -519,7 +553,7 @@
   }
   .empty h3 { color: var(--text); margin: 0 0 6px; font-size: 16px; font-weight: 600; }
   .empty p { margin: 0; font-size: 14px; }
-  .empty .emoji { font-size: 32px; display: block; margin-bottom: 10px; opacity: 0.5; }
+  .empty-ic { width: 40px; height: 40px; display: block; margin: 0 auto 12px; opacity: 0.4; }
   .clear-row {
     margin-top: 20px;
     display: flex;
@@ -541,11 +575,8 @@
     font-family: inherit;
   }
   .clear-chip:hover { border-color: var(--urgent); color: var(--urgent); }
-  .clear-chip .x {
-    opacity: 0.5;
-    font-weight: 400;
-  }
-  .clear-chip:hover .x { opacity: 1; }
+  .clear-chip .ic { opacity: 0.5; }
+  .clear-chip:hover .ic { opacity: 1; }
   .clear-all {
     padding: 5px 12px;
     border-radius: 999px;
@@ -680,11 +711,31 @@
   <div class="container">
     資料來源：104 人力銀行 · CakeResume · Yourator
     · 由 <a href="https://github.com/Jean-yzj/internx.internship-radar" target="_blank" rel="noopener">GitHub Actions</a> 每日自動更新
-    <a class="feed-link" href="/data/feed.xml" title="RSS 訂閱">📡 RSS</a>
+    <a class="feed-link" href="/data/feed.xml" title="RSS 訂閱" style="display:inline-flex;align-items:center;gap:4px;"><svg class="ic ic-sm" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/></svg> RSS</a>
   </div>
 </footer>
 
 <script>
+// ─────────────────────────────────────────────────────
+// Icons (inline SVG, Lucide-style)
+// ─────────────────────────────────────────────────────
+const IC = {
+  clock:    '<circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>',
+  pin:      '<path d="M20 10c0 7-8 13-8 13s-8-6-8-13a8 8 0 0 1 16 0z"/><circle cx="12" cy="10" r="3"/>',
+  starO:    '<polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>',
+  starF:    '<polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2" fill="currentColor"/>',
+  sparkle:  '<path d="M9.937 15.5 9 18l-.937-2.5L5.5 14.5 8 13.563 9 11l1 2.563 2.5.937zM20 3v4M22 5h-4M4 17v2M5 18H3"/>',
+  alarm:    '<circle cx="12" cy="13" r="8"/><path d="M12 9v4l2 2"/><path d="M5 3 2 6"/><path d="m22 6-3-3"/>',
+  cap:      '<path d="M22 10 12 5 2 10l10 5 10-5Z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/>',
+  rss:      '<path d="M4 11a9 9 0 0 1 9 9"/><path d="M4 4a16 16 0 0 1 16 16"/><circle cx="5" cy="19" r="1"/>',
+  bookmark: '<path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/>',
+  x:        '<path d="M18 6 6 18M6 6l12 12"/>',
+  building: '<rect x="4" y="2" width="16" height="20" rx="2"/><path d="M9 22v-4h6v4M8 6h.01M16 6h.01M12 6h.01M12 10h.01M12 14h.01M16 10h.01M16 14h.01M8 10h.01M8 14h.01"/>',
+};
+function ic(name, cls = "") {
+  return `<svg class="ic ${cls}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${IC[name] || ""}</svg>`;
+}
+
 // ─────────────────────────────────────────────────────
 // 常數
 // ─────────────────────────────────────────────────────
@@ -866,9 +917,14 @@ function renderStats() {
   $id("hero-stats").innerHTML = `
     <span><strong>${jobs.length}</strong>筆職缺</span>
     ${newCount ? `<span><strong>${newCount}</strong>今日新增</span>` : ""}
-    ${topCat ? `<span style="color:${topCat.color}"><strong>${topCat.count}</strong>${esc(topCat.emoji)} ${esc(topCat.label)}</span>` : ""}
-    <span>🕒 ${esc(agoText)}</span>
+    ${topCat ? `<button class="hero-cat" data-cat="${esc(topCat.key)}" title="點擊切到 ${esc(topCat.label)} 分類" style="color:${topCat.color}"><strong>${topCat.count}</strong>${esc(topCat.emoji)} ${esc(topCat.label)}</button>` : ""}
+    <span>${ic("clock", "ic-sm")} ${esc(agoText)}</span>
   `;
+  // 點擊 hero 的「最大分類」stat → 切換到該分類
+  const heroCat = $id("hero-stats").querySelector(".hero-cat");
+  if (heroCat) {
+    heroCat.onclick = () => { currentCat = heroCat.dataset.cat; writeUrl(); render(); };
+  }
 }
 
 // ─────────────────────────────────────────────────────
@@ -891,9 +947,9 @@ function renderCatBar() {
   const starredCount = eligible.filter(j => starred.has(j.url)).length;
 
   const chips = [
-    `<button class="chip ${currentCat === "all" ? "active" : ""}" data-cat="all">🎯 全部 <span class="count">${eligible.length}</span></button>`,
+    `<button class="chip ${currentCat === "all" ? "active" : ""}" data-cat="all">全部 <span class="count">${eligible.length}</span></button>`,
     (starred.size > 0
-      ? `<button class="chip ${currentCat === "starred" ? "active" : ""} ${starredCount === 0 ? 'empty' : ''}" data-cat="starred" style="color:var(--star)">⭐ 收藏 <span class="count">${starredCount}</span></button>`
+      ? `<button class="chip ${currentCat === "starred" ? "active" : ""} ${starredCount === 0 ? 'empty' : ''}" data-cat="starred" style="color:var(--star)">${ic("starF", "ic-sm")} 收藏 <span class="count">${starredCount}</span></button>`
       : ""),
   ];
   for (const c of (data.categories || [])) {
@@ -977,7 +1033,7 @@ function summariseFilters(f) {
 function renderSaved() {
   const wrap = $id("saved-wrap");
   if (savedSearches.length === 0) { wrap.innerHTML = ""; return; }
-  const parts = [`<span class="saved-label">📌 訂閱</span>`];
+  const parts = [`<span class="saved-label">${ic("bookmark", "ic-sm")} 訂閱</span>`];
   for (const s of savedSearches) {
     const since = s.lastChecked || "0000-01-01";
     const newN = (data.jobs || []).filter(j => (j.first_seen || "") > since && matchFilters(j, s.filters)).length;
@@ -985,16 +1041,17 @@ function renderSaved() {
     parts.push(`
       <button class="saved-btn" data-id="${esc(s.id)}" title="套用此訂閱">
         ${esc(s.name)} ${badge}
-        <span class="x" data-remove="${esc(s.id)}" title="刪除">✕</span>
+        <span class="x-btn" data-remove="${esc(s.id)}" title="刪除">${ic("x", "ic-sm")}</span>
       </button>`);
   }
   parts.push(`<button class="saved-add" id="saved-add">+ 訂閱目前篩選</button>`);
   wrap.innerHTML = parts.join("");
   wrap.querySelectorAll(".saved-btn").forEach(btn => {
     btn.onclick = (e) => {
-      if (e.target.dataset.remove) {
+      const removeTarget = e.target.closest("[data-remove]");
+      if (removeTarget) {
         e.stopPropagation();
-        savedSearches = savedSearches.filter(x => x.id !== e.target.dataset.remove);
+        savedSearches = savedSearches.filter(x => x.id !== removeTarget.dataset.remove);
         persistSaved(); renderSaved();
         return;
       }
@@ -1044,17 +1101,17 @@ function deadlineBadge(deadline) {
   const diff = Math.round((d - new Date(TODAY)) / 86400000);
   let cls = "badge badge-deadline", label;
   if (diff < 0) { cls += " expired"; label = `已截止 ${deadline.slice(5)}`; }
-  else if (diff === 0) { cls += " urgent"; label = "⏰ 今天截止"; }
-  else if (diff <= 7) { cls += " urgent"; label = `⏰ ${diff} 天後截止`; }
-  else { label = `⏰ ${deadline.slice(5)} 截止`; }
-  return `<span class="${cls}">${esc(label)}</span>`;
+  else if (diff === 0) { cls += " urgent"; label = "今天截止"; }
+  else if (diff <= 7) { cls += " urgent"; label = `${diff} 天後截止`; }
+  else { label = `${deadline.slice(5)} 截止`; }
+  return `<span class="${cls}">${ic("alarm", "ic-sm")} ${esc(label)}</span>`;
 }
 
 // 年級列表 → 人類友善字串
 const GRADES_ORDERED = ["大一", "大二", "大三", "大四", "大五"];
 function formatEligibility(grades) {
   if (!grades || grades.length === 0) return "";
-  if (grades.length === 1 && grades[0] === "不限") return "🎓 不限年級";
+  if (grades.length === 1 && grades[0] === "不限") return "不限年級";
   const ug = grades.filter(g => GRADES_ORDERED.includes(g));
   const other = grades.filter(g => !GRADES_ORDERED.includes(g));
   const parts = [];
@@ -1070,11 +1127,11 @@ function formatEligibility(grades) {
     }
   }
   for (const g of other) parts.push(g);
-  return "🎓 " + parts.join("、");
+  return parts.join("、");
 }
 function eligibilityBadge(grades) {
   const label = formatEligibility(grades);
-  return label ? `<span class="badge badge-elig">${esc(label)}</span>` : "";
+  return label ? `<span class="badge badge-elig">${ic("cap", "ic-sm")} ${esc(label)}</span>` : "";
 }
 
 function renderList() {
@@ -1125,7 +1182,7 @@ function renderList() {
     // 列出所有目前套用中的條件 + 每個旁邊一個 × 可直接拆
     const chips = [];
     if (currentCat === "starred") {
-      chips.push({ label: "⭐ 只看收藏", action: "cat-reset" });
+      chips.push({ label: "只看收藏", action: "cat-reset" });
     } else if (currentCat !== "all") {
       const cm = catMeta(currentCat);
       chips.push({ label: `${cm.emoji} ${cm.label}`, action: "cat-reset" });
@@ -1142,12 +1199,12 @@ function renderList() {
     }
 
     const hint = currentCat === "starred" && starred.size === 0
-      ? "還沒收藏任何職缺。點卡片右邊的 ☆ 就會出現在這裡。"
+      ? "還沒收藏任何職缺。點卡片右邊的星星就會出現在這裡。"
       : chips.length > 0
         ? "以下條件同時套用中，點 × 可以拆掉其中之一："
         : "試著放寬搜尋條件。";
     const chipsHtml = chips.map(c =>
-      `<button class="clear-chip" data-action="${esc(c.action)}">${esc(c.label)} <span class="x">×</span></button>`
+      `<button class="clear-chip" data-action="${esc(c.action)}">${esc(c.label)} ${ic("x", "ic-sm")}</button>`
     ).join("");
     const clearAll = chips.length > 1
       ? `<button class="clear-all" data-action="clear-all">清除全部條件</button>`
@@ -1155,7 +1212,7 @@ function renderList() {
 
     cont.innerHTML = `
       <div class="empty">
-        <span class="emoji">🔍</span>
+        <svg class="empty-ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
         <h3>沒有符合條件的實習</h3>
         <p>${esc(hint)}</p>
         ${chipsHtml ? `<div class="clear-row">${chipsHtml} ${clearAll}</div>` : ""}
@@ -1200,18 +1257,18 @@ function renderList() {
           <div class="job-head">
             <h3 class="job-title">
               <a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
-              ${isNew ? `<span class="badge badge-new">✨ NEW</span>` : ""}
+              ${isNew ? `<span class="badge badge-new">${ic("sparkle", "ic-sm")} NEW</span>` : ""}
               ${deadlineBadge(j.deadline)}
               ${eligibilityBadge(j.eligibility)}
             </h3>
             <div class="job-salary ${j.salary_type === "negotiable" ? "neg" : ""}">${esc(j.salary || "—")}</div>
           </div>
           <div class="job-meta">
-            <span>${esc(cm.emoji)} <span style="color:${cm.color}">${esc(cm.label)}</span></span>
+            <span style="color:${cm.color}">${esc(cm.emoji)} ${esc(cm.label)}</span>
             <span class="meta-sep"></span>
             <a class="company-link" data-company="${esc(j.company || "")}">${esc(j.company || "—")}</a>
-            ${j.location ? `<span class="meta-sep"></span><span>📍 ${esc(j.location)}</span>` : ""}
-            ${fsAgo ? `<span class="meta-sep"></span><span>✨ ${esc(fsAgo)}</span>` : ""}
+            ${j.location ? `<span class="meta-sep"></span><span>${ic("pin", "ic-sm")} ${esc(j.location)}</span>` : ""}
+            ${fsAgo ? `<span class="meta-sep"></span><span>${ic("sparkle", "ic-sm")} ${esc(fsAgo)}</span>` : ""}
             <span class="meta-sep"></span>
             <span class="meta-platform">${esc(j.platform)}</span>
           </div>
@@ -1224,7 +1281,7 @@ function renderList() {
         </div>
         <button class="star-btn ${isStarred ? 'on' : ''}" data-url="${esc(j.url)}"
                 aria-label="${isStarred ? '取消收藏' : '收藏'}" title="${isStarred ? '取消收藏' : '收藏'}">
-          ${isStarred ? "★" : "☆"}
+          ${ic(isStarred ? "starF" : "starO")}
         </button>
       </article>`;
   }).join("");
