@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>實習雷達 · Internship Radar</title>
-<meta name="description" content="每天自動彙整 104、CakeResume、Yourator 的最新實習職缺，分類呈現。">
+<meta name="description" content="每天自動彙整 104、CakeResume、Yourator 的最新實習職缺，依分類與地區呈現。">
 <meta property="og:title" content="實習雷達 · Internship Radar">
 <meta property="og:description" content="每天自動彙整 104、CakeResume、Yourator 的最新實習職缺。">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E🎯%3C/text%3E%3C/svg%3E">
@@ -25,201 +25,150 @@
 <style>
   :root {
     color-scheme: light dark;
-    --bg: #f7f7f8;
-    --bg-gradient: linear-gradient(180deg, #eef2ff 0%, #f7f7f8 260px);
+    --bg: #fafafa;
+    --bg-soft: #f4f4f5;
     --panel: #ffffff;
-    --panel-2: #fafafa;
-    --border: #e5e7eb;
+    --panel-hover: #fafafa;
+    --border: #e4e4e7;
     --border-strong: #d4d4d8;
-    --text: #111827;
-    --text-muted: #6b7280;
-    --text-faint: #9ca3af;
+    --ring: rgba(79, 70, 229, 0.2);
+    --text: #18181b;
+    --text-muted: #52525b;
+    --text-faint: #a1a1aa;
     --accent: #4f46e5;
+    --accent-hover: #4338ca;
     --accent-soft: #eef2ff;
-    --tech: #2563eb;
-    --tech-soft: #dbeafe;
-    --finance: #d97706;
-    --finance-soft: #fef3c7;
-    --other: #6b7280;
-    --other-soft: #f3f4f6;
+    --salary: #059669;
     --new: #10b981;
     --new-soft: #d1fae5;
-    --shadow-sm: 0 1px 2px rgba(17,24,39,0.04), 0 0 0 1px rgba(17,24,39,0.05);
-    --shadow-md: 0 4px 14px rgba(17,24,39,0.06), 0 0 0 1px rgba(17,24,39,0.04);
+    --warn: #d97706;
+    --warn-soft: #fef3c7;
+    --urgent: #dc2626;
+    --urgent-soft: #fee2e2;
+    --star: #f59e0b;
+    --shadow-sm: 0 1px 2px rgba(0,0,0,0.04);
+    --shadow-md: 0 4px 12px rgba(0,0,0,0.06);
+    --shadow-lg: 0 8px 24px rgba(0,0,0,0.08);
   }
   @media (prefers-color-scheme: dark) {
     :root {
       --bg: #09090b;
-      --bg-gradient: linear-gradient(180deg, #1e1b4b 0%, #09090b 320px);
-      --panel: #18181b;
-      --panel-2: #101013;
+      --bg-soft: #18181b;
+      --panel: #141417;
+      --panel-hover: #1c1c21;
       --border: #27272a;
       --border-strong: #3f3f46;
-      --text: #f4f4f5;
+      --ring: rgba(129, 140, 248, 0.3);
+      --text: #fafafa;
       --text-muted: #a1a1aa;
       --text-faint: #71717a;
       --accent: #818cf8;
+      --accent-hover: #a5b4fc;
       --accent-soft: #1e1b4b;
-      --tech: #60a5fa;
-      --tech-soft: #1e3a8a;
-      --finance: #fbbf24;
-      --finance-soft: #78350f;
-      --other: #a1a1aa;
-      --other-soft: #27272a;
+      --salary: #34d399;
       --new: #34d399;
       --new-soft: #064e3b;
-      --shadow-sm: 0 1px 2px rgba(0,0,0,0.3), 0 0 0 1px rgba(255,255,255,0.04);
-      --shadow-md: 0 4px 14px rgba(0,0,0,0.4), 0 0 0 1px rgba(255,255,255,0.04);
+      --warn: #fbbf24;
+      --warn-soft: #422006;
+      --urgent: #f87171;
+      --urgent-soft: #450a0a;
+      --shadow-sm: 0 1px 2px rgba(0,0,0,0.3);
+      --shadow-md: 0 4px 12px rgba(0,0,0,0.4);
+      --shadow-lg: 0 8px 24px rgba(0,0,0,0.5);
     }
   }
 
   * { box-sizing: border-box; }
-  html, body { margin: 0; padding: 0; }
+  html { -webkit-text-size-adjust: 100%; }
   body {
+    margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
     background: var(--bg);
-    background-image: var(--bg-gradient);
-    background-attachment: fixed;
     color: var(--text);
     line-height: 1.55;
     -webkit-font-smoothing: antialiased;
     min-height: 100vh;
   }
+  .container { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
+  @media (max-width: 480px) { .container { padding: 0 14px; } }
 
-  .container { max-width: 1160px; margin: 0 auto; padding: 0 20px; }
-  @media (max-width: 480px) { .container { padding: 0 16px; } }
+  a { color: inherit; text-decoration: none; }
+  button { font-family: inherit; cursor: pointer; }
 
-  /* ---------- Hero ---------- */
-  header.hero {
-    padding: 40px 0 24px;
+  /* ─────────────────── Hero ─────────────────── */
+  .hero {
+    padding: 40px 0 28px;
+    background: linear-gradient(180deg, rgba(79, 70, 229, 0.04), transparent);
   }
-  @media (max-width: 720px) {
-    header.hero { padding: 24px 0 16px; }
+  @media (max-width: 640px) { .hero { padding: 24px 0 16px; } }
+  @media (prefers-color-scheme: dark) {
+    .hero { background: linear-gradient(180deg, rgba(129, 140, 248, 0.08), transparent); }
   }
-  .hero-top { display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  .hero-inner {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
   h1 {
-    margin: 0;
-    font-size: 32px;
+    margin: 0 0 6px;
+    font-size: 28px;
     font-weight: 700;
     letter-spacing: -0.02em;
     display: flex;
     align-items: center;
     gap: 10px;
   }
-  @media (max-width: 720px) {
-    h1 { font-size: 24px; gap: 8px; }
-    h1 .dot { width: 8px; height: 8px; box-shadow: 0 0 0 3px var(--new-soft); }
-  }
+  @media (max-width: 640px) { h1 { font-size: 22px; } }
   h1 .dot {
-    width: 10px; height: 10px; border-radius: 999px;
+    width: 9px; height: 9px; border-radius: 999px;
     background: var(--new);
     box-shadow: 0 0 0 4px var(--new-soft);
     animation: pulse 2.2s infinite;
   }
-  @keyframes pulse {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.55; }
-  }
-  .subtitle {
+  @keyframes pulse { 0%, 100% { opacity: 1 } 50% { opacity: 0.5 } }
+  .sub {
+    margin: 0;
     color: var(--text-muted);
-    font-size: 15px;
-    margin: 6px 0 0;
-    max-width: 640px;
+    font-size: 14px;
   }
-  @media (max-width: 720px) {
-    .subtitle { font-size: 13.5px; line-height: 1.5; }
-  }
+  @media (max-width: 640px) { .sub { font-size: 12.5px; } }
 
-  .stats {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 12px;
-    margin-top: 24px;
-  }
-  @media (max-width: 720px) {
-    .stats { grid-template-columns: repeat(2, 1fr); gap: 8px; margin-top: 16px; }
-  }
-  .stat-card {
-    background: var(--panel);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 14px 16px;
-    box-shadow: var(--shadow-sm);
-  }
-  @media (max-width: 720px) { .stat-card { padding: 10px 12px; border-radius: 10px; } }
-  .stat-card .label {
-    font-size: 12px;
-    color: var(--text-muted);
-    font-weight: 500;
-    margin-bottom: 4px;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-  @media (max-width: 720px) { .stat-card .label { font-size: 11px; } }
-  .stat-card .value {
-    font-size: 24px;
-    font-weight: 700;
-    letter-spacing: -0.01em;
-  }
-  @media (max-width: 720px) { .stat-card .value { font-size: 20px; } }
-  .stat-card .delta {
-    font-size: 12px;
-    color: var(--new);
-    margin-top: 2px;
-    font-weight: 500;
-  }
-
-  .meta-row {
-    margin-top: 14px;
-    font-size: 13px;
-    color: var(--text-muted);
+  .hero-stats {
     display: flex;
     gap: 14px;
     flex-wrap: wrap;
+    font-size: 13px;
+    color: var(--text-muted);
   }
-  .meta-row span strong { color: var(--text); font-weight: 600; }
-  @media (max-width: 720px) {
-    .meta-row { font-size: 12px; gap: 8px; margin-top: 10px; }
-    /* 手機版只顯示「更新時間」那一行，自動排程說明省略 */
-    .meta-row span:nth-child(n+2) { display: none; }
-  }
+  .hero-stats strong { color: var(--text); font-weight: 600; font-size: 15px; margin-right: 2px; }
+  @media (max-width: 640px) { .hero-stats { width: 100%; margin-top: 8px; } }
 
-  /* ---------- Controls ---------- */
-  .controls-wrap {
+  /* ─────────────────── Toolbar ─────────────────── */
+  .toolbar {
     position: sticky;
     top: 0;
-    z-index: 10;
-    background: color-mix(in srgb, var(--bg) 80%, transparent);
+    z-index: 20;
+    background: color-mix(in srgb, var(--bg) 85%, transparent);
     backdrop-filter: saturate(180%) blur(12px);
     -webkit-backdrop-filter: saturate(180%) blur(12px);
     border-bottom: 1px solid var(--border);
-    padding: 12px 0;
-    margin: 8px 0 16px;
+    padding: 10px 0;
   }
-  @media (max-width: 720px) {
-    .controls-wrap { padding: 10px 0; margin: 4px 0 12px; }
-  }
-  .controls {
+  .toolbar-inner {
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr 1fr;
-    gap: 10px;
+    grid-template-columns: minmax(200px, 2fr) repeat(5, minmax(110px, 1fr));
+    gap: 8px;
   }
-  /* 平板：search 占滿一行，其他 3 選單 1 行 */
-  @media (max-width: 720px) {
-    .controls {
-      grid-template-columns: repeat(3, 1fr);
-      gap: 8px;
-    }
+  @media (max-width: 960px) {
+    .toolbar-inner { grid-template-columns: 1fr 1fr 1fr; }
     .search-wrap { grid-column: 1 / -1; }
   }
-  /* 最小螢幕：3 個選單放不下時自動降到 1 個一列 */
-  @media (max-width: 380px) {
-    .controls { grid-template-columns: 1fr; }
+  @media (max-width: 480px) {
+    .toolbar-inner { grid-template-columns: 1fr 1fr; gap: 6px; }
   }
+
   .search-wrap { position: relative; }
   .search-wrap::before {
     content: "🔍";
@@ -227,7 +176,7 @@
     left: 12px; top: 50%;
     transform: translateY(-50%);
     font-size: 14px;
-    opacity: 0.6;
+    opacity: 0.55;
     pointer-events: none;
   }
   .search-wrap kbd {
@@ -236,269 +185,292 @@
     transform: translateY(-50%);
     font-size: 11px;
     padding: 2px 6px;
-    background: var(--panel-2);
+    background: var(--bg-soft);
     border: 1px solid var(--border);
     border-radius: 4px;
     color: var(--text-faint);
     font-family: inherit;
   }
-  /* 手機觸控裝置用不到鍵盤快捷鍵 */
-  @media (hover: none), (max-width: 720px) {
-    .search-wrap kbd { display: none; }
-  }
-  .controls input, .controls select {
-    padding: 11px 12px;
+  @media (hover: none), (max-width: 640px) { .search-wrap kbd { display: none; } }
+
+  .toolbar input, .toolbar select {
+    height: 40px;
+    padding: 0 12px;
     font-size: 14px;
     border: 1px solid var(--border);
-    border-radius: 8px;
+    border-radius: 9px;
     background: var(--panel);
     color: var(--text);
     font-family: inherit;
     width: 100%;
     transition: border-color 0.1s, box-shadow 0.1s;
-    min-height: 42px;
+    appearance: none;
+    -webkit-appearance: none;
   }
-  /* iOS 在 font-size < 16px 時會自動放大頁面 → 手機版強制 16px */
-  @media (max-width: 720px) {
-    .controls input, .controls select { font-size: 16px; padding: 10px 12px; }
-  }
-  .controls .search-wrap input { padding-left: 36px; padding-right: 48px; }
-  @media (max-width: 720px) {
-    .controls .search-wrap input { padding-right: 14px; }
-  }
-  .controls input:focus, .controls select:focus {
+  @media (max-width: 640px) { .toolbar input, .toolbar select { font-size: 16px; } }
+  .search-wrap input { padding-left: 36px; padding-right: 44px; }
+  @media (max-width: 640px) { .search-wrap input { padding-right: 12px; } }
+  .toolbar input:focus, .toolbar select:focus {
     outline: none;
     border-color: var(--accent);
-    box-shadow: 0 0 0 3px var(--accent-soft);
+    box-shadow: 0 0 0 3px var(--ring);
+  }
+  .toolbar select {
+    padding-right: 28px;
+    background-image: linear-gradient(45deg, transparent 50%, currentColor 50%),
+                      linear-gradient(-45deg, transparent 50%, currentColor 50%);
+    background-position: calc(100% - 15px) 55%, calc(100% - 10px) 55%;
+    background-size: 5px 5px;
+    background-repeat: no-repeat;
+    color: var(--text-muted);
   }
 
-  /* ---------- Tabs ---------- */
-  .tabs-row {
+  /* ─────────────────── Category bar ─────────────────── */
+  .cat-bar {
     display: flex;
     gap: 6px;
-    margin-bottom: 14px;
-    flex-wrap: wrap;
-    align-items: center;
+    padding: 16px 0 4px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+    scroll-snap-type: x proximity;
   }
-  .tabs-row .tabs-label {
-    font-size: 12px;
-    color: var(--text-faint);
-    font-weight: 500;
-    margin-right: 4px;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
+  .cat-bar::-webkit-scrollbar { display: none; }
+  @media (max-width: 640px) {
+    .cat-bar {
+      margin: 0 -14px;
+      padding-left: 14px;
+      padding-right: 14px;
+      mask-image: linear-gradient(to right, transparent, black 14px, black calc(100% - 14px), transparent);
+      -webkit-mask-image: linear-gradient(to right, transparent, black 14px, black calc(100% - 14px), transparent);
+    }
+  }
+  .chip {
     flex-shrink: 0;
-  }
-  .tab {
-    padding: 7px 14px;
-    border-radius: 999px;
-    background: var(--panel);
-    border: 1px solid var(--border);
-    cursor: pointer;
-    font-size: 13px;
-    color: var(--text-muted);
-    transition: all 0.1s;
-    font-family: inherit;
+    scroll-snap-align: start;
     display: inline-flex;
     align-items: center;
     gap: 6px;
-    white-space: nowrap;
-    flex-shrink: 0;
-    min-height: 36px;
-  }
-  .tab:hover { color: var(--text); border-color: var(--border-strong); }
-  .tab.active {
-    background: var(--text);
-    color: var(--panel);
-    border-color: var(--text);
-  }
-  .tab .count {
-    font-size: 11px;
-    opacity: 0.75;
-    font-weight: 500;
-  }
-  .tab.active .count { opacity: 0.85; }
-  .tab .cat-dot {
-    width: 7px; height: 7px;
+    padding: 7px 13px;
+    min-height: 34px;
     border-radius: 999px;
-    background: var(--other);
-  }
-
-  /* 手機版：tabs 改成橫向滑動，不換行；邊緣淡化提示可捲動 */
-  @media (max-width: 720px) {
-    .tabs-row {
-      flex-wrap: nowrap;
-      overflow-x: auto;
-      scroll-snap-type: x proximity;
-      -webkit-overflow-scrolling: touch;
-      scrollbar-width: none;
-      padding-bottom: 4px;
-      margin-left: -16px;
-      margin-right: -16px;
-      padding-left: 16px;
-      padding-right: 16px;
-      mask-image: linear-gradient(to right, transparent, black 16px, black calc(100% - 16px), transparent);
-      -webkit-mask-image: linear-gradient(to right, transparent, black 16px, black calc(100% - 16px), transparent);
-    }
-    .tabs-row::-webkit-scrollbar { display: none; }
-    .tab { scroll-snap-align: start; }
-  }
-
-  /* ---------- Jobs ---------- */
-  main { padding-bottom: 80px; }
-  .result-info {
+    background: var(--panel);
+    border: 1px solid var(--border);
     font-size: 13px;
     color: var(--text-muted);
-    margin-bottom: 10px;
+    font-family: inherit;
+    transition: color 0.1s, border-color 0.1s, background 0.1s;
+    white-space: nowrap;
   }
-  .jobs { display: grid; gap: 8px; }
+  .chip:hover { color: var(--text); border-color: var(--border-strong); }
+  .chip.active {
+    background: var(--text);
+    color: var(--bg);
+    border-color: var(--text);
+  }
+  .chip .count { font-size: 11px; opacity: 0.7; font-weight: 500; }
+  .chip.active .count { opacity: 0.85; }
+  .chip .dot {
+    width: 7px; height: 7px; border-radius: 999px;
+    background: currentColor;
+    opacity: 0.85;
+  }
+
+  /* ─────────────────── Saved searches ─────────────────── */
+  .saved {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 10px 0 6px;
+    font-size: 12px;
+  }
+  .saved-label {
+    color: var(--text-faint);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .saved-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 10px 4px 12px;
+    border-radius: 999px;
+    background: var(--bg-soft);
+    border: 1px solid transparent;
+    color: var(--text-muted);
+    font-size: 12px;
+  }
+  .saved-btn:hover { color: var(--text); border-color: var(--border); }
+  .saved-btn .badge {
+    background: var(--new);
+    color: white;
+    border-radius: 999px;
+    padding: 1px 6px;
+    font-size: 10.5px;
+    font-weight: 600;
+  }
+  .saved-btn .x {
+    color: var(--text-faint);
+    padding: 0 2px;
+    font-weight: 400;
+  }
+  .saved-btn .x:hover { color: var(--urgent); }
+  .saved-add {
+    padding: 4px 10px;
+    border-radius: 999px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    border: 1px dashed var(--accent);
+    font-size: 12px;
+    font-weight: 500;
+  }
+  .saved-add:hover { background: var(--accent); color: white; }
+
+  /* ─────────────────── Result info ─────────────────── */
+  .result-info {
+    font-size: 12.5px;
+    color: var(--text-muted);
+    margin: 14px 0 10px;
+  }
+
+  /* ─────────────────── Jobs list ─────────────────── */
+  main { padding-bottom: 80px; }
+  .jobs {
+    display: grid;
+    gap: 8px;
+  }
   .job {
     background: var(--panel);
     border: 1px solid var(--border);
     border-radius: 12px;
-    padding: 14px 18px;
+    padding: 14px 16px;
     display: grid;
-    grid-template-columns: auto 1fr auto;
-    gap: 4px 16px;
+    grid-template-columns: 44px 1fr 36px;
+    gap: 4px 14px;
     align-items: start;
-    transition: transform 0.1s, box-shadow 0.1s, border-color 0.1s;
-    position: relative;
+    border-left-width: 3px;
+    transition: border-color 0.1s, box-shadow 0.1s, background 0.1s;
   }
-  @media (max-width: 600px) { .job { padding: 12px 14px; border-radius: 10px; gap: 2px 12px; } }
   .job:hover {
-    transform: translateY(-1px);
-    border-color: var(--border-strong);
     box-shadow: var(--shadow-md);
+    background: var(--panel-hover);
   }
-  .job .cat-rail {
-    width: 4px;
-    align-self: stretch;
-    border-radius: 2px;
-    margin-right: 2px;
-    background: var(--other);
+  @media (max-width: 480px) {
+    .job {
+      grid-template-columns: 36px 1fr auto;
+      padding: 12px 14px;
+      gap: 4px 10px;
+      border-radius: 10px;
+    }
   }
+
+  /* Avatar: first letter, bg hashed by company name */
+  .job-avatar {
+    width: 44px; height: 44px;
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    letter-spacing: -0.01em;
+    flex-shrink: 0;
+    user-select: none;
+    line-height: 1;
+  }
+  @media (max-width: 480px) { .job-avatar { width: 36px; height: 36px; font-size: 15px; border-radius: 8px; } }
 
   .job-body { min-width: 0; }
-  .job-title-row { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; }
-  .job-title {
-    font-weight: 600;
-    font-size: 15px;
-    margin: 0;
-    line-height: 1.4;
-  }
-  .job-title a {
-    color: var(--text);
-    text-decoration: none;
-  }
-  .job-title a:hover { color: var(--accent); }
-  @media (max-width: 600px) {
-    .job-title { font-size: 14.5px; }
-    .job-title-row { gap: 6px; }
-  }
-  .new-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 3px;
-    font-size: 11px;
-    font-weight: 600;
-    padding: 1px 7px;
-    border-radius: 999px;
-    background: var(--new-soft);
-    color: var(--new);
-    letter-spacing: 0.02em;
-  }
-  .deadline-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 3px;
-    font-size: 11px;
-    font-weight: 600;
-    padding: 1px 7px;
-    border-radius: 999px;
-    background: #fef3c7;
-    color: #92400e;
-    letter-spacing: 0.02em;
-  }
-  .deadline-badge.urgent { background: #fee2e2; color: #991b1b; }
-  .deadline-badge.expired { background: #f3f4f6; color: #9ca3af; }
-  @media (prefers-color-scheme: dark) {
-    .deadline-badge { background: #422006; color: #fde68a; }
-    .deadline-badge.urgent { background: #450a0a; color: #fca5a5; }
-    .deadline-badge.expired { background: #27272a; color: #71717a; }
-  }
-  .job-company {
-    color: var(--text-muted);
-    font-size: 13px;
-    margin: 2px 0 6px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-  .job-company .company-link {
-    color: inherit;
-    cursor: pointer;
-    text-decoration: none;
-    border-bottom: 1px dashed transparent;
-    transition: border-color 0.1s, color 0.1s;
-  }
-  .job-company .company-link:hover {
-    color: var(--accent);
-    border-color: var(--accent);
-  }
-  @media (max-width: 600px) {
-    .job-company { font-size: 12.5px; margin: 2px 0 4px; white-space: normal; }
-  }
 
-  /* Star button */
-  .star-btn {
-    background: none;
-    border: none;
-    cursor: pointer;
-    font-size: 16px;
-    padding: 4px 6px;
-    line-height: 1;
-    color: var(--text-faint);
-    transition: color 0.1s, transform 0.1s;
-    font-family: inherit;
+  .job-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .job-title {
+    margin: 0;
+    font-size: 15.5px;
+    font-weight: 600;
+    line-height: 1.4;
+    color: var(--text);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 8px;
+    min-width: 0;
+  }
+  @media (max-width: 480px) { .job-title { font-size: 14.5px; gap: 5px 6px; } }
+  .job-title a { color: inherit; }
+  .job-title a:hover { color: var(--accent); }
+
+  .job-salary {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--salary);
+    white-space: nowrap;
     flex-shrink: 0;
   }
-  .star-btn:hover { color: #f59e0b; transform: scale(1.15); }
-  .star-btn.active { color: #f59e0b; }
-  .star-btn:focus { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
-  .job-meta {
-    display: flex;
-    gap: 8px;
-    font-size: 12px;
-    color: var(--text-faint);
-    flex-wrap: wrap;
+  .job-salary.neg { color: var(--text-faint); font-weight: 400; }
+  @media (max-width: 480px) { .job-salary { font-size: 13px; } }
+
+  .badge {
+    display: inline-flex;
     align-items: center;
-  }
-  @media (max-width: 600px) {
-    .job-meta { gap: 6px; font-size: 11.5px; }
-  }
-  .pill {
-    padding: 2px 8px;
+    gap: 3px;
+    font-size: 10.5px;
+    font-weight: 600;
+    padding: 2px 7px;
     border-radius: 999px;
+    letter-spacing: 0.02em;
+  }
+  .badge-new { background: var(--new-soft); color: var(--new); }
+  .badge-deadline { background: var(--warn-soft); color: var(--warn); }
+  .badge-deadline.urgent { background: var(--urgent-soft); color: var(--urgent); }
+  .badge-deadline.expired { background: var(--bg-soft); color: var(--text-faint); }
+
+  .job-meta {
+    margin-top: 5px;
+    font-size: 12.5px;
+    color: var(--text-muted);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3px 10px;
+    align-items: center;
+    min-width: 0;
+  }
+  @media (max-width: 480px) { .job-meta { font-size: 12px; gap: 2px 8px; } }
+  .job-meta > * { display: inline-flex; align-items: center; gap: 3px; }
+  .company-link {
+    color: var(--text-muted);
+    border-bottom: 1px dashed transparent;
+    cursor: pointer;
+  }
+  .company-link:hover { color: var(--accent); border-color: var(--accent); }
+  .meta-sep {
+    display: inline-block;
+    width: 3px; height: 3px;
+    background: var(--text-faint);
+    border-radius: 999px;
+    opacity: 0.4;
+    vertical-align: middle;
+  }
+  .meta-platform {
     font-size: 11px;
+    padding: 1px 6px;
+    border-radius: 4px;
+    background: var(--bg-soft);
+    color: var(--text-faint);
     font-weight: 500;
   }
-  .pill.platform-104         { background: #fee2e2; color: #991b1b; }
-  .pill.platform-CakeResume  { background: #ffedd5; color: #9a3412; }
-  .pill.platform-Yourator    { background: #ccfbf1; color: #115e59; }
-  @media (prefers-color-scheme: dark) {
-    .pill.platform-104        { background: #450a0a; color: #fca5a5; }
-    .pill.platform-CakeResume { background: #431407; color: #fdba74; }
-    .pill.platform-Yourator   { background: #042f2e; color: #5eead4; }
-  }
-  .pill.cat-badge {
-    /* color + background set inline from category metadata */
-  }
 
-  .skills-row {
-    display: flex;
-    gap: 5px;
+  .job-skills {
     margin-top: 6px;
+    display: flex;
     flex-wrap: wrap;
+    gap: 4px;
   }
   .skill-tag {
     display: inline-block;
@@ -506,149 +478,72 @@
     border-radius: 4px;
     font-size: 10.5px;
     font-weight: 500;
-    background: var(--panel-2);
+    background: var(--bg-soft);
     color: var(--text-muted);
     border: 1px solid var(--border);
     cursor: pointer;
-    transition: background 0.1s, color 0.1s, border-color 0.1s;
     font-family: inherit;
+    transition: border-color 0.1s, color 0.1s;
   }
   .skill-tag:hover {
-    background: var(--accent-soft);
     color: var(--accent);
     border-color: var(--accent);
   }
 
-  /* Saved searches */
-  .saved-wrap {
-    display: flex;
-    gap: 8px;
-    align-items: center;
-    margin: -4px 0 12px;
-    flex-wrap: wrap;
-  }
-  .saved-label {
-    font-size: 12px;
+  /* Star button */
+  .star-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    line-height: 1;
+    padding: 4px;
     color: var(--text-faint);
-    font-weight: 500;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
+    transition: color 0.1s, transform 0.1s;
+    border-radius: 6px;
+    align-self: start;
+    justify-self: end;
   }
-  .saved-btn {
-    padding: 4px 10px;
-    border-radius: 999px;
-    background: var(--panel);
-    border: 1px solid var(--border);
-    cursor: pointer;
-    font-size: 12px;
-    color: var(--text-muted);
-    font-family: inherit;
-    display: inline-flex;
-    align-items: center;
-    gap: 5px;
-  }
-  .saved-btn:hover { color: var(--text); border-color: var(--border-strong); }
-  .saved-btn .badge {
-    background: var(--new);
-    color: white;
-    border-radius: 999px;
-    padding: 1px 6px;
-    font-size: 10px;
-    font-weight: 600;
-  }
-  .saved-btn .remove {
-    opacity: 0.5;
-    margin-left: 2px;
-    cursor: pointer;
-  }
-  .saved-btn .remove:hover { opacity: 1; color: #dc2626; }
-  .save-current-btn {
-    padding: 4px 10px;
-    border-radius: 999px;
-    background: var(--accent-soft);
-    border: 1px dashed var(--accent);
-    cursor: pointer;
-    font-size: 12px;
-    color: var(--accent);
-    font-family: inherit;
-  }
-  .save-current-btn:hover { background: var(--accent); color: white; }
+  .star-btn:hover { color: var(--star); transform: scale(1.15); }
+  .star-btn.on { color: var(--star); }
+  .star-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 
-  .job-right {
-    text-align: right;
-    white-space: nowrap;
-    min-width: 0;
-  }
-  .job-salary {
-    font-size: 14px;
-    font-weight: 600;
-    color: #059669;
-  }
-  @media (prefers-color-scheme: dark) {
-    .job-salary { color: #34d399; }
-  }
-  .job-salary.negotiable { color: var(--text-muted); font-weight: 400; }
-  .job-date {
-    font-size: 12px;
-    color: var(--text-faint);
-    margin-top: 2px;
-  }
-
-  @media (max-width: 600px) {
-    .job { grid-template-columns: auto 1fr; }
-    .job-right {
-      grid-column: 1 / -1;
-      text-align: left;
-      margin-top: 8px;
-      padding-top: 8px;
-      border-top: 1px dashed var(--border);
-      display: flex;
-      gap: 10px;
-      align-items: center;
-      justify-content: space-between;
-      white-space: normal;
-    }
-    .job-salary { font-size: 13.5px; }
-    .job-date { margin-top: 0; font-size: 11px; }
-  }
-
-  /* ---------- Empty / loading / error ---------- */
+  /* Empty / loading / error */
   .empty, .loading {
     text-align: center;
-    padding: 72px 20px;
+    padding: 64px 20px;
     color: var(--text-muted);
   }
-  .empty h3 { color: var(--text); margin: 0 0 6px; font-size: 17px; }
+  .empty h3 { color: var(--text); margin: 0 0 6px; font-size: 16px; font-weight: 600; }
   .empty p { margin: 0; font-size: 14px; }
+  .empty .emoji { font-size: 32px; display: block; margin-bottom: 10px; opacity: 0.5; }
   .spinner {
-    width: 24px; height: 24px;
+    width: 22px; height: 22px;
     border: 2px solid var(--border);
     border-top-color: var(--accent);
     border-radius: 999px;
-    margin: 0 auto 12px;
-    animation: spin 0.8s linear infinite;
+    margin: 0 auto 10px;
+    animation: spin 0.7s linear infinite;
   }
   @keyframes spin { to { transform: rotate(360deg); } }
 
   .error {
     background: var(--panel);
-    border: 1px solid #fecaca;
-    border-left: 3px solid #ef4444;
+    border: 1px solid var(--urgent-soft);
+    border-left: 3px solid var(--urgent);
     padding: 16px 18px;
     border-radius: 10px;
     margin: 20px 0;
     font-size: 14px;
   }
-  @media (prefers-color-scheme: dark) {
-    .error { border-color: #7f1d1d; border-left-color: #ef4444; }
-  }
   .error code {
-    background: var(--panel-2);
+    background: var(--bg-soft);
     padding: 1px 6px;
     border-radius: 4px;
     font-size: 12.5px;
   }
 
+  /* Footer */
   footer {
     padding: 28px 0 40px;
     margin-top: 40px;
@@ -657,91 +552,78 @@
     font-size: 12px;
     border-top: 1px solid var(--border);
   }
-  footer a { color: var(--text-muted); text-decoration: none; }
+  footer a { color: var(--text-muted); }
   footer a:hover { color: var(--text); text-decoration: underline; }
+  footer .feed-link { margin-left: 8px; color: var(--accent); }
 </style>
 </head>
 <body>
 
 <header class="hero">
-  <div class="container">
-    <div class="hero-top">
-      <div>
-        <h1><span class="dot"></span>實習雷達</h1>
-        <p class="subtitle">每天自動彙整 104、CakeResume、Yourator 目前開放中的實習，依科技 / 金融管顧 / 其他分類。</p>
-      </div>
+  <div class="container hero-inner">
+    <div class="hero-main">
+      <h1><span class="dot"></span>實習雷達</h1>
+      <p class="sub">104 · CakeResume · Yourator · 每日自動彙整與分類</p>
     </div>
-
-    <div class="stats" id="stats">
-      <div class="stat-card"><div class="label">📊 總職缺</div><div class="value" id="s-total">—</div></div>
-      <div class="stat-card"><div class="label" id="s-cat1-label">💻 科技</div><div class="value" id="s-cat1">—</div></div>
-      <div class="stat-card"><div class="label" id="s-cat2-label">📣 行銷</div><div class="value" id="s-cat2">—</div></div>
-      <div class="stat-card"><div class="label">✨ 今日新增</div><div class="value" id="s-new">—</div></div>
-    </div>
-
-    <div class="meta-row" id="meta"><span>載入中...</span></div>
+    <div class="hero-stats" id="hero-stats"><span>載入中…</span></div>
   </div>
 </header>
 
-<div class="controls-wrap">
-  <div class="container">
-    <div class="controls">
-      <div class="search-wrap">
-        <input type="search" id="q" placeholder="搜尋職稱、公司、地點..." autocomplete="off">
-        <kbd>/</kbd>
-      </div>
-      <select id="salary-type">
-        <option value="">所有薪資類型</option>
-        <option value="monthly">月薪</option>
-        <option value="hourly">時薪</option>
-        <option value="negotiable">面議</option>
-      </select>
-      <select id="min-salary">
-        <option value="0">任何薪資</option>
-        <option value="25000">月薪 25k+</option>
-        <option value="30000">月薪 30k+</option>
-        <option value="35000">月薪 35k+</option>
-        <option value="40000">月薪 40k+</option>
-        <option value="50000">月薪 50k+</option>
-      </select>
-      <select id="sort">
-        <optgroup label="推薦">
-          <option value="category">🎯 分類優先（預設）</option>
-        </optgroup>
-        <optgroup label="薪資">
-          <option value="salary-desc">💰 薪資 高→低</option>
-          <option value="salary-asc">💰 薪資 低→高</option>
-        </optgroup>
-        <optgroup label="上架日">
-          <option value="date-desc">📅 最新上架</option>
-          <option value="date-asc">📅 最舊上架</option>
-        </optgroup>
-        <optgroup label="發現日">
-          <option value="first_seen-desc">✨ 最新發現</option>
-          <option value="first_seen-asc">✨ 最早發現</option>
-        </optgroup>
-        <optgroup label="截止日">
-          <option value="deadline-asc">⏰ 快要截止</option>
-          <option value="deadline-desc">⏰ 最晚截止</option>
-        </optgroup>
-        <optgroup label="公司">
-          <option value="company-asc">🏢 公司 A→Z</option>
-          <option value="company-desc">🏢 公司 Z→A</option>
-        </optgroup>
-      </select>
+<div class="toolbar">
+  <div class="container toolbar-inner">
+    <div class="search-wrap">
+      <input type="search" id="q" placeholder="搜尋職稱、公司、地點…" autocomplete="off">
+      <kbd>/</kbd>
     </div>
+    <select id="sort" title="排序">
+      <optgroup label="推薦"><option value="category">🎯 推薦</option></optgroup>
+      <optgroup label="薪資">
+        <option value="salary-desc">💰 薪資高→低</option>
+        <option value="salary-asc">💰 薪資低→高</option>
+      </optgroup>
+      <optgroup label="上架日">
+        <option value="date-desc">📅 最新上架</option>
+        <option value="date-asc">📅 最舊上架</option>
+      </optgroup>
+      <optgroup label="發現日">
+        <option value="first_seen-desc">✨ 最新發現</option>
+        <option value="first_seen-asc">✨ 最早發現</option>
+      </optgroup>
+      <optgroup label="截止日">
+        <option value="deadline-asc">⏰ 快要截止</option>
+        <option value="deadline-desc">⏰ 最晚截止</option>
+      </optgroup>
+      <optgroup label="公司">
+        <option value="company-asc">🏢 公司 A→Z</option>
+        <option value="company-desc">🏢 公司 Z→A</option>
+      </optgroup>
+    </select>
+    <select id="loc" title="地區"><option value="all">全部地區</option></select>
+    <select id="plat" title="平台"><option value="all">全部平台</option></select>
+    <select id="salary-type" title="薪資類型">
+      <option value="">薪資類型</option>
+      <option value="monthly">月薪</option>
+      <option value="hourly">時薪</option>
+      <option value="negotiable">面議</option>
+    </select>
+    <select id="min-salary" title="最低薪資">
+      <option value="0">任何薪資</option>
+      <option value="25000">月薪 25k+</option>
+      <option value="30000">月薪 30k+</option>
+      <option value="35000">月薪 35k+</option>
+      <option value="40000">月薪 40k+</option>
+      <option value="50000">月薪 50k+</option>
+    </select>
   </div>
 </div>
 
 <main>
   <div class="container">
-    <div class="tabs-row" id="cat-tabs"></div>
-    <div class="tabs-row" id="loc-tabs"></div>
-    <div class="tabs-row" id="plat-tabs"></div>
-    <div class="saved-wrap" id="saved-wrap"></div>
+    <div class="cat-bar" id="cat-bar"></div>
+    <div class="saved" id="saved-wrap"></div>
     <div class="result-info" id="result-info"></div>
-    <div id="jobs" class="jobs">
-      <div class="loading"><div class="spinner"></div>載入實習資料...</div>
+    <div class="jobs" id="jobs">
+      <div class="loading"><div class="spinner"></div>載入實習資料…</div>
     </div>
   </div>
 </main>
@@ -749,26 +631,29 @@
 <footer>
   <div class="container">
     資料來源：104 人力銀行 · CakeResume · Yourator
-    · 由 <a href="https://github.com/Jean-yzj/internx.internship-radar" target="_blank" rel="noopener">GitHub Actions</a> 每天自動更新
+    · 由 <a href="https://github.com/Jean-yzj/internx.internship-radar" target="_blank" rel="noopener">GitHub Actions</a> 每日自動更新
+    <a class="feed-link" href="/data/feed.xml" title="RSS 訂閱">📡 RSS</a>
   </div>
 </footer>
 
 <script>
+// ─────────────────────────────────────────────────────
+// 常數
+// ─────────────────────────────────────────────────────
 const PLATFORMS = ["104", "CakeResume", "Yourator"];
 const TODAY = new Date().toISOString().slice(0, 10);
 
-// 地區分桶（依 j.location 字串）
 const LOCATION_BUCKETS = [
-  { key: "remote",      label: "💻 遠端",    re: /remote|遠端|在家|work from home|wfh|anywhere/i },
-  { key: "taipei",      label: "🏙 台北",    re: /台北(?!縣)|taipei/i },
-  { key: "new-taipei",  label: "🏙 新北",    re: /新北|new taipei/i },
-  { key: "taoyuan",     label: "📍 桃園",    re: /桃園|taoyuan/i },
-  { key: "hsinchu",     label: "🔬 新竹",    re: /新竹|hsinchu/i },
-  { key: "taichung",    label: "📍 台中",    re: /台中|taichung/i },
-  { key: "tainan",      label: "📍 台南",    re: /台南|tainan/i },
-  { key: "kaohsiung",   label: "📍 高雄",    re: /高雄|kaohsiung/i },
-  { key: "overseas",    label: "🌏 海外",    re: /海外|overseas|美國|usa|日本|japan|singapore|新加坡|malaysia|馬來|indonesia|印尼|thailand|泰|hong kong|香港|vietnam|越南|越|philippines|菲律賓/i },
-  { key: "other-tw",    label: "📌 其他",    re: /花蓮|hualien|基隆|keelung|宜蘭|yilan|苗栗|miaoli|彰化|changhua|雲林|yunlin|嘉義|chiayi|屏東|pingtung|澎湖|金門|連江|南投|nantou/i },
+  { key: "remote",     label: "💻 遠端",    re: /remote|遠端|在家|work from home|wfh|anywhere/i },
+  { key: "taipei",     label: "🏙 台北",    re: /台北(?!縣)|taipei/i },
+  { key: "new-taipei", label: "🏙 新北",    re: /新北|new taipei/i },
+  { key: "taoyuan",    label: "📍 桃園",    re: /桃園|taoyuan/i },
+  { key: "hsinchu",    label: "🔬 新竹",    re: /新竹|hsinchu/i },
+  { key: "taichung",   label: "📍 台中",    re: /台中|taichung/i },
+  { key: "tainan",     label: "📍 台南",    re: /台南|tainan/i },
+  { key: "kaohsiung",  label: "📍 高雄",    re: /高雄|kaohsiung/i },
+  { key: "overseas",   label: "🌏 海外",    re: /海外|overseas|美國|usa|日本|japan|singapore|新加坡|malaysia|馬來|indonesia|印尼|thailand|泰|hong kong|香港|vietnam|越南|philippines|菲律賓/i },
+  { key: "other-tw",   label: "📌 其他",    re: /花蓮|hualien|基隆|keelung|宜蘭|yilan|苗栗|miaoli|彰化|changhua|雲林|yunlin|嘉義|chiayi|屏東|pingtung|澎湖|金門|連江|南投|nantou/i },
 ];
 function locationBucket(loc) {
   const s = (loc || "").trim();
@@ -780,385 +665,319 @@ const LOCATION_LABELS = Object.fromEntries(
   LOCATION_BUCKETS.map(b => [b.key, b.label]).concat([["unknown", "❓ 未標註"]])
 );
 
+// Avatar color palette（穩定 hash → 同公司總是同色）
+const AVATAR_PALETTE = [
+  "#ef4444","#f97316","#f59e0b","#eab308","#84cc16","#22c55e",
+  "#10b981","#14b8a6","#06b6d4","#0ea5e9","#3b82f6","#6366f1",
+  "#8b5cf6","#a855f7","#d946ef","#ec4899","#f43f5e",
+];
+function avatarColor(name) {
+  if (!name) return "#a1a1aa";
+  let h = 0;
+  for (let i = 0; i < name.length; i++) h = (h * 31 + name.charCodeAt(i)) >>> 0;
+  return AVATAR_PALETTE[h % AVATAR_PALETTE.length];
+}
+function avatarInitial(name) {
+  if (!name) return "?";
+  const alpha = name.match(/[A-Za-z]/);
+  if (alpha) return alpha[0].toUpperCase();
+  return name[0];
+}
+
+// ─────────────────────────────────────────────────────
+// 狀態
+// ─────────────────────────────────────────────────────
 let data = { jobs: [], generated_at: null, summary: {}, categories: [] };
 let currentCat  = "all";
-let currentPlat = "all";
-let currentLoc  = "all";
 let starred     = new Set();
-
-// ---- LocalStorage bookmarks ----
-const LS_KEY = "internradar:starred:v1";
-function loadStarred() {
-  try {
-    const raw = localStorage.getItem(LS_KEY);
-    if (raw) starred = new Set(JSON.parse(raw));
-  } catch { starred = new Set(); }
-}
-function saveStarred() {
-  try { localStorage.setItem(LS_KEY, JSON.stringify([...starred])); } catch {}
-}
-function toggleStar(url) {
-  if (!url) return;
-  if (starred.has(url)) starred.delete(url);
-  else starred.add(url);
-  saveStarred();
-  render();
-}
-
-// ---- Saved searches ----
-// Shape: [{ id, name, filters: {cat, plat, loc, q, stype, min, sort}, lastChecked: ISO }]
-const LS_SAVED = "internradar:saved:v1";
 let savedSearches = [];
+
+// ─────────────────────────────────────────────────────
+// LocalStorage
+// ─────────────────────────────────────────────────────
+const LS_STARRED = "internradar:starred:v1";
+const LS_SAVED   = "internradar:saved:v1";
+function loadStarred() {
+  try { const r = localStorage.getItem(LS_STARRED); starred = new Set(r ? JSON.parse(r) : []); }
+  catch { starred = new Set(); }
+}
+function persistStarred() {
+  try { localStorage.setItem(LS_STARRED, JSON.stringify([...starred])); } catch {}
+}
 function loadSaved() {
-  try {
-    savedSearches = JSON.parse(localStorage.getItem(LS_SAVED) || "[]");
-  } catch { savedSearches = []; }
+  try { savedSearches = JSON.parse(localStorage.getItem(LS_SAVED) || "[]"); }
+  catch { savedSearches = []; }
 }
 function persistSaved() {
   try { localStorage.setItem(LS_SAVED, JSON.stringify(savedSearches)); } catch {}
 }
-function currentFilters() {
-  return {
-    cat: currentCat, plat: currentPlat, loc: currentLoc,
-    q: document.getElementById("q").value.trim(),
-    stype: document.getElementById("salary-type").value,
-    min: document.getElementById("min-salary").value,
-    sort: document.getElementById("sort").value,
-  };
-}
-function summariseFilters(f) {
-  const parts = [];
-  if (f.cat && f.cat !== "all") {
-    if (f.cat === "starred") parts.push("⭐ 收藏");
-    else {
-      const cm = catMeta(f.cat);
-      parts.push(cm.emoji + cm.label);
-    }
-  }
-  if (f.loc && f.loc !== "all") {
-    parts.push((LOCATION_LABELS[f.loc] || f.loc).replace(/^[🏙📍🔬💻🌏📌❓]\s*/, ""));
-  }
-  if (f.plat && f.plat !== "all") parts.push(f.plat);
-  if (f.q) parts.push(`"${f.q}"`);
-  const min = parseInt(f.min) || 0;
-  if (min > 0) parts.push(`${(min/1000)|0}k+`);
-  if (f.stype) parts.push({monthly:"月薪",hourly:"時薪",negotiable:"面議"}[f.stype] || f.stype);
-  return parts.length ? parts.join(" · ") : "全部";
-}
-function countMatches(filters) {
-  return (data.jobs || []).filter(j => {
-    if (filters.cat === "starred") {
-      if (!starred.has(j.url)) return false;
-    } else if (filters.cat && filters.cat !== "all" && j.category !== filters.cat) return false;
-    if (filters.loc && filters.loc !== "all" && locationBucket(j.location) !== filters.loc) return false;
-    if (filters.plat && filters.plat !== "all" && j.platform !== filters.plat) return false;
-    if (filters.stype && j.salary_type !== filters.stype) return false;
-    const minS = parseInt(filters.min) || 0;
-    if (minS > 0 && (!j.salary_min || j.salary_min < minS)) return false;
-    if (filters.q) {
-      const hay = `${j.title} ${j.company} ${j.location}`.toLowerCase();
-      if (!hay.includes(filters.q.toLowerCase())) return false;
-    }
-    return true;
-  }).length;
-}
-function countNewMatches(filters, sinceIso) {
-  return (data.jobs || []).filter(j => {
-    if ((j.first_seen || "") <= sinceIso) return false;
-    if (filters.cat === "starred") {
-      if (!starred.has(j.url)) return false;
-    } else if (filters.cat && filters.cat !== "all" && j.category !== filters.cat) return false;
-    if (filters.loc && filters.loc !== "all" && locationBucket(j.location) !== filters.loc) return false;
-    if (filters.plat && filters.plat !== "all" && j.platform !== filters.plat) return false;
-    if (filters.stype && j.salary_type !== filters.stype) return false;
-    const minS = parseInt(filters.min) || 0;
-    if (minS > 0 && (!j.salary_min || j.salary_min < minS)) return false;
-    if (filters.q) {
-      const hay = `${j.title} ${j.company} ${j.location}`.toLowerCase();
-      if (!hay.includes(filters.q.toLowerCase())) return false;
-    }
-    return true;
-  }).length;
-}
-function applySaved(s) {
-  const f = s.filters;
-  currentCat  = f.cat  || "all";
-  currentPlat = f.plat || "all";
-  currentLoc  = f.loc  || "all";
-  document.getElementById("q").value = f.q || "";
-  document.getElementById("salary-type").value = f.stype || "";
-  document.getElementById("min-salary").value = f.min || "0";
-  const sortEl = document.getElementById("sort");
-  const v = f.sort || "category";
-  if (Array.from(sortEl.options).some(o => o.value === v)) sortEl.value = v;
-  // mark as checked now
-  s.lastChecked = new Date().toISOString();
-  persistSaved();
-  writeUrlState();
-  render();
-}
-function saveCurrent() {
-  const f = currentFilters();
-  const hasAny = f.cat !== "all" || f.plat !== "all" || f.loc !== "all"
-    || f.q || f.stype || (parseInt(f.min) || 0) > 0;
-  if (!hasAny) {
-    alert("目前沒有任何篩選條件，設定幾個條件後再來訂閱。");
-    return;
-  }
-  const name = prompt("幫這個訂閱取個名字（例如：新竹科技月薪30k+）", summariseFilters(f));
-  if (!name) return;
-  savedSearches.push({
-    id: String(Date.now()),
-    name,
-    filters: f,
-    lastChecked: new Date().toISOString(),
-  });
-  persistSaved();
-  renderSaved();
-}
-function removeSaved(id) {
-  savedSearches = savedSearches.filter(s => s.id !== id);
-  persistSaved();
-  renderSaved();
-}
-function renderSaved() {
-  const wrap = document.getElementById("saved-wrap");
-  const parts = [`<span class="saved-label">📌 訂閱</span>`];
-  for (const s of savedSearches) {
-    const newCount = countNewMatches(s.filters, s.lastChecked || "0000-01-01");
-    const badge = newCount > 0 ? `<span class="badge">+${newCount}</span>` : "";
-    parts.push(`
-      <button class="saved-btn" data-saved-id="${escapeHtml(s.id)}" title="套用此訂閱">
-        ${escapeHtml(s.name)} ${badge}
-        <span class="remove" data-remove-id="${escapeHtml(s.id)}" title="刪除此訂閱">✕</span>
-      </button>`);
-  }
-  parts.push(`<button class="save-current-btn" id="save-current-btn">+ 訂閱目前篩選</button>`);
-  wrap.innerHTML = parts.join("");
-  wrap.querySelectorAll(".saved-btn").forEach(btn => {
-    btn.onclick = (e) => {
-      if (e.target.classList.contains("remove")) {
-        e.stopPropagation();
-        removeSaved(e.target.dataset.removeId);
-        return;
-      }
-      const s = savedSearches.find(x => x.id === btn.dataset.savedId);
-      if (s) applySaved(s);
-    };
-  });
-  document.getElementById("save-current-btn").onclick = saveCurrent;
+function toggleStar(url) {
+  if (!url) return;
+  if (starred.has(url)) starred.delete(url); else starred.add(url);
+  persistStarred();
+  renderStats();
+  renderCatBar();
+  renderList();
 }
 
-// ---- hex → soft rgba background ----
-function hexToSoft(hex, alpha = 0.14) {
-  const h = (hex || "#94a3b8").replace("#", "");
-  const r = parseInt(h.substring(0,2), 16);
-  const g = parseInt(h.substring(2,4), 16);
-  const b = parseInt(h.substring(4,6), 16);
-  return `rgba(${r},${g},${b},${alpha})`;
-}
-
-function catMeta(key) {
-  return (data.categories || []).find(c => c.key === key) || {
-    key, label: key, emoji: "📋", color: "#94a3b8", count: 0,
-  };
-}
-
-// ---- URL state sync ----
-function readUrlState() {
+// ─────────────────────────────────────────────────────
+// URL 同步
+// ─────────────────────────────────────────────────────
+function $id(id) { return document.getElementById(id); }
+function readUrl() {
   const p = new URLSearchParams(location.search);
-  currentCat  = p.get("cat")  || "all";
-  currentPlat = p.get("plat") || "all";
-  currentLoc  = p.get("loc")  || "all";
-  const qEl = document.getElementById("q");
-  const stypeEl = document.getElementById("salary-type");
-  const minEl = document.getElementById("min-salary");
-  const sortEl = document.getElementById("sort");
-  qEl.value = p.get("q") || "";
-  stypeEl.value = p.get("stype") || "";
-  minEl.value = p.get("min") || "0";
-  const sortVal = p.get("sort") || "category";
-  if (Array.from(sortEl.options).some(o => o.value === sortVal)) {
-    sortEl.value = sortVal;
-  } else {
-    sortEl.value = "category";
-  }
+  currentCat = p.get("cat") || "all";
+  $id("q").value            = p.get("q") || "";
+  $id("loc").value          = p.get("loc") || "all";
+  $id("plat").value         = p.get("plat") || "all";
+  $id("salary-type").value  = p.get("stype") || "";
+  $id("min-salary").value   = p.get("min") || "0";
+  const s = p.get("sort") || "category";
+  const sortEl = $id("sort");
+  if ([...sortEl.options].some(o => o.value === s)) sortEl.value = s;
 }
-function writeUrlState() {
+function writeUrl() {
   const p = new URLSearchParams();
-  const q = document.getElementById("q").value.trim();
-  const stype = document.getElementById("salary-type").value;
-  const minSal = document.getElementById("min-salary").value;
-  const sort = document.getElementById("sort").value;
-  if (currentCat !== "all")  p.set("cat", currentCat);
-  if (currentPlat !== "all") p.set("plat", currentPlat);
-  if (currentLoc !== "all")  p.set("loc", currentLoc);
-  if (q)                     p.set("q", q);
-  if (stype)                 p.set("stype", stype);
-  if (minSal && minSal !== "0") p.set("min", minSal);
-  if (sort !== "category")   p.set("sort", sort);
+  const q = $id("q").value.trim();
+  if (currentCat !== "all")            p.set("cat", currentCat);
+  if ($id("loc").value !== "all")      p.set("loc", $id("loc").value);
+  if ($id("plat").value !== "all")     p.set("plat", $id("plat").value);
+  if ($id("salary-type").value)        p.set("stype", $id("salary-type").value);
+  if ($id("min-salary").value !== "0") p.set("min", $id("min-salary").value);
+  if ($id("sort").value !== "category")p.set("sort", $id("sort").value);
+  if (q)                               p.set("q", q);
   const qs = p.toString();
   history.replaceState(null, "", location.pathname + (qs ? "?" + qs : ""));
 }
 
+// ─────────────────────────────────────────────────────
+// 載入
+// ─────────────────────────────────────────────────────
 async function load() {
   try {
     const res = await fetch("./data/internships.json?v=" + Date.now());
     if (!res.ok) throw new Error("HTTP " + res.status);
     data = await res.json();
+    populateSelects();
+    readUrl();
     render();
   } catch (e) {
-    document.getElementById("jobs").innerHTML = `
+    $id("jobs").innerHTML = `
       <div class="error">
-        <strong>無法載入資料：</strong> <code>${escapeHtml(e.message)}</code><br>
-        如果這是剛部署的版本，可能是第一次 GitHub Action 還沒跑完，
-        稍等幾分鐘或到 Actions 頁手動觸發 <code>Update Internship Data</code>。
+        <strong>無法載入資料：</strong> <code>${esc(e.message)}</code><br>
+        如果這是剛部署的版本，GitHub Action 可能還沒跑完，稍等幾分鐘或到 Actions 手動觸發 <code>Update Internship Data</code>。
       </div>`;
-    document.getElementById("meta").innerHTML = "<span>尚無資料</span>";
+    $id("hero-stats").innerHTML = "";
   }
 }
 
-function renderStats() {
+function populateSelects() {
   const jobs = data.jobs || [];
-  const cats = data.categories || [];
-  let newCount = 0;
-  for (const j of jobs) if (j.first_seen === TODAY) newCount++;
-  document.getElementById("s-total").textContent = jobs.length.toLocaleString();
-  document.getElementById("s-new").textContent   = newCount.toLocaleString();
-  const top = [...cats].filter(c => c.key !== "other").sort((a,b) => b.count - a.count).slice(0, 2);
-  if (top[0]) {
-    document.getElementById("s-cat1-label").innerHTML =
-      `<span style="color:${top[0].color}">●</span> ${top[0].emoji} ${escapeHtml(top[0].label)}`;
-    document.getElementById("s-cat1").textContent = top[0].count.toLocaleString();
-  }
-  if (top[1]) {
-    document.getElementById("s-cat2-label").innerHTML =
-      `<span style="color:${top[1].color}">●</span> ${top[1].emoji} ${escapeHtml(top[1].label)}`;
-    document.getElementById("s-cat2").textContent = top[1].count.toLocaleString();
-  }
-}
-
-function renderMeta() {
-  const m = document.getElementById("meta");
-  if (!data.generated_at) { m.innerHTML = ""; return; }
-  const when = new Date(data.generated_at);
-  const ago = Math.round((Date.now() - when.getTime()) / 60000);
-  const agoText = ago < 1     ? "剛剛"
-                : ago < 60    ? `${ago} 分鐘前`
-                : ago < 60*24 ? `${Math.round(ago/60)} 小時前`
-                :               `${Math.round(ago/60/24)} 天前`;
-  m.innerHTML = `
-    <span>🕒 資料更新於 <strong>${agoText}</strong>（${when.toLocaleString("zh-TW", {hour12: false})}）</span>
-    <span>📡 每天台灣時間 <strong>01:00 / 14:00 / 20:00</strong> 自動更新</span>
-  `;
-}
-
-function renderTabs() {
-  const jobs = data.jobs || [];
-  const cats = data.categories || [];
-
-  // 平台計數
-  const platCounts = { all: jobs.length };
-  for (const p of PLATFORMS) platCounts[p] = 0;
-  for (const j of jobs) platCounts[j.platform] = (platCounts[j.platform] || 0) + 1;
-
-  // 地區計數
+  // 地區 select（依實際資料）
   const locCounts = {};
   for (const j of jobs) {
     const k = locationBucket(j.location);
     locCounts[k] = (locCounts[k] || 0) + 1;
   }
+  const locOrder = LOCATION_BUCKETS.map(b => b.key).concat(["unknown"]);
+  const locEl = $id("loc");
+  locEl.innerHTML = `<option value="all">全部地區</option>` +
+    locOrder.filter(k => locCounts[k]).map(k =>
+      `<option value="${k}">${esc(LOCATION_LABELS[k] || k)} (${locCounts[k]})</option>`
+    ).join("");
+  // 平台 select
+  const platCounts = {};
+  for (const p of PLATFORMS) platCounts[p] = 0;
+  for (const j of jobs) if (platCounts[j.platform] !== undefined) platCounts[j.platform]++;
+  $id("plat").innerHTML = `<option value="all">全部平台</option>` +
+    PLATFORMS.filter(p => platCounts[p]).map(p =>
+      `<option value="${p}">${esc(p)} (${platCounts[p]})</option>`
+    ).join("");
+}
 
-  // 分類 tabs：全部 + ⭐收藏 + 所有有資料的類別
-  const catTabs = [`
-    <button class="tab ${currentCat === "all" ? "active" : ""}" data-cat="all">
-      🎯 全部 <span class="count">${jobs.length}</span>
-    </button>`];
-  if (starred.size > 0) {
-    catTabs.push(`
-      <button class="tab ${currentCat === "starred" ? "active" : ""}" data-cat="starred">
-        ⭐ 收藏 <span class="count">${starred.size}</span>
-      </button>`);
-  } else {
-    catTabs.push(`
-      <button class="tab" data-cat="starred" style="opacity:0.5" title="收藏任何職缺後，這裡會顯示你的收藏列表">
-        ⭐ 收藏 <span class="count">0</span>
-      </button>`);
-  }
-  for (const c of cats) {
-    if (c.count === 0) continue;
+// ─────────────────────────────────────────────────────
+// Render: hero stats
+// ─────────────────────────────────────────────────────
+function renderStats() {
+  const jobs = data.jobs || [];
+  const cats = data.categories || [];
+  const newCount = jobs.filter(j => j.first_seen === TODAY).length;
+  const topCat = [...cats].filter(c => c.key !== "other")
+                          .sort((a,b) => b.count - a.count)[0];
+  const agoText = !data.generated_at ? "" : (() => {
+    const ago = Math.round((Date.now() - new Date(data.generated_at).getTime()) / 60000);
+    if (ago < 1) return "剛剛";
+    if (ago < 60) return `${ago} 分鐘前`;
+    if (ago < 60*24) return `${Math.round(ago/60)} 小時前`;
+    return `${Math.round(ago/60/24)} 天前`;
+  })();
+  $id("hero-stats").innerHTML = `
+    <span><strong>${jobs.length}</strong>筆職缺</span>
+    ${newCount ? `<span><strong>${newCount}</strong>今日新增</span>` : ""}
+    ${topCat ? `<span style="color:${topCat.color}"><strong>${topCat.count}</strong>${esc(topCat.emoji)} ${esc(topCat.label)}</span>` : ""}
+    <span>🕒 ${esc(agoText)}</span>
+  `;
+}
+
+// ─────────────────────────────────────────────────────
+// Render: 分類 chips
+// ─────────────────────────────────────────────────────
+function catMeta(key) {
+  return (data.categories || []).find(c => c.key === key) ||
+         { key, label: key, emoji: "📋", color: "#94a3b8", count: 0 };
+}
+function renderCatBar() {
+  const jobs = data.jobs || [];
+  const chips = [
+    `<button class="chip ${currentCat === "all" ? "active" : ""}" data-cat="all">🎯 全部 <span class="count">${jobs.length}</span></button>`,
+    (starred.size > 0
+      ? `<button class="chip ${currentCat === "starred" ? "active" : ""}" data-cat="starred" style="color:var(--star)">⭐ 收藏 <span class="count">${starred.size}</span></button>`
+      : ""),
+  ];
+  for (const c of (data.categories || [])) {
+    if (!c.count) continue;
     const active = currentCat === c.key;
-    catTabs.push(`
-      <button class="tab ${active ? "active" : ""}" data-cat="${escapeHtml(c.key)}">
-        <span class="cat-dot" style="background:${c.color}"></span>
-        ${c.emoji} ${escapeHtml(c.label)}
+    chips.push(`
+      <button class="chip ${active ? "active" : ""}" data-cat="${esc(c.key)}">
+        <span class="dot" style="color:${c.color}"></span>
+        ${esc(c.emoji)} ${esc(c.label)}
         <span class="count">${c.count}</span>
       </button>`);
   }
-  document.getElementById("cat-tabs").innerHTML =
-    `<span class="tabs-label">分類</span>` + catTabs.join("");
-
-  // 地區 tabs（按資料動態，0 筆不顯示）
-  const locOrder = LOCATION_BUCKETS.map(b => b.key).concat(["unknown"]);
-  const locTabs = [`
-    <button class="tab ${currentLoc === "all" ? "active" : ""}" data-loc="all">
-      全部 <span class="count">${jobs.length}</span>
-    </button>`];
-  for (const k of locOrder) {
-    if (!locCounts[k]) continue;
-    const label = LOCATION_LABELS[k] || k;
-    locTabs.push(`
-      <button class="tab ${currentLoc === k ? "active" : ""}" data-loc="${escapeHtml(k)}">
-        ${label} <span class="count">${locCounts[k]}</span>
-      </button>`);
-  }
-  document.getElementById("loc-tabs").innerHTML =
-    `<span class="tabs-label">地區</span>` + locTabs.join("");
-
-  // 平台 tabs
-  document.getElementById("plat-tabs").innerHTML =
-    `<span class="tabs-label">平台</span>` +
-    `<button class="tab ${currentPlat === "all" ? "active" : ""}" data-plat="all">全部 <span class="count">${platCounts.all}</span></button>` +
-    PLATFORMS.map(p =>
-      `<button class="tab ${currentPlat === p ? "active" : ""}" data-plat="${p}">${p} <span class="count">${platCounts[p] || 0}</span></button>`
-    ).join("");
-
-  document.querySelectorAll("#cat-tabs .tab").forEach(btn => {
-    btn.onclick = () => { currentCat = btn.dataset.cat; writeUrlState(); render(); };
-  });
-  document.querySelectorAll("#loc-tabs .tab").forEach(btn => {
-    btn.onclick = () => { currentLoc = btn.dataset.loc; writeUrlState(); render(); };
-  });
-  document.querySelectorAll("#plat-tabs .tab").forEach(btn => {
-    btn.onclick = () => { currentPlat = btn.dataset.plat; writeUrlState(); render(); };
+  const bar = $id("cat-bar");
+  bar.innerHTML = chips.filter(Boolean).join("");
+  bar.querySelectorAll(".chip").forEach(btn => {
+    btn.onclick = () => { currentCat = btn.dataset.cat; writeUrl(); render(); };
   });
 }
 
-function renderList() {
-  const q = document.getElementById("q").value.toLowerCase().trim();
-  const stype = document.getElementById("salary-type").value;
-  const minSal = parseInt(document.getElementById("min-salary").value) || 0;
-  const sortBy = document.getElementById("sort").value;
+// ─────────────────────────────────────────────────────
+// Render: saved searches
+// ─────────────────────────────────────────────────────
+function currentFilters() {
+  return {
+    cat: currentCat,
+    loc: $id("loc").value,
+    plat: $id("plat").value,
+    q: $id("q").value.trim(),
+    stype: $id("salary-type").value,
+    min: $id("min-salary").value,
+    sort: $id("sort").value,
+  };
+}
+function matchFilters(j, f) {
+  if (f.cat === "starred") { if (!starred.has(j.url)) return false; }
+  else if (f.cat && f.cat !== "all" && j.category !== f.cat) return false;
+  if (f.loc  && f.loc  !== "all" && locationBucket(j.location) !== f.loc) return false;
+  if (f.plat && f.plat !== "all" && j.platform !== f.plat) return false;
+  if (f.stype && j.salary_type !== f.stype) return false;
+  const minS = parseInt(f.min) || 0;
+  if (minS > 0 && (!j.salary_min || j.salary_min < minS)) return false;
+  if (f.q) {
+    const hay = `${j.title} ${j.company} ${j.location}`.toLowerCase();
+    if (!hay.includes(f.q.toLowerCase())) return false;
+  }
+  return true;
+}
+function summariseFilters(f) {
+  const parts = [];
+  if (f.cat === "starred") parts.push("⭐");
+  else if (f.cat && f.cat !== "all") parts.push(catMeta(f.cat).emoji + catMeta(f.cat).label);
+  if (f.loc  !== "all") parts.push((LOCATION_LABELS[f.loc] || f.loc).replace(/^[^\s]+\s/, ""));
+  if (f.plat !== "all") parts.push(f.plat);
+  if (f.q) parts.push(`"${f.q}"`);
+  const m = parseInt(f.min) || 0; if (m > 0) parts.push(`${(m/1000)|0}k+`);
+  if (f.stype) parts.push({monthly:"月薪",hourly:"時薪",negotiable:"面議"}[f.stype] || f.stype);
+  return parts.join(" · ") || "全部";
+}
+function renderSaved() {
+  const wrap = $id("saved-wrap");
+  if (savedSearches.length === 0) { wrap.innerHTML = ""; return; }
+  const parts = [`<span class="saved-label">📌 訂閱</span>`];
+  for (const s of savedSearches) {
+    const since = s.lastChecked || "0000-01-01";
+    const newN = (data.jobs || []).filter(j => (j.first_seen || "") > since && matchFilters(j, s.filters)).length;
+    const badge = newN > 0 ? `<span class="badge">+${newN}</span>` : "";
+    parts.push(`
+      <button class="saved-btn" data-id="${esc(s.id)}" title="套用此訂閱">
+        ${esc(s.name)} ${badge}
+        <span class="x" data-remove="${esc(s.id)}" title="刪除">✕</span>
+      </button>`);
+  }
+  parts.push(`<button class="saved-add" id="saved-add">+ 訂閱目前篩選</button>`);
+  wrap.innerHTML = parts.join("");
+  wrap.querySelectorAll(".saved-btn").forEach(btn => {
+    btn.onclick = (e) => {
+      if (e.target.dataset.remove) {
+        e.stopPropagation();
+        savedSearches = savedSearches.filter(x => x.id !== e.target.dataset.remove);
+        persistSaved(); renderSaved();
+        return;
+      }
+      const s = savedSearches.find(x => x.id === btn.dataset.id);
+      if (!s) return;
+      // apply
+      const f = s.filters;
+      currentCat = f.cat || "all";
+      $id("loc").value          = f.loc || "all";
+      $id("plat").value         = f.plat || "all";
+      $id("q").value            = f.q || "";
+      $id("salary-type").value  = f.stype || "";
+      $id("min-salary").value   = f.min || "0";
+      if ([...$id("sort").options].some(o => o.value === (f.sort || "category"))) {
+        $id("sort").value = f.sort || "category";
+      }
+      s.lastChecked = new Date().toISOString();
+      persistSaved();
+      writeUrl();
+      render();
+    };
+  });
+  $id("saved-add").onclick = () => {
+    const f = currentFilters();
+    const any = f.cat !== "all" || f.loc !== "all" || f.plat !== "all" ||
+                f.q || f.stype || (parseInt(f.min) || 0) > 0;
+    if (!any) { alert("先設定一些篩選條件，再來訂閱"); return; }
+    const name = prompt("幫這個訂閱取個名字", summariseFilters(f));
+    if (!name) return;
+    savedSearches.push({
+      id: String(Date.now()),
+      name,
+      filters: f,
+      lastChecked: new Date().toISOString(),
+    });
+    persistSaved(); renderSaved();
+  };
+}
 
+// ─────────────────────────────────────────────────────
+// Render: job list
+// ─────────────────────────────────────────────────────
+function deadlineBadge(deadline) {
+  if (!deadline) return "";
+  const d = new Date(deadline);
+  const diff = Math.round((d - new Date(TODAY)) / 86400000);
+  let cls = "badge badge-deadline", label;
+  if (diff < 0) { cls += " expired"; label = `已截止 ${deadline.slice(5)}`; }
+  else if (diff === 0) { cls += " urgent"; label = "⏰ 今天截止"; }
+  else if (diff <= 7) { cls += " urgent"; label = `⏰ ${diff} 天後截止`; }
+  else { label = `⏰ ${deadline.slice(5)} 截止`; }
+  return `<span class="${cls}">${esc(label)}</span>`;
+}
+
+function renderList() {
+  const q = $id("q").value.toLowerCase().trim();
+  const stype = $id("salary-type").value;
+  const minSal = parseInt($id("min-salary").value) || 0;
+  const sortBy = $id("sort").value;
+  const loc = $id("loc").value;
+  const plat = $id("plat").value;
   const cats = data.categories || [];
   const catOrder = Object.fromEntries(cats.map((c, i) => [c.key, i]));
 
-  let list = (data.jobs || []).filter(j => {
-    if (currentCat === "starred") {
-      if (!starred.has(j.url)) return false;
-    } else if (currentCat !== "all" && j.category !== currentCat) {
-      return false;
-    }
-    if (currentLoc !== "all" && locationBucket(j.location) !== currentLoc) return false;
-    if (currentPlat !== "all" && j.platform !== currentPlat) return false;
-    if (stype && j.salary_type !== stype) return false;
-    if (minSal > 0 && (!j.salary_min || j.salary_min < minSal)) return false;
-    if (q) {
-      const hay = `${j.title} ${j.company} ${j.location}`.toLowerCase();
-      if (!hay.includes(q)) return false;
-    }
-    return true;
-  });
+  let list = (data.jobs || []).filter(j =>
+    matchFilters(j, { cat: currentCat, loc, plat, stype, min: minSal || "0", q })
+  );
 
   list.sort((a, b) => {
     if (sortBy === "category") {
@@ -1168,12 +987,12 @@ function renderList() {
       if (fs !== 0) return fs;
       return (b.salary_min || 0) - (a.salary_min || 0);
     }
-    const dashIdx = sortBy.lastIndexOf("-");
-    const field = dashIdx > 0 ? sortBy.slice(0, dashIdx) : sortBy;
-    const dir = sortBy.slice(dashIdx + 1) === "asc" ? 1 : -1;
-    if (field === "salary") return ((a.salary_min || 0) - (b.salary_min || 0)) * dir;
-    if (field === "company") return (a.company || "").localeCompare(b.company || "") * dir;
-    if (field === "date") return (a.posted_at || "").localeCompare(b.posted_at || "") * dir;
+    const dash = sortBy.lastIndexOf("-");
+    const field = dash > 0 ? sortBy.slice(0, dash) : sortBy;
+    const dir = sortBy.slice(dash + 1) === "asc" ? 1 : -1;
+    if (field === "salary")     return ((a.salary_min || 0) - (b.salary_min || 0)) * dir;
+    if (field === "company")    return (a.company || "").localeCompare(b.company || "") * dir;
+    if (field === "date")       return (a.posted_at || "").localeCompare(b.posted_at || "") * dir;
     if (field === "first_seen") return (a.first_seen || "").localeCompare(b.first_seen || "") * dir;
     if (field === "deadline") {
       if (!a.deadline && !b.deadline) return 0;
@@ -1184,186 +1003,130 @@ function renderList() {
     return 0;
   });
 
-  const totalJobs = (data.jobs || []).length;
-  document.getElementById("result-info").textContent =
+  const total = (data.jobs || []).length;
+  $id("result-info").textContent =
     list.length === 0 ? "" :
-    `顯示 ${list.length} 筆` + (list.length !== totalJobs ? `（共 ${totalJobs} 筆）` : "");
+    `顯示 ${list.length} 筆` + (list.length !== total ? `（全站 ${total} 筆）` : "");
 
-  const container = document.getElementById("jobs");
+  const cont = $id("jobs");
   if (list.length === 0) {
     const hint = currentCat === "starred"
-      ? "還沒收藏任何職缺。點職缺右邊的 ☆ 就會收藏到這裡。"
-      : "試著放寬搜尋條件，或切換分類 / 地區 / 平台。";
-    container.innerHTML = `
+      ? "還沒收藏任何職缺。點卡片右邊的 ☆ 就會出現在這裡。"
+      : "試著放寬搜尋條件，或換個分類／地區。";
+    cont.innerHTML = `
       <div class="empty">
+        <span class="emoji">🔍</span>
         <h3>沒有符合條件的實習</h3>
-        <p>${escapeHtml(hint)}</p>
+        <p>${esc(hint)}</p>
       </div>`;
     return;
   }
 
-  container.innerHTML = list.map(j => {
-    const isNew = j.first_seen === TODAY;
-    const salaryClass = j.salary_type === "negotiable" ? "negotiable" : "";
+  cont.innerHTML = list.map(j => {
     const cm = catMeta(j.category || "other");
-    const deadlineBadge = deadlineBadgeHtml(j.deadline);
+    const isNew = j.first_seen === TODAY;
     const isStarred = starred.has(j.url);
+    const fsAgo = j.first_seen ? daysAgo(j.first_seen) : "";
+    const ac = avatarColor(j.company || j.title || "?");
     return `
-      <article class="job">
-        <div class="cat-rail" style="background:${cm.color}"></div>
+      <article class="job" style="border-left-color:${cm.color}">
+        <div class="job-avatar" style="background:${ac}" aria-hidden="true">${esc(avatarInitial(j.company))}</div>
         <div class="job-body">
-          <div class="job-title-row">
-            <h3 class="job-title"><a href="${escapeHtml(j.url)}" target="_blank" rel="noopener">${escapeHtml(j.title)}</a></h3>
-            ${isNew ? '<span class="new-badge">✨ NEW</span>' : ""}
-            ${deadlineBadge}
-          </div>
-          <div class="job-company">
-            <a class="company-link" data-company="${escapeHtml(j.company || "")}" title="只看這家公司的職缺">${escapeHtml(j.company || "—")}</a>
+          <div class="job-head">
+            <h3 class="job-title">
+              <a href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+              ${isNew ? `<span class="badge badge-new">✨ NEW</span>` : ""}
+              ${deadlineBadge(j.deadline)}
+            </h3>
+            <div class="job-salary ${j.salary_type === "negotiable" ? "neg" : ""}">${esc(j.salary || "—")}</div>
           </div>
           <div class="job-meta">
-            <span class="pill cat-badge" style="background:${hexToSoft(cm.color)};color:${cm.color}">${cm.emoji} ${escapeHtml(cm.label)}</span>
-            <span class="pill platform-${escapeHtml(j.platform)}">${escapeHtml(j.platform)}</span>
-            ${j.location ? `<span>📍 ${escapeHtml(j.location)}</span>` : ""}
+            <span>${esc(cm.emoji)} <span style="color:${cm.color}">${esc(cm.label)}</span></span>
+            <span class="meta-sep"></span>
+            <a class="company-link" data-company="${esc(j.company || "")}">${esc(j.company || "—")}</a>
+            ${j.location ? `<span class="meta-sep"></span><span>📍 ${esc(j.location)}</span>` : ""}
+            ${fsAgo ? `<span class="meta-sep"></span><span>✨ ${esc(fsAgo)}</span>` : ""}
+            <span class="meta-sep"></span>
+            <span class="meta-platform">${esc(j.platform)}</span>
           </div>
           ${(j.skills && j.skills.length) ? `
-          <div class="skills-row">
+          <div class="job-skills">
             ${j.skills.slice(0, 8).map(s =>
-              `<button class="skill-tag" data-skill="${escapeHtml(s)}" title="搜尋有 ${escapeHtml(s)} 的職缺">${escapeHtml(s)}</button>`
+              `<button class="skill-tag" data-skill="${esc(s)}">${esc(s)}</button>`
             ).join("")}
           </div>` : ""}
         </div>
-        <div class="job-right">
-          <button class="star-btn ${isStarred ? 'active' : ''}" data-url="${escapeHtml(j.url)}"
-                  aria-label="${isStarred ? '取消收藏' : '收藏'}" title="${isStarred ? '取消收藏' : '收藏'}">
-            ${isStarred ? '★' : '☆'}
-          </button>
-          <div class="job-salary ${salaryClass}">${escapeHtml(j.salary || "—")}</div>
-          <div class="job-date">${escapeHtml(j.posted_at || "")}</div>
-        </div>
+        <button class="star-btn ${isStarred ? 'on' : ''}" data-url="${esc(j.url)}"
+                aria-label="${isStarred ? '取消收藏' : '收藏'}" title="${isStarred ? '取消收藏' : '收藏'}">
+          ${isStarred ? "★" : "☆"}
+        </button>
       </article>`;
   }).join("");
 
-  // star click
-  container.querySelectorAll(".star-btn").forEach(btn => {
-    btn.onclick = (e) => { e.stopPropagation(); toggleStar(btn.dataset.url); };
-  });
-  // company click → 用公司名搜尋
-  container.querySelectorAll(".company-link").forEach(a => {
-    a.onclick = (e) => {
-      e.preventDefault();
-      const name = a.dataset.company || "";
-      if (!name) return;
-      document.getElementById("q").value = name;
-      writeUrlState();
-      render();
-    };
-  });
-  // skill tag click → 用 skill 搜尋
-  container.querySelectorAll(".skill-tag").forEach(btn => {
-    btn.onclick = (e) => {
-      e.stopPropagation();
-      document.getElementById("q").value = btn.dataset.skill || "";
-      writeUrlState();
-      render();
-    };
-  });
+  // interactions
+  cont.querySelectorAll(".star-btn").forEach(b =>
+    b.onclick = (e) => { e.stopPropagation(); toggleStar(b.dataset.url); });
+  cont.querySelectorAll(".company-link").forEach(a =>
+    a.onclick = () => { $id("q").value = a.dataset.company || ""; writeUrl(); render(); });
+  cont.querySelectorAll(".skill-tag").forEach(b =>
+    b.onclick = (e) => { e.stopPropagation(); $id("q").value = b.dataset.skill || ""; writeUrl(); render(); });
 }
 
-function escapeHtml(s) {
+function daysAgo(iso) {
+  if (!iso) return "";
+  const d = Math.round((new Date(TODAY) - new Date(iso)) / 86400000);
+  if (d <= 0) return "今天發現";
+  if (d === 1) return "昨天發現";
+  if (d <= 7) return `${d} 天前發現`;
+  if (d <= 30) return `${Math.round(d/7)} 週前發現`;
+  return `${Math.round(d/30)} 個月前發現`;
+}
+
+function esc(s) {
   return String(s ?? "").replace(/[&<>"']/g, ch =>
-    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[ch]));
-}
-
-function deadlineBadgeHtml(deadline) {
-  if (!deadline) return "";
-  const today = new Date(TODAY);
-  const d = new Date(deadline);
-  const diffDays = Math.round((d - today) / 86400000);
-  let cls = "deadline-badge";
-  let label;
-  if (diffDays < 0) {
-    cls += " expired";
-    label = `已截止 ${deadline.slice(5)}`;
-  } else if (diffDays === 0) {
-    cls += " urgent";
-    label = "⏰ 今天截止";
-  } else if (diffDays <= 7) {
-    cls += " urgent";
-    label = `⏰ ${diffDays} 天後截止`;
-  } else {
-    label = `⏰ ${deadline.slice(5)} 截止`;
-  }
-  return `<span class="${cls}">${escapeHtml(label)}</span>`;
+    ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" })[ch]);
 }
 
 function render() {
   renderStats();
-  renderMeta();
-  renderTabs();
+  renderCatBar();
   renderSaved();
   renderList();
 }
 
-// controls → sync URL + re-render
-["q", "salary-type", "min-salary", "sort"].forEach(id => {
-  document.getElementById(id).addEventListener("input", () => {
-    writeUrlState();
-    renderList();
-  });
+// ─────────────────────────────────────────────────────
+// Event wiring
+// ─────────────────────────────────────────────────────
+["q", "sort", "loc", "plat", "salary-type", "min-salary"].forEach(id => {
+  $id(id).addEventListener("input", () => { writeUrl(); render(); });
 });
 
-// ---- 鍵盤快捷鍵 ----
 document.addEventListener("keydown", (e) => {
-  // `/` — 搜尋框 focus
-  if (e.key === "/" && !e.target.matches("input, select, textarea")) {
-    e.preventDefault();
-    document.getElementById("q").focus();
+  if (e.target.matches("input, select, textarea")) {
+    if (e.key === "Escape" && e.target.id === "q") {
+      $id("q").value = ""; writeUrl(); render();
+    }
     return;
   }
-  // Esc — 搜尋框清空
-  if (e.key === "Escape" && document.activeElement === document.getElementById("q")) {
-    document.getElementById("q").value = "";
-    writeUrlState();
-    renderList();
-    return;
-  }
-  // 下列快捷鍵在 input / select / textarea 內不觸發
-  if (e.target.matches("input, select, textarea")) return;
   if (e.metaKey || e.ctrlKey || e.altKey) return;
-
-  // 1-9 → 切到第 N 個非零分類（按當前 data.categories 順序）
+  if (e.key === "/") { e.preventDefault(); $id("q").focus(); return; }
   if (/^[1-9]$/.test(e.key)) {
-    const visibleCats = (data.categories || []).filter(c => c.count > 0);
-    const idx = parseInt(e.key, 10) - 1;
-    if (visibleCats[idx]) {
-      currentCat = visibleCats[idx].key;
-      writeUrlState();
-      render();
-    }
+    const cats = (data.categories || []).filter(c => c.count > 0);
+    const idx = parseInt(e.key) - 1;
+    if (cats[idx]) { currentCat = cats[idx].key; writeUrl(); render(); }
     return;
   }
-  // 0 → 全部
-  if (e.key === "0") {
-    currentCat = "all";
-    writeUrlState();
-    render();
-    return;
-  }
-  // s — 切到收藏
-  if (e.key === "s" || e.key === "S") {
-    if (starred.size > 0) {
-      currentCat = "starred";
-      writeUrlState();
-      render();
-    }
-    return;
+  if (e.key === "0") { currentCat = "all"; writeUrl(); render(); return; }
+  if ((e.key === "s" || e.key === "S") && starred.size > 0) {
+    currentCat = "starred"; writeUrl(); render(); return;
   }
 });
 
-// ---- 啟動 ----
+// ─────────────────────────────────────────────────────
+// 啟動
+// ─────────────────────────────────────────────────────
 loadStarred();
 loadSaved();
-readUrlState();
 load();
 </script>
 </body>
