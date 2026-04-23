@@ -158,11 +158,11 @@
   }
   .toolbar-inner {
     display: grid;
-    grid-template-columns: minmax(200px, 2fr) repeat(5, minmax(110px, 1fr));
+    grid-template-columns: minmax(200px, 2fr) repeat(6, minmax(100px, 1fr));
     gap: 8px;
   }
-  @media (max-width: 960px) {
-    .toolbar-inner { grid-template-columns: 1fr 1fr 1fr; }
+  @media (max-width: 1040px) {
+    .toolbar-inner { grid-template-columns: repeat(3, 1fr); }
     .search-wrap { grid-column: 1 / -1; }
   }
   @media (max-width: 480px) {
@@ -654,6 +654,14 @@
       <option value="40000">月薪 40k+</option>
       <option value="50000">月薪 50k+</option>
     </select>
+    <select id="deadline-filter" title="截止日">
+      <option value="">截止日 不限</option>
+      <option value="7">⏰ 7 天內截止</option>
+      <option value="30">⏰ 30 天內截止</option>
+      <option value="has">⏰ 有設截止日</option>
+      <option value="none">無設截止日</option>
+      <option value="expired">已截止</option>
+    </select>
   </div>
 </div>
 
@@ -774,6 +782,7 @@ function readUrl() {
   $id("plat").value         = p.get("plat") || "all";
   $id("salary-type").value  = p.get("stype") || "";
   $id("min-salary").value   = p.get("min") || "0";
+  $id("deadline-filter").value = p.get("dl") || "";
   const s = p.get("sort") || "category";
   const sortEl = $id("sort");
   if ([...sortEl.options].some(o => o.value === s)) sortEl.value = s;
@@ -781,13 +790,14 @@ function readUrl() {
 function writeUrl() {
   const p = new URLSearchParams();
   const q = $id("q").value.trim();
-  if (currentCat !== "all")            p.set("cat", currentCat);
-  if ($id("loc").value !== "all")      p.set("loc", $id("loc").value);
-  if ($id("plat").value !== "all")     p.set("plat", $id("plat").value);
-  if ($id("salary-type").value)        p.set("stype", $id("salary-type").value);
-  if ($id("min-salary").value !== "0") p.set("min", $id("min-salary").value);
-  if ($id("sort").value !== "category")p.set("sort", $id("sort").value);
-  if (q)                               p.set("q", q);
+  if (currentCat !== "all")              p.set("cat", currentCat);
+  if ($id("loc").value !== "all")        p.set("loc", $id("loc").value);
+  if ($id("plat").value !== "all")       p.set("plat", $id("plat").value);
+  if ($id("salary-type").value)          p.set("stype", $id("salary-type").value);
+  if ($id("min-salary").value !== "0")   p.set("min", $id("min-salary").value);
+  if ($id("sort").value !== "category")  p.set("sort", $id("sort").value);
+  if ($id("deadline-filter").value)      p.set("dl", $id("deadline-filter").value);
+  if (q)                                 p.set("q", q);
   const qs = p.toString();
   history.replaceState(null, "", location.pathname + (qs ? "?" + qs : ""));
 }
@@ -917,7 +927,22 @@ function currentFilters() {
     stype: $id("salary-type").value,
     min: $id("min-salary").value,
     sort: $id("sort").value,
+    dl: $id("deadline-filter").value,
   };
+}
+function deadlineMatch(j, mode) {
+  if (!mode) return true;  // 不限
+  const dl = j.deadline;
+  if (mode === "none") return !dl;
+  if (!dl) return false;  // 以下模式都需要有 deadline
+  const today = new Date(TODAY);
+  const d = new Date(dl);
+  const diffDays = Math.round((d - today) / 86400000);
+  if (mode === "expired") return diffDays < 0;
+  if (mode === "has") return diffDays >= 0;      // 有設 + 未過期
+  const n = parseInt(mode);
+  if (!isNaN(n)) return diffDays >= 0 && diffDays <= n;
+  return true;
 }
 function matchFilters(j, f) {
   if (f.cat === "starred") { if (!starred.has(j.url)) return false; }
@@ -927,6 +952,7 @@ function matchFilters(j, f) {
   if (f.stype && j.salary_type !== f.stype) return false;
   const minS = parseInt(f.min) || 0;
   if (minS > 0 && (!j.salary_min || j.salary_min < minS)) return false;
+  if (!deadlineMatch(j, f.dl)) return false;
   if (f.q) {
     const hay = `${j.title} ${j.company} ${j.location}`.toLowerCase();
     if (!hay.includes(f.q.toLowerCase())) return false;
@@ -942,6 +968,10 @@ function summariseFilters(f) {
   if (f.q) parts.push(`"${f.q}"`);
   const m = parseInt(f.min) || 0; if (m > 0) parts.push(`${(m/1000)|0}k+`);
   if (f.stype) parts.push({monthly:"月薪",hourly:"時薪",negotiable:"面議"}[f.stype] || f.stype);
+  if (f.dl) {
+    const lbl = {"7":"7天內截止","30":"30天內截止","has":"有截止日","none":"無截止日","expired":"已截止"};
+    parts.push("⏰" + (lbl[f.dl] || f.dl));
+  }
   return parts.join(" · ") || "全部";
 }
 function renderSaved() {
@@ -978,6 +1008,7 @@ function renderSaved() {
       $id("q").value            = f.q || "";
       $id("salary-type").value  = f.stype || "";
       $id("min-salary").value   = f.min || "0";
+      $id("deadline-filter").value = f.dl || "";
       if ([...$id("sort").options].some(o => o.value === (f.sort || "category"))) {
         $id("sort").value = f.sort || "category";
       }
@@ -1104,6 +1135,11 @@ function renderList() {
     if (q) chips.push({ label: `"${q}"`, action: "q-reset" });
     if (stype) chips.push({ label: {monthly:"月薪",hourly:"時薪",negotiable:"面議"}[stype] || stype, action: "stype-reset" });
     if (minSal > 0) chips.push({ label: `月薪 ${(minSal/1000)|0}k+`, action: "min-reset" });
+    const dlVal = $id("deadline-filter").value;
+    if (dlVal) {
+      const dlLabels = { "7":"7 天內截止", "30":"30 天內截止", "has":"有設截止日", "none":"無設截止日", "expired":"已截止" };
+      chips.push({ label: "⏰ " + (dlLabels[dlVal] || dlVal), action: "dl-reset" });
+    }
 
     const hint = currentCat === "starred" && starred.size === 0
       ? "還沒收藏任何職缺。點卡片右邊的 ☆ 就會出現在這裡。"
@@ -1134,6 +1170,7 @@ function renderList() {
         if (act === "q-reset")     $id("q").value = "";
         if (act === "stype-reset") $id("salary-type").value = "";
         if (act === "min-reset")   $id("min-salary").value = "0";
+        if (act === "dl-reset")    $id("deadline-filter").value = "";
         if (act === "clear-all") {
           currentCat = "all";
           $id("loc").value = "all";
@@ -1141,6 +1178,7 @@ function renderList() {
           $id("q").value = "";
           $id("salary-type").value = "";
           $id("min-salary").value = "0";
+          $id("deadline-filter").value = "";
         }
         writeUrl();
         render();
@@ -1225,7 +1263,7 @@ function render() {
 // ─────────────────────────────────────────────────────
 // Event wiring
 // ─────────────────────────────────────────────────────
-["q", "sort", "loc", "plat", "salary-type", "min-salary"].forEach(id => {
+["q", "sort", "loc", "plat", "salary-type", "min-salary", "deadline-filter"].forEach(id => {
   $id(id).addEventListener("input", () => { writeUrl(); render(); });
 });
 
