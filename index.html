@@ -1324,6 +1324,7 @@ function renderList() {
   const sortBy = $id("sort").value;
   const loc = $id("loc").value;
   const plat = $id("plat").value;
+  const dl = $id("deadline-filter").value;
   const cats = data.categories || [];
   const catOrder = Object.fromEntries(cats.map((c, i) => [c.key, i]));
 
