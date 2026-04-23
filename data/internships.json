@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T07:25:03",
+  "generated_at": "2026-04-23T07:30:24",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 321,
-    "new_today": 13,
+    "total": 320,
+    "new_today": 1,
     "by_platform": {
-      "104": 241,
+      "104": 240,
       "CakeResume": 16,
       "Yourator": 64
     }
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 65
+      "count": 66
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 23
+      "count": 22
     },
     {
       "key": "bd_sales",
@@ -105,14 +105,14 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 22
+      "count": 21
     },
     {
       "key": "accounting",
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 4
+      "count": 5
     },
     {
       "key": "education",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 38
+      "count": 37
     },
     {
       "key": "legal",
@@ -187,7 +187,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -204,7 +205,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -221,7 +223,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -238,7 +241,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -255,7 +259,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -274,7 +279,8 @@
       "deadline": "",
       "skills": [
         "英文"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -291,7 +297,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -308,7 +315,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -325,7 +333,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "2026-05-06",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -342,7 +351,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -359,7 +369,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -376,7 +387,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -393,7 +405,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -414,7 +427,8 @@
         "Python",
         "Java",
         "Docker"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -431,7 +445,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -448,7 +463,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -465,7 +481,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -482,7 +501,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -499,7 +519,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -516,7 +537,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -533,7 +555,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -550,7 +573,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -567,7 +593,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -584,7 +611,13 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四",
+        "大五",
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -601,7 +634,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -618,7 +652,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -635,7 +670,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -652,7 +688,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -669,7 +706,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -686,7 +724,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -703,7 +742,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -720,7 +760,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -737,7 +778,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -754,7 +796,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -771,7 +814,12 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四",
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -788,7 +836,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -805,7 +854,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -822,7 +872,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -839,7 +890,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -856,7 +910,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -873,7 +928,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -890,7 +946,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -907,7 +964,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -926,7 +984,8 @@
       "deadline": "",
       "skills": [
         "Kubernetes"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -943,7 +1002,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -960,7 +1020,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -977,7 +1040,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -994,7 +1058,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1011,7 +1076,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1028,7 +1094,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -1045,7 +1114,13 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四",
+        "大五",
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -1062,7 +1137,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1079,7 +1155,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1096,7 +1173,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1113,7 +1191,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1130,7 +1209,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1147,7 +1227,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1164,7 +1245,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1181,7 +1263,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1198,7 +1281,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1215,7 +1299,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1232,7 +1317,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1249,7 +1335,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -1266,7 +1353,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -1283,7 +1371,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "博士"
+      ]
     },
     {
       "platform": "CakeResume",
@@ -1302,7 +1393,8 @@
       "deadline": "",
       "skills": [
         "React"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1319,7 +1411,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "應屆"
+      ]
     },
     {
       "platform": "Yourator",
@@ -1336,7 +1431,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1353,7 +1449,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1370,7 +1467,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1387,7 +1485,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -1404,7 +1503,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1421,7 +1521,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1438,7 +1539,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1455,7 +1557,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1472,7 +1575,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1489,7 +1593,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1506,7 +1611,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1523,7 +1629,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1540,7 +1647,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1557,7 +1665,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1574,7 +1683,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1591,7 +1701,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1608,7 +1719,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1625,7 +1737,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1642,7 +1755,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1659,7 +1773,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1676,7 +1791,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -1695,7 +1813,8 @@
       "deadline": "",
       "skills": [
         "英文"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1712,7 +1831,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1729,7 +1849,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1746,7 +1867,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1763,7 +1885,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1780,7 +1903,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1799,7 +1923,8 @@
       "deadline": "",
       "skills": [
         "英文"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1816,7 +1941,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1833,7 +1959,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1850,7 +1977,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1867,7 +1995,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1884,7 +2013,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1901,7 +2031,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1918,7 +2049,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1935,7 +2067,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1952,7 +2085,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1969,7 +2103,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1988,7 +2123,8 @@
       "deadline": "",
       "skills": [
         "英文"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -2005,7 +2141,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -2022,7 +2159,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -2039,7 +2177,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -2056,7 +2195,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2073,7 +2213,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2090,7 +2231,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2107,7 +2249,26 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【EMPOWER 逸啟飛】社群媒體經營實習生",
+      "company": "展逸國際企業股份有限公司",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-23",
+      "url": "https://www.104.com.tw/job/8dlfr",
+      "description": "、抗壓能力與面對挑戰的勇氣，這些影響將延續一生。也因此，我們致力打造一個真正具備影響力的運動教育品牌，讓更多孩子因運動而受益。\n現在，我們正在尋找一位熱愛運動、充滿熱情與行動力的實習生，加入我們這群持續創新、勇於發想的團隊。若你期待在快速成長的團隊",
+      "category": "marketing",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2124,7 +2285,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2141,7 +2303,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2158,7 +2321,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2175,7 +2339,11 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -2192,7 +2360,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2209,7 +2378,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2226,7 +2396,11 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -2243,7 +2417,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2260,7 +2435,11 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四",
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -2277,7 +2456,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2294,7 +2474,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2311,7 +2492,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2328,7 +2510,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2345,7 +2528,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2362,7 +2546,13 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四",
+        "大五",
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -2379,7 +2569,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2396,7 +2587,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2413,7 +2605,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2430,7 +2623,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2447,7 +2641,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2464,7 +2659,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -2481,7 +2679,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2498,7 +2697,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2517,7 +2717,8 @@
       "deadline": "",
       "skills": [
         "Illustrator"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2536,7 +2737,8 @@
       "deadline": "",
       "skills": [
         "英文"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2553,7 +2755,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2570,7 +2773,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2587,7 +2791,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2604,7 +2809,13 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大二",
+        "大四",
+        "大五",
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -2621,7 +2832,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2638,7 +2850,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2655,7 +2868,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2672,7 +2886,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2689,7 +2904,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2706,7 +2922,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2723,7 +2940,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -2740,7 +2960,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -2757,7 +2978,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -2774,7 +2996,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -2791,7 +3014,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -2808,7 +3032,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -2827,7 +3052,8 @@
       "deadline": "",
       "skills": [
         "SEO"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -2844,7 +3070,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -2861,7 +3088,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -2878,7 +3106,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -2895,7 +3124,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -2912,7 +3142,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2929,7 +3160,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2946,7 +3178,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2963,7 +3196,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2980,7 +3214,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2997,7 +3232,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3014,7 +3250,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3031,7 +3268,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3048,7 +3286,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3065,7 +3304,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3082,7 +3322,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3099,7 +3340,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3116,7 +3358,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3133,7 +3376,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3150,7 +3394,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3167,7 +3412,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3184,7 +3430,11 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四",
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -3201,7 +3451,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3218,7 +3469,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3235,7 +3487,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3252,24 +3505,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
-    },
-    {
-      "platform": "104",
-      "title": "實習美術編輯｜基礎學習×設計培訓 - 新北",
-      "company": "翰林出版事業股份有限公司",
-      "location": "新北市中和區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-23",
-      "url": "https://www.104.com.tw/job/8i63u",
-      "description": "-【工作項目】-\n   1. 學習教科書及相關配套之編排設計工作，如：編排設計、發圖、轉檔、修圖組圖等。\n   2. 送製與確認。\n   3. 其他例行性工作，如請款、備份等。\n   4. 主管交辦事項。\n\n-【此外，這個職務還有】-\n   1. 良好的工作氣氛，明亮的辦公空間\n   2. 重視新人培訓及內部分享\n   3. 不定期舉辦內、外部教育訓練\n   4. 健全的升遷制度\n   5. 免費",
-      "category": "content",
-      "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
-      "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -3286,7 +3523,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3303,7 +3541,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3320,7 +3559,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3337,7 +3577,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3354,7 +3595,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3371,7 +3613,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3388,7 +3631,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3405,7 +3649,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3422,7 +3667,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3439,7 +3685,26 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "《桃園》實習營業儲備幹部【歡迎在校生-實習/工讀】",
+      "company": "遠東百貨股份有限公司",
+      "location": "桃園市桃園區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-23",
+      "url": "https://www.104.com.tw/job/8fjrz",
+      "description": "協助百貨主管進行賣場經營管理工作，願接受公司培訓者：\n1. 協助營業樓面之營運管理及廠商活動聯繫\n2. 協助賣場樓面各項人、事、物執行管理\n3. 協助商品促銷活動規劃及執行\n4. 提供顧客諮詢服務\n5. 參與各項商品銷售分析",
+      "category": "bd_sales",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3458,24 +3723,8 @@
       "deadline": "",
       "skills": [
         "英文"
-      ]
-    },
-    {
-      "platform": "104",
-      "title": "《桃園》實習營業儲備幹部【歡迎在校生-實習/工讀】",
-      "company": "遠東百貨股份有限公司",
-      "location": "桃園市桃園區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-23",
-      "url": "https://www.104.com.tw/job/8fjrz",
-      "description": "協助百貨主管進行賣場經營管理工作，願接受公司培訓者：\n1. 協助營業樓面之營運管理及廠商活動聯繫\n2. 協助賣場樓面各項人、事、物執行管理\n3. 協助商品促銷活動規劃及執行\n4. 提供顧客諮詢服務\n5. 參與各項商品銷售分析",
-      "category": "bd_sales",
-      "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
-      "deadline": "",
-      "skills": []
+      ],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3492,7 +3741,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "應屆"
+      ]
     },
     {
       "platform": "104",
@@ -3509,7 +3761,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -3526,7 +3779,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -3543,7 +3797,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -3560,7 +3815,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -3577,7 +3833,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -3594,7 +3851,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3611,7 +3869,13 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四",
+        "大五",
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -3628,7 +3892,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3645,7 +3910,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -3662,7 +3928,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -3679,7 +3946,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -3696,7 +3964,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3713,7 +3982,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3730,7 +4000,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3747,7 +4018,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3764,7 +4036,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3781,7 +4054,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3798,7 +4072,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3815,7 +4090,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3832,7 +4108,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3849,7 +4126,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -3866,24 +4146,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
-    },
-    {
-      "platform": "104",
-      "title": "【2026實習】訓練系統管理及e課製作實習生_人資處(台北)",
-      "company": "台達電子工業股份有限公司 _DELTA ELECTRONICS INC.",
-      "location": "台北市內湖區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-23",
-      "url": "https://www.104.com.tw/job/8z9js",
-      "description": "2026台達實習招募熱烈進行中，歡迎你/妳與我們一起進步成長！\n\n◎工作內容：\n1. 協助e課製作 \n2. 協助訓練系統管理及全球同仁的需求即時處理與應對 \n3. 協助訓練管理報表與資料整理  \n4. 開課支援\n\n\n◎實習條件\n1年實習（2026",
-      "category": "hr",
-      "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
-      "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3900,7 +4164,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "不限"
+      ]
     },
     {
       "platform": "104",
@@ -3917,7 +4184,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3934,7 +4202,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3951,7 +4220,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3968,7 +4238,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -3985,7 +4256,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "不限"
+      ]
     },
     {
       "platform": "CakeResume",
@@ -4002,7 +4276,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -4019,7 +4294,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -4036,7 +4312,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4053,7 +4330,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4070,7 +4348,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4087,7 +4366,28 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
+    },
+    {
+      "platform": "104",
+      "title": "稽核人員Internal Audit",
+      "company": "美商安瑞科技股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-21",
+      "url": "https://www.104.com.tw/job/8zro8",
+      "description": "所實習/工作經驗\n★稽核經驗\n★★英語能力能溝通",
+      "category": "accounting",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-04-23",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -4104,7 +4404,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -4121,7 +4422,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4138,7 +4440,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4155,7 +4458,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4172,7 +4476,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4189,7 +4494,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -4206,7 +4512,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -4223,7 +4530,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -4240,7 +4548,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -4257,7 +4566,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -4274,7 +4584,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -4291,7 +4602,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -4308,7 +4620,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "2026-04-30",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4325,7 +4638,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4342,7 +4656,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4359,7 +4674,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4378,7 +4694,8 @@
       "deadline": "",
       "skills": [
         "Excel"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4395,7 +4712,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4412,7 +4730,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -4429,7 +4750,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4446,7 +4768,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4463,7 +4786,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4480,7 +4804,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4497,7 +4822,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4514,7 +4840,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4531,7 +4858,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4548,7 +4876,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4565,7 +4894,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4582,7 +4912,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4599,7 +4930,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4616,7 +4948,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4633,7 +4966,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4650,7 +4984,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4667,7 +5002,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -4684,7 +5022,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4701,7 +5040,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -4718,7 +5060,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "應屆"
+      ]
     },
     {
       "platform": "104",
@@ -4737,6 +5082,9 @@
       "deadline": "",
       "skills": [
         "日文"
+      ],
+      "eligibility": [
+        "不限"
       ]
     },
     {
@@ -4754,7 +5102,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4771,7 +5120,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4788,24 +5138,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
-    },
-    {
-      "platform": "104",
-      "title": "教育訓練專員/助理｜歡迎實習生/應屆畢業生｜台北 <82-84>",
-      "company": "程曦資訊整合股份有限公司",
-      "location": "台北市大同區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-22",
-      "url": "https://www.104.com.tw/job/90de4",
-      "description": "自己嘗試解決，卡關時主動提問\n    4.樂於溝通與合作：能與不同部門一起把事情做好\n    5.對學習與成長有興趣：喜歡讓事情更清楚、更有效率，並從中獲得成就\n    6.相關經驗(加分)：教育訓練、活動企劃、社團或實習經驗皆加分\n\n✅ 這份工作",
-      "category": "operations",
-      "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23",
-      "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -4822,7 +5156,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -4839,7 +5174,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4856,7 +5192,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4873,7 +5210,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4890,7 +5228,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4907,7 +5246,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4926,7 +5266,8 @@
       "deadline": "",
       "skills": [
         "英文"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4943,7 +5284,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4962,7 +5304,8 @@
       "deadline": "",
       "skills": [
         "英文"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4979,7 +5322,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4996,7 +5340,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5013,7 +5358,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5030,7 +5376,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -5050,7 +5399,8 @@
       "skills": [
         "Tableau",
         "Power BI"
-      ]
+      ],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5067,7 +5417,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5084,7 +5435,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5101,7 +5453,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5118,7 +5471,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5135,7 +5489,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5152,7 +5507,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5169,7 +5525,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5186,7 +5543,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5203,7 +5561,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5220,7 +5579,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -5237,7 +5597,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -5254,7 +5615,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5271,7 +5633,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5288,7 +5651,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5305,7 +5669,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5322,7 +5687,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5339,7 +5705,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大二"
+      ]
     },
     {
       "platform": "104",
@@ -5356,7 +5725,13 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四",
+        "大五",
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -5373,7 +5748,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大二"
+      ]
     },
     {
       "platform": "104",
@@ -5390,7 +5768,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5407,7 +5786,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5424,7 +5804,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -5441,7 +5824,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5458,7 +5842,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5475,7 +5860,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大二"
+      ]
     },
     {
       "platform": "104",
@@ -5492,7 +5880,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5509,7 +5898,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5526,7 +5916,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5543,7 +5934,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5560,7 +5952,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5577,7 +5970,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大二"
+      ]
     },
     {
       "platform": "104",
@@ -5594,7 +5990,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "不限"
+      ]
     },
     {
       "platform": "104",
@@ -5611,7 +6010,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -5628,7 +6028,10 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": [
+        "大二"
+      ]
     },
     {
       "platform": "104",
@@ -5645,7 +6048,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "CakeResume",
@@ -5662,7 +6066,8 @@
       "first_seen": "2026-04-23",
       "last_seen": "2026-04-23",
       "deadline": "",
-      "skills": []
+      "skills": [],
+      "eligibility": []
     }
   ]
 }
