@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-04-24T04:17:29+00:00</updated>
+  <updated>2026-04-24T07:51:02+00:00</updated>
   <entry>
     <title>【2026實習計畫-法國Air Liquide集團】企業溝通實習生(1年期 - 台北) · 液空台灣_亞東工業氣體股份有限公司</title>
     <id>https://www.104.com.tw/job/902qg</id>
@@ -15,20 +15,20 @@
     <summary>地點：台北市內湖區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>【2026 GPS Intern】自動化機械工程 學年實習生_台南 · GARMIN_台灣國際航電股份有限公司</title>
-    <id>https://www.104.com.tw/job/90l31</id>
-    <link href="https://www.104.com.tw/job/90l31" />
-    <updated>2026-04-24T00:00:00+08:00</updated>
-    <category term="engineering" />
-    <summary>地點：台南市新市區 · 平台：104</summary>
-  </entry>
-  <entry>
     <title>【120天實習轉正計畫】ERP系統客服 · 德安資訊股份有限公司</title>
     <id>https://www.104.com.tw/job/90kzr</id>
     <link href="https://www.104.com.tw/job/90kzr" />
     <updated>2026-04-24T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：台北市中山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>2026校園MA(實習生)計畫-企業永續發展實習生(履歷收件至5/21) - J2544 · 廣達電腦股份有限公司</title>
+    <id>https://www.104.com.tw/job/90v1a</id>
+    <link href="https://www.104.com.tw/job/90v1a" />
+    <updated>2026-04-24T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：桃園市龜山區 · 平台：104</summary>
   </entry>
   <entry>
     <title>2026校園MA(實習生)計畫-AI Server/雲端產品電源設計實習生(履歷收件至5/21) - J2535 · 廣達電腦股份有限公司</title>
@@ -87,6 +87,22 @@
     <summary>地點：桃園市龜山區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>2026校園MA(實習生)計畫-場域資安架構實習生(履歷收件至5/21) - J2542 · 廣達電腦股份有限公司</title>
+    <id>https://www.104.com.tw/job/90v0u</id>
+    <link href="https://www.104.com.tw/job/90v0u" />
+    <updated>2026-04-24T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：桃園市龜山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>2026校園MA(實習生)計畫-AI語言模型實習生(履歷收件至5/21) - J2539 · 廣達電腦股份有限公司</title>
+    <id>https://www.104.com.tw/job/90v00</id>
+    <link href="https://www.104.com.tw/job/90v00" />
+    <updated>2026-04-24T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：桃園市龜山區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>2026校園MA(實習生)計畫-AI/HPC 熱流研發實習生(履歷收件至5/21) - J2534 · 廣達電腦股份有限公司</title>
     <id>https://www.104.com.tw/job/90urx</id>
     <link href="https://www.104.com.tw/job/90urx" />
@@ -111,6 +127,30 @@
     <summary>地點：桃園市龜山區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>2026校園MA(實習生)計畫-資安工程實習生(履歷收件至5/21) - J2543 · 廣達電腦股份有限公司</title>
+    <id>https://www.104.com.tw/job/90v0z</id>
+    <link href="https://www.104.com.tw/job/90v0z" />
+    <updated>2026-04-24T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：桃園市龜山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>2026校園MA(實習生)計畫-UI Engine及元件開發實習生(履歷收件至5/21) - J2538 · 廣達電腦股份有限公司</title>
+    <id>https://www.104.com.tw/job/90uzv</id>
+    <link href="https://www.104.com.tw/job/90uzv" />
+    <updated>2026-04-24T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：桃園市龜山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>2026校園MA(實習生)計畫-AI Agent 開發流程實習生(履歷收件至5/21) - J2537 · 廣達電腦股份有限公司</title>
+    <id>https://www.104.com.tw/job/90uzp</id>
+    <link href="https://www.104.com.tw/job/90uzp" />
+    <updated>2026-04-24T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：桃園市龜山區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>2026校園MA(實習生)計畫-AI Agent 技術研究開發實習生(履歷收件至5/21) - J2536 · 廣達電腦股份有限公司</title>
     <id>https://www.104.com.tw/job/90usk</id>
     <link href="https://www.104.com.tw/job/90usk" />
@@ -127,6 +167,14 @@
     <summary>地點：桃園市龜山區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>【科技與轉型服務】數位轉型服務-雲端轉型長期實習生 · DELOITTE CONSULTING BUSINESSES_勤業眾信管理顧問股份有限公司</title>
+    <id>https://www.104.com.tw/job/8wab6</id>
+    <link href="https://www.104.com.tw/job/8wab6" />
+    <updated>2026-04-24T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市信義區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>【2026先鋒實習專案】軟體工程師(台北/台中) · 鼎新數智股份有限公司</title>
     <id>https://www.104.com.tw/job/8otc7</id>
     <link href="https://www.104.com.tw/job/8otc7" />
@@ -141,6 +189,14 @@
     <updated>2026-04-24T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：桃園市大園區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>CAE實習工讀生(宜蘭科學園區) · 鑫威資訊股份有限公司</title>
+    <id>https://www.104.com.tw/job/70abo</id>
+    <link href="https://www.104.com.tw/job/70abo" />
+    <updated>2026-04-24T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：宜蘭縣宜蘭市 · 平台：104</summary>
   </entry>
   <entry>
     <title>【2026先鋒實習】深度潛力實習生(台北/台中) · 鼎新數智股份有限公司</title>
@@ -189,61 +245,5 @@
     <updated>2026-04-24T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：台北市內湖區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【2026實習】LLM Engineering研發實習生_磁性元件事業部(中壢) · 台達電子工業股份有限公司 _DELTA ELECTRONICS INC.</title>
-    <id>https://www.104.com.tw/job/8zh7m</id>
-    <link href="https://www.104.com.tw/job/8zh7m" />
-    <updated>2026-04-24T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：桃園市中壢區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【2026實習】客服助理工程師_Data Center Platform Taiwan(南科) · 台達電子工業股份有限公司 _DELTA ELECTRONICS INC.</title>
-    <id>https://www.104.com.tw/job/8z1lg</id>
-    <link href="https://www.104.com.tw/job/8z1lg" />
-    <updated>2026-04-24T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台南市善化區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>AI engine測試實習生 · 玩美移動股份有限公司</title>
-    <id>https://www.104.com.tw/job/8e3g4</id>
-    <link href="https://www.104.com.tw/job/8e3g4" />
-    <updated>2026-04-24T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：新北市新店區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>總部-資訊實習生 · 正美企業股份有限公司</title>
-    <id>https://www.104.com.tw/job/8ztq4</id>
-    <link href="https://www.104.com.tw/job/8ztq4" />
-    <updated>2026-04-24T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台北市南港區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【2026實習計畫-法國Air Liquide集團】專案工程實習生(一年期 - 新竹竹北) · 液空台灣_亞東工業氣體股份有限公司</title>
-    <id>https://www.104.com.tw/job/903hs</id>
-    <link href="https://www.104.com.tw/job/903hs" />
-    <updated>2026-04-24T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：新竹縣竹北市 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>雲端售後AI工程師（可實習） · 台灣靈境雲計算科技有限公司</title>
-    <id>https://www.104.com.tw/job/909ah</id>
-    <link href="https://www.104.com.tw/job/909ah" />
-    <updated>2026-04-24T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台中市南區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>[2026實習計畫] 後端系統實習專區 · 創未來科技股份有限公司</title>
-    <id>https://www.104.com.tw/job/8z1zs</id>
-    <link href="https://www.104.com.tw/job/8z1zs" />
-    <updated>2026-04-24T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：新竹市 · 平台：104</summary>
   </entry>
 </feed>
