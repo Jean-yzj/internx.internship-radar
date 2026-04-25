@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-04-25T07:04:13+00:00</updated>
+  <updated>2026-04-25T12:43:38+00:00</updated>
   <entry>
     <title>實習生(研發替代役)_類比工程師 RDSS Intern, Analog IC Design Engineer · Marvell_邁威爾科技有限公司</title>
     <id>https://www.104.com.tw/job/8wipc</id>
@@ -143,6 +143,14 @@
     <summary>地點：台中市東區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>專案實習生/計時人員 · 台灣天絡股份有限公司</title>
+    <id>https://www.104.com.tw/job/8poai</id>
+    <link href="https://www.104.com.tw/job/8poai" />
+    <updated>2026-04-25T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市中正區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>假日兼職 門市人員/實習生/工讀生 · 邑方醫療器材企業社</title>
     <id>https://www.104.com.tw/job/86q4i</id>
     <link href="https://www.104.com.tw/job/86q4i" />
@@ -237,13 +245,5 @@
     <updated>2026-04-25T00:00:00+08:00</updated>
     <category term="marketing" />
     <summary>地點：新北市新莊區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>社群內容維護實習生_長期工讀｜歡迎二度就業 · 網讚策略有限公司</title>
-    <id>https://www.104.com.tw/job/8rp3m</id>
-    <link href="https://www.104.com.tw/job/8rp3m" />
-    <updated>2026-04-25T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：新北市板橋區 · 平台：104</summary>
   </entry>
 </feed>
