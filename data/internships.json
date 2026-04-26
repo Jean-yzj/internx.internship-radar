@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T04:23:02",
+  "generated_at": "2026-04-26T07:18:31",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 120,
-    "new_today": 35,
+    "total": 122,
+    "new_today": 6,
     "by_platform": {
-      "104": 38,
+      "104": 40,
       "CakeResume": 16,
       "Yourator": 66
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 25
+      "count": 24
     },
     {
       "key": "data",
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 28
+      "count": 31
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 4
+      "count": 5
     },
     {
       "key": "bd_sales",
@@ -105,14 +105,14 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 9
+      "count": 10
     },
     {
       "key": "accounting",
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 1
+      "count": 2
     },
     {
       "key": "education",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 16
+      "count": 15
     },
     {
       "key": "legal",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 10
+      "count": 8
     }
   ],
   "jobs": [
@@ -535,24 +535,6 @@
       "description": "務，包含定期保養，零件更換與軟韌體更新等。\n✔ 確保來到服務中心的客人可以得到有效的解決與對應辦法。\n✔ 工作環境、特種工具及機具設備維護。\n✔ Gogoro電動機車配件推薦及裝修。\n\n[ 薪資結構 ]\n✔ 帶薪培訓，實習工程師培訓階段月薪：$",
       "category": "tech",
       "first_seen": "2026-04-26",
-      "last_seen": "2026-04-26",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "《IS-10》(實習/約聘) IC測試助理工程師",
-      "company": "義隆電子股份有限公司",
-      "location": "新竹縣寶山鄉",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-20",
-      "url": "https://www.104.com.tw/job/8iaqr",
-      "description": "1.工程技術支援、測試板焊接製作\n2.IC 高低溫測試、應用方案及觸控應用測試\n3.工程實驗室維護、物料及儀器管理",
-      "category": "tech",
-      "first_seen": "2026-04-23",
       "last_seen": "2026-04-26",
       "deadline": "",
       "skills": [],
@@ -1215,6 +1197,42 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "【新創】網路行銷實習 ( Social Marketing Intern )",
+      "company": "butybox美妝體驗網_雲太資訊有限公司",
+      "location": "新北市新店區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-26",
+      "url": "https://www.104.com.tw/job/6pkof",
+      "description": "才，我們會根據你的專長設計適合妳的實習計畫! \nhttps://www.butybox.com/recruit.jsp\n\n實習內容 (視每個人的專長而定)\n\n• 社群口碑行銷：參與知名品牌網路行銷，規劃youtuber，部落客，IG，網路意見領袖⋯",
+      "category": "marketing",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-04-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "專案營運助理／專案營運實習生 (歡迎新鮮人／學生)｜KOL事業 (JIRA688)",
+      "company": "全曜財經資訊股份有限公司",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-26",
+      "url": "https://www.104.com.tw/job/8unio",
+      "description": "【團隊介紹｜合作夥伴事業群（作者事業）】\n在 CMoney 合作夥伴事業群中\n我們與超過 50 位投資創作者（KOL）與金融機構合作\n將專業知識轉化為實際可使用的產品，例如 App 與影音課程\n幫助用戶在投資決策上做出更好的選擇\n\n目前團隊的產品包含：\n【艾蜜莉定存股】、【權證小哥】、【林恩如】等創作者 App\n以及被多數金融機構採用的法人投資決策支援系統\n\n【工作內容】\n你將參與團隊日常營運與專",
+      "category": "marketing",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-04-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "CakeResume",
       "title": "MarketingIntern",
       "company": "伊斯酷軟體科技股份有限公司",
@@ -1301,6 +1319,24 @@
       "description": "Internship · ・ · Entry level · 【 實習 生】社群小編 數字廣告股份有限公司 關於數字廣告數字廣告成立於 2015 年，專注於房地產、汽車與居家設計等產業的數位行銷服務。我們以數據為核心，結合媒體策略與創新內容，提供客製化且可衡量成效的數位廣告解決方案，協助品牌持續放大行銷成果。【 實習 工作內容】\n1.社群內容與協助文案撰寫：協助社群平台內容規劃與執行，並提供建議；",
       "category": "marketing",
       "first_seen": "2026-04-25",
+      "last_seen": "2026-04-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "CakeResume",
+      "title": "社群行銷實習生",
+      "company": "SIC永續影響力股份有限公司",
+      "location": "",
+      "salary": "面議",
+      "salary_min": null,
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/sic/jobs/marketing-and-communications-intern",
+      "description": "Internship · ・ · Internship · 社群行銷 實習 生 SIC永續影響力股份有限公司 我們正在積極尋找一名充滿活力與創新思維的社群行銷 實習 生加入我們。該職位負責推動SIC天使投資人社群的Customer Success策略。\n社群行銷（70%）負責推動SIC天使投資人社群的學習及交流活動讓投資人理解SIC的SDGs投資理念並傳達相關訊息實務操作與管理社群平台，提高社群的",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-04-26",
       "deadline": "",
       "skills": [],
@@ -1400,6 +1436,24 @@
     },
     {
       "platform": "104",
+      "title": "金屬工程實習人員",
+      "company": "日常空間股份有限公司",
+      "location": "台東縣台東市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-26",
+      "url": "https://www.104.com.tw/job/8qeqw",
+      "description": "- 工作內容 -\n\n對建築及室內金屬工程/車庫轉向電動門/採光罩/門窗/樓梯扶手等...\n有興趣者\n\n\n- 條件 需求 -\n⌀ 協助金屬備料，組立，焊接等基礎加工\n⌀ 具備視圖的能力\n⌀ 無抽煙、喝酒、吃檳榔等習慣",
+      "category": "content",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-04-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "Inside Sales Intern 內勤業務實習生",
       "company": "微碧愛普科技有限公司",
       "location": "台中市西屯區",
@@ -1409,6 +1463,24 @@
       "posted_at": "2026-04-26",
       "url": "https://www.104.com.tw/job/8r9g4",
       "description": " 熟悉Google文書軟體應用\n2. 不排斥與人電話溝通\n3. 外向活潑，喜歡與人互動\n4. 具備團隊合作意識與跨部門溝通協調能力\n5. 上班期間 : 每週至少三天（16-20hrs），可彈性排班(9:00-18:00)，實習期間為三個月。\n\n【加分",
+      "category": "bd_sales",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-04-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "跨境電商物流  人氣業務人員(兼職) 101商城 活潑熱情實習生Intern",
+      "company": "101跨境集運_佑一企業有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-26",
+      "url": "https://www.104.com.tw/job/6typ6",
+      "description": "101跨境集運 全球21個海外倉庫\n\n公司專營跨境物流，主攻兩岸集運,小三通,東南亞電商物流,美歐日FBA\n\n工作內容：開發有跨境物流需求的客人，尋找需要代購的客人，做好客戶資料管理&維護關係。\n\n自己和朋友常喜歡海外網購代購嗎，想把東西海外的電商平台，卻不知怎麼寄到其他國家嗎，讓自己變成他們的小幫手吧！ 讓生活 多一份收入 多一份溫度！\n歡迎有業務熱情 和 副業斜杠兼職 ，有跨境物流 國際運輸 ",
       "category": "bd_sales",
       "first_seen": "2026-04-26",
       "last_seen": "2026-04-26",
@@ -1447,24 +1519,6 @@
       "description": "Internship · ・ · Internship · Sales Intern 伊斯酷軟體科技股份有限公司 Job Overview:\nWe are looking for a motivated and dynamic Sales Intern to assist in lead generation through cold calling and cold email campaign",
       "category": "bd_sales",
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-26",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "CakeResume",
-      "title": "Sales Development Representative Intern 商機拓展部門實習生",
-      "company": "inline 樂排股份有限公司",
-      "location": "",
-      "salary": "面議",
-      "salary_min": null,
-      "salary_type": "negotiable",
-      "posted_at": "",
-      "url": "https://www.cake.me/companies/inline/jobs/business-operation-internship-347",
-      "description": "Internship · ・ · Internship · Sales Development Representative Intern 商機拓展部門 實習 生 inline 樂排股份有限公司 inline is a fast-growing restaurant tech startup that helps restaurants streamline reservations and ta",
-      "category": "bd_sales",
-      "first_seen": "2026-04-26",
       "last_seen": "2026-04-26",
       "deadline": "",
       "skills": [],
@@ -1573,6 +1627,24 @@
       "description": "電商 / 新創 / startup",
       "category": "hr",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-04-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "人資實習生/工讀生 H53",
+      "company": "永慶房產集團_永慶房屋仲介股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-26",
+      "url": "https://www.104.com.tw/job/7bctf",
+      "description": "1. 人事行政事務協助\n2. 新進報到流程協助\n3. 新進人事資料催收/整理/檢核/Key in/掃描及歸檔\n4. 員工關係活動協助",
+      "category": "hr",
+      "first_seen": "2026-04-26",
       "last_seen": "2026-04-26",
       "deadline": "",
       "skills": [],
@@ -1699,6 +1771,24 @@
       "description": "電商 / 跨國團隊",
       "category": "accounting",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-04-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "會計實習生",
+      "company": "眾勤聯合會計師事務所",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-26",
+      "url": "https://www.104.com.tw/job/7bppu",
+      "description": "1.  協助會計師事務所會計服務事務\r\n2. 協助一般文書資料處理。\r\n3. 協助處理庶務性行政工作（如：事務機器叫修維護、文具用品採買）。\r\n4. 協助外出送件及物件寄送。\r\n5. 協助接待訪客、準備會議室及茶水。\r\n6. 協助訂購餐點。\r\n7. 協助辦公室環境與設備之清潔與維護。\r\n",
+      "category": "accounting",
+      "first_seen": "2026-04-26",
       "last_seen": "2026-04-26",
       "deadline": "",
       "skills": [],
@@ -1967,24 +2057,6 @@
       "posted_at": "2026-04-26",
       "url": "https://www.104.com.tw/job/8yxyn",
       "description": "【工作內容】\n1.基礎寵物美容\n*會有美容師教學，培養到可以修剪毛髮*\n2.客戶接待美容相關問題處理\n3.剪輯發文寵物美容影片照片等\n4.協助門市銷售\n5.維持門市環境清潔\n6. 宅配商品包裝（協助網路理貨出貨 ）\n7.庫存管理\n8.完成主管交派事宜\n\n*有寵物來美容的時候，就是專注把寵物美容工作完成，但沒有寵物美容時，就需要協助店內相關事宜*\n\n【必要條件】\n對待客人需有耐心熱心積極，待客人如朋",
-      "category": "operations",
-      "first_seen": "2026-04-26",
-      "last_seen": "2026-04-26",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "【CMS0101I】MS 客戶成功實習生",
-      "company": "SHOPLINE Technology Corp., Ltd._商線科技股份有限公司",
-      "location": "台北市松山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-21",
-      "url": "https://www.104.com.tw/job/6quw1",
-      "description": "，做出有效的彙整及表達\n- 文字表達：良好的中打能力，能快速有效率的將資訊整理成流暢的文字以即時訊息對話\n- 積極主動：積極參與團隊討論、主動提出問題，保持彈性能不斷學習、吸收新知，面對不同挑戰\n- 一個禮拜至少能進公司三個整天\n- 實習期間至少半",
       "category": "operations",
       "first_seen": "2026-04-26",
       "last_seen": "2026-04-26",
@@ -2283,42 +2355,6 @@
       "eligibility": [
         "不限"
       ]
-    },
-    {
-      "platform": "104",
-      "title": "烤漆修護實習生(北投)",
-      "company": "北特聯合股份有限公司",
-      "location": "台北市北投區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-26",
-      "url": "https://www.104.com.tw/job/8oudm",
-      "description": "1.車輛塗裝作業。 \r\n2.車輛補土、漆面修飾等整修作業。 \r\n3.其他主管交辦事項。 \r\n",
-      "category": "other",
-      "first_seen": "2026-04-26",
-      "last_seen": "2026-04-26",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "C在校生實習生 (飼育員)(台中海洋館)",
-      "company": "南仁湖育樂股份有限公司",
-      "location": "台中市清水區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-04-26",
-      "url": "https://www.104.com.tw/job/8tyyu",
-      "description": "1.學習展缸維護與水質管理，培養環境控管能力\n2.學習魚類與無脊椎動物的日常飼養與餌料準備\n3.協助撰寫與設計展缸解說牌資料，增進科普知識表達\n4.支援飼育團隊日常巡檢與工作，理解館內生物管理流程\n",
-      "category": "other",
-      "first_seen": "2026-04-26",
-      "last_seen": "2026-04-26",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
     },
     {
       "platform": "CakeResume",
