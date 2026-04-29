@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29T08:03:41",
+  "last_updated": "2026-04-29T13:27:04",
   "urls": {
     "https://www.104.com.tw/job/6e6pv": {
       "first_seen": "2026-04-23",
@@ -35,7 +35,7 @@
     },
     "https://www.104.com.tw/job/8iaqr": {
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-27"
+      "last_seen": "2026-04-29"
     },
     "https://www.104.com.tw/job/8ox1g": {
       "first_seen": "2026-04-23",
@@ -63,7 +63,7 @@
     },
     "https://www.104.com.tw/job/8iacq": {
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-24"
+      "last_seen": "2026-04-29"
     },
     "https://www.104.com.tw/job/7z1o3": {
       "first_seen": "2026-04-23",
@@ -219,7 +219,7 @@
     },
     "https://www.104.com.tw/job/90gey": {
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-22"
+      "last_seen": "2026-04-29"
     },
     "https://www.104.com.tw/job/6o0as": {
       "first_seen": "2026-04-23",
@@ -1751,7 +1751,7 @@
     },
     "https://www.104.com.tw/job/76g0t": {
       "first_seen": "2026-04-23",
-      "last_seen": "2026-04-23"
+      "last_seen": "2026-04-29"
     },
     "https://www.104.com.tw/job/7zzpt": {
       "first_seen": "2026-04-23",
@@ -7326,6 +7326,106 @@
       "last_seen": "2026-04-29"
     },
     "https://www.yourator.co/companies/bigdatamobile/jobs/47330": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/9126i": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/73juk": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/91286": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/9127z": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/91270": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/9127n": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/9125r": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/6y9wb": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/8oo7r": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/911zj": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/9128q": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/7zqd9": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/7n2x9": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/910t2": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/6z5s6": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/8yswp": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/3iwdr": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/7xl07": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/6zl4s": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/8462b": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/7s2w2": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/91209": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/9127w": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/814zp": {
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-04-29"
+    },
+    "https://www.104.com.tw/job/8uqki": {
       "first_seen": "2026-04-29",
       "last_seen": "2026-04-29"
     }
