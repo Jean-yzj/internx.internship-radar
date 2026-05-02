@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T04:18:22",
+  "generated_at": "2026-05-02T07:21:34",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,12 +7,12 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 178,
-    "new_today": 11,
+    "total": 190,
+    "new_today": 6,
     "by_platform": {
-      "104": 61,
+      "104": 70,
       "CakeResume": 16,
-      "Yourator": 101
+      "Yourator": 104
     }
   },
   "categories": [
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 43
+      "count": 46
     },
     {
       "key": "data",
@@ -77,21 +77,21 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 39
+      "count": 38
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 10
+      "count": 13
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 7
+      "count": 8
     },
     {
       "key": "design",
@@ -105,7 +105,7 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 8
+      "count": 9
     },
     {
       "key": "accounting",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 15
+      "count": 18
     },
     {
       "key": "legal",
@@ -140,7 +140,7 @@
       "label": "生產／製造",
       "emoji": "🏭",
       "color": "#ea580c",
-      "count": 2
+      "count": 1
     },
     {
       "key": "supply_chain",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 16
+      "count": 19
     }
   ],
   "jobs": [
@@ -630,6 +630,24 @@
     },
     {
       "platform": "104",
+      "title": "【Intern】實習生專區_iPEBG 自動化工程師-桃園廠",
+      "company": "鴻海精密工業股份有限公司",
+      "location": "桃園市大園區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-02",
+      "url": "https://www.104.com.tw/job/90m3j",
+      "description": "【Internship Timeline】\n學年 \n\n【Qualification】\n電機、機械、自動化、航太、車輛、冷凍等\n\n【Assignment】\n自動化機構開發\n1.\t協助自動化設備機構設計與繪圖 (2D/3D)\n2.\t參與設備組裝、測試",
+      "category": "tech",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "學習型 人工智能 AI 數位產業實習生",
       "company": "邑方醫療器材企業社",
       "location": "台中市東區",
@@ -644,6 +662,26 @@
       "last_seen": "2026-05-02",
       "deadline": "",
       "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【實習】前瞻技術實習生 (AI)",
+      "company": "邑流微測股份有限公司",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-02",
+      "url": "https://www.104.com.tw/job/8c0j7",
+      "description": "1. AI 標記與分類輔助\n2. Python 程式設計與資料處理\n3. AI 模型訓練流程支援\n4. 影像分類任務（YoloV8 Classification）\n5. 影像區塊分割任務（Yolo11 Segmentation）\n6. 影像目標偵測任務\n7.主管交辦事項",
+      "category": "tech",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [
+        "Python"
+      ],
       "eligibility": []
     },
     {
@@ -803,6 +841,24 @@
       "description": "1.安排工程(機電)進度，掌握施工狀況與施工品質\n2.監控工程(機電)規劃與執行，是否遵守安全法規\n3.繪製建築內部空調工程藍圖，精選施工材料\n4.指導監督各施工人員依空調工程藍圖施工\n5.機電工程管理等相關事務\n*公司另設有駐外津貼、住宿及交通津貼、全勤津貼等福利",
       "category": "tech",
       "first_seen": "2026-04-25",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "前端行政實習工讀生",
+      "company": "新鉅峰國際科技有限公司",
+      "location": "台南市永康區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-02",
+      "url": "https://www.104.com.tw/job/81vnk",
+      "description": "實習工讀生",
+      "category": "tech",
+      "first_seen": "2026-05-02",
       "last_seen": "2026-05-02",
       "deadline": "",
       "skills": [],
@@ -1949,24 +2005,6 @@
       "eligibility": []
     },
     {
-      "platform": "104",
-      "title": "網路行銷企劃人員/小編/專員/業務/助理/營運專員/儲備幹部/美編/工讀/學生實習/業務人員/行銷高手",
-      "company": "邑方醫療器材企業社",
-      "location": "台中市東區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-05-02",
-      "url": "https://www.104.com.tw/job/86pgb",
-      "description": "1. 官方網站行銷專案的企劃、執行與維護。 \n2. 網站商品與價目更新。 \n3. 網站首頁海報美編。 \n4. 社群行銷企劃與執行，如：FB、line@、IG。 \n5. 進行網路行銷及服務的成效追蹤。 \n6.產品上架,包貨,出貨, 產品倉儲管理\n7.其他主管交辦事項\n\n作為網站行銷企劃，您將負責公司在線上市場的推廣和營銷活動。這個職位在當今數字時代的商業環境中，尤其重要，因為大多數企業依賴於網路來吸",
-      "category": "marketing",
-      "first_seen": "2026-05-02",
-      "last_seen": "2026-05-02",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
       "platform": "CakeResume",
       "title": "MarketingIntern",
       "company": "伊斯酷軟體科技股份有限公司",
@@ -2150,6 +2188,24 @@
     },
     {
       "platform": "104",
+      "title": "兼職維修實習生",
+      "company": "新鉅峰國際科技有限公司",
+      "location": "台南市永康區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-02",
+      "url": "https://www.104.com.tw/job/8frlf",
+      "description": "1.分析產品功能異常狀況，並建立資料庫。\n2.負責維修報表之建檔與管理。\n3.提供顧客產品維修的內容。\n4.負責公司產品相關檢驗測試工作。\n5.負責公司產品維修工作。\n6.負責維修器具、零件的管理、保養與維護。\n7.負責異常狀況之追蹤處理。\n\n作為產品維修人員，您將有機會為客戶提供高質量的維修服務，並建立與維護客戶關係。這是一個具有挑戰性和發展前景的職位，您將成為我們團隊中不可或缺的一員。\n如果您",
+      "category": "content",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "很牛炭燒牛排向上店【計時人員】時薪200元起(兼職可/學校實習)",
       "company": "很牛開發股份有限公司",
       "location": "台中市南屯區",
@@ -2161,6 +2217,44 @@
       "description": "【工作內容】\n• 負責為顧客帶位，介紹菜單，並給予餐點上的建議\n• 將餐點送至客桌，巡桌關心客人用餐情況、收拾空盤\n• 於顧客用餐完畢後，負責收拾碗盤與清理環境\n• 顧客用餐後的碗盤清洗\n• 協助收銀之工作\n\n【工作時段】\n• 晚班 18:00～22:00 /假日 11:00-14:30、17:00-22:00 兩段制\n• 本職缺為長期兼職，平日晚班、假日(國定連假)全天排班\n• 平日若有部分天數",
       "category": "content",
       "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "(兼職)【彈性排班】招生助教(工讀生-實習生可)",
+      "company": "臺北市私立高偉文理短期補習班",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-02",
+      "url": "https://www.104.com.tw/job/8qulx",
+      "description": "【平日／假日 彈性排班】招生助教｜高偉數學誠徵實習夥伴！\n-->歡迎大學、碩士班同學 or 想進入補教業的你！\n想累積補教業經驗、提升溝通與業務行政能力嗎？\n加入高偉數學，踏出實習第一步！\n\n【工作內容】\n1.電訪／招生行政\n協助招生電訪、學生關",
+      "category": "content",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "研究所"
+      ]
+    },
+    {
+      "platform": "104",
+      "title": "圍棋助教實習工讀（黑嘉嘉圍棋新北汐止分校）",
+      "company": "長清兒童棋院忠孝院_長清忠孝有限公司",
+      "location": "新北市汐止區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-02",
+      "url": "https://www.104.com.tw/job/7v50j",
+      "description": "工作內容：\n1. 兒童圍棋課程助教\n2. 協助孩子下棋練習相關事務，包含點名、記錄戰績或改作業等\n3. 教室與環境恢復\n\n工作時間：\n1. 彈性工時排班制，可協調排班\n2. 學期中週六、寒暑假週一至週六半天或整天(可排其中幾日)\n\n適合條件：\n1. 喜歡小孩\n2. 樂觀正向、積極負責、樂愛學習\n3. 偏好與人互動\n4. 具備圍棋棋力佳\n5. 無教學經驗可",
+      "category": "content",
+      "first_seen": "2026-04-25",
       "last_seen": "2026-05-02",
       "deadline": "",
       "skills": [],
@@ -2233,6 +2327,24 @@
       "description": "★非在學學生請勿投遞，此實習機會僅提供實習時數。\n\n★可配合學校實習生計畫，請於自傳最後說明實習時數及期程。 \n\n【實習內容】：\n★藉由參與實務工作，學習相關產業領域專業技能，未來就業可順利接軌，充實就業即戰力。\n★在職期間將規劃各類專業課程，同",
       "category": "content",
       "first_seen": "2026-04-25",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "Yourator",
+      "title": "業務實習生 Sales Assistant (Intern)＿台北",
+      "company": "昕力資訊股份有限公司 TPIsoftware",
+      "location": "臺北市",
+      "salary": "NT$ 200 -  (時薪)",
+      "salary_min": 35200,
+      "salary_type": "hourly",
+      "posted_at": "",
+      "url": "https://www.yourator.co/companies/tpisoftware/jobs/47340",
+      "description": "",
+      "category": "bd_sales",
+      "first_seen": "2026-05-02",
       "last_seen": "2026-05-02",
       "deadline": "",
       "skills": [],
@@ -2527,6 +2639,24 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "【萬海航運】2026暑期實習生",
+      "company": "萬海航運股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-27",
+      "url": "https://www.104.com.tw/job/90d6m",
+      "description": "【萬海航運 2026 暑期實習計畫｜熱烈招募中】\n想提早接軌國際航運產業，探索全球物流運作的實務樣貌嗎？想應用所學累積實務經驗，為職涯加值嗎？現在就是最佳時機！\n\n萬海航運暑期實習計畫提供完整的學習歷程，包含 #專業培訓課程 #碼頭參訪 #專案參",
+      "category": "hr",
+      "first_seen": "2026-04-27",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "CakeResume",
       "title": "CorporateConnections™ Taiwan 活動策劃 -實習生",
       "company": "CorporateConnections™ Taiwan 大商匯集有限公司",
@@ -2747,6 +2877,42 @@
     },
     {
       "platform": "Yourator",
+      "title": "專案管理實習生 Project Management Intern＿台北",
+      "company": "昕力資訊股份有限公司 TPIsoftware",
+      "location": "臺北市",
+      "salary": "NT$ 200 - 200 (時薪)",
+      "salary_min": 35200,
+      "salary_type": "hourly",
+      "posted_at": "",
+      "url": "https://www.yourator.co/companies/tpisoftware/jobs/47342",
+      "description": "",
+      "category": "operations",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "Yourator",
+      "title": "經營管理實習生_Business Operation Intern_台北",
+      "company": "昕力資訊股份有限公司 TPIsoftware",
+      "location": "臺北市",
+      "salary": "NT$ 200 -  (時薪)",
+      "salary_min": 35200,
+      "salary_type": "hourly",
+      "posted_at": "",
+      "url": "https://www.yourator.co/companies/tpisoftware/jobs/47341",
+      "description": "",
+      "category": "operations",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "Yourator",
       "title": "【Taipei】Amazon Project Assistant Intern - Part time (one-year)",
       "company": "Hour Loop 飛輪電商",
       "location": "臺北市",
@@ -2890,6 +3056,26 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "資訊助理-學生實習可",
+      "company": "臺北市私立高偉文理短期補習班",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-02",
+      "url": "https://www.104.com.tw/job/7c3kc",
+      "description": "主要工作內容：\n\n1. 協助本班資訊工作推動\n2. 協助本班電腦硬體維護\n3. 會撰寫 python .net c# 懂網頁設計邏輯\n4. 其它交辦工作\n\n\n〝本班工作環境好、氣氛佳〞\n只要您有心，大家都很歡迎您加入哦！\n※上班時間，周一至周五為1730~2300，例假日分早晚班。\n\n跟我們一起工作，\n學生跟家長的回饋會讓您每天都充滿能量。\n\n\n\n",
+      "category": "operations",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [
+        "Python"
+      ],
+      "eligibility": []
+    },
+    {
       "platform": "CakeResume",
       "title": "【亞馬遜Amazon】電商實習生 (兼職、轉正機會) Amazon Project AssistantIntern（Part-time）",
       "company": "Hour Loop 飛輪電商",
@@ -3030,24 +3216,6 @@
       "posted_at": "2026-05-02",
       "url": "https://www.104.com.tw/job/90vwe",
       "description": "Introduction\nThis one-year on-site internship offers hands-on exposure to Lean deployment in ASML’s factory environment. ",
-      "category": "manufacturing",
-      "first_seen": "2026-04-25",
-      "last_seen": "2026-05-02",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "學習型的實習生(生產製造, 品管類)",
-      "company": "邑方醫療器材企業社",
-      "location": "台中市東區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-05-02",
-      "url": "https://www.104.com.tw/job/8aifm",
-      "description": "★非在學學生請勿投遞，此實習機會僅提供實習時數。\n\n★可配合學校實習生計畫，請說明實習時數及期程。 \n\n【實習內容】：\n★藉由參與實務工作，學習相關產業領域專業技能，未來就業可順利接軌，充實就業即戰力。\n★在職期間將規劃各類專業課程，同步提升職場",
       "category": "manufacturing",
       "first_seen": "2026-04-25",
       "last_seen": "2026-05-02",
@@ -3309,6 +3477,24 @@
     },
     {
       "platform": "104",
+      "title": "【雪物嚴選】日本租賃店實習生",
+      "company": "iSKI滑雪俱樂部_愛滑雪股份有限公司",
+      "location": "日本",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-02",
+      "url": "https://www.104.com.tw/job/8y830",
+      "description": "你的人生不只是工作，更是滑雪人生。 想在越後湯澤的粉雪中工作嗎？\n我們正在尋找願意挑戰自我、熱愛滑雪文化的夥伴，加入 iSKI Select 雪物嚴選的日本實習專案！ \n\n▍關於實習專案\n\n工作地點： 日本新潟縣越後湯澤 \n\n\n薪資待遇： 時薪",
+      "category": "other",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "中英文翻譯實習（暑假/學期中）",
       "company": "立言翻譯社_立言翻譯有限公司",
       "location": "台北市松山區",
@@ -3329,6 +3515,24 @@
     },
     {
       "platform": "104",
+      "title": "實習/工讀生 (台中店）",
+      "company": "西敏藝術設計股份有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-02",
+      "url": "https://www.104.com.tw/job/8uxck",
+      "description": "1.團隊精神，個性擅溝通、表達能力佳、積極熱情、樂於學習且個性主動。 \n2.服裝相關科系或有同業之相關工作經驗者尤佳。 \n3.協助處理庶務性工作及庫存管理。\n4.完成主管交辦事項。 \n5.協助門巿人員處理相關事宜。 \n6.提供顧客之接待與需求服務。\n7.針對客戶不同的場合與需求建議挑選搭配的禮服與後續服務。 \n",
+      "category": "other",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "美髮實習生",
       "company": "EGroom_貫華髮藝",
       "location": "台北市中山區",
@@ -3338,6 +3542,24 @@
       "posted_at": "2026-05-02",
       "url": "https://www.104.com.tw/job/903tc",
       "description": "1.確認預約客人 \n2.接待客人，倒茶水、送雜誌 \n3.準備美髮師所要用的器具 \n4.替客人洗髮\n5.整理環境以及器具的清理維護 \n\n歡迎 \n所有求職者",
+      "category": "other",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-05-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "美編實習生",
+      "company": "D+AF_晨希時尚股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-02",
+      "url": "https://www.104.com.tw/job/8yl9r",
+      "description": "工作日期：自錄取後可立即開始，期待長期合作\n排班方式：週一至週五彈性排班（08:00–19:00 時段內每週至少進公司 3 天）\n\n主要工作協助設計美編部門：\n1.商品修圖、美化、裁切、校正圖片顏色等\n2.圖片編修後製及上架進度安排\n3.官網商品頁維護或協助產品拍攝",
       "category": "other",
       "first_seen": "2026-04-25",
       "last_seen": "2026-05-02",
