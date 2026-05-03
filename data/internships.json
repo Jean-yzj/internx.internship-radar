@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T04:40:50",
+  "generated_at": "2026-05-03T07:50:09",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 169,
-    "new_today": 17,
+    "total": 177,
+    "new_today": 2,
     "by_platform": {
-      "104": 48,
+      "104": 56,
       "CakeResume": 17,
       "Yourator": 104
     }
@@ -70,28 +70,28 @@
       "label": "管顧／策略",
       "emoji": "🧭",
       "color": "#ec4899",
-      "count": 4
+      "count": 5
     },
     {
       "key": "marketing",
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 38
+      "count": 41
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 8
+      "count": 9
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 7
+      "count": 8
     },
     {
       "key": "design",
@@ -105,7 +105,7 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 8
+      "count": 9
     },
     {
       "key": "accounting",
@@ -133,7 +133,7 @@
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 2
+      "count": 3
     },
     {
       "key": "manufacturing",
@@ -688,17 +688,17 @@
     },
     {
       "platform": "104",
-      "title": "《IS-05》(實習/約聘)工程測試助理工程師(台南)",
-      "company": "義隆電子股份有限公司",
-      "location": "台南市歸仁區",
+      "title": "[建築與景觀設計實習生]—在設計的起點，與我們一起「迷路」與「發現」",
+      "company": "錦企研_金帛資產整合行銷有限公司",
+      "location": "台北市大安區",
       "salary": "",
       "salary_min": null,
       "salary_type": "unknown",
-      "posted_at": "2026-04-27",
-      "url": "https://www.104.com.tw/job/8mktq",
-      "description": "專案產品功能測試驗證",
+      "posted_at": "2026-05-03",
+      "url": "https://www.104.com.tw/job/8qsvp",
+      "description": "意與跨領域夥伴溝通，具責任感與學習熱忱\n\n實習期間：學期／寒暑假／可議\n內容：繪製設計圖、建照圖、施工圖及3D建模（AutoCAD、SketchUp）\n\n*本職缺為實習生職位，詳細薪資給付方式將於面試雙方確認後確定\n\n具備基礎繪圖軟體操作能力(",
       "category": "tech",
-      "first_seen": "2026-04-27",
+      "first_seen": "2026-05-03",
       "last_seen": "2026-05-03",
       "deadline": "",
       "skills": [],
@@ -1135,6 +1135,24 @@
       "description": "1. 顧客接待、帶位、置桌、收桌及外場清潔作業。\n2. 有親和力，具有服務熱誠、肯學習之態度。\n3. 對餐飲服務業負有興趣與熱誠。\n4. 個性外向喜歡與人接觸。\n5. 臨場反應佳喜歡有挑戰的工作\n6. 其他主管交辦事項。\n7.在主管人員指導之下，依據既定政策，從事各項業務之設計，（如：物料管理、成本控制、人員調動）。\n8.協助高階主管規劃生產、行銷計畫制度和中長期策略規畫及年度營運方針落實，以提昇",
       "category": "consulting",
       "first_seen": "2026-04-24",
+      "last_seen": "2026-05-03",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "數位長期實習生｜(報名即將截止！5/10最後收單)",
+      "company": "米蘭數位傳播集團_米蘭營銷策劃股份有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-02",
+      "url": "https://www.104.com.tw/job/90ine",
+      "description": "\n\n2026 年 歡迎加入【米蘭數位－MEVOLUTION GO米果實習計畫】！\n這不只是一份實習，而是一場「先上課，再選路」的產業預演\n\n>>實習特色｜一次實習，看見三種代理商樣貌：\n• 米蘭營銷 —— 廣告創意與品牌溝通策略\n• 創意思境 MX ——",
+      "category": "consulting",
+      "first_seen": "2026-05-02",
       "last_seen": "2026-05-03",
       "deadline": "",
       "skills": [],
@@ -1650,6 +1668,24 @@
     },
     {
       "platform": "104",
+      "title": "社群/口碑行銷_實習助理",
+      "company": "網讚策略有限公司",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-03",
+      "url": "https://www.104.com.tw/job/83wip",
+      "description": "進團隊合作\n\n4. 工作時間：\n• 每週至少三～四日天(不含假日)，每日需4-8小時，總計一週至少約30小時，與我們一同創造價值。\n\n☆特別提供☆\n每年7月，優秀實習生將有轉正考核面試的機會，與我們共創未來！\n",
+      "category": "marketing",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-05-03",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習學分班（任何科系可報·協助獲取實習學分順利畢業）",
       "company": "高宏資訊股份有限公司",
       "location": "新北市新莊區",
@@ -1704,6 +1740,24 @@
     },
     {
       "platform": "104",
+      "title": "社群內容維護實習生_長期工讀｜歡迎二度就業",
+      "company": "網讚策略有限公司",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-03",
+      "url": "https://www.104.com.tw/job/8rp3m",
+      "description": "我們是一個專注於社群經營的團隊，正在尋找對社群有興趣、做事細心、希望穩定工作的你加入！\n這份實習非常適合希望重返職場、重新調整生活步調的夥伴。我們重視的不是速度，而是耐心、認真與穩定。即使沒有相關經驗也沒關係，我們會提供清楚的教學與指引，讓你可以",
+      "category": "marketing",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-05-03",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習 － 社群企劃 & 口碑行銷",
       "company": "無限創意行銷有限公司",
       "location": "新北市新莊區",
@@ -1733,6 +1787,24 @@
       "description": "【社群企劃 & 口碑行銷實習的職務說明＆工作內容】\n如果你平常會刷 Threads、IG、TikTok，看到熱門貼文會開始想：\n\n「這篇為什麼會爆？」\n「這個留言怎麼帶風向？」\n「這支短影音為什麼會被轉發？」\n\n如果你對這些事情有觀察、有想法，",
       "category": "marketing",
       "first_seen": "2026-04-26",
+      "last_seen": "2026-05-03",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【實習】Marketing Intern 行銷實習生",
+      "company": "安道創新科技有限公司",
+      "location": "新北市林口區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-03",
+      "url": "https://www.104.com.tw/job/90pdr",
+      "description": "【實習】Marketing Intern 行銷實習生\n薪資 Salary：時薪 NT$230~300 以上(依據經驗&表現)\n地點 Location：新北市林口區（可部分遠端）\n\n【工作內容 Job Description】\n\n*協助撰寫與編輯行",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-05-03",
       "deadline": "",
       "skills": [],
@@ -1920,6 +1992,24 @@
     },
     {
       "platform": "104",
+      "title": "企業實習生",
+      "company": "大漢整合行銷股份有限公司",
+      "location": "台北市大同區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-03",
+      "url": "https://www.104.com.tw/job/5x9ok",
+      "description": "1.協助主管或正職人員處理工作上的事務 \n2.跨部門溝通協調，廠商合作或供應商聯繫 \n3.視從事產業而定，協助或負責特定工作事務 \n4.協助相關資料收集、文案文字發想，市場趨勢需求收集分析 \n5.工作場所環境清潔維護\n6.提供實習津貼一日500元\n",
+      "category": "content",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-05-03",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "金屬工程實習人員",
       "company": "日常空間股份有限公司",
       "location": "台東縣台東市",
@@ -2073,6 +2163,24 @@
       "posted_at": "2026-05-03",
       "url": "https://www.104.com.tw/job/8y17s",
       "description": "1. 蒐集、整理、回報客戶資料。\n2. 公司各類文件與檔案e化、歸檔與管理。\n3. CRM 客戶資料及相關文件整理、建檔與維護。\n4. 日常客戶聯繫工作、協助業務電話接聽與客戶預約、現場接待服務。\n5. 協助業務每日報價與統整在手訂單金額。\n6. 用Excel 紀錄客戶交易頻率。\n\n此職位為公司業務部門的重要角色，具有明確的晉升通道。此職位提供了豐富的學習機會和成長潛力，可以進一步發展自己的業務技",
+      "category": "bd_sales",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-03",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【台北】資深銷售人員/ 銷售人員 (歡迎學生實習！激勵獎金另計、月休天數9~10天)",
+      "company": "特威茶葉有限公司(TWG Tea Company Pte Ltd.)",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-04-27",
+      "url": "https://www.104.com.tw/job/6uro3",
+      "description": "1. 提供顧客友善的服務。\n2. 各類茶葉產品介紹及解說。\n3. 銷售茶葉產品(茶包、包裝茶、散裝茶、茶器等)。\n4. 外帶茶沖泡\n5. 協助貨品整理及上架、庫存管理及驗收作業。\n6. 操作POS系統、產品結帳等相關作業。\n\n加入我們，你/妳可以享有：\n【休假制度】\n1. 週休二日，優於勞基法之休假規定。\n2. 生日當月享有生日假。\n3. 銷售服務員、餐飲服務員和廚師，享有月休9~10天。\n【薪資",
       "category": "bd_sales",
       "first_seen": "2026-05-03",
       "last_seen": "2026-05-03",
@@ -2257,6 +2365,24 @@
       "description": "\n§工作內容：\n1.銷售各式伴手禮、烘焙商品\n2.收銀服務(結帳/退稅)\n3.產品陳列擺設\n\n地點：西門捷運站1號出口旁",
       "category": "hr",
       "first_seen": "2026-04-26",
+      "last_seen": "2026-05-03",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "人資實習生/工讀生 F53",
+      "company": "永慶房產集團_永慶房屋仲介股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-03",
+      "url": "https://www.104.com.tw/job/7bctd",
+      "description": "1. 人事行政事務協助\n2. 新進報到流程協助\n3. 新進人事資料催收/整理/檢核/Key in/掃描及歸檔\n4. 員工關係活動協助",
+      "category": "hr",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-05-03",
       "deadline": "",
       "skills": [],
@@ -2947,6 +3073,29 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "四維集團【三重】法務實習生",
+      "company": "四維企業股份有限公司",
+      "location": "新北市三重區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-03",
+      "url": "https://www.104.com.tw/job/7yeiu",
+      "description": "1. 公司範本合約文件審閱\n2. 合約相關之行政文書處理 (用印、掃描、列印、歸檔、寄送)\n3. 部門行政庶務工作\n4. 其他法務主管交辦之工作\n5. 每週上班時數至少15-20小時，上班時段可討論\n6. 大三以上法律系在校生、碩士班",
+      "category": "legal",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-03",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四",
+        "大五",
+        "研究所"
+      ]
     },
     {
       "platform": "104",

@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-05-03T04:40:50+00:00</updated>
+  <updated>2026-05-03T07:50:09+00:00</updated>
   <entry>
     <title>PHP軟體工程師（實習） · 宥倍實業股份有限公司</title>
     <id>https://www.104.com.tw/job/7xm9o</id>
@@ -21,6 +21,14 @@
     <updated>2026-05-03T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：高雄市橋頭區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>[建築與景觀設計實習生]—在設計的起點，與我們一起「迷路」與「發現」 · 錦企研_金帛資產整合行銷有限公司</title>
+    <id>https://www.104.com.tw/job/8qsvp</id>
+    <link href="https://www.104.com.tw/job/8qsvp" />
+    <updated>2026-05-03T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
   <entry>
     <title>實習生 · 神通企管顧問有限公司</title>
@@ -45,6 +53,14 @@
     <updated>2026-05-03T00:00:00+08:00</updated>
     <category term="bd_sales" />
     <summary>地點：新竹縣竹北市 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【台北】資深銷售人員/ 銷售人員 (歡迎學生實習！激勵獎金另計、月休天數9~10天) · 特威茶葉有限公司(TWG Tea Company Pte Ltd.)</title>
+    <id>https://www.104.com.tw/job/6uro3</id>
+    <link href="https://www.104.com.tw/job/6uro3" />
+    <updated>2026-05-03T00:00:00+08:00</updated>
+    <category term="bd_sales" />
+    <summary>地點：台北市信義區 · 平台：104</summary>
   </entry>
   <entry>
     <title>美髮實習師 · EL hair salon_伊琳髮廊</title>
@@ -167,6 +183,14 @@
     <summary>薪資：NT$ 200 -  (時薪) · 地點：臺北市 · 平台：Yourator</summary>
   </entry>
   <entry>
+    <title>數位長期實習生｜(報名即將截止！5/10最後收單) · 米蘭數位傳播集團_米蘭營銷策劃股份有限公司</title>
+    <id>https://www.104.com.tw/job/90ine</id>
+    <link href="https://www.104.com.tw/job/90ine" />
+    <updated>2026-05-02T00:00:00+08:00</updated>
+    <category term="consulting" />
+    <summary>地點：台北市信義區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>Customer Service Intern 客服實習生 · WiSING 緯詠智能</title>
     <id>https://www.yourator.co/companies/wising/jobs/47325</id>
     <link href="https://www.yourator.co/companies/wising/jobs/47325" />
@@ -221,29 +245,5 @@
     <updated>2026-04-29T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>薪資：NT$ 200 - 300 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>資料科學實習生 · B. D Mobile</title>
-    <id>https://www.yourator.co/companies/bigdatamobile/jobs/47329</id>
-    <link href="https://www.yourator.co/companies/bigdatamobile/jobs/47329" />
-    <updated>2026-04-29T00:00:00+08:00</updated>
-    <category term="data" />
-    <summary>薪資：NT$ 200 - 250 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>AI產品專案經理暨行銷實習生（PM × Marketing） · B. D Mobile</title>
-    <id>https://www.yourator.co/companies/bigdatamobile/jobs/47331</id>
-    <link href="https://www.yourator.co/companies/bigdatamobile/jobs/47331" />
-    <updated>2026-04-29T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>薪資：NT$ 200 - 250 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>數位課程編輯見習生 · WisdomGarden</title>
-    <id>https://www.yourator.co/companies/WisdomGarden/jobs/47319</id>
-    <link href="https://www.yourator.co/companies/WisdomGarden/jobs/47319" />
-    <updated>2026-04-29T00:00:00+08:00</updated>
-    <category term="content" />
-    <summary>薪資：NT$ 200 - 220 (時薪) · 地點：新北市 · 平台：Yourator</summary>
   </entry>
 </feed>
