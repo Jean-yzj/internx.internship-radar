@@ -5,7 +5,31 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-05-07T04:34:38+00:00</updated>
+  <updated>2026-05-07T08:20:08+00:00</updated>
+  <entry>
+    <title>設計實習生 Graphic Designer Intern · Spatial Topology司圖科技</title>
+    <id>https://www.yourator.co/companies/STO/jobs/47442</id>
+    <link href="https://www.yourator.co/companies/STO/jobs/47442" />
+    <updated>2026-05-07T00:00:00+08:00</updated>
+    <category term="engineering" />
+    <summary>薪資：NT$ 200 - 200 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
+  </entry>
+  <entry>
+    <title>Full-Stack Engineer Intern · Spatial Topology司圖科技</title>
+    <id>https://www.yourator.co/companies/STO/jobs/47437</id>
+    <link href="https://www.yourator.co/companies/STO/jobs/47437" />
+    <updated>2026-05-07T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>薪資：NT$ 200 - 200 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
+  </entry>
+  <entry>
+    <title>Product Management Intern產品經理實習 · Spatial Topology司圖科技</title>
+    <id>https://www.yourator.co/companies/STO/jobs/47444</id>
+    <link href="https://www.yourator.co/companies/STO/jobs/47444" />
+    <updated>2026-05-07T00:00:00+08:00</updated>
+    <category term="pm" />
+    <summary>薪資：NT$ 200 - 200 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
+  </entry>
   <entry>
     <title>[Full time/part time]研發實習生計畫(Internship program) · 醫流體股份有限公司</title>
     <id>https://www.104.com.tw/job/7cba9</id>
@@ -79,28 +103,12 @@
     <summary>地點：新竹縣竹北市 · 平台：104</summary>
   </entry>
   <entry>
-    <title>【台北】實習軟體工程師 · 哲煜科技股份有限公司</title>
-    <id>https://www.104.com.tw/job/8d2p7</id>
-    <link href="https://www.104.com.tw/job/8d2p7" />
+    <title>[115年下半年實習] 管理部人力資源處實習生(實習僅能選擇一項投遞) · 統一綜合證券股份有限公司</title>
+    <id>https://www.104.com.tw/job/90zsg</id>
+    <link href="https://www.104.com.tw/job/90zsg" />
     <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台北市中山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>[2026年度]研發實習生(南港軟體園區) · 亞力電機股份有限公司</title>
-    <id>https://www.104.com.tw/job/8sigo</id>
-    <link href="https://www.104.com.tw/job/8sigo" />
-    <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台北市南港區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>O&#x27;right｜AI實習生 · 歐萊德國際股份有限公司</title>
-    <id>https://www.104.com.tw/job/8wdsq</id>
-    <link href="https://www.104.com.tw/job/8wdsq" />
-    <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：桃園市龍潭區 · 平台：104</summary>
+    <category term="data" />
+    <summary>地點：台北市松山區 · 平台：104</summary>
   </entry>
   <entry>
     <title>【2026年暑期培訓與實習計畫】實習生 · 明生生物科技股份有限公司</title>
@@ -119,12 +127,28 @@
     <summary>地點：台中市太平區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>長照實習生職場體驗【中永和獨老共居宅】【無薪】 · 社團法人中華長照協會</title>
-    <id>https://www.104.com.tw/job/8dpaz</id>
-    <link href="https://www.104.com.tw/job/8dpaz" />
+    <title>【台北】財務工讀生/實習生(長期) · 新光合成纖維股份有限公司</title>
+    <id>https://www.104.com.tw/job/8cyuu</id>
+    <link href="https://www.104.com.tw/job/8cyuu" />
     <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="healthcare" />
-    <summary>地點：新北市永和區 · 平台：104</summary>
+    <category term="finance" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>[115年暑期實習] 金融商品部權證商品科實習生(實習僅能選擇一項投遞) · 統一綜合證券股份有限公司</title>
+    <id>https://www.104.com.tw/job/90zln</id>
+    <link href="https://www.104.com.tw/job/90zln" />
+    <updated>2026-05-07T00:00:00+08:00</updated>
+    <category term="finance" />
+    <summary>地點：台北市松山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>金融業務部實習生 · 瀚亞證券投資信託股份有限公司</title>
+    <id>https://www.104.com.tw/job/74n3x</id>
+    <link href="https://www.104.com.tw/job/74n3x" />
+    <updated>2026-05-07T00:00:00+08:00</updated>
+    <category term="finance" />
+    <summary>地點：台北市信義區 · 平台：104</summary>
   </entry>
   <entry>
     <title>【王道銀行】2026 Intern Program-AML洗錢防制作業實習生(內湖) · O-Bank_王道商業銀行股份有限公司</title>
@@ -135,28 +159,44 @@
     <summary>地點：台北市內湖區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>Intern實習生(Actuarial Valuation)_數理精算部 · 法商法國巴黎人壽保險股份有限公司台灣分公司</title>
-    <id>https://www.104.com.tw/job/8lryr</id>
-    <link href="https://www.104.com.tw/job/8lryr" />
+    <title>[115年暑期實習] 資本市場部實習生(實習僅能選擇一項投遞) · 統一綜合證券股份有限公司</title>
+    <id>https://www.104.com.tw/job/90zhr</id>
+    <link href="https://www.104.com.tw/job/90zhr" />
     <updated>2026-05-07T00:00:00+08:00</updated>
     <category term="finance" />
-    <summary>地點：台北市信義區 · 平台：104</summary>
+    <summary>地點：台北市松山區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>【Uber_營運專員Operations Specialist (Driver Growth&amp;Experience)】供需策略管理/市場與平台營運分析/SQL分析/月薪45K-55K/歡迎有實習經驗新鮮人_RFS_865 · 藝珂人事顧問股份有限公司</title>
-    <id>https://www.104.com.tw/job/913fa</id>
-    <link href="https://www.104.com.tw/job/913fa" />
+    <title>[115年暑期實習] 計量交易部期貨自營科實習生(實習僅能選擇一項投遞) · 統一綜合證券股份有限公司</title>
+    <id>https://www.104.com.tw/job/90zhx</id>
+    <link href="https://www.104.com.tw/job/90zhx" />
     <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="consulting" />
-    <summary>地點：台北市信義區 · 平台：104</summary>
+    <category term="finance" />
+    <summary>地點：台北市松山區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>【ESG策略與永續發展諮詢服務】永續實習生 (高雄 / 半年期) · 安永聯合會計師事務所</title>
-    <id>https://www.104.com.tw/job/7s866</id>
-    <link href="https://www.104.com.tw/job/7s866" />
+    <title>[115年暑期實習] 金融商品部金融策略科實習生(實習僅能選擇一項投遞) · 統一綜合證券股份有限公司</title>
+    <id>https://www.104.com.tw/job/90zlz</id>
+    <link href="https://www.104.com.tw/job/90zlz" />
+    <updated>2026-05-07T00:00:00+08:00</updated>
+    <category term="finance" />
+    <summary>地點：台北市松山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>[115年暑期實習] 計量交易部策略交易科實習生(實習僅能選擇一項投遞) · 統一綜合證券股份有限公司</title>
+    <id>https://www.104.com.tw/job/90zl7</id>
+    <link href="https://www.104.com.tw/job/90zl7" />
     <updated>2026-05-07T00:00:00+08:00</updated>
     <category term="consulting" />
-    <summary>地點：高雄市新興區 · 平台：104</summary>
+    <summary>地點：台北市松山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>行銷實習生 · 無敵家整合行銷_無敵家娛樂股份有限公司</title>
+    <id>https://www.104.com.tw/job/8pu3t</id>
+    <link href="https://www.104.com.tw/job/8pu3t" />
+    <updated>2026-05-07T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台北市大同區 · 平台：104</summary>
   </entry>
   <entry>
     <title>Marketing Intern 行銷實習生 · 微碧愛普科技有限公司</title>
@@ -165,6 +205,14 @@
     <updated>2026-05-07T00:00:00+08:00</updated>
     <category term="marketing" />
     <summary>地點：台中市西屯區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>桃園A19：行銷企劃實習生(Global Mall) · 環球購物中心股份有限公司</title>
+    <id>https://www.104.com.tw/job/8yaon</id>
+    <link href="https://www.104.com.tw/job/8yaon" />
+    <updated>2026-05-07T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：桃園市中壢區 · 平台：104</summary>
   </entry>
   <entry>
     <title>行銷實習生 Marketing &amp; Communication Intern (Part Time) · 台灣愛立信股份有限公司</title>
@@ -183,67 +231,19 @@
     <summary>地點：台中市西屯區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>【兼職/工讀/實習】產品行銷推廣員！論件計酬 · 點溡科技有限公司</title>
+    <id>https://www.104.com.tw/job/8kyg0</id>
+    <link href="https://www.104.com.tw/job/8kyg0" />
+    <updated>2026-05-07T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台中市南區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>【急徵】數位行銷實習生 · 菁英國際文教事業股份有限公司</title>
     <id>https://www.104.com.tw/job/3erfd</id>
     <link href="https://www.104.com.tw/job/3erfd" />
     <updated>2026-05-07T00:00:00+08:00</updated>
     <category term="marketing" />
     <summary>地點：台北市中正區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>韓商REVU網紅接案平台-行銷業務助理(intern實習生) · 魅特國際行銷股份有限公司</title>
-    <id>https://www.104.com.tw/job/66rng</id>
-    <link href="https://www.104.com.tw/job/66rng" />
-    <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：台北市中山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>《月薪37,100元起》beard papa&#x27;s鬍子爺爺泡芙*竹北遠百-正職人員 ★因尚未開幕，錄取會先至新竹巨城實習★ · 日樂芙台灣股份有限公司</title>
-    <id>https://www.104.com.tw/job/8gkfj</id>
-    <link href="https://www.104.com.tw/job/8gkfj" />
-    <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：新竹縣竹北市 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【2026_A+種子暑期實習】系統開發實習生-龍潭廠 · 友達光電股份有限公司</title>
-    <id>https://www.104.com.tw/job/8yqim</id>
-    <link href="https://www.104.com.tw/job/8yqim" />
-    <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：桃園市龍潭區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>《時薪205元起》beard papa&#x27;s鬍子爺爺泡芙*竹北遠百店-早班工讀生 ★因尚未開幕，錄取會先至新竹巨城實習★ · 日樂芙台灣股份有限公司</title>
-    <id>https://www.104.com.tw/job/8ym2e</id>
-    <link href="https://www.104.com.tw/job/8ym2e" />
-    <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：新竹縣竹北市 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【2026_A+種子暑期實習】AI 系統開發實習生-龍潭廠 · 友達光電股份有限公司</title>
-    <id>https://www.104.com.tw/job/8yqi9</id>
-    <link href="https://www.104.com.tw/job/8yqi9" />
-    <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：桃園市龍潭區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【森森燒肉-竹北莊敬店】外場工讀夥伴 時薪$210-$230 (歡迎實習) · 森森燒肉股份有限公司</title>
-    <id>https://www.104.com.tw/job/7rupb</id>
-    <link href="https://www.104.com.tw/job/7rupb" />
-    <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="content" />
-    <summary>地點：新竹縣竹北市 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【森森燒肉-桃園中路店】外場工讀夥伴 時薪$200-$230 (歡迎實習) · 森森燒肉股份有限公司</title>
-    <id>https://www.104.com.tw/job/8ae82</id>
-    <link href="https://www.104.com.tw/job/8ae82" />
-    <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="content" />
-    <summary>地點：桃園市桃園區 · 平台：104</summary>
   </entry>
 </feed>
