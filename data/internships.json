@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T07:45:20",
+  "generated_at": "2026-05-09T12:57:48",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 231,
-    "new_today": 6,
+    "total": 240,
+    "new_today": 2,
     "by_platform": {
-      "104": 98,
+      "104": 107,
       "CakeResume": 16,
       "Yourator": 117
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 48
+      "count": 50
     },
     {
       "key": "data",
@@ -70,7 +70,7 @@
       "label": "管顧／策略",
       "emoji": "🧭",
       "color": "#ec4899",
-      "count": 5
+      "count": 6
     },
     {
       "key": "marketing",
@@ -91,21 +91,21 @@
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 12
+      "count": 15
     },
     {
       "key": "design",
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 5
+      "count": 4
     },
     {
       "key": "hr",
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 12
+      "count": 13
     },
     {
       "key": "accounting",
@@ -126,14 +126,14 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 21
+      "count": 22
     },
     {
       "key": "legal",
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 6
+      "count": 8
     },
     {
       "key": "manufacturing",
@@ -662,6 +662,44 @@
       "last_seen": "2026-05-09",
       "deadline": "",
       "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Vespa 進口二輪維修保養 實習生",
+      "company": "峰雨有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-09",
+      "url": "https://www.104.com.tw/job/8ckky",
+      "description": "公司主要針對進口二輪 Vespa機車的維修、改裝、保養。我們希望找到熱愛二輪的人，一起為車主的安全一同努力！把好的技術傳承下去，成為優秀的職人。\n\n【偉士計劃實習生訓練系統】\n第一步、到職\n\n第二步、偉士牌基礎概念培訓\n\n第三步、初試考核 (到職",
+      "category": "tech",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【實習】前瞻技術實習生 (AI)",
+      "company": "邑流微測股份有限公司",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-09",
+      "url": "https://www.104.com.tw/job/8c0j7",
+      "description": "1. AI 標記與分類輔助\n2. Python 程式設計與資料處理\n3. AI 模型訓練流程支援\n4. 影像分類任務（YoloV8 Classification）\n5. 影像區塊分割任務（Yolo11 Segmentation）\n6. 影像目標偵測任務\n7.主管交辦事項",
+      "category": "tech",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-05-09",
+      "deadline": "",
+      "skills": [
+        "Python"
+      ],
       "eligibility": []
     },
     {
@@ -1368,6 +1406,24 @@
       "description": "",
       "category": "consulting",
       "first_seen": "2026-04-28",
+      "last_seen": "2026-05-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "客戶顧問實習生 (Business Consulting Internship)",
+      "company": "威德數位設計有限公司",
+      "location": "台中市北區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-09",
+      "url": "https://www.104.com.tw/job/8wpnc",
+      "description": " collaboration processes.\n\n+ 我們正在尋找對品牌、網站設計與企業溝通有興趣的客戶顧問實習生，參與設計公司如何與企業合作的第一線實務。你將在主管帶領下，學習理解客戶需求、提出解決方向，並參與實際的商務合作流程\n\n+ 工作內容可能包含：\n- 研究設計",
+      "category": "consulting",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-05-09",
       "deadline": "",
       "skills": [],
@@ -2677,6 +2733,42 @@
     },
     {
       "platform": "104",
+      "title": "人力資源實習生 (Human Resource Internship)",
+      "company": "威德數位設計有限公司",
+      "location": "台中市北區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-09",
+      "url": "https://www.104.com.tw/job/8czml",
+      "description": "This role will primarily serve HR department managers. Depending on capabilities, the candidate may also collaborate on business development projects related to design consultancy services and HR admi",
+      "category": "bd_sales",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "業務助理 / 實習生 ( Business assistant )",
+      "company": "威德數位設計有限公司",
+      "location": "台中市北區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-09",
+      "url": "https://www.104.com.tw/job/7f2dk",
+      "description": "業務助理是市場與策略團隊的重要培養角色，透過實務參與，逐步理解客戶、專案與商業運作。本職務不僅協助業務執行，更著重於能力養成，為未來往業務、策略顧問或市場開發角色發展奠定基礎。\n\n我們期待你具備：\n◼積極、樂觀的態度，具良好溝通能力\n◼面對多任務與工作節奏，能保持穩定與執行力\n◼具抗壓性，願意學習並承擔成長過程中的挑戰\n◼重視團隊合作，能與不同角色順暢協作\n◼具備基礎潛在客戶開發能力（網路、電話等",
+      "category": "bd_sales",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "長期實習-業務行政助理",
       "company": "新加坡商第一線資訊科技有限公司台灣分公司",
       "location": "台北市大安區",
@@ -2686,6 +2778,24 @@
       "posted_at": "2026-05-09",
       "url": "https://www.104.com.tw/job/8zxbz",
       "description": "1、協助綠通處理。\n2、協助SALES與TWCEM對接, 完整合約要件。\n3、新系統報表輸入, 整理, 及追蹤。\n4、業務部門主管交辦事項。\n其他：協助公司各大小銷售活動安排。",
+      "category": "bd_sales",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "業務開發 / 實習生( Business Development )",
+      "company": "威德數位設計有限公司",
+      "location": "台中市北區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-09",
+      "url": "https://www.104.com.tw/job/7f2dc",
+      "description": "業務開發是公司與市場之間的關鍵角色，負責開啟高價值合作機會，並將品牌、設計與商業需求轉化為具體可行的專案方向。此職務不僅著重於業績成果，更是策略顧問的核心培養角色之一，適合具企圖心、希望往高端品牌與企業市場發展的人才。\n\n我們期待你具備：\n◼積極、樂觀的態度，具良好溝通與簡報能力\n◼面對目標與壓力，能持續推進成果\n◼重視團隊合作，能與策略、設計團隊協作\n◼具備潛在客戶開發能力（網路、電話等管道）\n",
       "category": "bd_sales",
       "first_seen": "2026-05-09",
       "last_seen": "2026-05-09",
@@ -2838,26 +2948,6 @@
       "eligibility": []
     },
     {
-      "platform": "CakeResume",
-      "title": "UI/UX DesignIntern",
-      "company": "豈止數位設計有限公司",
-      "location": "",
-      "salary": "面議",
-      "salary_min": null,
-      "salary_type": "negotiable",
-      "posted_at": "",
-      "url": "https://www.cake.me/companies/kiitzu/jobs/ui-ux-design-intern-d04069",
-      "description": "Internship · ・ · Internship · UI/UX Design Intern 豈止數位設計有限公司 徵求 UI/UX 實習設計師，常在台北的每個小角落 cafe surfing 的請進 UIUX MCP Figma 1 ・ Internship ・ Internship Taipei, Taiwan ・ Taipei City, Taiwan ・ Taiwan 200 TWD",
-      "category": "design",
-      "first_seen": "2026-05-01",
-      "last_seen": "2026-05-09",
-      "deadline": "",
-      "skills": [
-        "Figma"
-      ],
-      "eligibility": []
-    },
-    {
       "platform": "Yourator",
       "title": "People Operations Intern 人力營運實習生",
       "company": "TURING SPACE 美商圖靈",
@@ -2924,6 +3014,24 @@
       "description": "季6,000元以上，做越久領越多，給你穩穩進步的期待！\n※以上發放須符合相關條件及公司規定。\n\n✨【明確的職涯晉升藍圖】✨\n我們重視「實力派」晉升，預計 8~10 個月的扎實培訓，讓你每一步都充滿成長 ：\n1.實習職：深入品牌核心營運，掌握 QSC",
       "category": "hr",
       "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "★高雄夢時代 實習生★ 實習營業人員 (實習樓管)招募中",
+      "company": "夢時代購物中心_統正開發股份有限公司",
+      "location": "高雄市前鎮區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-09",
+      "url": "https://www.104.com.tw/job/803ej",
+      "description": "2027年即將畢業的學弟妹們～\n#你是不是還在猶豫畢業後要做什麼工作呢?\n\n快把握畢業前最後一次實習機會！！！\n2026年7月-2027年6月 就讓我們用一年的時間，證明你的實力吧！\n\n#夢時代開放實習樓管職缺嚕！\n\n歡迎帶著社團歷練的領導力、問",
+      "category": "hr",
+      "first_seen": "2026-04-23",
       "last_seen": "2026-05-09",
       "deadline": "",
       "skills": [],
@@ -3601,6 +3709,24 @@
     },
     {
       "platform": "CakeResume",
+      "title": "Company OperationsIntern",
+      "company": "PicCollage 拼貼趣",
+      "location": "",
+      "salary": "面議",
+      "salary_min": null,
+      "salary_type": "negotiable",
+      "posted_at": "",
+      "url": "https://www.cake.me/companies/PicCollage/jobs/company-operations-intern-6af4f6",
+      "description": "Internship · ・ · Internship · Company Operations Intern PicCollage 拼貼趣 About Us\nPicCollage Company runs on two things: great products—and a great environment where people can do their best work. This ",
+      "category": "operations",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "CakeResume",
       "title": "課程行政助理 (工讀/實習)",
       "company": "言果學習股份有限公司",
       "location": "",
@@ -3666,6 +3792,24 @@
       "description": "*實習律師有大量跟隨開庭、與客戶開會、與客戶面對面接觸及撰擬各式書狀的學習機會。\n*除了指導律師，事務所內也有其他實任律師可以隨時討論，互相切磋成長。\n*訴訟及非訟的業務均可接觸。\n*上班時間正常，絕無大量或長期加班的情形。\n*事務所團隊氣氛非常",
       "category": "legal",
       "first_seen": "2026-05-09",
+      "last_seen": "2026-05-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "法務實習生",
+      "company": "博仲法律事務所",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-09",
+      "url": "https://www.104.com.tw/job/7rnre",
+      "description": "析、組織相關證據資料\n2. 協助律師及法務蒐集法律文章的資料及其相關工作\n3. 協助律師、法務製作簡報內容\n4. 其他律師及法務交辦事項\n\n工作時間：\n1. 工作期間為三~六個月，可與學校簽訂實習抵學分之實習合約\n2. 上班時間可配合學生上課時間彈",
+      "category": "legal",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-05-09",
       "deadline": "",
       "skills": [],
@@ -3758,6 +3902,24 @@
       "description": "1.協助處理民、刑事案件，行政訴訟及非訟相關案件\n2.法律問題研究及分析\n3.撰擬書狀、合約\n4.其他相關交辦事項\n\n\n",
       "category": "legal",
       "first_seen": "2026-04-29",
+      "last_seen": "2026-05-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "杰論法律事務所",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-09",
+      "url": "https://www.104.com.tw/job/6vydg",
+      "description": "實務見解研究、法律意見撰擬、合約審議、訴訟撰狀、其他律師交辦事項",
+      "category": "legal",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-05-09",
       "deadline": "",
       "skills": [],

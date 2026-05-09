@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-05-09T07:45:20+00:00</updated>
+  <updated>2026-05-09T12:57:48+00:00</updated>
   <entry>
     <title>誠徵『組裝/測試/包裝 作業員/技術員 (小夜班)』(學生實習可) · 思創數位科技股份有限公司</title>
     <id>https://www.104.com.tw/job/8y6em</id>
@@ -79,6 +79,14 @@
     <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>業務開發 / 實習生( Business Development ) · 威德數位設計有限公司</title>
+    <id>https://www.104.com.tw/job/7f2dc</id>
+    <link href="https://www.104.com.tw/job/7f2dc" />
+    <updated>2026-05-09T00:00:00+08:00</updated>
+    <category term="bd_sales" />
+    <summary>地點：台中市北區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>【2026暑期實習】國際業務實習生 · 遠傳電信股份有限公司</title>
     <id>https://www.104.com.tw/job/8z0h5</id>
     <link href="https://www.104.com.tw/job/8z0h5" />
@@ -125,6 +133,14 @@
     <updated>2026-05-09T00:00:00+08:00</updated>
     <category term="operations" />
     <summary>地點：台北市大安區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>Company OperationsIntern · PicCollage 拼貼趣</title>
+    <id>https://www.cake.me/companies/PicCollage/jobs/company-operations-intern-6af4f6</id>
+    <link href="https://www.cake.me/companies/PicCollage/jobs/company-operations-intern-6af4f6" />
+    <updated>2026-05-09T00:00:00+08:00</updated>
+    <category term="operations" />
+    <summary>薪資：面議 · 平台：CakeResume</summary>
   </entry>
   <entry>
     <title>實習律師 · 富達法律事務所</title>
@@ -228,22 +244,6 @@
     <link href="https://www.yourator.co/companies/STO/jobs/47437" />
     <updated>2026-05-07T00:00:00+08:00</updated>
     <category term="tech" />
-    <summary>薪資：NT$ 200 - 200 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>產品設計師 實習(台北) · Spatial Topology司圖科技</title>
-    <id>https://www.yourator.co/companies/STO/jobs/47442</id>
-    <link href="https://www.yourator.co/companies/STO/jobs/47442" />
-    <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="design" />
-    <summary>薪資：NT$ 200 - 200 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>專案經理 實習(台北) · Spatial Topology司圖科技</title>
-    <id>https://www.yourator.co/companies/STO/jobs/47444</id>
-    <link href="https://www.yourator.co/companies/STO/jobs/47444" />
-    <updated>2026-05-07T00:00:00+08:00</updated>
-    <category term="other" />
     <summary>薪資：NT$ 200 - 200 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
   </entry>
 </feed>
