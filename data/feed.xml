@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-05-10T04:43:50+00:00</updated>
+  <updated>2026-05-10T07:59:10+00:00</updated>
   <entry>
     <title>【校園徵才-暑期實習】AI自動化與系統可靠性實習生 · Phison Electronics Corp_群聯電子股份有限公司</title>
     <id>https://www.104.com.tw/job/8yo9h</id>
@@ -63,6 +63,14 @@
     <summary>地點：台中市清水區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>【Onitsuka Tiger】財務實習生 (6個月) · 台灣亞瑟士股份有限公司</title>
+    <id>https://www.104.com.tw/job/8z2rn</id>
+    <link href="https://www.104.com.tw/job/8z2rn" />
+    <updated>2026-05-10T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台北市信義區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>遊戲專案企劃 實習生 Game Project Planner Intern · 移動怪獸股份有限公司</title>
     <id>https://www.104.com.tw/job/84l1k</id>
     <link href="https://www.104.com.tw/job/84l1k" />
@@ -103,20 +111,20 @@
     <summary>地點：台中市清水區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>【2nd STREET日本最大二手店】誠品生活台中480店-門市兼職人員(可配合學生實習) · 2ndSTREET_台灣極沃股份有限公司</title>
-    <id>https://www.104.com.tw/job/8di4m</id>
-    <link href="https://www.104.com.tw/job/8di4m" />
-    <updated>2026-05-10T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>地點：台中市西屯區 · 平台：104</summary>
-  </entry>
-  <entry>
     <title>Company OperationsIntern · PicCollage 拼貼趣</title>
     <id>https://www.cake.me/companies/PicCollage/jobs/company-operations-intern-6af4f6</id>
     <link href="https://www.cake.me/companies/PicCollage/jobs/company-operations-intern-6af4f6" />
     <updated>2026-05-09T00:00:00+08:00</updated>
     <category term="operations" />
     <summary>薪資：面議 · 平台：CakeResume</summary>
+  </entry>
+  <entry>
+    <title>【2nd STREET日本最大二手店】誠品生活新店店-門市兼職人員(可配合學生實習) · 2ndSTREET_台灣極沃股份有限公司</title>
+    <id>https://www.104.com.tw/job/81s6l</id>
+    <link href="https://www.104.com.tw/job/81s6l" />
+    <updated>2026-05-09T00:00:00+08:00</updated>
+    <category term="other" />
+    <summary>地點：新北市新店區 · 平台：104</summary>
   </entry>
   <entry>
     <title>全端工程師 實習(高雄) · Spatial Topology司圖科技</title>
@@ -236,14 +244,6 @@
     <link href="https://www.yourator.co/companies/8d8a33fc/jobs/47371" />
     <updated>2026-05-05T00:00:00+08:00</updated>
     <category term="tech" />
-    <summary>薪資：NT$ 200 -  (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>Business Development Intern 商業開發實習生 · TURING SPACE 美商圖靈</title>
-    <id>https://www.yourator.co/companies/TuringSpace/jobs/47364</id>
-    <link href="https://www.yourator.co/companies/TuringSpace/jobs/47364" />
-    <updated>2026-05-05T00:00:00+08:00</updated>
-    <category term="bd_sales" />
     <summary>薪資：NT$ 200 -  (時薪) · 地點：臺北市 · 平台：Yourator</summary>
   </entry>
 </feed>
