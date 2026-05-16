@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T04:28:53",
+  "generated_at": "2026-05-16T07:52:10",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 201,
-    "new_today": 8,
+    "total": 208,
+    "new_today": 2,
     "by_platform": {
-      "104": 70,
+      "104": 77,
       "CakeResume": 17,
       "Yourator": 114
     }
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 41
+      "count": 40
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 12
+      "count": 13
     },
     {
       "key": "bd_sales",
@@ -98,7 +98,7 @@
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 6
+      "count": 7
     },
     {
       "key": "hr",
@@ -112,7 +112,7 @@
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 1
+      "count": 4
     },
     {
       "key": "education",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 18
+      "count": 20
     },
     {
       "key": "legal",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 23
+      "count": 24
     }
   ],
   "jobs": [
@@ -2049,24 +2049,6 @@
       "eligibility": []
     },
     {
-      "platform": "104",
-      "title": "電子商務助理/PM/電子商務系統企劃/電子商務行銷/電子商務專員/電商視覺初級設計師/設計助理(兼職/歡迎在校實習)",
-      "company": "邑方醫療器材企業社",
-      "location": "台中市東區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-05-16",
-      "url": "https://www.104.com.tw/job/886ct",
-      "description": "1. 根據公司需求進行平面設計方案策劃\n2. 製作文宣、DM、手冊、海報等相關廣告設計\n3. 與相關部門協調溝通，確保設計品質符合要求\n4. 熟悉印刷/輸出與紙材應用，掌握發包案件進度\n5. 觀察消費者對商品及品牌的喜好走向做市場分析\n6. 基本攝影與修圖\n7. 協助部分行政相關工作\n\n平面設計在現代社會中扮演著非常重要的角色，其在不同行業中具有廣泛的應用，職位發展前景良好。\n如果你熱愛設計，具有",
-      "category": "marketing",
-      "first_seen": "2026-05-02",
-      "last_seen": "2026-05-16",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
       "platform": "CakeResume",
       "title": "行銷企劃實習生MarketingIntern",
       "company": "上策行銷有限公司 Bespo Marketing",
@@ -2247,6 +2229,26 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "(兼職)【彈性排班】招生助教(工讀生-實習生可)",
+      "company": "臺北市私立高偉文理短期補習班",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-16",
+      "url": "https://www.104.com.tw/job/8qulx",
+      "description": "【平日／假日 彈性排班】招生助教｜高偉數學誠徵實習夥伴！\n-->歡迎大學、碩士班同學 or 想進入補教業的你！\n想累積補教業經驗、提升溝通與業務行政能力嗎？\n加入高偉數學，踏出實習第一步！\n\n【工作內容】\n1.電訪／招生行政\n協助招生電訪、學生關",
+      "category": "content",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-05-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -2614,6 +2616,27 @@
     },
     {
       "platform": "104",
+      "title": "【實習】美術設計",
+      "company": "謙懿科技有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-16",
+      "url": "https://www.104.com.tw/job/91n1c",
+      "description": "一、工作內容\n　1. 插圖、場景、人物設計與繪製 \n　2. 課程排版等相關工作\n　3. 網頁Banner、貼文等設計支援\n　4. 其他主管交辦事項\n　* 主要協助標案課程、影片、貼文等美術工作\n　* 依能力、興趣可嘗試：動畫製作、影片攝影/剪輯等\n\n二、工作所需能力、特質\n　1. 需耐心、耐煩、細心，主動提問\n　2. 獨立作業能力\n　3. 基本多媒體能力：illustrator、Photoshop",
+      "category": "design",
+      "first_seen": "2026-05-16",
+      "last_seen": "2026-05-16",
+      "deadline": "",
+      "skills": [
+        "Photoshop",
+        "Illustrator"
+      ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習髮型設計師",
       "company": "CASA hair_卡薩髮型工作室",
       "location": "桃園市中壢區",
@@ -2789,6 +2812,60 @@
       "description": "電商 / 跨國團隊",
       "category": "accounting",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-05-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "長期實習生-櫃台/店務",
+      "company": "聖雅諾美學診所",
+      "location": "新北市中和區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-16",
+      "url": "https://www.104.com.tw/job/8r5ce",
+      "description": "1.現場客戶接待（環境介紹、主動問候、茶水服務）\n\n2.網路/電話客服（協助預約與轉接諮詢）\n\n3.行政作業（病歷歸檔、報表作業、簡易出納與結帳）\n\n4.協助客戶完成療程流程與動線安排\n\n5.熟悉電腦操作與顧客系統資料輸入\n\n6.環境維護與美容巾等清消作業\n\n7.治療室整理\n\n8.主管交辦事項處理\n\n\n需可配合六日上班\n\n※若六日時常請假則取消合作\n\n工作時間11-8點 中間休息1小時",
+      "category": "accounting",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-05-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "會計審計實習生",
+      "company": "馬施云大華聯合會計師事務所",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-16",
+      "url": "https://www.104.com.tw/job/6v30a",
+      "description": "協助處理會計帳務，以及支援審計工作",
+      "category": "accounting",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "會計審計實習生",
+      "company": "馬施云大華聯合會計師事務所",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-16",
+      "url": "https://www.104.com.tw/job/6v2yi",
+      "description": "協助處理會計帳務，以及支援審計工作\n",
+      "category": "accounting",
+      "first_seen": "2026-05-16",
       "last_seen": "2026-05-16",
       "deadline": "",
       "skills": [],
@@ -3102,6 +3179,24 @@
     },
     {
       "platform": "104",
+      "title": "夫家FUISM HAIR-設計助理(實習師）",
+      "company": "夫家FUISM HAIR_夫家有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-16",
+      "url": "https://www.104.com.tw/job/8ef8h",
+      "description": "1. 接待顧客、為顧客準備茶水、點心與書報雜誌。 \n2. 執行洗髮、護髮、頭皮護理、紓壓按摩等工作。 \n3. 協助設計師執行修髮、染髮、燙髮、髮型吹整、彩妝及整體造型設計等工作。 \n4. 完成設計師交辦工作，準備材料和工具。 \n5. 接聽電話，確認顧客預約時間及服務項目。 \n6. 清洗器材、設備及整體環境清潔。",
+      "category": "operations",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-05-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "遠東SOGO百貨-05新竹巨城店-商場營運管理實習生【歡迎在校生實習】",
       "company": "遠東SOGO_太平洋崇光百貨股份有限公司",
       "location": "新竹市",
@@ -3116,6 +3211,26 @@
       "last_seen": "2026-05-16",
       "deadline": "",
       "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "資訊助理-學生實習可",
+      "company": "臺北市私立高偉文理短期補習班",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-16",
+      "url": "https://www.104.com.tw/job/7c3kc",
+      "description": "主要工作內容：\n\n1. 協助本班資訊工作推動\n2. 協助本班電腦硬體維護\n3. 會撰寫 python .net c# 懂網頁設計邏輯\n4. 其它交辦工作\n\n\n〝本班工作環境好、氣氛佳〞\n只要您有心，大家都很歡迎您加入哦！\n※上班時間，周一至周五為1730~2300，例假日分早晚班。\n\n跟我們一起工作，\n學生跟家長的回饋會讓您每天都充滿能量。\n\n\n\n",
+      "category": "operations",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-05-16",
+      "deadline": "",
+      "skills": [
+        "Python"
+      ],
       "eligibility": []
     },
     {
@@ -3752,6 +3867,24 @@
     },
     {
       "platform": "104",
+      "title": "汽車維修半技師/學徒 【正職/兼職/實習】",
+      "company": "固德汽車企業社",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-16",
+      "url": "https://www.104.com.tw/job/8te30",
+      "description": "\n  **福利制度\n\n【實習兼職】可兼職，兼職時薪：196元起",
+      "category": "other",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "Sheraton Hsinchu 房務清潔實習生 Intern",
       "company": "新竹喜來登飯店_承恩餐旅管理顧問股份有限公司",
       "location": "新竹縣竹北市",
@@ -3788,17 +3921,17 @@
     },
     {
       "platform": "104",
-      "title": "【2nd STREET日本最大二手店】誠品生活台中480店-門市兼職人員(可配合學生實習)",
+      "title": "【2nd STREET日本最大二手店】誠品生活新店店-門市兼職人員(可配合學生實習)",
       "company": "2ndSTREET_台灣極沃股份有限公司",
-      "location": "台中市西屯區",
+      "location": "新北市新店區",
       "salary": "",
       "salary_min": null,
       "salary_type": "unknown",
       "posted_at": "2026-05-13",
-      "url": "https://www.104.com.tw/job/8di4m",
+      "url": "https://www.104.com.tw/job/81s6l",
       "description": "喜愛與人互動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！",
       "category": "other",
-      "first_seen": "2026-05-10",
+      "first_seen": "2026-05-09",
       "last_seen": "2026-05-16",
       "deadline": "",
       "skills": [],
