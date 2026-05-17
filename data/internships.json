@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T08:11:44",
+  "generated_at": "2026-05-17T13:01:21",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,11 +7,11 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 199,
-    "new_today": 9,
+    "total": 201,
+    "new_today": 2,
     "by_platform": {
-      "104": 68,
-      "CakeResume": 17,
+      "104": 77,
+      "CakeResume": 10,
       "Yourator": 114
     }
   },
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 47
+      "count": 46
     },
     {
       "key": "data",
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 7
+      "count": 8
     },
     {
       "key": "consulting",
@@ -84,14 +84,14 @@
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 11
+      "count": 13
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 10
+      "count": 11
     },
     {
       "key": "design",
@@ -147,14 +147,14 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 1
+      "count": 0
     },
     {
       "key": "hospitality",
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 3
+      "count": 4
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 26
+      "count": 25
     }
   ],
   "jobs": [
@@ -648,6 +648,24 @@
     },
     {
       "platform": "104",
+      "title": "AI 資源 實習生",
+      "company": "和偉智能工程股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/91nat",
+      "description": "主要職責是協助 建築節能 AI資源整合 相關內容、包括以下任務\n1.\t協助整理建築節能資料\n2.\t協助資料庫資料分析\n3.     喜歡跨領域接受挑戰\n4.     其他主管指派之工作事項",
+      "category": "tech",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "暑期實習｜AI設計實習生_應徵請填寫表單",
       "company": "錨點影音股份有限公司",
       "location": "台北市松山區",
@@ -892,8 +910,26 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "[實習生專區]-專案二部-GenAI 導入實習生｜完整培訓＋實務經驗＋優先轉正機會(實習時間一年,每週至少4天)",
+      "company": "人工智能股份有限公司",
+      "location": "台北市南港區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/8wd22",
+      "description": "▍職務說明\n你對 ChatGPT、LLM 背後的運作原理感到好奇嗎？你想知道企業是如何將 AI 真正落地應用的嗎？ 我們正在尋找細心、邏輯好，且樂於學習的實習生加入團隊。 本職位主要協助專案團隊將公司 NLP 與生成式 AI 產品（智能客服、",
+      "category": "tech",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "CakeResume",
-      "title": "Quality AssuranceInternship品質測試實習生",
+      "title": "Quality Assurance Internship 品質測試實習生",
       "company": "inline 樂排股份有限公司",
       "location": "",
       "salary": "面議",
@@ -901,68 +937,12 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/inline/jobs/quality-assurance-internship",
-      "description": "Internship · ・ · Internship · Quality Assurance Internship 品質測試實習生 inline 樂排股份有限公司 Inline is looking for a Quality Assurance Intern with a career interest in Software as a Service (SaaS) Engineer role",
+      "description": "Internship · ・ · Internship · Quality Assurance Internship 品質測試 實習 生 inline 樂排股份有限公司 Inline is looking for a Quality Assurance Intern with a career interest in Software as a Service (SaaS) Engineer ro",
       "category": "tech",
       "first_seen": "2026-04-23",
       "last_seen": "2026-05-17",
       "deadline": "",
       "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "CakeResume",
-      "title": "Project ManagerIntern",
-      "company": "豈止數位設計有限公司",
-      "location": "",
-      "salary": "面議",
-      "salary_min": null,
-      "salary_type": "negotiable",
-      "posted_at": "",
-      "url": "https://www.cake.me/companies/kiitzu/jobs/assistant-project-manager-02942a",
-      "description": "Internship · ・ · Assistant · Project Manager Intern 豈止數位設計有限公司 徵求實習軟體專案經理，常在台北的每個小角落 cafe surfing 的請進 專案管理 Project Manager PM 1 ・ Internship ・ Assistant Taipei City, Taiwan 200 TWD / hour No requireme",
-      "category": "tech",
-      "first_seen": "2026-04-27",
-      "last_seen": "2026-05-17",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "CakeResume",
-      "title": "Software EngineeringIntern",
-      "company": "伊斯酷軟體科技股份有限公司",
-      "location": "",
-      "salary": "面議",
-      "salary_min": null,
-      "salary_type": "negotiable",
-      "posted_at": "",
-      "url": "https://www.cake.me/companies/iscoollab/jobs/software-engineering-intern-a10c8a",
-      "description": "Internship · ・ · Internship · Software Engineering Intern 伊斯酷軟體科技股份有限公司 Job Description:\nAs a Software Engineering Intern at IsCoolLab, you will support our team in the design,  development and testin",
-      "category": "tech",
-      "first_seen": "2026-04-29",
-      "last_seen": "2026-05-17",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "CakeResume",
-      "title": "實習生全端工程師_(Internship)Full Stack Developer 遠距辦公/跨國團隊",
-      "company": "雋思集團_香港商雋思產品發展有限公司(台灣)",
-      "location": "",
-      "salary": "面議",
-      "salary_min": null,
-      "salary_type": "negotiable",
-      "posted_at": "",
-      "url": "https://www.cake.me/companies/qpp/jobs/r-amp-d-team_-ai-developer-copy-a02",
-      "description": "Internship · ・ · Internship · 實習生全端工程師_( Internship )Full Stack Developer 遠距辦公/跨國團隊 雋思集團_香港商雋思產品發展有限公司(台灣) 【你將參與的內容】\n1.協助開發與維護 Web 前後端功能，並參與 API 設計與整合\n2.使用 React/Angular 開發互動式前端介面，優化使用者體驗\n3.使用 Java與 P",
-      "category": "tech",
-      "first_seen": "2026-04-23",
-      "last_seen": "2026-05-17",
-      "deadline": "",
-      "skills": [
-        "React"
-      ],
       "eligibility": []
     },
     {
@@ -1286,6 +1266,24 @@
       "description": "",
       "category": "finance",
       "first_seen": "2026-04-28",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【實習生】中租保經-保險後台行政實習生(內湖/可配合半年以上)",
+      "company": "中租控股_中租迪和股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/893al",
+      "description": "歡迎金融保險相關科系 或對保險後台流程有興趣者投遞\n履歷採先到先審制，額滿為止!\n\n1.實習期間：起迄日不拘，可配合半年(含)以上，可長期兼職者佳。\n2.工作時間：\n平日一到五09:00-17:30，每週至少實習3天 (五天皆能配合尤佳)\n【工作",
+      "category": "finance",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-05-17",
       "deadline": "",
       "skills": [],
@@ -1821,6 +1819,24 @@
     },
     {
       "platform": "104",
+      "title": "實習企劃/企劃/資深企劃",
+      "company": "貳肆策劃有限公司",
+      "location": "台北市大同區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/7h943",
+      "description": "們做的是什麼樣的案子？\n可以先看這裡（3分鐘就好）：\nhttps://www.24.net.tw/brand-projects\n\n\n\n詳細需求如下：\n職位：實習企劃/企劃/資深企劃（1-2名) \n\n基本應徵條件：\n・自備筆電\n・企劃力、文案力、責任",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "媒體實習生（歡迎在校實習生）",
       "company": "恩亞出版社股份有限公司",
       "location": "台北市大安區",
@@ -1937,7 +1953,7 @@
     },
     {
       "platform": "CakeResume",
-      "title": "行銷企劃實習生MarketingIntern",
+      "title": "行銷企劃實習生Marketing Intern",
       "company": "上策行銷有限公司 Bespo Marketing",
       "location": "",
       "salary": "面議",
@@ -1945,25 +1961,7 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/bespo-marketing/jobs/marketing-planning-intern-301bf2",
-      "description": "Internship · ・ · Internship · 行銷企劃實習生Marketing Intern 上策行銷有限公司 Bespo Marketing 【Bespo實習生培訓系統】第一步、到職註冊第二步、口碑行銷基礎概念培訓第三步、初試考核 (到職滿一個月)考核六項口碑行銷基礎能力通過與否將決定實習生之去留通過者將進入第二階段完整寫文訓練第四步、二試考核(到職滿三個月)寫文考試，確認實習生之",
-      "category": "marketing",
-      "first_seen": "2026-04-23",
-      "last_seen": "2026-05-17",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "CakeResume",
-      "title": "MarketingIntern",
-      "company": "伊斯酷軟體科技股份有限公司",
-      "location": "",
-      "salary": "面議",
-      "salary_min": null,
-      "salary_type": "negotiable",
-      "posted_at": "",
-      "url": "https://www.cake.me/companies/iscoollab/jobs/marketing-intern-6720f0",
-      "description": "Internship · ・ · Entry level · Marketing Intern 伊斯酷軟體科技股份有限公司 Job Description:\nAs a Marketing Intern at IsCoolLab, you will support our team in the development and execution of marketing campaigns. Th",
+      "description": "Internship · ・ · Internship · 行銷企劃 實習 生Marketing Intern 上策行銷有限公司 Bespo Marketing 【Bespo 實習 生培訓系統】第一步、到職註冊第二步、口碑行銷基礎概念培訓第三步、初試考核 (到職滿一個月)考核六項口碑行銷基礎能力通過與否將決定 實習 生之去留通過者將進入第二階段完整寫文訓練第四步、二試考核(到職滿三個月)寫文考試，",
       "category": "marketing",
       "first_seen": "2026-04-23",
       "last_seen": "2026-05-17",
@@ -2158,6 +2156,42 @@
     },
     {
       "platform": "104",
+      "title": "「成功牛排龜山店」_兼職夥伴/實習人員/二度就業",
+      "company": "大利石頭火鍋_大利食品有限公司",
+      "location": "桃園市龜山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/8saz0",
+      "description": "歡迎無經驗的夥伴一起加入我們~\n\n工作內容\n1. 負責跑單、送餐及聯繫內外場之工作。\n2. 負責客人帶位、點餐等工作。\n3. 於客人用餐完畢後，負責收拾碗盤與清理環境。\n4. 進行簡易餐飲之料理。\n5. 負責結帳、收銀之工作。\n6. 負責全店的打掃與清理，時而進行環境布置。\n\n\n具有完整的獎金制度，我們希望每位同仁都有著共同努力的向心力！\n\n\n\n",
+      "category": "content",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "六月新開幕~「大利牛排南港環球店」_兼職夥伴/實習人員/二度就業",
+      "company": "大利石頭火鍋_大利食品有限公司",
+      "location": "台北市南港區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/90nuc",
+      "description": "歡迎無經驗的夥伴一起加入我們~\n\n工作內容\n1. 負責製作餐點及聯繫內外場之工作。\n2. 負責點餐等工作。\n3. 於客人用餐完畢後，負責清洗碗盤。\n4. 進行簡易餐飲之料理。\n5. 負責結帳、收銀之工作。\n6. 負責打掃與清理，時而進行環境布置。\n\n\n具有完整的獎金制度，我們希望每位同仁都有著共同努力的向心力！\n\n\n\n",
+      "category": "content",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【遠傳電信】三峽文化實習襄理【月休10天】【歡迎無經驗者】",
       "company": "金聚通訊行",
       "location": "新北市三峽區",
@@ -2343,6 +2377,24 @@
     },
     {
       "platform": "104",
+      "title": "【學生實習】2026年中租控股_合迪儲備業務實習",
+      "company": "中租控股_中租迪和股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/7sezu",
+      "description": "【實習期間】\n2026/7、9~2027/06(學年實習，可配合產學簽約)\n※一週需至少實習三個整天(含)以上 (五天皆能配合尤佳)\n※ 實習期間表現優異者，優先轉為正職員工\n\n【實習地點】\n中租各縣市分公司皆可實習\n(內湖、桃園、新竹、台中、嘉",
+      "category": "bd_sales",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "銷售營運實習生",
       "company": "香港商阿里巴巴香港電子商務有限公司台灣分公司",
       "location": "台北市松山區",
@@ -2469,6 +2521,24 @@
     },
     {
       "platform": "104",
+      "title": "設計實習生Design Intern",
+      "company": "好玩事業有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/7zkx9",
+      "description": "\n1.協助並輔佐設計師完成工作相關事宜。\n2.有機會參與平面與立體設計工作，包含商業平面設計（如海報、雜誌、包裝、廣告、通路物料等）、展場佈置與產品包裝設計。\n3.具備基本 3D 建模與渲染能力者佳，將有機會參與展場配置圖、工業設計與產品視覺提案之製作與呈現。\n4.參與社區型設計或永續發展專案，實際體驗跨領域設計實務。\n5.協助處理庶務性行政工作（如：文具用品採買）。\n6. 支援會議行政工作（如：",
+      "category": "design",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "學期中插畫實習生(限在學生，預約暑假實習生)",
       "company": "韋伯文化國際出版有限公司",
       "location": "新北市永和區",
@@ -2503,26 +2573,6 @@
       "last_seen": "2026-05-17",
       "deadline": "",
       "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "CakeResume",
-      "title": "UI/UX DesignIntern",
-      "company": "豈止數位設計有限公司",
-      "location": "",
-      "salary": "面議",
-      "salary_min": null,
-      "salary_type": "negotiable",
-      "posted_at": "",
-      "url": "https://www.cake.me/companies/kiitzu/jobs/ui-ux-design-intern-d04069",
-      "description": "Internship · ・ · Internship · UI/UX Design Intern 豈止數位設計有限公司 徵求 UI/UX 實習設計師，常在台北的每個小角落 cafe surfing 的請進 UIUX MCP Figma 1 ・ Internship ・ Internship Taipei, Taiwan ・ Taipei City, Taiwan ・ Taiwan 200 TWD",
-      "category": "design",
-      "first_seen": "2026-05-01",
-      "last_seen": "2026-05-17",
-      "deadline": "",
-      "skills": [
-        "Figma"
-      ],
       "eligibility": []
     },
     {
@@ -3163,7 +3213,7 @@
     },
     {
       "platform": "CakeResume",
-      "title": "【亞馬遜Amazon】電商實習生 (兼職、轉正機會) Amazon Project AssistantIntern（Part-time）",
+      "title": "【亞馬遜Amazon】電商實習生 (兼職、轉正機會) Amazon Project Assistant Intern（Part-time）",
       "company": "Hour Loop 飛輪電商",
       "location": "",
       "salary": "面議",
@@ -3171,7 +3221,7 @@
       "salary_type": "negotiable",
       "posted_at": "",
       "url": "https://www.cake.me/companies/hour-loop/jobs/f19e15",
-      "description": "Internship · ・ · Entry level · 【亞馬遜Amazon】電商實習生 (兼職、轉正機會) Amazon Project Assistant Intern （Part-time） Hour Loop 飛輪電商 【Hour Loop 飛輪電商】在2013年成立，並於2022年初在美國那斯達克上市。作為亞馬遜 (Amazon) 第三方賣家，我們的工作不只廠商開發，還包括商品上架",
+      "description": "Internship · ・ · Entry level · 【亞馬遜Amazon】電商 實習 生 (兼職、轉正機會) Amazon Project Assistant Intern（Part-time） Hour Loop 飛輪電商 【Hour Loop 飛輪電商】在2013年成立，並於2022年初在美國那斯達克上市。作為亞馬遜 (Amazon) 第三方賣家，我們的工作不只廠商開發，還包括商品上",
       "category": "operations",
       "first_seen": "2026-04-23",
       "last_seen": "2026-05-17",
@@ -3272,24 +3322,6 @@
       "eligibility": []
     },
     {
-      "platform": "CakeResume",
-      "title": "Unilever - Supply Chain InternationalInternship",
-      "company": "Vietnam Jobs Hub",
-      "location": "",
-      "salary": "面議",
-      "salary_min": null,
-      "salary_type": "negotiable",
-      "posted_at": "",
-      "url": "https://www.cake.me/companies/vietnam-jobs-hub/jobs/unilever-supply-chain-international-internship",
-      "description": "Full-time · ・ · Internship · Unilever - Supply Chain International Internship Vietnam Jobs Hub Mô tả chương trình:\nUnilever Intern ational (UI) is one the fastest-growing businesses within Unilever Gl",
-      "category": "supply_chain",
-      "first_seen": "2026-05-16",
-      "last_seen": "2026-05-17",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
       "platform": "104",
       "title": "*inhouse Hotel 薆悅酒店(台中館)-餐飲外場PT/在校實習生",
       "company": "薆悅酒店_薆樂商旅股份有限公司",
@@ -3320,6 +3352,24 @@
       "description": "*兼職起聘，通過考核試用期，可後續向公司再提出轉任正職申請\n\n[工作內容]\n1.人力資源相關作業。\n2.餐飲門市服務相關作業。\n\n[工作時間]\n06:30-22:00 時段內依公司規定排班\n\n[薪資、福利]\n試用期薪34000元/月，全勤4000元/月\n試用期滿37000元/月，全勤4000元/月\n正式職員依每季業績享分紅\n月休8日、享勞健保、6%勞退、分紅、年終獎金、生日禮金\n\n無經驗可，需輪調",
       "category": "hospitality",
       "first_seen": "2026-04-26",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "「成功牛排淡水店」_兼職夥伴/實習人員/二度就業",
+      "company": "大利石頭火鍋_大利食品有限公司",
+      "location": "新北市淡水區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/8m2ay",
+      "description": "外場兼職\r\n\r\n職務說明\r\n1.負責跑單、擺盤、送餐及聯繫內外場之工作。 \r\n2.負責客人帶位、點餐、送餐等工作。 \r\n3.於客人用餐完畢後，負責收拾碗盤與清理環境。 \r\n4.負責結帳、收銀之工作。\r\n5.提供顧客一切所需服務。\r\n6.負責維持餐廳內部清潔。\r\n7.餐廳物料補充。\r\n\r\n內場兼職\r\n\r\n職務說明：\r\n1.負責洗、剝、削、切各種食材，以完成烹飪的前置工作。 \r\n2.依照客人的點單，準",
+      "category": "hospitality",
+      "first_seen": "2026-05-09",
       "last_seen": "2026-05-17",
       "deadline": "",
       "skills": [],
@@ -3793,24 +3843,6 @@
       "skills": [
         "英文"
       ],
-      "eligibility": []
-    },
-    {
-      "platform": "CakeResume",
-      "title": "2026 TSMC DNAInternship",
-      "company": "TSMC 台積電",
-      "location": "",
-      "salary": "面議",
-      "salary_min": null,
-      "salary_type": "negotiable",
-      "posted_at": "",
-      "url": "https://www.cake.me/companies/tsmc/jobs/2026-tsmc-dna-internship",
-      "description": "Internship · ・ · Internship · 2026 TSMC DNA Internship TSMC 台積電 Established in 1987 and headquartered in Taiwan, TSMC pioneered the pure-play foundry business model with an exclusive focus on manufact",
-      "category": "other",
-      "first_seen": "2026-04-23",
-      "last_seen": "2026-05-17",
-      "deadline": "",
-      "skills": [],
       "eligibility": []
     }
   ]
