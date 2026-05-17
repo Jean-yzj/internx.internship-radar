@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T04:53:02",
+  "generated_at": "2026-05-17T08:11:44",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 175,
-    "new_today": 10,
+    "total": 199,
+    "new_today": 9,
     "by_platform": {
-      "104": 44,
+      "104": 68,
       "CakeResume": 17,
       "Yourator": 114
     }
@@ -28,14 +28,14 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 46
+      "count": 47
     },
     {
       "key": "data",
       "label": "資料分析",
       "emoji": "📊",
       "color": "#14b8a6",
-      "count": 2
+      "count": 4
     },
     {
       "key": "pm",
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 5
+      "count": 7
     },
     {
       "key": "consulting",
@@ -77,21 +77,21 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 34
+      "count": 35
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 5
+      "count": 11
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 7
+      "count": 10
     },
     {
       "key": "design",
@@ -105,14 +105,14 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 5
+      "count": 7
     },
     {
       "key": "accounting",
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 2
+      "count": 3
     },
     {
       "key": "education",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 22
+      "count": 25
     },
     {
       "key": "legal",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 2
+      "count": 3
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 24
+      "count": 26
     }
   ],
   "jobs": [
@@ -684,6 +684,24 @@
     },
     {
       "platform": "104",
+      "title": "網拍小幫手/實習生",
+      "company": "原動力量科技有限公司",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/76g0s",
+      "description": "1.奇摩、露天、蝦皮、momo、FB粉絲團、LINE@社群網路等...各大電商商品上下架與協助銷售處理 \n\n2.負責協助網拍商品包裝出貨、拆貨清點、整理貨架、網路客戶訂單包裝出貨、追縱訂單及處理客人訂單問題  \n\n3.網拍賣場維護，電話客服相關行政作業 ‧退貨處理 \n\n4.活動Banner、EDM的製作 (有創意且懂繪圖軟體更佳) \n\n5.主管交辦事務處理 \n\n6.日夜間部學生，碩生皆可，可依課表",
+      "category": "tech",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "U-Net 實習工程師/學生兼職工程師",
       "company": "愛普雲科技股份有限公司",
       "location": "台北市信義區",
@@ -1058,6 +1076,42 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "[115年下半年實習] 管理部人力資源處實習生(實習僅能選擇一項投遞)",
+      "company": "統一綜合證券股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/90zsg",
+      "description": "【實習內容】 \n1.協助人才管理資料分析與建置視覺化數據平台\n2.以M365工作自動化為主，建立HR日常管理數據儀表板，提供各單位人員管理資訊，以提升業務效能\n3.黑客松競賽行銷宣廣活動規劃與執行\n4.關鍵人才發展專案規劃、推動與執行\n5.雇主品",
+      "category": "data",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "[115年暑期實習] 管理部人力資源處實習生(實習僅能選擇一項投遞)",
+      "company": "統一綜合證券股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/90zo4",
+      "description": "【實習內容】 \n1.協助人才管理資料分析與建置視覺化數據平台。\n2.以M365工作自動化為主，建立HR日常管理數據儀表板，提供各單位人員管理資訊，以提升業務效能。\n3.黑客松競賽行銷宣廣活動規劃與執行。\n4.關鍵人才發展專案規劃、推動與執行。\n5",
+      "category": "data",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "Web3 Product Management Intern, OneSavie Lab",
       "company": "AIFT",
@@ -1236,6 +1290,46 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "[115年下半年實習] 金融商品部金融策略科實習生(實習僅能選擇一項投遞)",
+      "company": "統一綜合證券股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/90zqr",
+      "description": "【實習單位介紹】\n金融商品部為衍生性商品發行及交易單位，業務內容涵蓋認購(售)權證交易、結構型商品、指數投資證券(ETN)、可轉債套利及期權交易等，去除行情多空因素，並為公司帶來長期穩健獲利\n\n【實習內容】 \n1.量化回測與策略開發\n2.市場資料",
+      "category": "finance",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "[115年暑期實習]統一投顧實習生(實習僅能選擇一項投遞)",
+      "company": "統一綜合證券股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/90zoy",
+      "description": "【實習內容】 \n1.協助市場資料整理\n2.產業研究分析與撰寫研究報告\n3.自媒體影片製作協助\n\n【實習條件】 \n1.學歷：大四(含)以上\n2.科系：金融相關、理工科系須具備財務分析能力\n3.技能：Office、ChatGPT\n4.加分條件：投資相",
+      "category": "finance",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大四",
+        "大五",
+        "研究所"
+      ]
     },
     {
       "platform": "Yourator",
@@ -1822,6 +1916,26 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "行銷部工讀生/實習生",
+      "company": "千陽號旅行社有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/8we1j",
+      "description": "眾傳播等相關背景尤佳。\n經驗： 無正式工作經驗要求，但具備校園社團活動、實習或專案經驗者加分。\n技能： 熟悉基礎電腦操作，能流暢使用 Microsoft Office 或 Google Workspace（特別是 Excel/Sheets 的資料處",
+      "category": "marketing",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [
+        "Excel"
+      ],
+      "eligibility": []
+    },
+    {
       "platform": "CakeResume",
       "title": "行銷企劃實習生MarketingIntern",
       "company": "上策行銷有限公司 Bespo Marketing",
@@ -1985,6 +2099,29 @@
     },
     {
       "platform": "104",
+      "title": "[115年下半年實習] 管理部總務處實習生(實習僅能選擇一項投遞)",
+      "company": "統一綜合證券股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/90zso",
+      "description": "\t\n【實習內容】\n1.協助部門ESG活動規劃與執行\n2.協助職場安全及健康相關專案推動\n3.協助參獎簡報製作\n4.協助建立採購及費用相關財務資料表，推動流程數位化與資料治理作業\n\n【實習條件】\n1.學歷：大三(含)以上\n2.科系：科系不限\n3.技",
+      "category": "content",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四",
+        "大五",
+        "研究所"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "數位平台編輯實習生/工讀生",
       "company": "英商壹拾壹體育網有限公司台灣分公司",
       "location": "台北市大安區",
@@ -1996,6 +2133,101 @@
       "description": "Platform Editor（平台編輯）職務說明\n\n本職缺主要負責 DAZN 平台上的運動內容上架與呈現，讓內容更吸引人，同時確保播放與上線流程順暢。這個職位結合了「營運」與「內容編輯」兩大面向。\n\n工作內容\n\n營運\n\n-確保 DAZN 的直播與節目順利播放（排程、資料設定、串流品質、問題排除）\n\n-使用 CMS 設定直播與節目（標題、縮圖、播放設定等）\n\n-管理 DAZN 在合作平台上的內容，",
       "category": "content",
       "first_seen": "2026-05-01",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "2026年實習生專案",
+      "company": "SKM Park Outlets_大魯閣開發股份有限公司高雄分公司",
+      "location": "高雄市前鎮區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/85toy",
+      "description": "徵的就是你！\n不分科系、不限背景，只要你積極、負責，敢與人互動，我們都很期待你的加入！\n\n來這裡你會學到：\n－口語表達更穩更自然\n－如何在職場中溝通、協作、優雅處事\n－面對人不再緊張，越接觸越自在\n\n我們歡迎不怕生、願意學習、敢挑戰的你加入，一起把能力升級，把自己變成更亮眼的版本！\n\n1.【鈴鹿賽道樂園-設施營運】\n【遊樂設施】\n工作內容：遊樂設施操作；遊客引導與互動；遊樂設施例行性檢查、簡易保養",
+      "category": "content",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【遠傳電信】三峽文化實習襄理【月休10天】【歡迎無經驗者】",
+      "company": "金聚通訊行",
+      "location": "新北市三峽區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/8ra1b",
+      "description": "工作內容 ：\n迎賓接待、交機、銷售配件、銷貨結帳、跟客戶聊天(個性活潑開朗)。\n1.【薪酬福利】\n-門市人員無上限的業績獎金制度，讓付出與回報成正比\n-職務加給獎金。\n-工作滿一年以上享：生日禮金1,000、結婚禮金3,600、生育補貼6,000、喪葬補助3,100、職災津貼。\n-員工手機折扣及門號優惠。\n-特別假期、員工國內外旅遊、慶典聚餐等。\n【獎 金 類】年終獎金、三節獎金、激勵獎金、績效獎",
+      "category": "content",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "[115年暑期實習] 管理部總務處實習生(實習僅能選擇一項投遞)",
+      "company": "統一綜合證券股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/90zob",
+      "description": "【實習內容】 \n1.協助部門ESG活動規劃與執行\n2.協助職場安全及健康相關專案推動\n3.協助參獎簡報製作\n4.協助建立採購及費用相關財務資料表，推動流程數位化與資料治理作業\n\n【實習條件】 \n1.學歷：大三(含)以上\n2.科系：科系不限\n3.技",
+      "category": "content",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四",
+        "大五",
+        "研究所"
+      ]
+    },
+    {
+      "platform": "104",
+      "title": "引電修護實習生(內湖) 【無經驗/可培訓】",
+      "company": "Volvo_新凱汽車股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/84kpe",
+      "description": "【VOLVO 新凱汽車｜我們正在找的，就是你】\n您正在找一份穩定又有成就感的工作嗎？\n我們正在找一位手藝細膩、做事有責任感的夥伴，一起打造舒適、安全的座車體驗。\n\n一支短影音，也許能改變你的選擇——\n點我看影片：https://www.facebook.com/share/v/16hWNCQnqi/\n\n這不只是徵才，這是我們對夥伴的期待：\n「如果你～沒有如果，我們就是要你！」\n加入新凱，讓您與國際",
+      "category": "content",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【遠傳電信】蘆洲民族實習襄理【月休10天】【歡迎無經驗者】",
+      "company": "金聚通訊行",
+      "location": "新北市蘆洲區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/8ra19",
+      "description": "工作內容 ：\n迎賓接待、交機、銷售配件、銷貨結帳、跟客戶聊天(個性活潑開朗)。\n1.【薪酬福利】\n-門市人員無上限的業績獎金制度，讓付出與回報成正比\n-職務加給獎金。\n-工作滿一年以上享：生日禮金1,000、結婚禮金3,600、生育補貼6,000、喪葬補助3,100、職災津貼。\n-員工手機折扣及門號優惠。\n-特別假期、員工國內外旅遊、慶典聚餐等。\n【獎 金 類】年終獎金、三節獎金、激勵獎金、績效獎",
+      "category": "content",
+      "first_seen": "2026-04-26",
       "last_seen": "2026-05-17",
       "deadline": "",
       "skills": [],
@@ -2104,6 +2336,60 @@
       "description": "",
       "category": "bd_sales",
       "first_seen": "2026-04-28",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "銷售營運實習生",
+      "company": "香港商阿里巴巴香港電子商務有限公司台灣分公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/90zox",
+      "description": "果與建議；\n5. 工作細緻認真，具備良好的抗壓能力、溝通能力和團隊協作精神；具有較強的責任感和自我驅動力，能夠獨立完成任務並主動推進專案進度；對銷售營運工作有熱情，具備快速學習能力和業務敏感度。\n【加分項】：\n1. 有相關實習經驗，如銷售支援、數據",
+      "category": "bd_sales",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "BD商業開發實習生",
+      "company": "戰國策網路科技股份有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/8xkvv",
+      "description": "【工作時間】\n1.每週至少需到上班三天\n2.工作時間10:00-19:00（中間休息1小時）\n\n1. 透過電話開發潛在客戶，推廣、銷售短影音相關服務方案以及解答客戶相關疑問\n2. 進行專案之企劃、推行、導入、追蹤，並負責業務開發與整合管理。\n3. 負責所屬客戶的經營管理，並與支援團隊協調配合。\n4. 進行專案客戶的接洽與業務開發。\n5. 蒐集、分析客戶或產品之相關情報。\n6. 與研發、採購、生產等",
+      "category": "bd_sales",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【SKM Park Outlets 高雄草衙】顧客服務部/票務-長期工讀/假日工讀/實習生",
+      "company": "SKM Park Outlets_大魯閣開發股份有限公司高雄分公司",
+      "location": "高雄市前鎮區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/7h3ca",
+      "description": "◎◎我們將透過電話、104訊息、及E-mail與您聯繫，若有未接來電，請收104訊息、主動回電以利安排面試，謝謝◎◎\n\n您在SKM Park Outlets 高雄草衙的任務:\n1.遊樂設施票券銷售、票種類別解說 \n2.卡丁車場次安排及銷售 \n3.樂園駕照製作、顧客服務 \n4.客服中心服務(廣播、娃娃車/輪椅租借、停車折抵等)\n5.顧客意見處理與分析\n6.自營商品販售\n7.其他主管交辦事項\n\n\n\n在",
+      "category": "bd_sales",
+      "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "deadline": "",
       "skills": [],
@@ -2277,6 +2563,24 @@
     },
     {
       "platform": "104",
+      "title": "【旅遊部｜工讀生／實習生】招募中",
+      "company": "千陽號旅行社有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/90axa",
+      "description": "想進入旅遊業，但沒有相關經驗？\n這是一個從「行政支援 → 業務發展」的入門機會，\n適合想累積實務經驗、了解旅遊產業運作的你！\n 工作內容\n\n一、旅遊行政與業務支援\n\n協助製作報價單、合約等基本文書\n協助整理旅遊產品資料與行程內容\n操作客戶管理系統，建立與維護客戶資料\n協助帳務登記（收款、退款）與簡易對帳\n\n二、客戶服務與溝通協助\n\n接聽來電或訊息，提供基礎回覆與轉介\n協助業務了解客戶需求並記錄資訊",
+      "category": "hr",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "外語高手招募中！午晚班/計時人員(實習生可)【西門/西門2禮品店】(捷運西門站旁)",
       "company": "聖瑪莉_歐立食品股份有限公司",
       "location": "台北市中正區",
@@ -2288,6 +2592,24 @@
       "description": "\n§工作內容：\n1.銷售各式伴手禮、烘焙商品\n2.收銀服務(結帳/退稅)\n3.產品陳列擺設\n\n地點：西門捷運站1號出口旁",
       "category": "hr",
       "first_seen": "2026-04-26",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "人資實習生/工讀生 B53",
+      "company": "永慶房產集團_永慶房屋仲介股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/7bct9",
+      "description": "1. 人事行政事務協助\n2. 新進報到流程協助\n3. 新進人事資料催收/整理/檢核/Key in/掃描及歸檔\n4. 員工關係活動協助",
+      "category": "hr",
+      "first_seen": "2026-04-29",
       "last_seen": "2026-05-17",
       "deadline": "",
       "skills": [],
@@ -2346,6 +2668,26 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "審計人員/審計大四實習生",
+      "company": "勤成聯合會計師事務所",
+      "location": "台南市永康區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/90kag",
+      "description": "財稅簽報表查核、補助案查核",
+      "category": "accounting",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "104",
@@ -2731,6 +3073,24 @@
     },
     {
       "platform": "104",
+      "title": "【鈴鹿賽道樂園】遊樂設施-長期工讀/假日工讀/實習生",
+      "company": "SKM Park Outlets_大魯閣開發股份有限公司高雄分公司",
+      "location": "高雄市前鎮區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/7gfk7",
+      "description": "◎◎我們將透過電話、104訊息、及E-mail與您聯繫，若有未接來電，請收104訊息、主動回電以利安排面試，謝謝◎◎\n\n嚮往在樂園為大家帶來歡樂嗎?想創造與帶給每位顧客開心的遊樂體驗嗎?\n有夢想體驗樂園氛圍的工作環境嗎?想帶給大家快樂滿足的一天嗎?\n歡迎來鈴鹿賽道樂園加入我們!您是維持樂園設施營運重要的角色，\n提供顧客安全的設施體驗、可口的餐點及創造美好回憶!!\n\n您在鈴鹿賽道樂園的任務:\n1. ",
+      "category": "operations",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "儲備整體造型師/助理/實習",
       "company": "超脫攝影工作室",
       "location": "新北市板橋區",
@@ -2742,6 +3102,42 @@
       "description": "歡迎想成為造型師的你加入！！\n\n●免費的整體造型教學\n此職位可學習到新生兒、寶寶、兒童、父母、爺奶整體造型\n(便服、禮服、西服等各種服飾搭配)\n\n●直接擺脫學習階段的低薪資\n許多學習階段的初學者必須付出極大時間與精神甚至金錢，也可能被無限推拖升不起來，當造型師的路遙遙無期，放心吧！我們只想成為優質造型師搖籃。\n\n●練拍練化皆可申請\n公司提供場地免費申請練習，讓您更快有實戰經驗，加速您獨當一面。\n\n",
       "category": "operations",
       "first_seen": "2026-04-25",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【鈴鹿賽道樂園】遊樂設施/餐車-長期工讀/假日工讀/實習生",
+      "company": "SKM Park Outlets_大魯閣開發股份有限公司高雄分公司",
+      "location": "高雄市前鎮區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/8kruz",
+      "description": "◎◎我們將透過電話、104訊息、及E-mail與您聯繫，若有未接來電，請收104訊息、主動回電以利安排面試，謝謝◎◎\n\n嚮往在樂園為大家帶來歡樂嗎?想創造與帶給每位顧客開心的遊樂體驗嗎?\n有夢想體驗樂園氛圍的工作環境嗎?想帶給大家快樂滿足的一天嗎?\n歡迎來鈴鹿賽道樂園加入我們!您是維持樂園設施營運重要的角色，\n提供顧客安全的設施體驗、可口的餐點及創造美好回憶!!\n\n您在鈴鹿賽道樂園的任務:\n1. ",
+      "category": "operations",
+      "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "人力資源行政 實習生",
+      "company": "覓食國際餐飲企業有限公司",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/8n330",
+      "description": "\n[工作內容]\n1.一般文書資料處理工作。\n2.維護、更新、管理各類文件檔案。\n3.會議協調、安排與紀錄。\n4.協助同仁排班、請假、薪給待遇等人事相關作業處理。\n5.員工制服收發管理。\n6.視門市臨時情況，須有意願至門市現場支援。\n7.其他主管交代事項。\n\n[工作時間]\n09:00-18:00\n\n[薪資]\n試用期薪\n196/時+全勤獎金5/時 +勤勞獎金5/\n試用期滿\n200/時+全勤獎金5/時 ",
+      "category": "operations",
+      "first_seen": "2026-04-26",
       "last_seen": "2026-05-17",
       "deadline": "",
       "skills": [],
@@ -2906,6 +3302,24 @@
       "description": "1.餐廳現場服務。 \n2.餐廳現場清潔保養。 \n3.客房餐飲服務。 \n4.主管交代事項。\n\n上班地點:\n台中館：台中市東區台中路203號",
       "category": "hospitality",
       "first_seen": "2026-05-17",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "越南thực tập sinh實習生（海外餐飲儲備幹部計劃）",
+      "company": "覓食國際餐飲企業有限公司",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/6lwq9",
+      "description": "*兼職起聘，通過考核試用期，可後續向公司再提出轉任正職申請\n\n[工作內容]\n1.人力資源相關作業。\n2.餐飲門市服務相關作業。\n\n[工作時間]\n06:30-22:00 時段內依公司規定排班\n\n[薪資、福利]\n試用期薪34000元/月，全勤4000元/月\n試用期滿37000元/月，全勤4000元/月\n正式職員依每季業績享分紅\n月休8日、享勞健保、6%勞退、分紅、年終獎金、生日禮金\n\n無經驗可，需輪調",
+      "category": "hospitality",
+      "first_seen": "2026-04-26",
       "last_seen": "2026-05-17",
       "deadline": "",
       "skills": [],
@@ -3255,6 +3669,24 @@
     },
     {
       "platform": "104",
+      "title": "【雪物嚴選】日本租賃店實習生",
+      "company": "iSKI滑雪俱樂部_愛滑雪股份有限公司",
+      "location": "日本",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/8y830",
+      "description": "你的人生不只是工作，更是滑雪人生。 想在越後湯澤的粉雪中工作嗎？\n我們正在尋找願意挑戰自我、熱愛滑雪文化的夥伴，加入 iSKI Select 雪物嚴選的日本實習專案！ \n\n▍關於實習專案\n\n工作地點： 日本新潟縣越後湯澤 \n\n\n薪資待遇： 時薪",
+      "category": "other",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "日式Lounge bar外語實習服務人員",
       "company": "悅園餐廳",
       "location": "台北市中山區",
@@ -3284,6 +3716,24 @@
       "description": "1.學習展缸維護與水質管理，培養環境控管能力\n2.學習魚類與無脊椎動物的日常飼養與餌料準備\n3.協助撰寫與設計展缸解說牌資料，增進科普知識表達\n4.支援飼育團隊日常巡檢與工作，理解館內生物管理流程",
       "category": "other",
       "first_seen": "2026-05-10",
+      "last_seen": "2026-05-17",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【SKM Park Outlets 高雄草衙】顧客服務部/服務-長期工讀/假日工讀/實習生",
+      "company": "SKM Park Outlets_大魯閣開發股份有限公司高雄分公司",
+      "location": "高雄市前鎮區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-17",
+      "url": "https://www.104.com.tw/job/7gpwf",
+      "description": "◎◎我們將透過電話、104訊息、及E-mail與您聯繫，若有未接來電，請收104訊息、主動回電以利安排面試，謝謝◎◎\n\n\n【你/妳在SKM Park Outlets 高雄草衙的任務】\n1.會員卡申辦、全館活動諮詢、動線引導、娃娃車及輪椅租借、停車折抵等\n2.其他主管交辦事項\n\n\n在這裡您可以學到:\n除了自身口條訓練，也可以學到職場上的溝通技巧與應對方式，歡迎不怕生的你(妳)加入我們!\n\n★須配合假",
+      "category": "other",
+      "first_seen": "2026-05-17",
       "last_seen": "2026-05-17",
       "deadline": "",
       "skills": [],
