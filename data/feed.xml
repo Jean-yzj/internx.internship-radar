@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-05-27T05:15:03+00:00</updated>
+  <updated>2026-05-27T09:32:00+00:00</updated>
   <entry>
     <title>〔資訊實習〕系統開發/QA實習生 (JAVA) · 台新新光金控_台新國際商業銀行股份有限公司</title>
     <id>https://www.104.com.tw/job/6g0mi</id>
@@ -23,6 +23,14 @@
     <summary>地點：台北市南港區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>【台中市烏日區】暑期工讀生/實習生-鳥嘴潭淨水廠工程 · 中華工程股份有限公司</title>
+    <id>https://www.104.com.tw/job/9215k</id>
+    <link href="https://www.104.com.tw/job/9215k" />
+    <updated>2026-05-27T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台中市烏日區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>LEOTEK - AI模型應用實習生 · 光寶科技股份有限公司</title>
     <id>https://www.104.com.tw/job/8ywpf</id>
     <link href="https://www.104.com.tw/job/8ywpf" />
@@ -31,28 +39,12 @@
     <summary>地點：桃園市龍潭區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>【學生實習】營造工務-助理工程師(新北地區) · 馥華集團_馥羽開發建設股份有限公司</title>
-    <id>https://www.104.com.tw/job/8iag3</id>
-    <link href="https://www.104.com.tw/job/8iag3" />
+    <title>亞洲大學護理學院護理學系、長期照護學系誠徵約聘臨床實習指導教師 · 亞洲大學</title>
+    <id>https://www.104.com.tw/job/921fv</id>
+    <link href="https://www.104.com.tw/job/921fv" />
     <updated>2026-05-27T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：新北市板橋區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>全時工讀_工研院機械所_電動車馬達驅控軟體實習生(D400) · 工研院 _財團法人工業技術研究院</title>
-    <id>https://www.104.com.tw/job/8una5</id>
-    <link href="https://www.104.com.tw/job/8una5" />
-    <updated>2026-05-27T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：新竹縣竹東鎮 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>全時工讀_工研院機械所_影像處理暑期實習生(G100) · 工研院 _財團法人工業技術研究院</title>
-    <id>https://www.104.com.tw/job/9082h</id>
-    <link href="https://www.104.com.tw/job/9082h" />
-    <updated>2026-05-27T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：新竹縣竹東鎮 · 平台：104</summary>
+    <category term="healthcare" />
+    <summary>地點：台中市霧峰區 · 平台：104</summary>
   </entry>
   <entry>
     <title>【校園實習企劃】存匯櫃台實習人員 · 華泰商業銀行股份有限公司</title>
@@ -61,14 +53,6 @@
     <updated>2026-05-27T00:00:00+08:00</updated>
     <category term="finance" />
     <summary>地點：台北市中山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【2026暑期.學期實習專區】資訊部實習生(台北) · 新光產物保險股份有限公司</title>
-    <id>https://www.104.com.tw/job/8somi</id>
-    <link href="https://www.104.com.tw/job/8somi" />
-    <updated>2026-05-27T00:00:00+08:00</updated>
-    <category term="finance" />
-    <summary>地點：台北市松山區 · 平台：104</summary>
   </entry>
   <entry>
     <title>【全區建教合作】萊雅集團 - 美容顧問實習生 · 台灣萊雅股份有限公司</title>
@@ -87,12 +71,12 @@
     <summary>地點：台北市內湖區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>MAZDA 汽車實習銷售顧問(永康所) · 瑞達汽車股份有限公司</title>
-    <id>https://www.104.com.tw/job/74gnu</id>
-    <link href="https://www.104.com.tw/job/74gnu" />
+    <title>行銷公關實習助理 · 小東西來了行銷公關_小東西來了股份有限公司</title>
+    <id>https://www.104.com.tw/job/8qv9w</id>
+    <link href="https://www.104.com.tw/job/8qv9w" />
     <updated>2026-05-27T00:00:00+08:00</updated>
-    <category term="consulting" />
-    <summary>地點：台南市永康區 · 平台：104</summary>
+    <category term="marketing" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
   <entry>
     <title>【市場發展暨品牌行銷】實習生 · 勤業眾信聯合會計師事務所</title>
@@ -125,22 +109,6 @@
     <updated>2026-05-27T00:00:00+08:00</updated>
     <category term="content" />
     <summary>地點：台北市中山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>系統操作客服諮詢專員（可學生實習、夜間部學生）*南港區* · 潤新資訊股份有限公司</title>
-    <id>https://www.104.com.tw/job/91h60</id>
-    <link href="https://www.104.com.tw/job/91h60" />
-    <updated>2026-05-27T00:00:00+08:00</updated>
-    <category term="content" />
-    <summary>地點：台北市南港區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>台中失控大聯盟_ 失控大聯盟_晚班實習直播小幫手（晚上時段6-12點）（時薪200元起） · 城中門一品有限公司</title>
-    <id>https://www.104.com.tw/job/8xtdw</id>
-    <link href="https://www.104.com.tw/job/8xtdw" />
-    <updated>2026-05-27T00:00:00+08:00</updated>
-    <category term="content" />
-    <summary>地點：台中市西區 · 平台：104</summary>
   </entry>
   <entry>
     <title>台北-實習生 · 華泓國際運輸股份有限公司</title>
@@ -239,11 +207,43 @@
     <summary>地點：台北市中正區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>墾趣- 產品部助理 / 日班工讀#學生實習#學生打工 #夜間部 #行政助理 · 墾趣戶外旅遊用品_墾趣國際股份有限公司</title>
-    <id>https://www.104.com.tw/job/86sqf</id>
-    <link href="https://www.104.com.tw/job/86sqf" />
+    <title>【2026人才儲備計劃】專案實習生 · 慧誠智醫股份有限公司</title>
+    <id>https://www.104.com.tw/job/90foq</id>
+    <link href="https://www.104.com.tw/job/90foq" />
     <updated>2026-05-27T00:00:00+08:00</updated>
     <category term="operations" />
-    <summary>地點：新北市三重區 · 平台：104</summary>
+    <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>海外產品／專案管理實習生（非短期寒暑假實習） · 玩美行動股份有限公司</title>
+    <id>https://www.104.com.tw/job/8p5xp</id>
+    <link href="https://www.104.com.tw/job/8p5xp" />
+    <updated>2026-05-27T00:00:00+08:00</updated>
+    <category term="operations" />
+    <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>［行政人員］——歡迎應屆畢業生、相關科系實習生—— 同事好相處、環境氣氛佳—— · 堃閎有限公司</title>
+    <id>https://www.104.com.tw/job/8z18w</id>
+    <link href="https://www.104.com.tw/job/8z18w" />
+    <updated>2026-05-27T00:00:00+08:00</updated>
+    <category term="operations" />
+    <summary>地點：新北市新莊區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>全時實習生_工研院機械所_實驗實習生(M100) · 工研院 _財團法人工業技術研究院</title>
+    <id>https://www.104.com.tw/job/7lt8j</id>
+    <link href="https://www.104.com.tw/job/7lt8j" />
+    <updated>2026-05-27T00:00:00+08:00</updated>
+    <category term="legal" />
+    <summary>地點：新竹縣竹東鎮 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【Ukai】服務實習生 Service Intern-歡迎僑外生!! · The Ukai Taipei_御盟建設股份有限公司台北分公司</title>
+    <id>https://www.104.com.tw/job/848uh</id>
+    <link href="https://www.104.com.tw/job/848uh" />
+    <updated>2026-05-27T00:00:00+08:00</updated>
+    <category term="hospitality" />
+    <summary>地點：台北市信義區 · 平台：104</summary>
   </entry>
 </feed>
