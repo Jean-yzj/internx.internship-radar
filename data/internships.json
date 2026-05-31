@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T05:18:11",
+  "generated_at": "2026-05-31T08:35:56",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 177,
-    "new_today": 6,
+    "total": 185,
+    "new_today": 2,
     "by_platform": {
-      "104": 58,
+      "104": 66,
       "CakeResume": 17,
       "Yourator": 102
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 37
+      "count": 36
     },
     {
       "key": "data",
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 36
+      "count": 38
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 8
+      "count": 9
     },
     {
       "key": "bd_sales",
@@ -105,7 +105,7 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 4
+      "count": 5
     },
     {
       "key": "accounting",
@@ -119,21 +119,21 @@
       "label": "教育／輔導",
       "emoji": "📚",
       "color": "#0891b2",
-      "count": 8
+      "count": 9
     },
     {
       "key": "operations",
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 19
+      "count": 21
     },
     {
       "key": "legal",
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 4
+      "count": 6
     },
     {
       "key": "manufacturing",
@@ -699,24 +699,6 @@
       "description": "1.儀電工程看圖點料。\n2.儀電工程施工管理。\n3.儀電工程竣工圖修改。\n4.儀電工程送審請款資料製作。\n5.其他主管交辦事項。\n6.有工安或品管證照尤佳。\n7.無相關經驗可，經由公司教育訓練。",
       "category": "tech",
       "first_seen": "2026-04-25",
-      "last_seen": "2026-05-31",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "《IS-06》(實習/約聘)影像標記助理工程師",
-      "company": "義隆電子股份有限公司",
-      "location": "新竹縣寶山鄉",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-05-28",
-      "url": "https://www.104.com.tw/job/8iacg",
-      "description": "1.執行影像Label工作                   \n2.建立Database相關資訊",
-      "category": "tech",
-      "first_seen": "2026-04-23",
       "last_seen": "2026-05-31",
       "deadline": "",
       "skills": [],
@@ -1522,6 +1504,24 @@
     },
     {
       "platform": "104",
+      "title": "實習學分班（任何科系可報·協助獲取實習學分順利畢業）",
+      "company": "高宏資訊股份有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-31",
+      "url": "https://www.104.com.tw/job/6yf4t",
+      "description": "【公司簡介】\n高宏資訊為台灣頂尖資訊委外企業，秉持「培育人才、助力成長」的理念，長期為學生提供優質實習機會。本次實習學分班，專門為有學分需求的學生打造，不限科系、靈活安排，助力學生順利畢業，同時累積寶貴的企業實務經驗，為未来就業打下基礎。\n\n\n【",
+      "category": "marketing",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-05-31",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "媒體實習生（歡迎在校實習生）",
       "company": "恩亞出版社股份有限公司",
       "location": "台北市大安區",
@@ -1543,6 +1543,60 @@
       "eligibility": [
         "應屆"
       ]
+    },
+    {
+      "platform": "104",
+      "title": "行政&行銷助理 (打工實習可)",
+      "company": "果石_朗辰文創有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-31",
+      "url": "https://www.104.com.tw/job/90t1j",
+      "description": "【工作內容】\n．協助主管處理銷貨報表、對帳、記帳等業務。\n．協助公司寄件、用品採購、各項帳單繳款...外務。\n．進出口報關文件製作與整理。\n．協助行銷部門：內容行銷、社群行銷、通路行銷等。\n．商品標價、手串換線、修改手圍、包貨出貨等。\n．負責辦公室環境與設備之整潔、維護。\n．其他主管交辦事項或部門業務支援。\n\n-\n\n【應徵條件】\n．行銷熱誠：對行銷領域有熱誠。\n．人格特質： 誠實、自律、有高度職業",
+      "category": "marketing",
+      "first_seen": "2026-05-31",
+      "last_seen": "2026-05-31",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "學生實習-影像製作實習生",
+      "company": "神保映像有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-31",
+      "url": "https://www.104.com.tw/job/761dm",
+      "description": "1.參與紀錄片、廣告、節目等影像相關製作\n2.影視相關科系學生\n3.活潑熱情，守時負責任\n",
+      "category": "marketing",
+      "first_seen": "2026-05-31",
+      "last_seen": "2026-05-31",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "行銷企劃實習生 (畢業後經考核可轉正)",
+      "company": "上策行銷有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-31",
+      "url": "https://www.104.com.tw/job/7q6fx",
+      "description": "【Bespo實習生培訓系統】\n第一步、到職註冊\n\n第二步、口碑行銷基礎概念培訓\n\n第三步、初試考核 (到職滿一個月)\n考核六項口碑行銷基礎能力\n通過與否將決定實習生之去留\n通過者將進入第二階段完整寫文訓練\n\n第四步、二試考核(到職滿三個月)\n寫文",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-31",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1665,42 +1719,6 @@
       "description": "⭐歡迎大專院校同學投遞，請於履歷註明可配合之學年、學期、總實習時長⭐\n註明方式例如：111學年下學期2月1日起 至 112學年上學期9月1日止，共6個月。\n\n【集團品牌】\n1. 乾杯\n2. 老乾杯\n3. Kanpai Classic\n4. 和牛",
       "category": "marketing",
       "first_seen": "2026-05-31",
-      "last_seen": "2026-05-31",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "『月薪33k~35k』【乾杯-實習生專區-台中】熱烈歡迎你的加入KCLP0",
-      "company": "乾杯股份有限公司",
-      "location": "台中市西屯區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-05-31",
-      "url": "https://www.104.com.tw/job/7rqe8",
-      "description": "⭐歡迎各大專院校同學投遞，請於履歷註明可配合之學年、學期、總實習時長⭐\n註明方式例如：111學年下學期2月1日起 至 112學年上學期9月1日止，共6個月。\n\n【集團品牌】\n1. 乾杯\n2. 老乾杯\n3. Kanpai Classic\n4. 和牛",
-      "category": "marketing",
-      "first_seen": "2026-05-31",
-      "last_seen": "2026-05-31",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "行銷公關實習助理",
-      "company": "小東西來了行銷公關_小東西來了股份有限公司",
-      "location": "台北市大安區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-05-27",
-      "url": "https://www.104.com.tw/job/8qv9w",
-      "description": "【實習招募｜行銷公關實習助理】\n如果你對時尚精品與風格生活等議題有興趣，甚至是熱愛，善於溝通及擁有絕佳的臨場反應\n我們正在尋找對行銷、公關產業充滿熱情的你，一起加入我們充滿活力的團隊！\n\n職位名稱｜ 行銷公關實習助理\n實習期間｜ 即日起～（可彈性",
-      "category": "marketing",
-      "first_seen": "2026-05-27",
       "last_seen": "2026-05-31",
       "deadline": "",
       "skills": [],
@@ -1899,6 +1917,24 @@
       "posted_at": "2026-05-31",
       "url": "https://www.104.com.tw/job/63c71",
       "description": "Sogo百貨正在尋找具有服務熱忱且耐心的人員，負責協助顧客提供優質的服務體驗，並確保顧客在店內的需求得到滿足。工作內容如下:\n\n1.\t電梯內、外協助顧客安全進出：負責在電梯內外協助顧客進出，確保顧客能夠順利且安心地到達目的地。\n2.\t店內購物指引及諮詢：解答顧客有關店內資訊的各種問題，提升顧客的購物體驗。\n3.\t顧客意見受理：聆聽顧客的建議，並協助解決相關問題，確保顧客的需求得到滿足。\n4.\t協助",
+      "category": "content",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-05-31",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "引電修護實習生(內湖) 【無經驗/可培訓】",
+      "company": "Volvo_新凱汽車股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-31",
+      "url": "https://www.104.com.tw/job/84kpe",
+      "description": "【VOLVO 新凱汽車｜我們正在找的，就是你】\n您正在找一份穩定又有成就感的工作嗎？\n我們正在找一位手藝細膩、做事有責任感的夥伴，一起打造舒適、安全的座車體驗。\n\n一支短影音，也許能改變你的選擇——\n點我看影片：https://www.facebook.com/share/v/16hWNCQnqi/\n\n這不只是徵才，這是我們對夥伴的期待：\n「如果你～沒有如果，我們就是要你！」\n加入新凱，讓您與國際",
       "category": "content",
       "first_seen": "2026-04-24",
       "last_seen": "2026-05-31",
@@ -2198,6 +2234,24 @@
     },
     {
       "platform": "104",
+      "title": "人資實習生/工讀生 G53",
+      "company": "永慶房產集團_永慶房屋仲介股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-31",
+      "url": "https://www.104.com.tw/job/7bcte",
+      "description": "1. 人事行政事務協助\n2. 新進報到流程協助\n3. 新進人事資料催收/整理/檢核/Key in/掃描及歸檔\n4. 員工關係活動協助",
+      "category": "hr",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-05-31",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "HQ - 招募實習生 Recruitment Intern（汐止總部 / 新竹）",
       "company": "緯創軟體股份有限公司",
       "location": "新北市汐止區",
@@ -2389,6 +2443,24 @@
       "description": "1.櫃檯接待\n2.場內環境維持\n3.巡場器材教學\n週休二日天，每天排班8小時。\n最主要找的是喜歡運動健身。\n以及喜歡熱心幫助別人的妳。\n其他的交給我們培訓幫助各位成為教練幫助別人也讓自己有更好的生活～\n不需要出去填問券，更不用強迫推銷會員加入。",
       "category": "education",
       "first_seen": "2026-04-25",
+      "last_seen": "2026-05-31",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "培訓教練(實習可)",
+      "company": "摩爾菲特健康事業股份有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-31",
+      "url": "https://www.104.com.tw/job/7xbnw",
+      "description": "More Fit 致力於提供每位會員優質的運動環境、專業的教練、多樣化的課程和運動知識，在提升全民運動風氣的同時一併讓健身運動融入日常生活。\n\n更重要的是，透過培養運動習慣、改變飲食觀念，讓每次來運動的人都比昨日的自己更健康(More Fit)，除了能夠釋放生活中的負能量，也能藉由運動達到「健身」也「健心」的目的。\n\n【上班時間】\n\n1.早班：07:00-16:00(內含60分鐘休息)  \n2.中",
+      "category": "education",
+      "first_seen": "2026-04-26",
       "last_seen": "2026-05-31",
       "deadline": "",
       "skills": [],
@@ -2686,6 +2758,24 @@
     },
     {
       "platform": "104",
+      "title": "【蝦皮總部】每周3-5天＃長短期#行政PT #實習生#夜校生 #新鮮人#長短期#週休六日見紅休 pw",
+      "company": "全球人事顧問股份有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-31",
+      "url": "https://www.104.com.tw/job/8y2e7",
+      "description": "**總部職缺持續招募中，長短期//週一~周五排班//週排3~4天以上，日夜間部、學生實習、待役、備考生、二度就業，歡迎直接投履歷詢問職缺 ! **\n\n【工作內容】\n1. 協助日常報表的更新與統整，確保數據準確性。\n2. 資料蒐集、專案執行、表單統",
+      "category": "operations",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-05-31",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "行政實習生",
       "company": "勻相設計有限公司",
       "location": "台北市大同區",
@@ -2715,6 +2805,24 @@
       "description": "歡迎在校實習同學投遞履歷~\n一、協助營業賣場管理及執行。 \n二、常駐賣場提供顧客諮詢服務。 \n三、例行性工作執行及賣場維護。 \n四、網路社群(粉絲團、IG、FB等)行銷規劃、提案、執行能力\n五、非周休二日，早、晚、全天班排班制。",
       "category": "operations",
       "first_seen": "2026-04-24",
+      "last_seen": "2026-05-31",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "儲備整體造型師/助理/實習",
+      "company": "超脫攝影工作室",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-31",
+      "url": "https://www.104.com.tw/job/86mnn",
+      "description": "歡迎想成為造型師的你加入！！\n\n●免費的整體造型教學\n此職位可學習到新生兒、寶寶、兒童、父母、爺奶整體造型\n(便服、禮服、西服等各種服飾搭配)\n\n●直接擺脫學習階段的低薪資\n許多學習階段的初學者必須付出極大時間與精神甚至金錢，也可能被無限推拖升不起來，當造型師的路遙遙無期，放心吧！我們只想成為優質造型師搖籃。\n\n●練拍練化皆可申請\n公司提供場地免費申請練習，讓您更快有實戰經驗，加速您獨當一面。\n\n",
+      "category": "operations",
+      "first_seen": "2026-04-25",
       "last_seen": "2026-05-31",
       "deadline": "",
       "skills": [],
@@ -2812,6 +2920,26 @@
     },
     {
       "platform": "104",
+      "title": "實習生-進出貨管理",
+      "company": "瑪斯林國際有限公司",
+      "location": "新北市汐止區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-31",
+      "url": "https://www.104.com.tw/job/8oo7r",
+      "description": "各倉管組別工作~\n本職務為短期定期契約，兩個月一簽，最長不超過六個月，表現優良者可依興趣晉升為生管專員或產品專員。歡迎實習生及應屆畢業生加入我們團隊。\n",
+      "category": "legal",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-05-31",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "應屆"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "HQ－法務實習生 Legal Intern（汐止總部）",
       "company": "緯創軟體股份有限公司",
       "location": "新北市汐止區",
@@ -2877,6 +3005,24 @@
       "description": "1.審閱及撰擬書狀、各類契約、意見書、存證信函等\n2.研究法律問題、原理及其相關特殊法律或法院判決\n3.跟隨指導律師開庭、開會，增加實務經驗。\n4.協助與所外機關溝通及至行政機關或法院處理非訴訟性質之相關事務及文書處理\n5.其他主管交辦事項\n\n",
       "category": "legal",
       "first_seen": "2026-05-05",
+      "last_seen": "2026-05-31",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "圓矩法律事務所",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-30",
+      "url": "https://www.104.com.tw/job/7nim5",
+      "description": "圓矩法律事務所【#實習律師】徵才，誠摯邀請您加入\n\n圓矩法律事務所，由擁有台美頂尖法學院背景之青壯年律師共同組成，兼具訴訟與非訟案源，每人都將自己法學知識與經驗注入在法律實踐中。我們期待能透過實習律師找到長久合作的夥伴。 \n\n▶ 多元案件\n我們提",
+      "category": "legal",
+      "first_seen": "2026-05-06",
       "last_seen": "2026-05-31",
       "deadline": "",
       "skills": [],
