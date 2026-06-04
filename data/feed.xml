@@ -5,7 +5,15 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-06-04T09:45:14+00:00</updated>
+  <updated>2026-06-04T14:40:23+00:00</updated>
+  <entry>
+    <title>茁思科技 AI 流程創新實習計畫（學分實習） · 茁思科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/92cx5</id>
+    <link href="https://www.104.com.tw/job/92cx5" />
+    <updated>2026-06-04T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：新北市板橋區 · 平台：104</summary>
+  </entry>
   <entry>
     <title>AI應用實習生 · 德和月國際科技股份有限公司</title>
     <id>https://www.104.com.tw/job/92c41</id>
@@ -21,6 +29,14 @@
     <updated>2026-06-04T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：台北市北投區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>實習生 (機器手臂/ARM軟體開發工程師 ) · 耐思尼股份有限公司</title>
+    <id>https://www.104.com.tw/job/8x2zu</id>
+    <link href="https://www.104.com.tw/job/8x2zu" />
+    <updated>2026-06-04T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：新竹縣竹北市 · 平台：104</summary>
   </entry>
   <entry>
     <title>【2026實習】Robotics Software Architecture &amp; Systems Intern_Delta Robotics Innovation Center (Taipei) · 台達電子工業股份有限公司 _DELTA ELECTRONICS INC.</title>
@@ -229,21 +245,5 @@
     <updated>2026-06-04T00:00:00+08:00</updated>
     <category term="hr" />
     <summary>地點：台北市信義區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>(6個月)財務出納實習生 Intern - (Non-Technical) (11700) · 美商泰瑞達有限公司台灣分公司</title>
-    <id>https://www.104.com.tw/job/92bpp</id>
-    <link href="https://www.104.com.tw/job/92bpp" />
-    <updated>2026-06-04T00:00:00+08:00</updated>
-    <category term="accounting" />
-    <summary>地點：新竹縣竹北市 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>會計實習生 (台北所) · 實美聯合會計師事務所</title>
-    <id>https://www.104.com.tw/job/69o74</id>
-    <link href="https://www.104.com.tw/job/69o74" />
-    <updated>2026-06-04T00:00:00+08:00</updated>
-    <category term="accounting" />
-    <summary>地點：台北市中正區 · 平台：104</summary>
   </entry>
 </feed>
