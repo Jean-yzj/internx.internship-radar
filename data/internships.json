@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T08:25:36",
+  "generated_at": "2026-06-06T13:11:52",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 184,
-    "new_today": 1,
+    "total": 190,
+    "new_today": 4,
     "by_platform": {
-      "104": 74,
+      "104": 80,
       "CakeResume": 15,
       "Yourator": 95
     }
@@ -21,14 +21,14 @@
       "label": "工程（機電）",
       "emoji": "🔧",
       "color": "#0369a1",
-      "count": 3
+      "count": 4
     },
     {
       "key": "tech",
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 38
+      "count": 39
     },
     {
       "key": "data",
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 34
+      "count": 35
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 8
+      "count": 9
     },
     {
       "key": "bd_sales",
@@ -105,7 +105,7 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 4
+      "count": 5
     },
     {
       "key": "accounting",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 4
+      "count": 6
     },
     {
       "key": "research",
@@ -168,10 +168,33 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 23
+      "count": 22
     }
   ],
   "jobs": [
+    {
+      "platform": "104",
+      "title": "電控研發實習生",
+      "company": "太陽智能有限公司",
+      "location": "新北市中和區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-06",
+      "url": "https://www.104.com.tw/job/92f57",
+      "description": "負責感測器（Sensors）配線、接線與訊號測試。\n協助實驗數據與系統運作之資料紀錄、整理與分析。\n執行基本控制邏輯編寫與測試（如微控制器應用）。\n參與團隊組件可行性討論，協助技術文件整理。\n協助外部廠商接洽（如組件詢價、規格確認、打樣追蹤）。\n業界主流 PLC（可程式邏輯控制器）操作與程式撰寫學習。\n\n【條件要求】\n接受身份： 在校學生（大三、大四或碩士班尤佳）、應屆畢業生\n科系要求： 電機工程",
+      "category": "engineering",
+      "first_seen": "2026-06-06",
+      "last_seen": "2026-06-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四",
+        "研究所",
+        "應屆"
+      ]
+    },
     {
       "platform": "104",
       "title": "【實習專區】半導體設備裝機－實習副工程師 (EGS 新竹/台中/台南)",
@@ -594,6 +617,24 @@
     },
     {
       "platform": "104",
+      "title": "機構設計實習生",
+      "company": "太陽智能有限公司",
+      "location": "新北市中和區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-06",
+      "url": "https://www.104.com.tw/job/92f56",
+      "description": "負責電池槽（Battery Pack / Enclosure）及相關結構件之 3D 繪圖與結構設計。\n支架、固定件及周邊機構件之研發與優化。\n熱管理系統之流道設計（Cooling Channels）與結構整合。\n進行組件可行性評估（DFM）與跨部門/產線組裝可行性討論。\n編製與維護產品物料清單（BOM 表）、工程圖面及技術文件。\n負責外部加工廠商接洽、試作打樣打樣追蹤、詢價與發包。\n\n【條件要求】",
+      "category": "tech",
+      "first_seen": "2026-06-06",
+      "last_seen": "2026-06-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【實習專區】全端工程師 - 實習副工程師( HPC 台中 )",
       "company": "漢民科技股份有限公司",
       "location": "台中市西屯區",
@@ -798,6 +839,24 @@
     },
     {
       "platform": "104",
+      "title": "[遠端實習]-軟體工程師-Web前端/後端網頁Full Stack Web Software Engineer",
+      "company": "智見科技股份有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-06",
+      "url": "https://www.104.com.tw/job/8tc51",
+      "description": "長期實習（非寒暑假而已），每週至少3天，需要超過24小時以上工時。\n若工作夠優秀，會轉為正職，並可能優先獲得研發替代役資格。\n\n智見科技股份有限公司致力於科技融入日常，讓所有人都能輕鬆創作、簡單生活。用最簡單的方式將美感帶入生活，希望能讓使用者提",
+      "category": "tech",
+      "first_seen": "2026-05-01",
+      "last_seen": "2026-06-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "誠徵『組裝/測試/包裝 作業員/技術員 (日班)』(學生實習可)",
       "company": "思創數位科技股份有限公司",
       "location": "新北市中和區",
@@ -813,26 +872,6 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "新竹科學園區_大四實習生 (大四全學年或大四下學期)",
-      "company": "DAS Asia_香港商達思系統股份有限公司台灣分公司",
-      "location": "新竹市",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-06-01",
-      "url": "https://www.104.com.tw/job/8vp3r",
-      "description": "客戶廠區端駐廠工作，協助工程師從事 local scrubber 機台裝機、保養維護及其他客戶服務。\n1.協助工程師執行機台設備維修工作，提供客戶即時有效率之服務。\n2.協助工程師執行機台設備巡檢及保養工作，確保機台發揮正常功能，降低故障率。\n3.協助工程師現場各項支援工作，以達成客戶滿意。\n4.協助工程師執行維修合約內之工作內容，以達成客戶滿意。\n\n",
-      "category": "tech",
-      "first_seen": "2026-04-29",
-      "last_seen": "2026-06-06",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大四"
-      ]
     },
     {
       "platform": "CakeResume",
@@ -1598,6 +1637,24 @@
     },
     {
       "platform": "104",
+      "title": "工讀生 / 實習生 / 學生",
+      "company": "聖翔力學企業社",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-06",
+      "url": "https://www.104.com.tw/job/8sht1",
+      "description": "1.協助車輛維修與改裝流程\n\n2.環境與工具整理\n\n3.馬力機操作與測試輔助\n\n4.車輛拍照、紀錄改裝過程\n\n5.社群貼文/拍攝支援 (非必要)\n\n6.主管交辦事項\n",
+      "category": "marketing",
+      "first_seen": "2026-05-30",
+      "last_seen": "2026-06-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "美髮實習師",
       "company": "Hairms_海爾美髮設計工作室",
       "location": "台中市北區",
@@ -1991,6 +2048,24 @@
       "description": "【老王炸烤】短影音實習生（打工兼職可）招募中！\n我們不找現成的大師，我們要找的是對社群有熱情、想在影音領域「玩真的」夥伴！\n在這裡，你不是來搬貨，是來學習如何成為頂尖的影音創作者。\n公司粉專: https://www.instagram.com/",
       "category": "content",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-06-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【校外實習】九九峰園區 實習生 (半年/一年)",
+      "company": "薰衣草森林股份有限公司",
+      "location": "南投縣草屯鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-06",
+      "url": "https://www.104.com.tw/job/8smor",
+      "description": "薰衣草森林實習生歡迎您來報名唷~\n目前我們提供以下半年/一年制至職場的實習機會，\n工作的內容包含【園區體驗服務員、餐廳接待服務員、吧檯飲料魔法師、\n商品分享員、售票服務員】，畢業後也可以銜接就業，歡迎您的加入~!\n\n實習待遇福利：\n☆實習津貼優於",
+      "category": "content",
+      "first_seen": "2026-05-05",
       "last_seen": "2026-06-06",
       "deadline": "",
       "skills": [],
@@ -2409,6 +2484,24 @@
       "description": "按讚並追蹤\"台達Delta Career\"FB粉絲專頁，讓您更快掌握台達職缺脈動！\nhttps://www.facebook.com/deltacareer\n\n2026台達實習招募熱烈進行中，歡迎你/妳與我們一起進步成長！\n\n◎工作職掌\n1. 招",
       "category": "hr",
       "first_seen": "2026-05-14",
+      "last_seen": "2026-06-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "時薪+20元《時薪225元起》【日商壽司郎】台北民權建國店-兼職人員★歡迎暑期打工、長期打工、二度就業、學生實習★",
+      "company": "台灣壽司郎股份有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-05-21",
+      "url": "https://www.104.com.tw/job/780to",
+      "description": "⭕復職同仁大歡迎\n離職未滿三個月者享有：\n▪年資累計\n▪體檢費用補助\n▪薪資照舊計算\n\n⭕招募條件\n▪職前教育訓練，歡迎無經驗者加入!!\n▪歡迎暑期打工、二度就業、學生實習、長期打工\n▪彈性排班：08:30~23:30（每日至少排班4小時，請於面",
+      "category": "hr",
+      "first_seen": "2026-06-04",
       "last_seen": "2026-06-06",
       "deadline": "",
       "skills": [],
@@ -3032,6 +3125,24 @@
     },
     {
       "platform": "104",
+      "title": "【成真咖啡】餐飲服務人員 桃園藝文町店(彈性排班/可配合校外實習/協助外籍生工作證申請)",
+      "company": "成真咖啡_王維咖啡國際有限公司",
+      "location": "桃園市桃園區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-06",
+      "url": "https://www.104.com.tw/job/65t2f",
+      "description": "❤️歡迎對於咖啡、餐飲、有興趣的夥伴加入成真咖啡大家庭❤️\n成真為社會企業，也是全台第一B型企業咖啡廳\n讓您的工作除了學習與成長，也具備對於關懷社會與回饋的意念!!!\n\n✨擁有多項福利\n#成真獨有「每月績效分紅」\n#上班免費供餐(成真餐飲)\n#生日餐招待\n#全勤獎金1000元\n#員工消費優惠\n#員工海外旅遊\n#育兒津貼\n#外籍生可協助申請工作證\n\n✋在這裡你可以\n#通過服務考核加薪$1500\n#學",
+      "category": "hospitality",
+      "first_seen": "2026-06-06",
+      "last_seen": "2026-06-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "飯店實習主任/主任",
       "company": "藝築文旅有限公司",
       "location": "台北市中正區",
@@ -3061,6 +3172,24 @@
       "description": "『工作內容』\n\t1. 依照標準流程進行餐點製作，確保出餐品質與穩定度。\n\t2. 執行各項備料作業（切配、分裝、保存），維持食材品質。\n\t3. 負責出餐節奏掌控，與外場協作確保餐點順暢送達。\n\t4. 操作廚房設備（含炸台、洗碗機等），並維持設備正常運作。\n\t5. 維持工作區域清潔與衛生，符合食品安全標準。\n\t6. 支援內場各站位工作，維持整體運作效率。\n\n我們提供完整培訓制度，從基礎開始，逐步培養你",
       "category": "hospitality",
       "first_seen": "2026-04-25",
+      "last_seen": "2026-06-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【校外實習】九九峰園區 廚房實習生 (半年/一年)",
+      "company": "薰衣草森林股份有限公司",
+      "location": "南投縣草屯鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-06",
+      "url": "https://www.104.com.tw/job/8smo6",
+      "description": "薰衣草森林實習生歡迎您來報名唷~\n目前我們提供以下半年/一年制至職場的實習機會，\n針對具備廚部經驗及技能的料理魔法師們，歡迎您的加入~!\n\n1.香草餐廳(西式料理)    2.就餐廳(西式料理)    3.心之芳庭 (中式料理)\n\n實習待遇福利：",
+      "category": "hospitality",
+      "first_seen": "2026-06-06",
       "last_seen": "2026-06-06",
       "deadline": "",
       "skills": [],
@@ -3483,26 +3612,6 @@
       "eligibility": [
         "大四",
         "應屆"
-      ]
-    },
-    {
-      "platform": "104",
-      "title": "【2nd STREET日本最大二手店】置地桃園小檜溪店-門市兼職人員(可配合學生實習)",
-      "company": "2ndSTREET_台灣極沃股份有限公司",
-      "location": "桃園市桃園區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-06-05",
-      "url": "https://www.104.com.tw/job/91qb4",
-      "description": "喜愛與人互動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！",
-      "category": "other",
-      "first_seen": "2026-05-19",
-      "last_seen": "2026-06-06",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大二"
       ]
     },
     {
