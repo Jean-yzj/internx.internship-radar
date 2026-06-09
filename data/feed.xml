@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-06-09T09:26:33+00:00</updated>
+  <updated>2026-06-09T14:30:23+00:00</updated>
   <entry>
     <title>【線上面試】設備實習生(學期/學年實習) · 環鴻科技股份有限公司</title>
     <id>https://www.104.com.tw/job/8lrw4</id>
@@ -39,17 +39,17 @@
     <summary>地點：台北市內湖區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>實習生 / 工讀生 / 網站維護 · 司騰達股份有限公司</title>
-    <id>https://www.104.com.tw/job/8stjr</id>
-    <link href="https://www.104.com.tw/job/8stjr" />
-    <updated>2026-06-09T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：新北市中和區 · 平台：104</summary>
-  </entry>
-  <entry>
     <title>[台北]資料工程師實習生（AI &amp; BI） · 台灣新蛋股份有限公司</title>
     <id>https://www.104.com.tw/job/90be7</id>
     <link href="https://www.104.com.tw/job/90be7" />
+    <updated>2026-06-09T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>AI Marketing Assistant (Internship, part-time) · 犀動智能科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/7yrd0</id>
+    <link href="https://www.104.com.tw/job/7yrd0" />
     <updated>2026-06-09T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：台北市內湖區 · 平台：104</summary>
@@ -103,20 +103,20 @@
     <summary>地點：新北市中和區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>【實習生】機構設計工程師(士林)(全學年) · Inventec_英業達股份有限公司</title>
-    <id>https://www.104.com.tw/job/7pais</id>
-    <link href="https://www.104.com.tw/job/7pais" />
-    <updated>2026-06-09T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台北市士林區 · 平台：104</summary>
-  </entry>
-  <entry>
     <title>【長期實習】電子商務實習生 · 麗嬰房股份有限公司</title>
     <id>https://www.104.com.tw/job/8b14c</id>
     <link href="https://www.104.com.tw/job/8b14c" />
     <updated>2026-06-09T00:00:00+08:00</updated>
     <category term="data" />
     <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>實習生/長期工讀生 · 旺合創意行銷有限公司</title>
+    <id>https://www.104.com.tw/job/90jd2</id>
+    <link href="https://www.104.com.tw/job/90jd2" />
+    <updated>2026-06-09T00:00:00+08:00</updated>
+    <category term="finance" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
   <entry>
     <title>渣打銀行SC Mobile 數位服務大使暑期實習計畫(分發地點: 苗栗地區) · 渣打國際商業銀行股份有限公司</title>
@@ -173,6 +173,14 @@
     <updated>2026-06-09T00:00:00+08:00</updated>
     <category term="marketing" />
     <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>行銷公關部實習生  PR &amp; Marketing Intern · 金普頓大安酒店 Kimpton Da An / The Tavernist_英屬維京群島商卓誠投資有限公司台灣分公司大安營業處</title>
+    <id>https://www.104.com.tw/job/7pej4</id>
+    <link href="https://www.104.com.tw/job/7pej4" />
+    <updated>2026-06-09T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
   <entry>
     <title>文城板橋教室-補習班行銷企劃組長【實習】 · 臺北市私立文城文理短期補習班</title>
@@ -237,13 +245,5 @@
     <updated>2026-06-09T00:00:00+08:00</updated>
     <category term="content" />
     <summary>地點：台北市南港區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>暑期實習－人資助理 · 大瓏企業股份有限公司</title>
-    <id>https://www.104.com.tw/job/92i1r</id>
-    <link href="https://www.104.com.tw/job/92i1r" />
-    <updated>2026-06-09T00:00:00+08:00</updated>
-    <category term="hr" />
-    <summary>地點：新北市土城區 · 平台：104</summary>
   </entry>
 </feed>
