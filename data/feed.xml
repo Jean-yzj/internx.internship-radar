@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-06-09T05:05:57+00:00</updated>
+  <updated>2026-06-09T09:26:33+00:00</updated>
   <entry>
     <title>【線上面試】設備實習生(學期/學年實習) · 環鴻科技股份有限公司</title>
     <id>https://www.104.com.tw/job/8lrw4</id>
@@ -71,6 +71,14 @@
     <summary>地點：高雄市楠梓區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>【實習生專區】Data Engineer Intern · (台泥)臺灣水泥股份有限公司</title>
+    <id>https://www.104.com.tw/job/90g32</id>
+    <link href="https://www.104.com.tw/job/90g32" />
+    <updated>2026-06-09T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>AI Architecture Intern(人工智慧架構設計實習生) · 巨量移動科技股份有限公司</title>
     <id>https://www.104.com.tw/job/8bk2n</id>
     <link href="https://www.104.com.tw/job/8bk2n" />
@@ -103,14 +111,6 @@
     <summary>地點：台北市士林區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>汽車服務廠鈑金技師 (在校實習生亦可) · 上立汽車股份有限公司</title>
-    <id>https://www.104.com.tw/job/7j7ti</id>
-    <link href="https://www.104.com.tw/job/7j7ti" />
-    <updated>2026-06-09T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台中市西屯區 · 平台：104</summary>
-  </entry>
-  <entry>
     <title>【長期實習】電子商務實習生 · 麗嬰房股份有限公司</title>
     <id>https://www.104.com.tw/job/8b14c</id>
     <link href="https://www.104.com.tw/job/8b14c" />
@@ -119,12 +119,44 @@
     <summary>地點：台北市內湖區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>[台北]AI數據分析實習生(Data Science) · 台灣新蛋股份有限公司</title>
-    <id>https://www.104.com.tw/job/90b1k</id>
-    <link href="https://www.104.com.tw/job/90b1k" />
+    <title>渣打銀行SC Mobile 數位服務大使暑期實習計畫(分發地點: 苗栗地區) · 渣打國際商業銀行股份有限公司</title>
+    <id>https://www.104.com.tw/job/92i6y</id>
+    <link href="https://www.104.com.tw/job/92i6y" />
     <updated>2026-06-09T00:00:00+08:00</updated>
-    <category term="data" />
-    <summary>地點：台北市內湖區 · 平台：104</summary>
+    <category term="finance" />
+    <summary>地點：苗栗縣苗栗市 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>渣打銀行SC Mobile 數位服務大使暑期實習計畫(分發地點: 新竹地區) · 渣打國際商業銀行股份有限公司</title>
+    <id>https://www.104.com.tw/job/92i6w</id>
+    <link href="https://www.104.com.tw/job/92i6w" />
+    <updated>2026-06-09T00:00:00+08:00</updated>
+    <category term="finance" />
+    <summary>地點：新竹市 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>渣打銀行SC Mobile 數位服務大使暑期實習計畫(分發地點: 桃園地區) · 渣打國際商業銀行股份有限公司</title>
+    <id>https://www.104.com.tw/job/92hmz</id>
+    <link href="https://www.104.com.tw/job/92hmz" />
+    <updated>2026-06-09T00:00:00+08:00</updated>
+    <category term="finance" />
+    <summary>地點：桃園市桃園區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>實習生 Intern · 覓食顧問股份有限公司</title>
+    <id>https://www.104.com.tw/job/92iet</id>
+    <link href="https://www.104.com.tw/job/92iet" />
+    <updated>2026-06-09T00:00:00+08:00</updated>
+    <category term="consulting" />
+    <summary>地點：新北市三重區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>實習生 Intern · 覓食顧問股份有限公司</title>
+    <id>https://www.104.com.tw/job/92iep</id>
+    <link href="https://www.104.com.tw/job/92iep" />
+    <updated>2026-06-09T00:00:00+08:00</updated>
+    <category term="consulting" />
+    <summary>地點：新北市三重區 · 平台：104</summary>
   </entry>
   <entry>
     <title>彰化市-門市服務專員-產學實習生 · 燦坤實業股份有限公司</title>
@@ -143,6 +175,14 @@
     <summary>地點：台北市內湖區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>文城板橋教室-補習班行銷企劃組長【實習】 · 臺北市私立文城文理短期補習班</title>
+    <id>https://www.104.com.tw/job/92ikt</id>
+    <link href="https://www.104.com.tw/job/92ikt" />
+    <updated>2026-06-09T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：新北市板橋區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>行銷實習生 · 巨量移動科技股份有限公司</title>
     <id>https://www.104.com.tw/job/8owqh</id>
     <link href="https://www.104.com.tw/job/8owqh" />
@@ -159,6 +199,14 @@
     <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>行銷實習生 · 橡木桶洋酒股份有限公司</title>
+    <id>https://www.104.com.tw/job/927tz</id>
+    <link href="https://www.104.com.tw/job/927tz" />
+    <updated>2026-06-09T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>Norns卡通生活百貨【義大outlet 】兼職夥伴｜PT｜工讀｜學生實習 · Norns_樂恩仕股份有限公司</title>
     <id>https://www.104.com.tw/job/8n8gj</id>
     <link href="https://www.104.com.tw/job/8n8gj" />
@@ -167,12 +215,12 @@
     <summary>地點：高雄市大樹區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>【2026暑期實習計畫】品牌行銷實習生 · TVBS_聯利媒體股份有限公司</title>
-    <id>https://www.104.com.tw/job/8z0sp</id>
-    <link href="https://www.104.com.tw/job/8z0sp" />
+    <title>電商實習生 · 寶貝友股份有限公司</title>
+    <id>https://www.104.com.tw/job/8wmzw</id>
+    <link href="https://www.104.com.tw/job/8wmzw" />
     <updated>2026-06-09T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：台北市內湖區 · 平台：104</summary>
+    <category term="content" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
   <entry>
     <title>【2026年一年期實習專區】加值及運輸管理部_實習生(新豐) · 新竹物流股份有限公司</title>
@@ -183,67 +231,19 @@
     <summary>地點：新竹縣新豐鄉 · 平台：104</summary>
   </entry>
   <entry>
-    <title>三商家購Simple Mart 【神岡神岡店】門市實習生 · 美廉社_三商家購股份有限公司</title>
-    <id>https://www.104.com.tw/job/8o2ec</id>
-    <link href="https://www.104.com.tw/job/8o2ec" />
+    <title>3D互動多媒體實習生 · 金展創意有限公司</title>
+    <id>https://www.104.com.tw/job/92i7a</id>
+    <link href="https://www.104.com.tw/job/92i7a" />
+    <updated>2026-06-09T00:00:00+08:00</updated>
+    <category term="content" />
+    <summary>地點：台北市南港區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>暑期實習－人資助理 · 大瓏企業股份有限公司</title>
+    <id>https://www.104.com.tw/job/92i1r</id>
+    <link href="https://www.104.com.tw/job/92i1r" />
     <updated>2026-06-09T00:00:00+08:00</updated>
     <category term="hr" />
-    <summary>地點：台中市神岡區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>實習生 · 高平聯合會計師事務所</title>
-    <id>https://www.104.com.tw/job/37yjt</id>
-    <link href="https://www.104.com.tw/job/37yjt" />
-    <updated>2026-06-09T00:00:00+08:00</updated>
-    <category term="accounting" />
-    <summary>地點：台北市中山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>會計行政工讀生、學生實習 · 冠富稅務記帳士事務所</title>
-    <id>https://www.104.com.tw/job/82tmi</id>
-    <link href="https://www.104.com.tw/job/82tmi" />
-    <updated>2026-06-09T00:00:00+08:00</updated>
-    <category term="accounting" />
-    <summary>地點：台中市北屯區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>[Internship] Accounting Intern 會計部實習生 (At least 1 year) · Medtronic (Taiwan) Ltd._美敦力醫療產品股份有限公司</title>
-    <id>https://www.104.com.tw/job/80xry</id>
-    <link href="https://www.104.com.tw/job/80xry" />
-    <updated>2026-06-09T00:00:00+08:00</updated>
-    <category term="accounting" />
-    <summary>地點：台北市松山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>專案管理實習-中階 · 巨量移動科技股份有限公司</title>
-    <id>https://www.104.com.tw/job/8bk2v</id>
-    <link href="https://www.104.com.tw/job/8bk2v" />
-    <updated>2026-06-09T00:00:00+08:00</updated>
-    <category term="operations" />
-    <summary>地點：台北市內湖區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>美編暨行政助理(學生二度就業實習皆可) · 峰辰股份有限公司</title>
-    <id>https://www.104.com.tw/job/8d08a</id>
-    <link href="https://www.104.com.tw/job/8d08a" />
-    <updated>2026-06-09T00:00:00+08:00</updated>
-    <category term="operations" />
-    <summary>地點：新北市三重區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>實習律師 · 商律管理顧問有限公司</title>
-    <id>https://www.104.com.tw/job/92gb6</id>
-    <link href="https://www.104.com.tw/job/92gb6" />
-    <updated>2026-06-09T00:00:00+08:00</updated>
-    <category term="legal" />
-    <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>SerDes/PLL 數位電路設計-中階實習生 · 巨量移動科技股份有限公司</title>
-    <id>https://www.104.com.tw/job/8zz4j</id>
-    <link href="https://www.104.com.tw/job/8zz4j" />
-    <updated>2026-06-09T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>地點：台北市內湖區 · 平台：104</summary>
+    <summary>地點：新北市土城區 · 平台：104</summary>
   </entry>
 </feed>
