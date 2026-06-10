@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-06-10T09:42:20+00:00</updated>
+  <updated>2026-06-10T14:56:44+00:00</updated>
   <entry>
     <title>[實習] 網路行銷社群經營 · YITI TECH 一踢科技</title>
     <id>https://www.yourator.co/companies/yiti/jobs/41131</id>
@@ -47,12 +47,28 @@
     <summary>地點：新竹市 · 平台：104</summary>
   </entry>
   <entry>
+    <title>(半年以上) 雲端與AI工程實習生 Cloud &amp; AI Engineering Intern · 泥碼科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/92khd</id>
+    <link href="https://www.104.com.tw/job/92khd" />
+    <updated>2026-06-10T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：新竹縣竹北市 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>工研院感測系統中心_慣性感測系統開發實習生(創新/M100) · 工研院 _財團法人工業技術研究院</title>
     <id>https://www.104.com.tw/job/92jy5</id>
     <link href="https://www.104.com.tw/job/92jy5" />
     <updated>2026-06-10T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：台南市安南區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>7006-竹科 客服實習工程師 · 聯華林德氣體工業股份有限公司</title>
+    <id>https://www.104.com.tw/job/8pxc7</id>
+    <link href="https://www.104.com.tw/job/8pxc7" />
+    <updated>2026-06-10T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：新竹市 · 平台：104</summary>
   </entry>
   <entry>
     <title>軟體專案助理實習生 Software PM Intern · 沃提利數位有限公司</title>
@@ -95,7 +111,7 @@
     <summary>地點：高雄市橋頭區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>QA Intern / QA 測試實習生 · SWAG</title>
+    <title>QAIntern/ QA 測試實習生 · SWAG</title>
     <id>https://www.cake.me/companies/swag/jobs/qa-testing-intern</id>
     <link href="https://www.cake.me/companies/swag/jobs/qa-testing-intern" />
     <updated>2026-06-10T00:00:00+08:00</updated>
@@ -149,14 +165,6 @@
     <updated>2026-06-10T00:00:00+08:00</updated>
     <category term="marketing" />
     <summary>地點：台北市內湖區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【台中梧棲區】佳音英語－儲備英文老師（兼職/長期配合，歡迎在校生實習） · 高雄市私立葛蕾娜語文文理短期補習班</title>
-    <id>https://www.104.com.tw/job/90qau</id>
-    <link href="https://www.104.com.tw/job/90qau" />
-    <updated>2026-06-10T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：台中市梧棲區 · 平台：104</summary>
   </entry>
   <entry>
     <title>Marketing &amp; CommunicationsIntern · Bosch Vietnam</title>
@@ -237,13 +245,5 @@
     <updated>2026-06-10T00:00:00+08:00</updated>
     <category term="hr" />
     <summary>地點：高雄市岡山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>醫美實習生（新竹館） · 聖宜診所</title>
-    <id>https://www.104.com.tw/job/92ef6</id>
-    <link href="https://www.104.com.tw/job/92ef6" />
-    <updated>2026-06-10T00:00:00+08:00</updated>
-    <category term="education" />
-    <summary>地點：新竹市 · 平台：104</summary>
   </entry>
 </feed>
