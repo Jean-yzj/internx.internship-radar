@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-06-13T05:20:57+00:00</updated>
+  <updated>2026-06-13T08:48:16+00:00</updated>
   <entry>
     <title>學生實習-AI 知識工程師（AI Knowledge Engineer） · 關鍵智慧科技股份有限公司</title>
     <id>https://www.104.com.tw/job/8w6hr</id>
@@ -223,6 +223,14 @@
     <summary>薪資：NT$ 210 - 240 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
   </entry>
   <entry>
+    <title>川流數位集團-數位行銷培訓實習生(可配合學校實習約) · 川流資訊股份有限公司</title>
+    <id>https://www.104.com.tw/job/7cubi</id>
+    <link href="https://www.104.com.tw/job/7cubi" />
+    <updated>2026-05-28T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台中市西屯區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>【CMKT0601I】產品 FAQ 實習生/ Copywriting Intern · SHOPLINE 商線科技股份有限公司</title>
     <id>https://www.yourator.co/companies/shopline/jobs/25479</id>
     <link href="https://www.yourator.co/companies/shopline/jobs/25479" />
@@ -237,13 +245,5 @@
     <updated>2026-05-23T00:00:00+08:00</updated>
     <category term="legal" />
     <summary>地點：台中市北屯區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>行銷實習生 · Dcard 狄卡科技股份有限公司</title>
-    <id>https://www.cake.me/companies/dcard/jobs/community-marketing-intern-14d30b</id>
-    <link href="https://www.cake.me/companies/dcard/jobs/community-marketing-intern-14d30b" />
-    <updated>2026-05-22T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>薪資：面議 · 平台：CakeResume</summary>
   </entry>
 </feed>

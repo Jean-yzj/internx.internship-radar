@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T05:20:57",
+  "generated_at": "2026-06-13T08:48:16",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 161,
-    "new_today": 7,
+    "total": 165,
+    "new_today": 0,
     "by_platform": {
-      "104": 54,
+      "104": 58,
       "CakeResume": 16,
       "Yourator": 91
     }
@@ -21,14 +21,14 @@
       "label": "工程（機電）",
       "emoji": "🔧",
       "color": "#0369a1",
-      "count": 1
+      "count": 0
     },
     {
       "key": "tech",
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 44
+      "count": 43
     },
     {
       "key": "data",
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 32
+      "count": 33
     },
     {
       "key": "content",
@@ -105,14 +105,14 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 2
+      "count": 3
     },
     {
       "key": "accounting",
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 3
+      "count": 4
     },
     {
       "key": "education",
@@ -126,14 +126,14 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 15
+      "count": 16
     },
     {
       "key": "legal",
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 2
+      "count": 3
     },
     {
       "key": "manufacturing",
@@ -168,28 +168,10 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 20
+      "count": 21
     }
   ],
   "jobs": [
-    {
-      "platform": "104",
-      "title": "Panasonic_實習電子工程助理~2027/06",
-      "company": "台灣松下電腦股份有限公司",
-      "location": "新北市中和區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-06-12",
-      "url": "https://www.104.com.tw/job/90h5b",
-      "description": "1.電氣：負責產品電氣測試作業（如電阻、電壓量測等）、數據收集/分析。\n2.軟體：協助產品功能測試與驗證作業。\n3.機構：協助尺寸量測、產品評估及相關測試作業、數據收集/分析。\n4.其他：協助進出口物品寄送搬運及資產盤點。\n\n實習期間:2026/",
-      "category": "engineering",
-      "first_seen": "2026-04-29",
-      "last_seen": "2026-06-13",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
     {
       "platform": "Yourator",
       "title": "Testing & Office Intern 產品測試與辦公室營運實習生",
@@ -837,24 +819,6 @@
       "description": "\n3.提供給客戶環保領域專業法令分析、風險鑑別、最佳解決方案之顧問諮詢服務。\n以上工作內容將依個人能力及狀況協調後分配及執行。\n\n本職務任用職等條件：\n1.相關工作經驗兩年以下，得錄取為實習工程師，待遇35K起。\n2.相關工作經驗兩年以上，可獨立作業",
       "category": "tech",
       "first_seen": "2026-04-29",
-      "last_seen": "2026-06-13",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "資深工程師/工程師/實習工程師(桃園)",
-      "company": "東鴻環保顧問有限公司",
-      "location": "桃園市桃園區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-06-13",
-      "url": "https://www.104.com.tw/job/8xya8",
-      "description": "\n3.提供給客戶環保領域專業法令分析、風險鑑別、最佳解決方案之顧問諮詢服務。\n以上工作內容將依個人能力及狀況協調後分配及執行。\n\n本職務任用職等條件：\n1.相關工作經驗兩年以下，得錄取為實習工程師，待遇35K起。\n2.相關工作經驗兩年以上，可獨立作業",
-      "category": "tech",
-      "first_seen": "2026-05-06",
       "last_seen": "2026-06-13",
       "deadline": "",
       "skills": [],
@@ -1622,6 +1586,24 @@
     },
     {
       "platform": "104",
+      "title": "川流數位集團-數位行銷培訓實習生(可配合學校實習約)",
+      "company": "川流資訊股份有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-13",
+      "url": "https://www.104.com.tw/job/7cubi",
+      "description": "求職空窗期？\n\n如果你符合以上其中一項，歡迎加入川流資訊的實習培訓計畫！\n\n                     【關於川流資訊】\n\n川流資訊股份有限公司深耕數位行銷產業20年，累積服務超過5000家企業客戶，協助企業進行網站建置、SEO優化、",
+      "category": "marketing",
+      "first_seen": "2026-05-28",
+      "last_seen": "2026-06-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "〔ESG產業〕Marketing Intern｜短期行銷實習生",
       "company": "仁舟社會企業股份有限公司",
       "location": "桃園市龜山區",
@@ -2225,6 +2207,24 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "人資實習生/工讀生 B53",
+      "company": "永慶房產集團_永慶房屋仲介股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-13",
+      "url": "https://www.104.com.tw/job/7bct9",
+      "description": "1. 人事行政事務協助\n2. 新進報到流程協助\n3. 新進人事資料催收/整理/檢核/Key in/掃描及歸檔\n4. 員工關係活動協助",
+      "category": "hr",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-06-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "【人資】人力資源實習生 Human Resources Intern",
       "company": "PChome Online 網路家庭",
@@ -2291,6 +2291,24 @@
       "description": "上班時段:每週一到週五，可選擇兩個時段(一周最少上3天班)\n\n【第一班10點~14點】【第二班15點~19點】\n\n$196/1H~$200/1H~$220/1H.....(面試會告知)(需要打卡)\n\n✔需本國身分或國外學生留學(需有工作證)\n\n✔電腦輸入法 需會操作:注音或拼音(不接受倉頡)\n\n✔ 需會操作打EXCEL (本公司無法教學)\n\n✔ 需會操作印表機 (本公司無法教學)\n\n✔ 需會操作L",
       "category": "accounting",
       "first_seen": "2026-04-24",
+      "last_seen": "2026-06-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【高雄所】企業幕僚支援部：會計助理 (實習生歡迎另外洽詢)",
+      "company": "青山永續聯合會計師事務所",
+      "location": "高雄市新興區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-11",
+      "url": "https://www.104.com.tw/job/85tm8",
+      "description": "1. 聯繫客戶與至客戶處收取文件或憑證。\n2. 整理文件及掛號信、包裹收發。\n3. 協助整理及掃描客戶發票及憑證，並登錄至會計系統。\n4. 負責電話接聽、訪客接待及辦公室環境整理。\n5. 其他一般行政庶務事項。\n6. 其他主管臨時交辦事項。 ",
+      "category": "accounting",
+      "first_seen": "2026-05-13",
       "last_seen": "2026-06-13",
       "deadline": "",
       "skills": [],
@@ -2549,6 +2567,26 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "【台北｜內湖】營運管理分析部-實習生",
+      "company": "翔輝運通股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-13",
+      "url": "https://www.104.com.tw/job/91bcd",
+      "description": "一、成本與收入控管（核心工作）\n1. 供應商請款單資料登打、文件整理\n2. 請款資料、發票、附件等文件缺漏之追蹤與跨部門協調\n\n二、資料整理與報表協助\n1. 協助整理專案成本、收入與基礎分析數據\n2. 協助月度營運報表彙整（如專案清單、毛利表）\n3. Excel 報表維護與基礎數據輸入\n\n三、業務與營運行政協作\n1. 協助業務部門整理文件（報價單、服務單、客戶資料）\n2. 專案行政支援：收件、寄件",
+      "category": "operations",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-06-13",
+      "deadline": "",
+      "skills": [
+        "Excel"
+      ],
+      "eligibility": []
+    },
+    {
       "platform": "CakeResume",
       "title": "【亞馬遜Amazon】電商實習生 (兼職、轉正機會) Amazon Project AssistantIntern（Part-time）",
       "company": "Hour Loop 飛輪電商",
@@ -2621,6 +2659,26 @@
         "英文"
       ],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "法務實習生",
+      "company": "陳怡彤律師事務所",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-13",
+      "url": "https://www.104.com.tw/job/8t8fo",
+      "description": "招募對象：大學法律系四年級、法律研究所在校學生\n\n工作的範圍：\n1. 協助律師、法務整理個案事實、研究個案中之國內外法律問題、實務見解、學說，及蒐集、分析、組織相關證據資料\n2. 協助律師及法務蒐集法律文章的資料及其相關工作\n3. 協助律師、法務製作簡報內容\n4. 其他律師及法務交辦事項\n\n\n",
+      "category": "legal",
+      "first_seen": "2026-05-13",
+      "last_seen": "2026-06-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "研究所"
+      ]
     },
     {
       "platform": "104",
@@ -3076,6 +3134,26 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【2nd STREET日本最大二手店】置地桃園小檜溪店-門市兼職人員(可配合學生實習)",
+      "company": "2ndSTREET_台灣極沃股份有限公司",
+      "location": "桃園市桃園區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-05",
+      "url": "https://www.104.com.tw/job/91qb4",
+      "description": "喜愛與人互動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！",
+      "category": "other",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-06-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大二"
+      ]
     },
     {
       "platform": "CakeResume",
