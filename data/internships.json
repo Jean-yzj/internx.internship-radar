@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T09:20:17",
+  "generated_at": "2026-06-14T13:42:50",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 198,
-    "new_today": 1,
+    "total": 205,
+    "new_today": 0,
     "by_platform": {
-      "104": 90,
+      "104": 97,
       "CakeResume": 16,
       "Yourator": 92
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 33
+      "count": 35
     },
     {
       "key": "data",
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 41
+      "count": 43
     },
     {
       "key": "content",
@@ -98,7 +98,7 @@
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 2
+      "count": 3
     },
     {
       "key": "hr",
@@ -119,7 +119,7 @@
       "label": "教育／輔導",
       "emoji": "📚",
       "color": "#0891b2",
-      "count": 8
+      "count": 9
     },
     {
       "key": "operations",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 2
+      "count": 3
     },
     {
       "key": "research",
@@ -594,6 +594,24 @@
     },
     {
       "platform": "104",
+      "title": "Vespa 進口二輪維修保養 實習生",
+      "company": "峰雨有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-14",
+      "url": "https://www.104.com.tw/job/8ckky",
+      "description": "公司主要針對進口二輪 Vespa機車的維修、改裝、保養。我們希望找到熱愛二輪的人，一起為車主的安全一同努力！把好的技術傳承下去，成為優秀的職人。\n\n【偉士計劃實習生訓練系統】\n第一步、到職\n\n第二步、偉士牌基礎概念培訓\n\n第三步、初試考核 (到職",
+      "category": "tech",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-06-14",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "APP 行銷與 AI 營運實習生",
       "company": "訊連科技股份有限公司",
       "location": "新北市新店區",
@@ -662,6 +680,26 @@
       "last_seen": "2026-06-14",
       "deadline": "",
       "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "AI 實習生",
+      "company": "臺灣區塊鏈愛好者協會",
+      "location": "台北市南港區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-14",
+      "url": "https://www.104.com.tw/job/91w6o",
+      "description": "工作內容：\n1.善用相關AI工具，完成內容編修與研究資料彙整。\n2.協助行銷活動籌劃與執行人力。\n3.接受主管交辦之專案執行事項。\n\n條件需求：\n•獨立細心負責，具時程觀念與執行力\n•具基本溝通能力，能獨立進行信件與電話聯繫\n•能配合活動檔期彈性出勤\n•有課務、活動執行、社群營運、行政助理經驗者佳\n•對金融科技、Web3、AI、創新產業有興趣者佳\n•良好英文溝通與讀寫能力\n\n條件限制：\n大學以上在",
+      "category": "tech",
+      "first_seen": "2026-05-24",
+      "last_seen": "2026-06-14",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
       "eligibility": []
     },
     {
@@ -1484,6 +1522,24 @@
     },
     {
       "platform": "104",
+      "title": "工讀生 / 實習生 / 學生",
+      "company": "聖翔力學企業社",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-14",
+      "url": "https://www.104.com.tw/job/8sht1",
+      "description": "1.協助車輛維修與改裝流程\n\n2.環境與工具整理\n\n3.馬力機操作與測試輔助\n\n4.車輛拍照、紀錄改裝過程\n\n5.社群貼文/拍攝支援 (非必要)\n\n6.主管交辦事項\n",
+      "category": "marketing",
+      "first_seen": "2026-05-30",
+      "last_seen": "2026-06-14",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "Visual Design Intern 品牌視覺設計實習生",
       "company": "Gogolook_走著瞧股份有限公司",
       "location": "台北市大安區",
@@ -1495,6 +1551,24 @@
       "description": "Gogolook 是一家專注於防詐騙、數位金融領域的軟體公司。\n品牌視覺設計實習生將協助品牌設計師以及創意總監一同經營品牌形象。\n\nMission:\n1. 了解業界如何將發想實際落地成品牌視覺，並實際參與視覺製作，能夠學習多元面向的設計手法，與品",
       "category": "marketing",
       "first_seen": "2026-04-27",
+      "last_seen": "2026-06-14",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習學分班（任何科系可報·協助獲取實習學分順利畢業）",
+      "company": "高宏資訊股份有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-14",
+      "url": "https://www.104.com.tw/job/6yf4t",
+      "description": "【公司簡介】\n高宏資訊為台灣頂尖資訊委外企業，秉持「培育人才、助力成長」的理念，長期為學生提供優質實習機會。本次實習學分班，專門為有學分需求的學生打造，不限科系、靈活安排，助力學生順利畢業，同時累積寶貴的企業實務經驗，為未来就業打下基礎。\n\n\n【",
+      "category": "marketing",
+      "first_seen": "2026-04-25",
       "last_seen": "2026-06-14",
       "deadline": "",
       "skills": [],
@@ -2521,6 +2595,28 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "【美編設計】早/午/晚班兼職 學生實習可 可晚班",
+      "company": "實誠元和股份有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-14",
+      "url": "https://www.104.com.tw/job/7z28r",
+      "description": "件要求 無經歷可\n學歷要求 專科、大學\n科系要求 設計系、美術系\n語文條件 中文 、英文讀寫略懂\n\n歡迎所有求職者，與應屆畢業生 等\n日間大四在學生可申請實習",
+      "category": "design",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-06-14",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
+      "eligibility": [
+        "不限"
+      ]
+    },
+    {
       "platform": "Yourator",
       "title": "HR Intern (HRBP Team)",
       "company": "彼特思方舟股份有限公司",
@@ -2767,6 +2863,24 @@
       "description": "1.櫃檯接待\n2.場內環境維持\n3.巡場\n每月休8到10天，每天排班8小時。\n早班10：00～18：00\n晚班14：00～22：00\n同事協調排班\n希望能與大家打成一片的夥伴以及喜歡熱心幫助別人的妳。\n想成為教練我們也可以培訓幫助各位成為教練，幫助別人也讓自己有更好的生活～\n不需要出去填問券，更不用強迫推銷會員加入。",
       "category": "education",
       "first_seen": "2026-04-25",
+      "last_seen": "2026-06-14",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "自然體驗／環境教育實習老師",
+      "company": "善野計畫有限公司",
+      "location": "台北市萬華區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-14",
+      "url": "https://www.104.com.tw/job/8wkb8",
+      "description": "＃本職位設有實習觀察期；通過考核轉為正式老師後，將依職缺公告之薪酬給付。若您認同此培訓模式，歡迎投遞履歷。\n\n你熱愛大自然、樂於與人互動，渴望將對自然探索的熱情轉化為專業教學經驗嗎？\n\n我們正在尋找充滿學習熱忱與潛力的新血，加入我們的自然體驗團隊",
+      "category": "education",
+      "first_seen": "2026-05-05",
       "last_seen": "2026-06-14",
       "deadline": "",
       "skills": [],
@@ -3365,6 +3479,24 @@
       "description": "1.無相關經驗可。\n2.接待、引導、餐具擺設、餐點介紹、點餐、餐點與酒水服務、環境維護。\n3.負責服務員的服務工作分配。\n4.遵守餐廳服裝儀容、態度，禮貌及衛生安全等規定。\n5.維護餐廳清潔、擺設、備品、用具和設備。\n6.主管交辦事宜.\n",
       "category": "hospitality",
       "first_seen": "2026-04-26",
+      "last_seen": "2026-06-14",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "烘焙西點內場學徒（實習可）",
+      "company": "沒有名字的甜點專賣店_春雨農產品加工廠有限公司",
+      "location": "新竹市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-14",
+      "url": "https://www.104.com.tw/job/8xt0a",
+      "description": "有經驗者優先\n非短期訓練班、非一般甜點店。札實重基礎能力量產型烘焙店。\n1.製造蛋糕及其他西式點心。\n2.檢視與選用所需原材料。\n3.添加奶油、水果等夾心，或使用糖霜裝飾蛋糕或西點之表面。\n4.裝飾、切盤、擠餅乾。\n5.師傅交辦其他事項。\n6.工作用具、環境維持。\n7. 有毅力、恆心，且具高學習態度。\n8. 各大節慶日或國定連假皆可配合輪休、排班、加班。\n9. 福利：勞健保、團保、滿6個月後，季獎",
+      "category": "hospitality",
+      "first_seen": "2026-05-16",
       "last_seen": "2026-06-14",
       "deadline": "",
       "skills": [],
