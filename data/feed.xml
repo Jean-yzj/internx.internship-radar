@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-06-16T10:56:52+00:00</updated>
+  <updated>2026-06-16T16:26:46+00:00</updated>
   <entry>
     <title>行銷實習生｜Marketing Intern · 伊原力科技</title>
     <id>https://www.yourator.co/companies/may4s/jobs/47654</id>
@@ -37,6 +37,14 @@
     <updated>2026-06-16T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：台南市永康區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>Gojelly.AI內容產品實習生 · 四天科技有限公司</title>
+    <id>https://www.104.com.tw/job/92rzu</id>
+    <link href="https://www.104.com.tw/job/92rzu" />
+    <updated>2026-06-16T00:00:00+08:00</updated>
+    <category term="pm" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
   </entry>
   <entry>
     <title>【時薪206★另有獎金】高雄門市兼職、實習（鼓山區）ABR · 杏一醫療用品股份有限公司</title>
@@ -71,12 +79,12 @@
     <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>電商 商品 行銷企畫 助理 工讀 實習 · 安瑟數位股份有限公司</title>
-    <id>https://www.104.com.tw/job/9053p</id>
-    <link href="https://www.104.com.tw/job/9053p" />
+    <title>行銷實習生 · 豐賦數位影音行銷股份有限公司</title>
+    <id>https://www.104.com.tw/job/86oo9</id>
+    <link href="https://www.104.com.tw/job/86oo9" />
     <updated>2026-06-16T00:00:00+08:00</updated>
     <category term="marketing" />
-    <summary>地點：台北市大同區 · 平台：104</summary>
+    <summary>地點：台中市西區 · 平台：104</summary>
   </entry>
   <entry>
     <title>3D角色實習 · 合成香料動畫有限公司</title>
@@ -109,6 +117,14 @@
     <updated>2026-06-16T00:00:00+08:00</updated>
     <category term="bd_sales" />
     <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>創新實驗室_商業開發助理/行政助理/實習工讀生(數位健康) · 永悅健康股份有限公司</title>
+    <id>https://www.104.com.tw/job/92s28</id>
+    <link href="https://www.104.com.tw/job/92s28" />
+    <updated>2026-06-16T00:00:00+08:00</updated>
+    <category term="bd_sales" />
+    <summary>地點：新北市新店區 · 平台：104</summary>
   </entry>
   <entry>
     <title>2026年實習生專區 · 億光電子工業股份有限公司</title>
@@ -207,14 +223,6 @@
     <summary>地點：新北市新莊區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>Data Operations Intern｜資料營運實習生 · 藍迪投資有限公司</title>
-    <id>https://www.104.com.tw/job/92r90</id>
-    <link href="https://www.104.com.tw/job/92r90" />
-    <updated>2026-06-16T00:00:00+08:00</updated>
-    <category term="operations" />
-    <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
     <title>1020-物流運籌實習生 · 微星科技股份有限公司</title>
     <id>https://www.104.com.tw/job/92ra0</id>
     <link href="https://www.104.com.tw/job/92ra0" />
@@ -223,27 +231,19 @@
     <summary>地點：新北市中和區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>231 日本料理廚房副主廚 / 實習副主廚 Japanese Kitchen Sous Chef · 大倉久和大飯店_長鴻榮實業股份有限公司</title>
+    <id>https://www.104.com.tw/job/8ymtf</id>
+    <link href="https://www.104.com.tw/job/8ymtf" />
+    <updated>2026-06-16T00:00:00+08:00</updated>
+    <category term="hospitality" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>EMBERS餐飲產業【實習生】 · EMBERS_本食餐飲文化股份有限公司</title>
     <id>https://www.104.com.tw/job/81mwb</id>
     <link href="https://www.104.com.tw/job/81mwb" />
     <updated>2026-06-16T00:00:00+08:00</updated>
     <category term="hospitality" />
     <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【學期&amp;暑期實習】泰國專案學生實習計畫 · 日盛台駿國際租賃股份有限公司</title>
-    <id>https://www.104.com.tw/job/861br</id>
-    <link href="https://www.104.com.tw/job/861br" />
-    <updated>2026-06-16T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>地點：台北市中山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【中壢過嶺】2026年 生管單位 暑期實習生 · 宏致電子股份有限公司</title>
-    <id>https://www.104.com.tw/job/92r47</id>
-    <link href="https://www.104.com.tw/job/92r47" />
-    <updated>2026-06-16T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>地點：桃園市中壢區 · 平台：104</summary>
   </entry>
 </feed>
