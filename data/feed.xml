@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-06-18T10:08:08+00:00</updated>
+  <updated>2026-06-18T14:50:41+00:00</updated>
   <entry>
     <title>【2026 GPS Intern】IT技術服務 學年實習生_中壢 · GARMIN_台灣國際航電股份有限公司</title>
     <id>https://www.104.com.tw/job/92trh</id>
@@ -69,6 +69,14 @@
     <updated>2026-06-18T00:00:00+08:00</updated>
     <category term="finance" />
     <summary>地點：台中市西區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>活動企劃實習生(約聘人員_短期,2026年7月-12月) · 世界活動顧問股份有限公司</title>
+    <id>https://www.104.com.tw/job/6hlff</id>
+    <link href="https://www.104.com.tw/job/6hlff" />
+    <updated>2026-06-18T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
   <entry>
     <title>公共事務部及人事部實習生 Corporate Affairs &amp; People Intern | 屏東酒廠 · 海尼根台灣股份有限公司</title>
@@ -237,13 +245,5 @@
     <updated>2026-06-13T00:00:00+08:00</updated>
     <category term="marketing" />
     <summary>薪資：NT$ 196 - 200 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>【髮型／美髮實習師】在穩定的環境中學習 · 價值設計 VALUE DESIGN_價值整體形象設計企業</title>
-    <id>https://www.104.com.tw/job/92nvh</id>
-    <link href="https://www.104.com.tw/job/92nvh" />
-    <updated>2026-06-12T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台中市西區 · 平台：104</summary>
   </entry>
 </feed>
