@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T10:14:39",
+  "generated_at": "2026-06-19T14:45:51",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 266,
-    "new_today": 2,
+    "total": 271,
+    "new_today": 1,
     "by_platform": {
-      "104": 167,
+      "104": 172,
       "CakeResume": 16,
       "Yourator": 83
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 38
+      "count": 40
     },
     {
       "key": "data",
@@ -98,7 +98,7 @@
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 5
+      "count": 7
     },
     {
       "key": "hr",
@@ -112,7 +112,7 @@
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 3
+      "count": 4
     },
     {
       "key": "education",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 26
+      "count": 27
     },
     {
       "key": "legal",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 22
+      "count": 21
     }
   ],
   "jobs": [
@@ -538,6 +538,26 @@
     },
     {
       "platform": "104",
+      "title": "系統工程實習生",
+      "company": "聚典資訊股份有限公司",
+      "location": "台北市南港區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-19",
+      "url": "https://www.104.com.tw/job/8sbum",
+      "description": "要框架為VUE3\n\n【實習時程】\n以長期穩定實習為主，時程6個月含以上，一週至少能配合3天。\n\n【必要條件】\n● 熟Vue、CSS、HTML、Javascript(ES6+)/node 等前端技能\n● 有良好的程式撰寫風格\n● 能處理各主流瀏覽器相",
+      "category": "tech",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-06-19",
+      "deadline": "",
+      "skills": [
+        "JavaScript"
+      ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "機械分析/設計/電控/裝配/加工(實習及助理)工程師",
       "company": "東台集團_亞太菁英股份有限公司",
       "location": "台中市南屯區",
@@ -695,6 +715,24 @@
       "description": "1.堆高機技術維修員，堆高機部-汽油/柴油/電動堆高機維修保養\n2.有堆高機修護經驗者尤佳,未有經驗者有專人指導,增進專業能力\n3. 廠內修護或至客戶廠區進行維修及保養作業。 \n4. 完成公司及主管之交辦事項。\n",
       "category": "tech",
       "first_seen": "2026-06-19",
+      "last_seen": "2026-06-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "AI系統工程師-學生實習 AI System Engineer(Intern)",
+      "company": "聚典資訊股份有限公司",
+      "location": "台北市南港區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-19",
+      "url": "https://www.104.com.tw/job/85pwg",
+      "description": "【投遞須知】\n請意欲參與此實習的夥伴，請檢附相關開發資訊，如GIT HUB等，以利技術性審核，感謝!\n\n這是一份要動起來的實習旅程，會面對硬實力與軟實力的複合型挑戰!\n*Python應用經驗超過一年，具良好coding style\n*具開發經驗佳",
+      "category": "tech",
+      "first_seen": "2026-06-05",
       "last_seen": "2026-06-19",
       "deadline": "",
       "skills": [],
@@ -2446,6 +2484,44 @@
     },
     {
       "platform": "104",
+      "title": "美術、商業設計、平面設計【學生實習】加入台中矽谷",
+      "company": "皮克網路有限公司",
+      "location": "台中市豐原區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-19",
+      "url": "https://www.104.com.tw/job/6w63f",
+      "description": "正在尋找想要在學生時期累計實際商業設計經驗的實習生，跟我們一起成長! 這個工作將會非常有趣、並且非常有挑戰性!\r\n\r\n你的專長:\r\n1. AI\r\n2. PS\r\n3. AE (加分)\r\n4. PR (加分)\r\n\r\n你的特質:\r\n1.負責任\r\n2.積",
+      "category": "design",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-06-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "不限"
+      ]
+    },
+    {
+      "platform": "104",
+      "title": "UI/UX互動系統介面設計師-學生實習",
+      "company": "聚典資訊股份有限公司",
+      "location": "台北市南港區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-19",
+      "url": "https://www.104.com.tw/job/71wtf",
+      "description": "應徵此職位者，請檢附作品集，以供履歷審核!\n\n【工作內容】\n1. 開案階段:對接廠商訪談與收斂功能需求，完成User Flow、User Story等UI/UX項目與評估設計作業，提供PRE SALES階段的設計資訊\n2. 設計階段:廠商功能的對接確認，確保使用者研究正確收斂。設計與驗證，確認設計符合內外部期望，推進至驗收階段\n3. 驗收階段:負責介面工程實現的對接、QA、元件化，控管產品最終介面",
+      "category": "design",
+      "first_seen": "2026-05-13",
+      "last_seen": "2026-06-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【暑期實習】UI/UX 設計實習生 ( UI/UX Designer Intern )",
       "company": "零碳科技股份有限公司",
       "location": "台北市中山區",
@@ -3706,6 +3782,26 @@
     },
     {
       "platform": "104",
+      "title": "長期工讀生/大四實習生",
+      "company": "富盛會計師事務所",
+      "location": "新北市三重區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-19",
+      "url": "https://www.104.com.tw/job/7eiub",
+      "description": "1、會計憑證裝訂、傳票登打及整理\n2、帳冊列印及統整\n3、營業稅／營所稅／各類所得稅申報、稅務抽憑、報告登打\n4、協助處理庶務性行政工作；接聽電話、訪客接待\n\n【相關條件】\n\n- 接受身份：夜間就讀中\n- 工作經歷：不拘\n- 學歷要求：專科、大學\n- 公司產業：會計服務業\n- 科系要求：會計學相關、一般商業學類、企業管理相關\n- 語文條件：不拘\n- 擅長工具：不拘\n- 工作技能：不拘\n\n【其他條件",
+      "category": "accounting",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-06-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "會計實習生",
       "company": "眾勤聯合會計師事務所",
       "location": "台北市中山區",
@@ -4011,6 +4107,24 @@
       "description": "",
       "category": "operations",
       "first_seen": "2026-06-05",
+      "last_seen": "2026-06-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "AI營運與跨境電商專案實習生 (南部實習生)",
+      "company": "艾特生醫科技股份有限公司",
+      "location": "高雄市苓雅區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-19",
+      "url": "https://www.104.com.tw/job/92vmj",
+      "description": "我們正在招募對 AI 工具、跨境電商與寵物科技產品有興趣的實習夥伴，協助公司進行海外市場與電商營運相關工作。\n\n主要工作內容包含：\n\n協助整理美國、日本等海外市場資料與競品資訊。\n協助 Amazon、Rakuten 等電商平台商品上架、內容整理與",
+      "category": "operations",
+      "first_seen": "2026-06-19",
       "last_seen": "2026-06-19",
       "deadline": "",
       "skills": [],
@@ -4804,7 +4918,7 @@
       "salary_type": "unknown",
       "posted_at": "2026-06-19",
       "url": "https://www.104.com.tw/job/92vc7",
-      "description": "共家具及趨勢案例。\n7. 每週實習 1 天（可依課表彈性安排）",
+      "description": "共家具及趨勢案例。\n7. 每週實習 1 天，需自備筆電（可依課表彈性安排）",
       "category": "other",
       "first_seen": "2026-06-19",
       "last_seen": "2026-06-19",
@@ -4958,26 +5072,6 @@
       "skills": [],
       "eligibility": [
         "不限"
-      ]
-    },
-    {
-      "platform": "104",
-      "title": "【2nd STREET日本最大二手店】置地桃園小檜溪店-門市兼職人員(可配合學生實習)",
-      "company": "2ndSTREET_台灣極沃股份有限公司",
-      "location": "桃園市桃園區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-06-15",
-      "url": "https://www.104.com.tw/job/91qb4",
-      "description": "喜愛與人互動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！",
-      "category": "other",
-      "first_seen": "2026-05-19",
-      "last_seen": "2026-06-19",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大二"
       ]
     },
     {
