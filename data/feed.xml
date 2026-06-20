@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-06-20T08:42:54+00:00</updated>
+  <updated>2026-06-20T13:43:12+00:00</updated>
   <entry>
     <title>Software EngineerIntern(Onsite; Tokyo) · HENNGE K.K.</title>
     <id>https://www.cake.me/companies/hennge/jobs/gip</id>
@@ -29,6 +29,14 @@
     <updated>2026-06-20T00:00:00+08:00</updated>
     <category term="finance" />
     <summary>地點：新北市板橋區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>實習律師（高雄所） · 睿于法律事務所</title>
+    <id>https://www.104.com.tw/job/7dol3</id>
+    <link href="https://www.104.com.tw/job/7dol3" />
+    <updated>2026-06-20T00:00:00+08:00</updated>
+    <category term="legal" />
+    <summary>地點：高雄市左營區 · 平台：104</summary>
   </entry>
   <entry>
     <title>墨More 義法餐館｜廚房實習正職 · 森達餐飲國際股份有限公司</title>
@@ -95,12 +103,36 @@
     <summary>地點：台北市中正區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>【忠泰商場】數位服務實習生 · 忠泰商場事業股份有限公司</title>
+    <id>https://www.104.com.tw/job/92ne6</id>
+    <link href="https://www.104.com.tw/job/92ne6" />
+    <updated>2026-06-12T00:00:00+08:00</updated>
+    <category term="data" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>斯朵利髮型台中 【成功店】 誠徵【設計師】【實習師】【儲備幹部】  無經驗可 · 斯朵利國際有限公司</title>
     <id>https://www.104.com.tw/job/8em2l</id>
     <link href="https://www.104.com.tw/job/8em2l" />
     <updated>2026-06-12T00:00:00+08:00</updated>
     <category term="design" />
     <summary>地點：台中市大里區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【忠泰商場】書店實習生 · 忠泰商場事業股份有限公司</title>
+    <id>https://www.104.com.tw/job/92ney</id>
+    <link href="https://www.104.com.tw/job/92ney" />
+    <updated>2026-06-12T00:00:00+08:00</updated>
+    <category term="accounting" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【忠泰商場】會計實習生 · 忠泰商場事業股份有限公司</title>
+    <id>https://www.104.com.tw/job/92nek</id>
+    <link href="https://www.104.com.tw/job/92nek" />
+    <updated>2026-06-12T00:00:00+08:00</updated>
+    <category term="accounting" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
   </entry>
   <entry>
     <title>客勤專員(實習/夜校生可) · 鴻昇實業股份有限公司</title>
@@ -117,6 +149,22 @@
     <updated>2026-06-11T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>薪資：面議 · 平台：CakeResume</summary>
+  </entry>
+  <entry>
+    <title>【川流資訊】網頁設計 / SEO / AI行銷 實習計畫 · 川流資訊股份有限公司</title>
+    <id>https://www.104.com.tw/job/72fjc</id>
+    <link href="https://www.104.com.tw/job/72fjc" />
+    <updated>2026-06-11T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台中市西屯區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>數位廣告工讀生／實習生 · 呈鈺顧問股份有限公司</title>
+    <id>https://www.104.com.tw/job/92mdp</id>
+    <link href="https://www.104.com.tw/job/92mdp" />
+    <updated>2026-06-11T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台北市松山區 · 平台：104</summary>
   </entry>
   <entry>
     <title>Sales ProjectInternship市場開發專案實習 · Aibou</title>
@@ -197,53 +245,5 @@
     <updated>2026-06-06T00:00:00+08:00</updated>
     <category term="content" />
     <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>業務助理（學生實習可） · 興運整合資訊有限公司</title>
-    <id>https://www.104.com.tw/job/5gwde</id>
-    <link href="https://www.104.com.tw/job/5gwde" />
-    <updated>2026-06-06T00:00:00+08:00</updated>
-    <category term="bd_sales" />
-    <summary>地點：新北市新莊區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>商務拓展與營運實習生 | 完全遠端 | 美國教育科技新創 · DAHUA AI Corp.</title>
-    <id>https://www.yourator.co/companies/dahuachinese/jobs/41806</id>
-    <link href="https://www.yourator.co/companies/dahuachinese/jobs/41806" />
-    <updated>2026-06-05T00:00:00+08:00</updated>
-    <category term="operations" />
-    <summary>薪資：NT$ 200 - 400 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>專案管理實習生（Project Management / PM intern） · Lawsnote</title>
-    <id>https://www.yourator.co/companies/lawsnote/jobs/43702</id>
-    <link href="https://www.yourator.co/companies/lawsnote/jobs/43702" />
-    <updated>2026-06-05T00:00:00+08:00</updated>
-    <category term="operations" />
-    <summary>薪資：NT$ 190 -  (時薪) · 地點：新北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>Norns卡通生活百貨【新光三越南西本館】兼職夥伴｜PT｜工讀｜學生實習 · Norns_樂恩仕股份有限公司</title>
-    <id>https://www.104.com.tw/job/90k7t</id>
-    <link href="https://www.104.com.tw/job/90k7t" />
-    <updated>2026-06-04T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：台北市中山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>實習律師 · 元禾法律事務所</title>
-    <id>https://www.104.com.tw/job/4pbbw</id>
-    <link href="https://www.104.com.tw/job/4pbbw" />
-    <updated>2026-06-03T00:00:00+08:00</updated>
-    <category term="legal" />
-    <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>[實習生專區]- 資訊AI業務實習生｜完整培訓＋實務經驗＋優先轉正機會！(實習時間一年,每週至少4天) · 人工智能股份有限公司</title>
-    <id>https://www.yourator.co/companies/8d8a33fc/jobs/47574</id>
-    <link href="https://www.yourator.co/companies/8d8a33fc/jobs/47574" />
-    <updated>2026-06-01T00:00:00+08:00</updated>
-    <category term="bd_sales" />
-    <summary>薪資：NT$ 200 -  (時薪) · 地點：臺北市 · 平台：Yourator</summary>
   </entry>
 </feed>
