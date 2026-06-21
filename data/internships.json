@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T06:01:09",
+  "generated_at": "2026-06-21T09:38:26",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 153,
-    "new_today": 9,
+    "total": 168,
+    "new_today": 1,
     "by_platform": {
-      "104": 54,
+      "104": 69,
       "CakeResume": 16,
       "Yourator": 83
     }
@@ -28,14 +28,14 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 36
+      "count": 39
     },
     {
       "key": "data",
       "label": "資料分析",
       "emoji": "📊",
       "color": "#14b8a6",
-      "count": 3
+      "count": 2
     },
     {
       "key": "pm",
@@ -77,28 +77,28 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 32
+      "count": 35
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 5
+      "count": 8
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 8
+      "count": 9
     },
     {
       "key": "design",
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 4
+      "count": 5
     },
     {
       "key": "hr",
@@ -126,14 +126,14 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 19
+      "count": 20
     },
     {
       "key": "legal",
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 1
+      "count": 2
     },
     {
       "key": "manufacturing",
@@ -147,14 +147,14 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 1
+      "count": 2
     },
     {
       "key": "hospitality",
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 3
+      "count": 4
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 13
+      "count": 14
     }
   ],
   "jobs": [
@@ -502,6 +502,24 @@
     },
     {
       "platform": "104",
+      "title": "AI 創作實習生",
+      "company": "特博斯影像製作有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8mpra",
+      "description": "DOUBLE SHOTS 是一間創意影像製作公司，從策略概念、視覺設計到拍攝與後製一站到位，協助品牌透過影像清晰溝通、被市場記住。\n\n我們正把 AI 導入創作核心，打造前沿的 AI 角色與內容。現在在找一位 AI 內容創作實習生，一起站在 AI",
+      "category": "tech",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【DA04實習】展場3D設計 [實習學徒]",
       "company": "元墉國際股份有限公司",
       "location": "台北市文山區",
@@ -522,7 +540,7 @@
     },
     {
       "platform": "104",
-      "title": "研發類-2026暑期實習-AMR系統技術文件助理",
+      "title": "2026暑期實習-AMR Automation Technical Documentation Intern 系統技術文件助理",
       "company": "中光電智能物流股份有限公司",
       "location": "台中市西區",
       "salary": "",
@@ -533,6 +551,24 @@
       "description": "主要職責\n在這個暑假,您將加入我們的頂尖研發團隊,為您的履歷增添亮眼的科技業實戰經驗!\n您的核心職責是擔任研發團隊的最佳輔助,協助將複雜的AMR自動化調度系統技術邏輯,轉化為清晰易懂的操作手冊.資深工程師將在實體辦公環境中帶領您深入了解機器人產業,與團隊面對面交流,共同建立具擴充性的產品技術檔案庫.\n\n主要任務\n1.系統手冊撰寫協助:在導師指導下,根據現有軟體功能與Swagger文件,協助撰寫各功",
       "category": "tech",
       "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "工讀實習生(歡迎資訊科系在職生)",
+      "company": "艾立斯科技股份有限公司",
+      "location": "宜蘭縣五結鄉",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8y3ze",
+      "description": "1.報表設計\n2.表單設計\n3.軟體測試\n4.手冊文件製作\n5.主管交辦工作事項",
+      "category": "tech",
+      "first_seen": "2026-04-29",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
@@ -677,6 +713,24 @@
       "description": "【工作內容】\n您將協助設計和維護閃動格子的關卡，學習閃動格子的設計理論、準則、邏輯和經驗等。工作內容包含但不限於關卡設計、全台出差測試和修正遊戲關卡，亦需溝通不同部門，處理遊戲問題。須使用軟體 Aseprite 、Google雲端、Google 文件和試算表，依據專長及工作狀況也有機會參與其他有興趣的項目。\n\n【需求條件】\n－對遊戲產業抱有熱忱或好奇，並且擁有善良謙遜的心。\n－對遊戲設計理論有基礎",
       "category": "tech",
       "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "*保障年薪14個月*品檢員（PQC / FQC / IQC）｜正職／學年實習可｜工作地點:汐止",
+      "company": "彩富電子股份有限公司",
+      "location": "新北市汐止區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-16",
+      "url": "https://www.104.com.tw/job/488y9",
+      "description": "評估以品檢員或品檢技術員(薪資略高)錄用\n\n\n\n\n【歡迎實習生】\n以整學年度為主，不接受學期實習，實習生起薪為30000元。\n實習結束有轉正機會，歡迎理工相關科系學生應徵。\n\n",
+      "category": "tech",
+      "first_seen": "2026-04-28",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
@@ -861,24 +915,6 @@
       "description": "",
       "category": "data",
       "first_seen": "2026-04-28",
-      "last_seen": "2026-06-21",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "Internship - CS EUV OPP team - Tainan _ J-00345172",
-      "company": "(ASML)台灣艾司摩爾科技股份有限公司",
-      "location": "台南市新市區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-06-21",
-      "url": "https://www.104.com.tw/job/92vzo",
-      "description": "External Job Description\nIntroduction to the job\nResponsible for operating and executing tasks within the SAP system, conducting data analysis and integration, and supporting the organization in ensur",
-      "category": "data",
-      "first_seen": "2026-06-21",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
@@ -1518,6 +1554,42 @@
     },
     {
       "platform": "104",
+      "title": "Marketing Intern 行銷實習生(台北大安區)",
+      "company": "雷威特整合行銷股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8cnfh",
+      "description": "大家好!我們是雷威特整合行銷(Netwise), 在通路行銷已有超過25年的經驗, 是國內通路行銷業界知名行銷公司，服務國內外知名大型FMCG品牌客戶。\n加入我們成為我們的行銷實習生，不僅是為履歷加上行銷光環提升競爭力，工作上還可以接觸到不同的商",
+      "category": "marketing",
+      "first_seen": "2026-06-04",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "暑期主播實習計畫 ( 廣電.大傳 在校生專用)",
+      "company": "涵宇互娛科技有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8qnh1",
+      "description": "歡迎廣電.大傳等科系在校生實習\n\n2025「暑期主播新星學子計畫」火熱招募中！\n想在這個暑假開啟一段充滿挑戰與成長的精彩旅程嗎？加入我們的「主播實習生計畫」，你將有機會：\n√  深入直播行業，掌握平臺運營、內容創作、粉絲互動的實戰技巧\n√  接受",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "李鐵柱火鍋永和區-實習店長",
       "company": "李鐵柱餐飲股份有限公司",
       "location": "新北市永和區",
@@ -1529,6 +1601,24 @@
       "description": "1.執行並帶領團隊透過細緻的服務來傳遞品牌精神\n2.執行餐廳各項目標、定期與主廚、經理人員檢視及調整\n3.對於餐廳服務標準制定、執行及調整團隊管理、協調及溝通\n4.現場營運人力及工作調配\n5.顧客關係建立與維護\n6.緊急狀況與顧客抱怨處理\n7.每日營運報表製作及分析\n8.佈達公司政策與執行，跨部門溝通\n9.各職級員工教育訓練及人才培養\n10.執行人事行政及考核作業",
       "category": "marketing",
       "first_seen": "2026-05-08",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "行銷企劃實習生 (畢業後經考核可轉正)",
+      "company": "上策行銷有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/7q6fx",
+      "description": "【Bespo實習生培訓系統】\n第一步、到職註冊\n\n第二步、口碑行銷基礎概念培訓\n\n第三步、初試考核 (到職滿一個月)\n考核六項口碑行銷基礎能力\n通過與否將決定實習生之去留\n通過者將進入第二階段完整寫文訓練\n\n第四步、二試考核(到職滿三個月)\n寫文",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
@@ -1792,6 +1882,42 @@
     },
     {
       "platform": "104",
+      "title": "寒/暑期實習主播",
+      "company": "涵宇互娛科技有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8qekx",
+      "description": "你以為的實習，就是領著超低時薪、被叫去幫正職買午餐、在辦公室做雜事，或是頂著大太陽出門跑腿？\n醒醒吧！那是在浪費你的生命。\n\n我們提供的實習機會，玩的就是不一樣：\n✅ 【報酬對得起你的魅力】 我們相信你的直播表現力就是價值！這不是一份「勉強符合最",
+      "category": "content",
+      "first_seen": "2026-05-01",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【遠傳電信】三峽文化實習襄理【月休10天】【歡迎無經驗者】",
+      "company": "金聚通訊行",
+      "location": "新北市三峽區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8ra1b",
+      "description": "工作內容 ：\n迎賓接待、交機、銷售配件、銷貨結帳、跟客戶聊天(個性活潑開朗)。\n1.【薪酬福利】\n-門市人員無上限的業績獎金制度，讓付出與回報成正比\n-職務加給獎金。\n-工作滿一年以上享：生日禮金1,000、結婚禮金3,600、生育補貼6,000、喪葬補助3,100、職災津貼。\n-員工手機折扣及門號優惠。\n-特別假期、員工國內外旅遊、慶典聚餐等。\n【獎 金 類】年終獎金、三節獎金、激勵獎金、績效獎",
+      "category": "content",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "遠東SOGO百貨-01台北店-顧客服務實習生",
       "company": "遠東SOGO_太平洋崇光百貨股份有限公司",
       "location": "台北市大安區",
@@ -1803,6 +1929,24 @@
       "description": "Sogo百貨正在尋找具有服務熱忱且耐心的人員，負責協助顧客提供優質的服務體驗，並確保顧客在店內的需求得到滿足。工作內容如下:\n\n1.\t電梯內、外協助顧客安全進出：負責在電梯內外協助顧客進出，確保顧客能夠順利且安心地到達目的地。\n2.\t店內購物指引及諮詢：解答顧客有關店內資訊的各種問題，提升顧客的購物體驗。\n3.\t顧客意見受理：聆聽顧客的建議，並協助解決相關問題，確保顧客的需求得到滿足。\n4.\t協助",
       "category": "content",
       "first_seen": "2026-04-24",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【遠傳電信】蘆洲民族實習襄理【月休10天】【歡迎無經驗者】",
+      "company": "金聚通訊行",
+      "location": "新北市蘆洲區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8ra19",
+      "description": "工作內容 ：\n迎賓接待、交機、銷售配件、銷貨結帳、跟客戶聊天(個性活潑開朗)。\n1.【薪酬福利】\n-門市人員無上限的業績獎金制度，讓付出與回報成正比\n-職務加給獎金。\n-工作滿一年以上享：生日禮金1,000、結婚禮金3,600、生育補貼6,000、喪葬補助3,100、職災津貼。\n-員工手機折扣及門號優惠。\n-特別假期、員工國內外旅遊、慶典聚餐等。\n【獎 金 類】年終獎金、三節獎金、激勵獎金、績效獎",
+      "category": "content",
+      "first_seen": "2026-04-26",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
@@ -1875,6 +2019,24 @@
       "description": "",
       "category": "bd_sales",
       "first_seen": "2026-06-01",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【實習生專區】實習生Intern(客務部服務中心/房務部/業務部訂房組/餐飲部外場/廚房)",
+      "company": "台灣糖業股份有限公司台糖長榮酒店﹝台南﹞",
+      "location": "台南市東區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8zkb1",
+      "description": "實習類型：暑期、學期制、學年制 \n\n●客務櫃檯 - 待禮賓、辦理進退房、電話接聽。(中／英語流利)\n    客務服務中心-旅客諮詢服務/行李服務。(暗英語)\n\n●房務部 - 客房清潔整理、備品補充及保養。\n    健身中心 - 客戶接待，現場器材",
+      "category": "bd_sales",
+      "first_seen": "2026-04-23",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
@@ -2036,6 +2198,24 @@
       "eligibility": [
         "不限"
       ]
+    },
+    {
+      "platform": "104",
+      "title": "室內設計實習生",
+      "company": "三市設計有限公司",
+      "location": "台北市大同區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/92q0l",
+      "description": "1. 協助設計師與業主洽談、報價、現場工地丈量監工\n2. 繪製平面圖、立面圖、大樣圖等相關施工圖\n3. 繪製立體3D彩圖\n4. 準備案場相關圖面資料\n5. 協助現場測量與拍照\n6. 記錄案場特殊細節\n7. 協助案場溝通與監工\n8. 輔助設計師行政事務\n9. 其他上級交辦事項。\n\n作為室內設計團隊的一員，室內設計助理將有機會參與多個項目的設計製作過程，藉此獲得豐富的設計經驗及發展前景。\n歡迎有志之士",
+      "category": "design",
+      "first_seen": "2026-06-15",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -2587,6 +2767,24 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "工讀生/實習生/助理",
+      "company": "品森國際股份有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8ghtt",
+      "description": "誠摯邀請 \"想法\"   x  \"熱情\"  x \" 能力\" 的★優秀人才★~\n- 負責維持會館之環境整潔。\n- 熟稔會員接待禮儀服務，態度親切有禮。\n- 協助會員合約完成，並負責課程協調與安排。\n- 執行會員服務作業，提供即刻服務資源。\n- 協助教練完成交代事項。\n- 負責一般文書資料處理工作。\n- 維護、更新、管理各類文件檔案（如：合約、會議記錄、書目資料、活動文件）和資料庫系統。\n- 每日營業結",
+      "category": "operations",
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "CakeResume",
       "title": "【亞馬遜Amazon】電商實習生 (兼職、轉正機會) Amazon Project AssistantIntern（Part-time）",
       "company": "Hour Loop 飛輪電商",
@@ -2642,6 +2840,26 @@
     },
     {
       "platform": "104",
+      "title": "實習生-進出貨管理",
+      "company": "瑪斯林國際有限公司",
+      "location": "新北市汐止區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8oo7r",
+      "description": "各倉管組別工作~\n本職務為短期定期契約，兩個月一簽，最長不超過六個月，表現優良者可依興趣晉升為生管專員或產品專員。歡迎實習生及應屆畢業生加入我們團隊。\n",
+      "category": "legal",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "應屆"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "受僱律師-一-實習律師",
       "company": "環宇法律事務所",
       "location": "台北市大安區",
@@ -2653,6 +2871,24 @@
       "description": "從事資產管理、基金法令諮詢、合併規劃及整併等金融領域服務；\n承辦民、刑事及行政訴訟案件; \n解決當事人提出有關法律的問題",
       "category": "legal",
       "first_seen": "2026-04-27",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "空運出口併裝操作實習生",
+      "company": "中菲行國際物流股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/91ppz",
+      "description": "建立你的職涯舞台，加入中菲行\n想讓自己的職涯更上一層樓嗎？加入中菲行，發揮你的潛力！\n\n我們正在尋找具責任感、主動積極，並希望在快速發展的國際物流產業中持續成長的人才。在中菲行，我們提供支持學習的環境、完善的專業培訓，以及清晰的職涯發展機會。我們的使命很簡單卻充滿力量：為有潛力的人才開啟機會之門，並協助他們培養實現職涯夢想所需的能力。\n\n關於中菲行：\n中菲行國際物流（Dimerco Express",
+      "category": "supply_chain",
+      "first_seen": "2026-05-19",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
@@ -2723,6 +2959,24 @@
       "posted_at": "2026-06-21",
       "url": "https://www.104.com.tw/job/8vrb6",
       "description": "月休8日，可自行排假 \n（包含兩個週末） \n\n\n1. 送餐基本介紹 了解餐點內容 \n2. 負責客人帶位、倒水、點餐 \n3. 於客人用餐完畢後，負責收拾碗盤與清理環境。 \n\n餐飲服務生是餐廳行業中至關重要的一份工作。這個職位是為客人提供高品質的服務，並確保他們有一個愉快的用餐體驗。餐飲服務生的工作前景非常好，因為餐廳行業繼續增長，需要越來越多的專業人士來擔任這個職位。 \n如果您符合上述要求，請立即申",
+      "category": "hospitality",
+      "first_seen": "2026-06-21",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "(南崁尊爵天際飯店)-實習生",
+      "company": "尊爵天際大飯店_昇捷國際開發股份有限公司",
+      "location": "桃園市蘆竹區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/7xom7",
+      "description": "餐飲部:\n1.外場服務人員，客人餐飲收銀結帳及服務與接待點餐丶領檯帶位。\n2.於客人用餐完畢後，負責收拾碗盤與清理環境。\n3. 宴會服務。\n4.主管交辦事宜。\n\n房務組:\n1.客房環境整理打掃及房內清潔。\n2.客房保養。\n3.主管交辦事宜。\n\n服務中心:\n1.賓客來訪時協助登記、換證與引導並招待。\n2.回答有關旅館、觀光文化等服務問題。\n3.為貴賓轉交信件及留言。\n4.安排行李搬運、叫車等服務。\n",
       "category": "hospitality",
       "first_seen": "2026-06-21",
       "last_seen": "2026-06-21",
@@ -2947,6 +3201,28 @@
         "英文"
       ],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "<<實習專區-歡迎大專院校在學生>>英文老師二年獎金10萬以上！提供給薪的完整師訓--桃園市各區 (42K-60K/月)",
+      "company": "葛洛莉英語_私立葛洛莉英語會話短期補習班",
+      "location": "桃園市桃園區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8a9u5",
+      "description": " NT$50,000\nd. 每年英檢證照獎金 NT$6,000\n\n備課獎金、班級紅利、勤勞獎金\n\n電訪服務費、週六授課獎金\n\n教學研究獎金、年資獎金、續約獎金、季/年終續讀獎金等\n\n【轉正與發展】\n實習期間表現優異者，優先轉任正職教師，\n打造長期穩定",
+      "category": "other",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
+      "eligibility": [
+        "不限"
+      ]
     },
     {
       "platform": "104",
