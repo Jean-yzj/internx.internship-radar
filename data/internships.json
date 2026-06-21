@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T09:38:26",
+  "generated_at": "2026-06-21T13:50:55",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 168,
-    "new_today": 1,
+    "total": 177,
+    "new_today": 0,
     "by_platform": {
-      "104": 69,
+      "104": 78,
       "CakeResume": 16,
       "Yourator": 83
     }
@@ -35,7 +35,7 @@
       "label": "資料分析",
       "emoji": "📊",
       "color": "#14b8a6",
-      "count": 2
+      "count": 3
     },
     {
       "key": "pm",
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 35
+      "count": 36
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 8
+      "count": 9
     },
     {
       "key": "bd_sales",
@@ -98,7 +98,7 @@
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 5
+      "count": 7
     },
     {
       "key": "hr",
@@ -133,7 +133,7 @@
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 2
+      "count": 3
     },
     {
       "key": "manufacturing",
@@ -147,14 +147,14 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 2
+      "count": 3
     },
     {
       "key": "hospitality",
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 4
+      "count": 6
     },
     {
       "key": "research",
@@ -612,24 +612,6 @@
     },
     {
       "platform": "104",
-      "title": "【Gogoro 虎尾門市】實習工程師 - 帶薪培訓！",
-      "company": "Gogoro_聯安車業股份有限公司",
-      "location": "雲林縣虎尾鎮",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-06-21",
-      "url": "https://www.104.com.tw/job/80z49",
-      "description": "務，包含定期保養，零件更換與軟韌體更新等。\n✔ 確保來到服務中心的客人可以得到有效的解決與對應辦法。\n✔ 工作環境、特種工具及機具設備維護。\n✔ Gogoro電動機車配件推薦及裝修。\n\n[ 薪資結構 ]\n✔ 帶薪培訓，實習工程師培訓階段月薪：$",
-      "category": "tech",
-      "first_seen": "2026-04-26",
-      "last_seen": "2026-06-21",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
       "title": "Software Engineering Intern – RISC‑V CPU (2026 Internship)",
       "company": "美商賽發馥股份有限公司臺灣分公司",
       "location": "新竹縣竹北市",
@@ -648,6 +630,24 @@
     },
     {
       "platform": "104",
+      "title": "【Gogoro 虎尾門市】實習工程師 - 帶薪培訓！",
+      "company": "Gogoro_聯安車業股份有限公司",
+      "location": "雲林縣虎尾鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/80z49",
+      "description": "務，包含定期保養，零件更換與軟韌體更新等。\n✔ 確保來到服務中心的客人可以得到有效的解決與對應辦法。\n✔ 工作環境、特種工具及機具設備維護。\n✔ Gogoro電動機車配件推薦及裝修。\n\n[ 薪資結構 ]\n✔ 帶薪培訓，實習工程師培訓階段月薪：$",
+      "category": "tech",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "軟體開發實習生／Software Development Intern",
       "company": "稜研科技股份有限公司",
       "location": "新北市板橋區",
@@ -659,6 +659,24 @@
       "description": "實習內容：\n\n- 韌體開發：為最新的5G與6G通訊設備設計和優化韌體。\n- API開發：開發高效且穩定的應用程式介面，支持多樣化的通訊應用。\n- 應用程式開發：從零開始構建創新應用程式，運用5G和6G技術實現實際解決方案。\n\n我們提供：\n\n- 專",
       "category": "tech",
       "first_seen": "2026-05-13",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "[Intern] AI視覺實習生 Deep Learning on Computer Vision",
+      "company": "百威雷科技有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/7xwyh",
+      "description": "Topics: VLM (vision and language model) applications\n\n\nAs a Intern, you will be responsible for survey the state-of-the art method to solve vision problems. Also you have to implement your surveyed me",
+      "category": "tech",
+      "first_seen": "2026-05-29",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
@@ -713,24 +731,6 @@
       "description": "【工作內容】\n您將協助設計和維護閃動格子的關卡，學習閃動格子的設計理論、準則、邏輯和經驗等。工作內容包含但不限於關卡設計、全台出差測試和修正遊戲關卡，亦需溝通不同部門，處理遊戲問題。須使用軟體 Aseprite 、Google雲端、Google 文件和試算表，依據專長及工作狀況也有機會參與其他有興趣的項目。\n\n【需求條件】\n－對遊戲產業抱有熱忱或好奇，並且擁有善良謙遜的心。\n－對遊戲設計理論有基礎",
       "category": "tech",
       "first_seen": "2026-06-21",
-      "last_seen": "2026-06-21",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "*保障年薪14個月*品檢員（PQC / FQC / IQC）｜正職／學年實習可｜工作地點:汐止",
-      "company": "彩富電子股份有限公司",
-      "location": "新北市汐止區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-06-16",
-      "url": "https://www.104.com.tw/job/488y9",
-      "description": "評估以品檢員或品檢技術員(薪資略高)錄用\n\n\n\n\n【歡迎實習生】\n以整學年度為主，不接受學期實習，實習生起薪為30000元。\n實習結束有轉正機會，歡迎理工相關科系學生應徵。\n\n",
-      "category": "tech",
-      "first_seen": "2026-04-28",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
@@ -915,6 +915,24 @@
       "description": "",
       "category": "data",
       "first_seen": "2026-04-28",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Internship - CS EUV OPP team - Tainan _ J-00345172",
+      "company": "(ASML)台灣艾司摩爾科技股份有限公司",
+      "location": "台南市新市區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/92vzo",
+      "description": "External Job Description\nIntroduction to the job\nResponsible for operating and executing tasks within the SAP system, conducting data analysis and integration, and supporting the organization in ensur",
+      "category": "data",
+      "first_seen": "2026-06-21",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
@@ -1392,7 +1410,7 @@
     },
     {
       "platform": "Yourator",
-      "title": "[實習] 短影音網路行銷社群經營",
+      "title": "[實習]  短影音網路行銷社群經營",
       "company": "YITI TECH 一踢科技",
       "location": "臺北市",
       "salary": "NT$ 190 - 190 (時薪)",
@@ -1619,6 +1637,24 @@
       "description": "【Bespo實習生培訓系統】\n第一步、到職註冊\n\n第二步、口碑行銷基礎概念培訓\n\n第三步、初試考核 (到職滿一個月)\n考核六項口碑行銷基礎能力\n通過與否將決定實習生之去留\n通過者將進入第二階段完整寫文訓練\n\n第四步、二試考核(到職滿三個月)\n寫文",
       "category": "marketing",
       "first_seen": "2026-04-24",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "行政&行銷助理 (打工實習可)",
+      "company": "果石_朗辰文創有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/90t1j",
+      "description": "【工作內容】\n．協助主管處理銷貨報表、對帳、記帳等業務。\n．協助公司寄件、用品採購、各項帳單繳款...外務。\n．協助行銷部門：內容行銷、社群行銷、通路行銷等。\n．商品標價、手串換線、修改手圍、包貨出貨等。\n．負責辦公室環境與設備之整潔、維護。\n．其他主管交辦事項或部門業務支援。\n\n-\n\n【應徵條件】\n．行銷熱誠：對行銷領域有熱誠。\n．人格特質： 誠實、自律、有高度職業道德。\n．邏輯與數字：對數字敏",
+      "category": "marketing",
+      "first_seen": "2026-05-31",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
@@ -1893,6 +1929,24 @@
       "description": "你以為的實習，就是領著超低時薪、被叫去幫正職買午餐、在辦公室做雜事，或是頂著大太陽出門跑腿？\n醒醒吧！那是在浪費你的生命。\n\n我們提供的實習機會，玩的就是不一樣：\n✅ 【報酬對得起你的魅力】 我們相信你的直播表現力就是價值！這不是一份「勉強符合最",
       "category": "content",
       "first_seen": "2026-05-01",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【時薪 $215 起】影音剪輯實習生 | AmazingTalker Show（無經驗可）",
+      "company": "AmazingTalker_香港商驚奇學習有限公司台灣分公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/83c8y",
+      "description": "作為 AmazingTalker 的「影音剪輯實習生」，你不只是參與影片製作，而是需要一起思考「內容為什麼有效」。\n\n我們期待你在參與節目製作的過程中，不只完成任務，也能持續觀察內容表現，理解一支影片的節奏、資訊安排與情緒轉折，並嘗試從中發現問題",
+      "category": "content",
+      "first_seen": "2026-04-28",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
@@ -2219,6 +2273,24 @@
     },
     {
       "platform": "104",
+      "title": "美髮實習設計師",
+      "company": "卓林髮舍",
+      "location": "台南市永康區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/7z7d0",
+      "description": "1. 接待顧客、為顧客準備茶水、點心與書報雜誌。 \n2. 執行洗髮、護髮、頭皮護理、按摩頭皮、肩頸等工作。 \n3. 協助設計師執行修髮、染髮、燙髮、髮型吹整等工作\n4. 完成設計師交辦工作，準備材料和工具。\n5. 接聽電話、確認顧客預約時間及服務項目。\n6. 配合公司培養美髮各專業內訓課程。 \n7. 器具清理維護及整體環境清潔。\n\n✅️保障薪資／勞健保／團保\n✅️月休8天採排休\n✅️每星期開放自約",
+      "category": "design",
+      "first_seen": "2026-06-12",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "平面設計實習生",
       "company": "辰紘行銷有限公司",
       "location": "台北市大安區",
@@ -2235,6 +2307,24 @@
       "skills": [
         "Illustrator"
       ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "美髮實習設計師",
+      "company": "VR髮本_營髮本舍",
+      "location": "台南市東區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8m5pd",
+      "description": "1. 接待顧客、為顧客準備茶水、點心與書報雜誌。 \n2. 執行洗髮、護髮、頭皮護理、按摩頭皮、肩頸等工作。 \n3. 協助設計師執行修髮、染髮、燙髮、髮型吹整等工作\n4. 完成設計師交辦工作，準備材料和工具。\n5. 接聽電話、確認顧客預約時間及服務項目。\n6. 配合公司培養美髮各專業內訓課程。 \n7. 器具清理維護及整體環境清潔。\n\n保障薪資／勞健保／團保\n月休8天採排休\n每星期開放自約客人剪.燙.",
+      "category": "design",
+      "first_seen": "2026-06-12",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
       "eligibility": []
     },
     {
@@ -2860,6 +2950,24 @@
     },
     {
       "platform": "104",
+      "title": "實習律師",
+      "company": "昶碩法律事務所",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/92n9a",
+      "description": "1.\t進行法律問題之研究與分析、與當事人進行會議、溝通，並就案件及進度提供專業說明\n2.\t跟隨指導律師開庭、開會\n3.\t企業契約審查\n4.\t撰寫書狀、法律意見書、函文、契約及其他法律文件\n5.     其他主管交辦事務\n",
+      "category": "legal",
+      "first_seen": "2026-06-12",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "受僱律師-一-實習律師",
       "company": "環宇法律事務所",
       "location": "台北市大安區",
@@ -2871,6 +2979,24 @@
       "description": "從事資產管理、基金法令諮詢、合併規劃及整併等金融領域服務；\n承辦民、刑事及行政訴訟案件; \n解決當事人提出有關法律的問題",
       "category": "legal",
       "first_seen": "2026-04-27",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【實習專區】採購-實習副管理師(PL 新竹)",
+      "company": "漢民科技股份有限公司",
+      "location": "新竹市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8uwdp",
+      "description": "1. AP立帳作業、協助進出口相關事務\n2. 協助帳務相關事宜\n3. 部門庶務性作業\n4. 其他上級主管交辦事項",
+      "category": "supply_chain",
+      "first_seen": "2026-05-11",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
@@ -2914,6 +3040,24 @@
     },
     {
       "platform": "104",
+      "title": "旅行社工讀/兼職(學校實習可)",
+      "company": "泰洋旅行社股份有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8cmxo",
+      "description": "想在畢業前，提前體驗旅行社的實戰節奏？\n對說話有熱情、想學習陌生開發與客戶溝通技巧！\n探索旅遊誠徵——電話開發 實習生！\n跟著我們一起用聲音，開啟每一次旅行的起點！\n--\n✅ 實習內容\n1.撥打潛在企業／團體單位的電話，邀請提供旅遊服務。\n2.協",
+      "category": "hospitality",
+      "first_seen": "2026-06-02",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "越南thực tập sinh實習生（海外餐飲儲備幹部計劃）",
       "company": "覓食國際餐飲企業有限公司",
       "location": "台北市中正區",
@@ -2925,6 +3069,24 @@
       "description": "*兼職起聘，通過考核試用期，可後續向公司再提出轉任正職申請\n\n[工作內容]\n1.人力資源相關作業。\n2.餐飲門市服務相關作業。\n\n[工作時間]\n06:30-22:00 時段內依公司規定排班\n\n[薪資、福利]\n試用期薪34000元/月，全勤4000元/月\n試用期滿37000元/月，全勤4000元/月\n正式職員依每季業績享分紅\n月休8日、享勞健保、6%勞退、分紅、年終獎金、生日禮金\n\n無經驗可，需輪調",
       "category": "hospitality",
       "first_seen": "2026-04-26",
+      "last_seen": "2026-06-21",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "烘焙西點內場學徒（實習可）",
+      "company": "沒有名字的甜點專賣店_春雨農產品加工廠有限公司",
+      "location": "新竹市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-21",
+      "url": "https://www.104.com.tw/job/8xt0a",
+      "description": "有經驗者優先\n非短期訓練班、非一般甜點店。札實重基礎能力量產型烘焙店。\n1.製造蛋糕及其他西式點心。\n2.檢視與選用所需原材料。\n3.添加奶油、水果等夾心，或使用糖霜裝飾蛋糕或西點之表面。\n4.裝飾、切盤、擠餅乾。\n5.師傅交辦其他事項。\n6.工作用具、環境維持。\n7. 有毅力、恆心，且具高學習態度。\n8. 各大節慶日或國定連假皆可配合輪休、排班、加班。\n9. 福利：勞健保、團保、滿6個月後，季獎",
+      "category": "hospitality",
+      "first_seen": "2026-05-16",
       "last_seen": "2026-06-21",
       "deadline": "",
       "skills": [],
