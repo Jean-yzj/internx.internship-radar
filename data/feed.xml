@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-06-27T08:27:52+00:00</updated>
+  <updated>2026-06-27T13:14:39+00:00</updated>
   <entry>
     <title>在學實習生 · 捷你爾股份有限公司</title>
     <id>https://www.104.com.tw/job/8d37g</id>
@@ -45,6 +45,14 @@
     <updated>2026-06-27T00:00:00+08:00</updated>
     <category term="hospitality" />
     <summary>地點：新竹市 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【2nd STREET日本最大二手店】高雄夢時代店-門市兼職人員(可配合學生實習) · 2ndSTREET_台灣極沃股份有限公司</title>
+    <id>https://www.104.com.tw/job/7opcs</id>
+    <link href="https://www.104.com.tw/job/7opcs" />
+    <updated>2026-06-27T00:00:00+08:00</updated>
+    <category term="other" />
+    <summary>地點：高雄市前鎮區 · 平台：104</summary>
   </entry>
   <entry>
     <title>『 社群內容經營實習生 』Social Media Content  Intern · POPUPASIA</title>
@@ -223,27 +231,19 @@
     <summary>薪資：NT$ 196 - 200 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
   </entry>
   <entry>
+    <title>數據分析-實習生（約聘） · 台灣創博識有限公司</title>
+    <id>https://www.104.com.tw/job/8woky</id>
+    <link href="https://www.104.com.tw/job/8woky" />
+    <updated>2026-06-13T00:00:00+08:00</updated>
+    <category term="data" />
+    <summary>地點：台北市中正區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>小松KOMATSU堆高機技術維修員(實習)-桃園地區 · 台松堆高機股份有限公司</title>
     <id>https://www.104.com.tw/job/7zfxq</id>
     <link href="https://www.104.com.tw/job/7zfxq" />
     <updated>2026-06-11T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：桃園市龜山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>VINFAST EngineeringInternshipProgram · Vietnam Jobs Hub</title>
-    <id>https://www.cake.me/companies/vietnam-jobs-hub/jobs/vinfast-engineering-internship-program</id>
-    <link href="https://www.cake.me/companies/vietnam-jobs-hub/jobs/vinfast-engineering-internship-program" />
-    <updated>2026-06-11T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>薪資：面議 · 平台：CakeResume</summary>
-  </entry>
-  <entry>
-    <title>Sales ProjectInternship市場開發專案實習 · Aibou</title>
-    <id>https://www.cake.me/companies/aibou/jobs/project-internship</id>
-    <link href="https://www.cake.me/companies/aibou/jobs/project-internship" />
-    <updated>2026-06-11T00:00:00+08:00</updated>
-    <category term="bd_sales" />
-    <summary>薪資：面議 · 平台：CakeResume</summary>
   </entry>
 </feed>
