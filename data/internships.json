@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T08:41:45",
+  "generated_at": "2026-06-28T13:20:01",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 151,
-    "new_today": 1,
+    "total": 167,
+    "new_today": 2,
     "by_platform": {
-      "104": 60,
+      "104": 76,
       "CakeResume": 14,
       "Yourator": 77
     }
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 7
+      "count": 8
     },
     {
       "key": "consulting",
@@ -77,42 +77,42 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 32
+      "count": 39
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 6
+      "count": 7
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 8
+      "count": 10
     },
     {
       "key": "design",
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 2
+      "count": 3
     },
     {
       "key": "hr",
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 5
+      "count": 6
     },
     {
       "key": "accounting",
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 6
+      "count": 7
     },
     {
       "key": "education",
@@ -133,7 +133,7 @@
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 3
+      "count": 4
     },
     {
       "key": "manufacturing",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 1
+      "count": 2
     },
     {
       "key": "research",
@@ -882,6 +882,24 @@
     },
     {
       "platform": "104",
+      "title": "Digital Intern 長期實習生",
+      "company": "Siemens Mobility_德商西門子交通運輸股份有限公司台灣分公司",
+      "location": "台北市南港區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/934mq",
+      "description": " tools (e.g., Power Automate, n8n), and basic financial knowledge is a plus.\n\n\n**可配合學校提供實習學分\n平時一周需配合3-5天工作時間\n\nOur Commitment",
+      "category": "finance",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "金融機構通路行政人員(全職或暑期實習生皆適用)",
       "company": "安卓樂資本股份有限公司",
       "location": "台北市信義區",
@@ -1356,6 +1374,24 @@
     },
     {
       "platform": "104",
+      "title": "Norns卡通生活百貨【竹北遠百】兼職夥伴｜PT｜工讀｜學生實習",
+      "company": "Norns_樂恩仕股份有限公司",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/8bcir",
+      "description": "\n◆◆《用貼心的服務與溫暖的笑容融化顧客》◆◆\n我們在尋找親切、具服務熱忱、喜歡與顧客互動和分享生活中可愛事物的夥伴。如果你具備以上特質，想從事服務顧客與銷售性質的工作，\n誠摯邀請您加入Norns門市/專櫃夥伴的行列！\n\n【工作內容】\n★顧客服務與商品銷售：商品介紹、查詢庫存調貨、結帳及禮品包裝等。\n★商品進貨管理：商品進貨、補貨、庫存管理、檯面整理等。\n★櫃位品牌形象經營：商品陳列、節慶活動佈置",
+      "category": "marketing",
+      "first_seen": "2026-06-01",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "暑期主播實習計畫 ( 廣電.大傳 在校生專用)",
       "company": "涵宇互娛科技有限公司",
       "location": "台北市大安區",
@@ -1428,6 +1464,78 @@
     },
     {
       "platform": "104",
+      "title": "(假日班）設計實習生/工讀生",
+      "company": "五木空間設計",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/78i7j",
+      "description": "1.門市客招待及洽談\n2.門市及辦公室環境整理\n3.協助設計師製圖及文書作業\n4.其他臨時交辦事項（如：協助案場軟裝佈置..等）\n\n其他加分項目：\n*會設計平面&行銷文宣素材佳\n*假日需盡量配合正職人員排班\n",
+      "category": "marketing",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Norns卡通生活百貨【義大outlet 】兼職夥伴｜PT｜工讀｜學生實習",
+      "company": "Norns_樂恩仕股份有限公司",
+      "location": "高雄市大樹區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/8n8gj",
+      "description": "◆◆《用貼心的服務與溫暖的笑容融化顧客》◆◆\n我們在尋找親切、具服務熱忱、喜歡與顧客互動和分享生活中可愛事物的夥伴。如果你具備以上特質，想從事服務顧客與銷售性質的工作，\n誠摯邀請您加入Norns門市/專櫃夥伴的行列！\n\n【工作內容】\n★顧客服務與商品銷售：商品介紹、查詢庫存調貨、結帳及禮品包裝等。\n★商品進貨管理：商品進貨、補貨、庫存管理、檯面整理等。\n★櫃位品牌形象經營：商品陳列、節慶活動佈置、",
+      "category": "marketing",
+      "first_seen": "2026-06-09",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Norns卡通生活百貨【苗栗尚順】兼職夥伴｜PT｜工讀｜學生實習",
+      "company": "Norns_樂恩仕股份有限公司",
+      "location": "苗栗縣頭份市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/8t4qb",
+      "description": "◆◆《用貼心的服務與溫暖的笑容融化顧客》◆◆\n我們在尋找親切、具服務熱忱、喜歡與顧客互動和分享生活中可愛事物的夥伴。如果你具備以上特質，想從事服務顧客與銷售性質的工作，\n誠摯邀請您加入Norns門市/專櫃夥伴的行列！\n\n【工作內容】\n★顧客服務與商品銷售：商品介紹、查詢庫存調貨、結帳及禮品包裝等。\n★商品進貨管理：商品進貨、補貨、庫存管理、檯面整理等。\n★櫃位品牌形象經營：商品陳列、節慶活動佈置、",
+      "category": "marketing",
+      "first_seen": "2026-06-01",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Norns卡通生活百貨【台中480誠品】兼職夥伴｜PT｜工讀｜學生實習",
+      "company": "Norns_樂恩仕股份有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/8wwdu",
+      "description": "◆◆《用貼心的服務與溫暖的笑容融化顧客》◆◆\n我們在尋找親切、具服務熱忱、喜歡與顧客互動和分享生活中可愛事物的夥伴。如果你具備以上特質，想從事服務顧客與銷售性質的工作，\n誠摯邀請您加入Norns門市/專櫃夥伴的行列！\n\n【工作內容】\n1.顧客服務與商品銷售：商品介紹、查詢庫存調貨、結帳及禮品包裝等。\n2.商品進貨管理：商品進貨、補貨、庫存管理、檯面整理等。\n3.櫃位品牌形象經營：商品陳列、節慶活動",
+      "category": "marketing",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "遠東SOGO百貨-03天母店-企劃實習生",
       "company": "遠東SOGO_太平洋崇光百貨股份有限公司",
       "location": "台北市士林區",
@@ -1439,6 +1547,42 @@
       "description": "1.具備行銷企劃提案能力與高度執行力，需追蹤檢討並提出建議。\n2.熟悉網路生態、對流行資訊具敏銳觀察度、表達能力強，善溝通協調，能獨立思考獨立作業，良好溝通能力 須跨部門協調合作\n3.對百貨或流行產業有興趣者，積極學習，樂觀進取，有服務熱忱。\n4.願意接受挑戰，抗壓性高，具團隊精神，可配合輪值晚班及假日上班，非週休二日。  ",
       "category": "marketing",
       "first_seen": "2026-04-24",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Norns卡通生活百貨【新光三越南西本館】兼職夥伴｜PT｜工讀｜學生實習",
+      "company": "Norns_樂恩仕股份有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/90k7t",
+      "description": "◆◆《用貼心的服務與溫暖的笑容融化顧客》◆◆\n我們在尋找親切、具服務熱忱、喜歡與顧客互動和分享生活中可愛事物的夥伴。如果你具備以上特質，想從事服務顧客與銷售性質的工作，\n誠摯邀請您加入Norns門市/專櫃夥伴的行列！\n\n【工作內容】\n★顧客服務與商品銷售：商品介紹、查詢庫存調貨、結帳及禮品包裝等。\n★商品進貨管理：商品進貨、補貨、庫存管理、檯面整理等。\n★櫃位品牌形象經營：商品陳列、節慶活動佈置、",
+      "category": "marketing",
+      "first_seen": "2026-06-04",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Norns卡通生活百貨【新店誠品/裕隆城】兼職夥伴｜PT｜工讀｜學生實習",
+      "company": "Norns_樂恩仕股份有限公司",
+      "location": "新北市新店區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/922ea",
+      "description": "◆◆《用貼心的服務與溫暖的笑容融化顧客》◆◆\n我們在尋找親切、具服務熱忱、喜歡與顧客互動和分享生活中可愛事物的夥伴。如果你具備以上特質，想從事服務顧客與銷售性質的工作，\n誠摯邀請您加入Norns門市/專櫃夥伴的行列！\n\n【工作內容】\n★顧客服務與商品銷售：商品介紹、查詢庫存調貨、結帳及禮品包裝等。\n★商品進貨管理：商品進貨、補貨、庫存管理、檯面整理等。\n★櫃位品牌形象經營：商品陳列、節慶活動佈置、",
+      "category": "marketing",
+      "first_seen": "2026-05-28",
       "last_seen": "2026-06-28",
       "deadline": "",
       "skills": [],
@@ -1646,6 +1790,26 @@
     },
     {
       "platform": "104",
+      "title": "英文老師（實習可）",
+      "company": "臺北市私立愛笛語文短期補習班",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/82a8z",
+      "description": "\r\n【工作內容: 】\r\n\r\n*實習培訓期\r\n\r\n1.協助主教老師之英語教學及作業批改\r\n2.配合教學活動規劃執行 \r\n3.班級經營與教室環境管理維護\r\n4.親師聯絡相關事項 \r\n5.主管交辦事項\r\n\r\n【工作時間】\r\n\r\n( 週休二日)\r\n星期一",
+      "category": "content",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "遠東SOGO百貨-01台北店-顧客服務實習生",
       "company": "遠東SOGO_太平洋崇光百貨股份有限公司",
       "location": "台北市大安區",
@@ -1765,6 +1929,42 @@
       "description": "",
       "category": "bd_sales",
       "first_seen": "2026-06-01",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【實習生專區】實習生Intern(客務部服務中心/房務部/業務部訂房組/餐飲部外場/廚房)",
+      "company": "台灣糖業股份有限公司台糖長榮酒店﹝台南﹞",
+      "location": "台南市東區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/8zkb1",
+      "description": "實習類型：暑期、學期制、學年制 \n\n●客務櫃檯 - 待禮賓、辦理進退房、電話接聽。(中／英語流利)\n    客務服務中心-旅客諮詢服務/行李服務。(暗英語)\n\n●房務部 - 客房清潔整理、備品補充及保養。\n    健身中心 - 客戶接待，現場器材",
+      "category": "bd_sales",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "遠東SOGO百貨-03天母店-顧客服務實習生",
+      "company": "遠東SOGO_太平洋崇光百貨股份有限公司",
+      "location": "台北市士林區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/7v0g8",
+      "description": "一、顧客諮詢服務。\n二、顧客意件受理。\n三、店內外指引服務。\n四、店內廣播。\n五、服務台相關業務。",
+      "category": "bd_sales",
+      "first_seen": "2026-06-28",
       "last_seen": "2026-06-28",
       "deadline": "",
       "skills": [],
@@ -1897,6 +2097,24 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "設計實習生Design Intern",
+      "company": "好玩事業有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/7zkx9",
+      "description": "\n1.協助並輔佐設計師完成工作相關事宜。\n2.有機會參與平面與立體設計工作，包含商業平面設計（如海報、雜誌、包裝、廣告、通路物料等）、展場佈置與產品包裝設計。\n3.具備基本 3D 建模與渲染能力者佳，將有機會參與展場配置圖、工業設計與產品視覺提案之製作與呈現。\n4.參與社區型設計或永續發展專案，實際體驗跨領域設計實務。\n5.協助處理庶務性行政工作（如：文具用品採買）。\n6. 支援會議行政工作（如：",
+      "category": "design",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "HR Intern (HRBP Team)",
       "company": "彼特思方舟股份有限公司",
@@ -1927,6 +2145,24 @@
       "description": "1. 人事行政事務協助\n2. 新進報到流程協助\n3. 新進人事資料催收/整理/檢核/Key in/掃描及歸檔\n4. 員工關係活動協助",
       "category": "hr",
       "first_seen": "2026-04-26",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "HQ - 招募實習生 Recruitment Intern（汐止總部 / 新竹）",
+      "company": "緯致科技股份有限公司",
+      "location": "新北市汐止區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/8jopi",
+      "description": "【工作內容】\n我們正在找尋對招募工作有興趣、主動積極的實習夥伴！加入我們，你將有機會參與高科技、金融、半導體等產業的工程師招募任務，在專業團隊的帶領下快速成長，累積實戰經驗，為未來職涯注入更多能量！\n\n主要職責：\n1. 人才搜尋與篩選：透過多元招",
+      "category": "hr",
+      "first_seen": "2026-05-11",
       "last_seen": "2026-06-28",
       "deadline": "",
       "skills": [],
@@ -2091,6 +2327,24 @@
       "description": "我們正在招募細心、負責的你，一起支援協會日常財會作業。 此職務可實際接觸會計流程，適合想累積實務經驗的同學／新鮮人。 工作內容 1.費用支付相關帳務處理，含發票憑證等單據核對與入帳。 2.日記帳建檔與歸檔整理、票據與資料維護。 3.一般庶務性會計工作，如文件收發、掃描建檔等。 4.協助查核及各項資料彙整準備。 5.完成主管交辦事項。\n\n如果您具有服務熱忱，喜歡與人接觸，具愛心、耐心及同理心，人際互",
       "category": "accounting",
       "first_seen": "2026-05-20",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【審計支援中心】實習計畫(長期)-100KCT",
+      "company": "KPMG_安侯建業聯合會計師事務所",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-22",
+      "url": "https://www.104.com.tw/job/86htk",
+      "description": "KPMG Central Team係2022年度審計部門因應Operational Excellence而新成立的審計作業集中化部門，致力將審計工作集中化及建立標準化流程，藉以提升查核品質並提高同仁工作效率，讓審計團隊可以專注在專業資訊判讀及評估，將時間留給審計團隊提供客戶專業服務，建立客戶信任，重新塑造新一代的審計作業模式。\n\nWork Life Balance是KPMG持續努力的目標，專業能力",
+      "category": "accounting",
+      "first_seen": "2026-06-05",
       "last_seen": "2026-06-28",
       "deadline": "",
       "skills": [],
@@ -2550,6 +2804,24 @@
     },
     {
       "platform": "104",
+      "title": "HQ－法務實習生 Legal Intern（汐止總部）",
+      "company": "緯致科技股份有限公司",
+      "location": "新北市汐止區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/8k8d0",
+      "description": "1. 製作教育訓練教材初稿 \n2. 協助審閱合約並協助提供初步意見\n3. 撰擬文書初稿（如合約、存證信函等） \n4. 審閱完成的合約進行條文比對與定稿 \n5. 確認用印合約是否已送交法務部門（含保管人簽核節點） \n6. 協助盤點法務保管之合約並彙整列表 \n7. 維護與更新文書管理系統資料 \n8. 初步確認印信清冊是否為最新版本，整理印信異動表單 \n9. 查詢與彙整法律相關資料 \n10. 每月報表彙",
+      "category": "legal",
+      "first_seen": "2026-04-27",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習律師",
       "company": "杰論法律事務所",
       "location": "台北市松山區",
@@ -2579,6 +2851,24 @@
       "description": "1.櫃檯作業\n2.外場服務\n3.協助各項餐點製作、飲品調製\n4.各項備品補充、整理\n5.工作環境清潔維護",
       "category": "hospitality",
       "first_seen": "2026-05-29",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "廚助(實習)",
+      "company": "紫藤花藝村_麟記廚藝坊",
+      "location": "新北市八里區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/92i5a",
+      "description": "無經驗可，但須對廚房工作有興趣\n底薪30000 ，有經驗者薪資另議\n享勞健保、團保，月休8天\n供膳一餐\n1.負責洗、剝、削、切各種食材，以完成烹飪的前置 工作。 以中式料理為主。\n2.協助主廚測量食材的容量與重量。\n3.於出菜時負責菜餚擺盤或調整份量之工作。\n4.依據餐單準備相關的食材。\n5.將食材清洗並做簡單的處理備用。\n6.根據顧客的點單進行烹調。\n7.清理以及保養設備。",
+      "category": "hospitality",
+      "first_seen": "2026-06-12",
       "last_seen": "2026-06-28",
       "deadline": "",
       "skills": [],
@@ -2804,6 +3094,26 @@
     },
     {
       "platform": "104",
+      "title": "【BigByte教育業｜實習生計劃 | 二度就業】Learning Advisor",
+      "company": "BigByte Education_大樹國際文化企業股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/8mi2y",
+      "description": " event planning.\n\n【英文教育實習亮點】\n1. 開拓教學視野，BigByte採用美國小學教材Wonders，在觀課過程中體驗「專題式學習」（PBL, Project-Based Learning）課程運作模式。\n\n2.",
+      "category": "other",
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "遊樂設施(含摩天輪)服務實習生(遊樂世界)-學生實習",
       "company": "義大遊樂世界_義大世界購物廣場_義大開發股份有限公司",
       "location": "高雄市大樹區",
@@ -2875,26 +3185,6 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "【2nd STREET日本最大二手店】高雄夢時代店-門市兼職人員(可配合學生實習)",
-      "company": "2ndSTREET_台灣極沃股份有限公司",
-      "location": "高雄市前鎮區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-06-22",
-      "url": "https://www.104.com.tw/job/7opcs",
-      "description": "動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！\n",
-      "category": "other",
-      "first_seen": "2026-06-27",
-      "last_seen": "2026-06-28",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大二"
-      ]
     },
     {
       "platform": "CakeResume",
