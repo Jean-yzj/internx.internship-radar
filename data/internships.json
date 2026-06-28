@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T05:16:26",
+  "generated_at": "2026-06-28T08:41:45",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 136,
-    "new_today": 4,
+    "total": 151,
+    "new_today": 1,
     "by_platform": {
-      "104": 45,
+      "104": 60,
       "CakeResume": 14,
       "Yourator": 77
     }
@@ -21,7 +21,7 @@
       "label": "工程（機電）",
       "emoji": "🔧",
       "color": "#0369a1",
-      "count": 0
+      "count": 1
     },
     {
       "key": "tech",
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 6
+      "count": 7
     },
     {
       "key": "consulting",
@@ -77,21 +77,21 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 29
+      "count": 32
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 5
+      "count": 6
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 6
+      "count": 8
     },
     {
       "key": "design",
@@ -105,14 +105,14 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 4
+      "count": 5
     },
     {
       "key": "accounting",
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 5
+      "count": 6
     },
     {
       "key": "education",
@@ -126,14 +126,14 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 17
+      "count": 18
     },
     {
       "key": "legal",
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 2
+      "count": 3
     },
     {
       "key": "manufacturing",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 0
+      "count": 1
     },
     {
       "key": "research",
@@ -168,10 +168,28 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 16
+      "count": 18
     }
   ],
   "jobs": [
+    {
+      "platform": "104",
+      "title": "[Full time/part time]研發實習生計畫(Internship program)",
+      "company": "醫流體股份有限公司",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/7cba9",
+      "description": "希望尋找一同創業打拼的優秀夥伴，\n實習內容有:\nFirmware Engineer Internship\nMechanical Engineer Internship\nProduct Application Researcher",
+      "category": "engineering",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
     {
       "platform": "Yourator",
       "title": "Testing & Office Intern 產品測試與辦公室營運實習生",
@@ -881,6 +899,24 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "百貨卡友服務實習生(購物廣場) -學生實習",
+      "company": "義大遊樂世界_義大世界購物廣場_義大開發股份有限公司",
+      "location": "高雄市大樹區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/47wvd",
+      "description": "1.兌換會員銀行禮及會員贈品\n2.申辦百貨會員集點卡\n3.操作會員點數累積資訊系統及諮詢",
+      "category": "finance",
+      "first_seen": "2026-05-29",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "Slack 商務拓展實習顧問（2026/2027畢業生專案)",
       "company": "伊原力科技",
@@ -1282,6 +1318,24 @@
     },
     {
       "platform": "104",
+      "title": "[Full time/part time]行銷行政實習生",
+      "company": "醫流體股份有限公司",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/8msq8",
+      "description": "本公司(醫流體MedFluid)以整合型氣動式微流體晶片為核心，並結合小型分析儀，來開發體外診斷(In-vitro diagnostic devices, IVD)裝置，改善傳染性疾病病患的健康福祉。\r\n\r\n行銷行政實習生工作內容為:\r\n\r\n1.",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "數位行銷實習生",
       "company": "元田美有限公司",
       "location": "台北市大安區",
@@ -1298,6 +1352,24 @@
       "skills": [
         "英文"
       ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "暑期主播實習計畫 ( 廣電.大傳 在校生專用)",
+      "company": "涵宇互娛科技有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/8qnh1",
+      "description": "歡迎廣電.大傳等科系在校生實習\n\n2025「暑期主播新星學子計畫」火熱招募中！\n想在這個暑假開啟一段充滿挑戰與成長的精彩旅程嗎？加入我們的「主播實習生計畫」，你將有機會：\n√  深入直播行業，掌握平臺運營、內容創作、粉絲互動的實戰技巧\n√  接受",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
       "eligibility": []
     },
     {
@@ -1367,6 +1439,24 @@
       "description": "1.具備行銷企劃提案能力與高度執行力，需追蹤檢討並提出建議。\n2.熟悉網路生態、對流行資訊具敏銳觀察度、表達能力強，善溝通協調，能獨立思考獨立作業，良好溝通能力 須跨部門協調合作\n3.對百貨或流行產業有興趣者，積極學習，樂觀進取，有服務熱忱。\n4.願意接受挑戰，抗壓性高，具團隊精神，可配合輪值晚班及假日上班，非週休二日。  ",
       "category": "marketing",
       "first_seen": "2026-04-24",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "行銷文案工讀生/實習生_【OLENS】韓國知名隱形眼鏡品牌_(台北辦公室)",
+      "company": "韓國OLENS總代理_泰瑞兒有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/8vk43",
+      "description": "OLENS為韓國超人氣隱形眼鏡品牌，在韓國擁有300間實體門市\n★ 2018年邀請韓國天團【BLACKPINK】擔任品牌代言人 \n☆ 2023年攜手大勢女團【NewJeans】持續引領時尚潮流\n★ 2026年全新合作新世代女團【MEOVV】再掀時尚浪潮\n\nOLENS不斷創新研發設計，期許未來成為提供健康與美麗兼得的隱形眼鏡頂級品牌！\n歡迎喜愛韓國流行彩妝文化或品牌忠實粉絲，一同加入我們的團隊！\n\n",
+      "category": "marketing",
+      "first_seen": "2026-06-28",
       "last_seen": "2026-06-28",
       "deadline": "",
       "skills": [],
@@ -1574,6 +1664,24 @@
     },
     {
       "platform": "104",
+      "title": "寒/暑期實習主播",
+      "company": "涵宇互娛科技有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/8qekx",
+      "description": "你以為的實習，就是領著超低時薪、被叫去幫正職買午餐、在辦公室做雜事，或是頂著大太陽出門跑腿？\n醒醒吧！那是在浪費你的生命。\n\n我們提供的實習機會，玩的就是不一樣：\n✅ 【報酬對得起你的魅力】 我們相信你的直播表現力就是價值！這不是一份「勉強符合最",
+      "category": "content",
+      "first_seen": "2026-05-01",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "瑞彼家包租代管 | 實習專案",
       "company": "瑞彼家租賃住宅包租代管有限公司",
       "location": "台南市東區",
@@ -1664,6 +1772,24 @@
     },
     {
       "platform": "104",
+      "title": "商品服務實習生(遊樂世界)-學生實習",
+      "company": "義大遊樂世界_義大世界購物廣場_義大開發股份有限公司",
+      "location": "高雄市大樹區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/47wvn",
+      "description": "1.商品店務及行政作業\n2.商品調撥、盤點作業\n3.顧客意見反應及回饋\n4.商品銷售、結帳作業",
+      "category": "bd_sales",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "平鎮區-遠傳門市-實習銷售專員 35000起",
       "company": "全宇電信股份有限公司",
       "location": "桃園市平鎮區",
@@ -1675,6 +1801,24 @@
       "description": "工作項目：\n1.門市客戶服務及通訊相關問題諮詢\n2.銷售手機及相關週邊配件\n3.銷售門號\n4.協助客戶完成續約活動\n5.收取電信資費\n6.銷售平板電腦及相關週邊商品\n7.協助客戶體驗門市展售之相關產品\n8.門市環境整齊與整節之維護\n9.完成其他公司指派之事項\n\n徵求挑戰高薪的你 加入我們",
       "category": "bd_sales",
       "first_seen": "2026-04-24",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "《暑假》票務時薪人員/實習生(遊樂世界)",
+      "company": "義大遊樂世界_義大世界購物廣場_義大開發股份有限公司",
+      "location": "高雄市大樹區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/3lcbi",
+      "description": "1. 一般遊客售票作業(含各票種分類熟記、票券核銷、EXCEL報表作業)。\n2. 團體遊客結帳作業(團體人數比例計算與核對)。\n3. 預售票銷售作業。\n4. 其他票務相關業務(含各項憑證製作及分類統整)。",
+      "category": "bd_sales",
+      "first_seen": "2026-05-07",
       "last_seen": "2026-06-28",
       "deadline": "",
       "skills": [],
@@ -1765,6 +1909,24 @@
       "description": "",
       "category": "hr",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "人資實習生/工讀生 H53",
+      "company": "永慶房產集團_永慶房屋仲介股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/7bctf",
+      "description": "1. 人事行政事務協助\n2. 新進報到流程協助\n3. 新進人事資料催收/整理/檢核/Key in/掃描及歸檔\n4. 員工關係活動協助",
+      "category": "hr",
+      "first_seen": "2026-04-26",
       "last_seen": "2026-06-28",
       "deadline": "",
       "skills": [],
@@ -1877,6 +2039,26 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "審計/帳務人員(歡迎應屆畢業生實習生及二度就業人士)",
+      "company": "博業會計師事務所",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/3wo4f",
+      "description": "本事務所已導入AI自動化快速報稅系統，帳務系統亦透過AI輔助設定自動生成傳票，大幅提高帳務效率及正確性，減少人工輸入作業。\n1. 審計 : 包含審計查核/專案查核/財稅簽證報告撰寫 \n2. 記帳 : 包含帳務處理/營業稅申報/營所稅申報 \n3. 工商登記 \n4. 協助專案查核\n5. 其他.",
+      "category": "accounting",
+      "first_seen": "2026-06-05",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "應屆"
+      ]
     },
     {
       "platform": "104",
@@ -2239,6 +2421,24 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "AI營運與跨境電商專案實習生 (南部實習生)",
+      "company": "艾特生醫科技股份有限公司",
+      "location": "高雄市苓雅區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/92vmj",
+      "description": "我們正在招募對 AI 工具、跨境電商與寵物科技產品有興趣的實習夥伴，協助公司進行海外市場與電商營運相關工作。\n\n主要工作內容包含：\n\n協助整理美國、日本等海外市場資料與競品資訊。\n協助 Amazon、Rakuten 等電商平台商品上架、內容整理與",
+      "category": "operations",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "CakeResume",
       "title": "Company OperationsIntern",
       "company": "PicCollage 拼貼趣",
@@ -2346,6 +2546,42 @@
       "skills": [
         "英文"
       ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "杰論法律事務所",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/6vydg",
+      "description": "實務見解研究、法律意見撰擬、合約審議、訴訟撰狀、其他律師交辦事項",
+      "category": "legal",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "餐飲實習生(遊樂世界) -學生實習",
+      "company": "義大遊樂世界_義大世界購物廣場_義大開發股份有限公司",
+      "location": "高雄市大樹區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/47wvj",
+      "description": "1.櫃檯作業\n2.外場服務\n3.協助各項餐點製作、飲品調製\n4.各項備品補充、整理\n5.工作環境清潔維護",
+      "category": "hospitality",
+      "first_seen": "2026-05-29",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
       "eligibility": []
     },
     {
@@ -2568,6 +2804,24 @@
     },
     {
       "platform": "104",
+      "title": "遊樂設施(含摩天輪)服務實習生(遊樂世界)-學生實習",
+      "company": "義大遊樂世界_義大世界購物廣場_義大開發股份有限公司",
+      "location": "高雄市大樹區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/47wvh",
+      "description": "1.填寫每日工作日報及設施檢點表。\n2.服務遊客搭乘設施。\n3.設施檢查與客服處理。\n4.需穿著特殊戲服\n歡迎具服務熱忱，刻苦耐勞，不怕風吹日曬雨淋者加入我們的行列！",
+      "category": "other",
+      "first_seen": "2026-05-29",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "產品測試實習生 (長期工讀&學生實習)",
       "company": "新加坡商技流創新有限公司台灣分公司",
       "location": "台北市內湖區",
@@ -2606,21 +2860,41 @@
     },
     {
       "platform": "104",
-      "title": "DBT Intern",
-      "company": "英國在台辦事處",
-      "location": "台北市信義區",
+      "title": "樂園客服實習生(遊樂世界)-學生實習",
+      "company": "義大遊樂世界_義大世界購物廣場_義大開發股份有限公司",
+      "location": "高雄市大樹區",
       "salary": "",
       "salary_min": null,
       "salary_type": "unknown",
-      "posted_at": "2026-06-15",
-      "url": "https://www.104.com.tw/job/92p2r",
-      "description": "Main purpose of job:\n\nPlease note that this internship has a 12-month duration.\n\nThis job offers the successful candidate",
+      "posted_at": "2026-06-28",
+      "url": "https://www.104.com.tw/job/47wvt",
+      "description": "1.遊客購票入園引導、\n2.樂園/劇院驗票分流、\n3.愛心公物租借、\n3.處理電話/現場遊客諮詢及抱怨處理、\n4.貴賓接待。\n5.須穿著特殊戲服\n歡迎具服務熱誠、活潑外向、主動積極、刻苦耐勞者加入我們的行列！",
       "category": "other",
-      "first_seen": "2026-06-23",
+      "first_seen": "2026-06-20",
       "last_seen": "2026-06-28",
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【2nd STREET日本最大二手店】高雄夢時代店-門市兼職人員(可配合學生實習)",
+      "company": "2ndSTREET_台灣極沃股份有限公司",
+      "location": "高雄市前鎮區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-22",
+      "url": "https://www.104.com.tw/job/7opcs",
+      "description": "動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！\n",
+      "category": "other",
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-06-28",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大二"
+      ]
     },
     {
       "platform": "CakeResume",
