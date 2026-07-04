@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T08:25:51",
+  "generated_at": "2026-07-04T13:03:50",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 116,
+    "total": 128,
     "new_today": 2,
     "by_platform": {
-      "104": 52,
+      "104": 64,
       "CakeResume": 13,
       "Yourator": 51
     }
@@ -56,7 +56,7 @@
       "label": "醫療／健康",
       "emoji": "🏥",
       "color": "#db2777",
-      "count": 1
+      "count": 4
     },
     {
       "key": "finance",
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 21
+      "count": 23
     },
     {
       "key": "content",
@@ -91,7 +91,7 @@
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 5
+      "count": 7
     },
     {
       "key": "design",
@@ -105,7 +105,7 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 3
+      "count": 2
     },
     {
       "key": "accounting",
@@ -126,14 +126,14 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 11
+      "count": 13
     },
     {
       "key": "legal",
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 4
+      "count": 5
     },
     {
       "key": "manufacturing",
@@ -147,14 +147,14 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 1
+      "count": 2
     },
     {
       "key": "hospitality",
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 5
+      "count": 6
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 17
+      "count": 18
     }
   ],
   "jobs": [
@@ -689,6 +689,60 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "長照實習生職場體驗【中永和獨老共居宅】【無薪】",
+      "company": "社團法人中華長照協會",
+      "location": "新北市永和區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-04",
+      "url": "https://www.104.com.tw/job/8dpaz",
+      "description": "居宅住民事務協助\n     4. 督導或主任交辦事項 \n     \n* 對長照領域有興趣之同學\n* 會提供實習證明(可蓋服務時數章)\n* 每月免費3杯咖啡館飲品(永和長照咖啡館)\n\n=================================",
+      "category": "healthcare",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-07-04",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "醫美集團實習店長(新竹地區)",
+      "company": "藝群台北診所",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-04",
+      "url": "https://www.104.com.tw/job/8ygbr",
+      "description": "不需有醫美工作經驗，有醫美診所經驗尤佳\n1.親和力強具高度熱誠服務,想挑戰高薪者\n2.個性積極主動,負責,有強烈學習意願\n3.進行店務管理及業務拓展，門市管理\n4.有門市之管理經驗佳\n5.相關管理制度規章守則與作業流程之sop門市員關管理，建立書面與電子系統檔，並管理與執行，規範門市人員\n6.危機處理，解決顧客抱怨\n7.管理門市營業業績、人事、進出貨事宜\n8.店舖行政工作管理與帳務處理\n",
+      "category": "healthcare",
+      "first_seen": "2026-05-23",
+      "last_seen": "2026-07-04",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "醫美集團實習店長(台北地區)",
+      "company": "藝群台北診所",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-04",
+      "url": "https://www.104.com.tw/job/8yd02",
+      "description": "醫美集團店長/ 不需有醫美工作經驗，有醫美診所經驗尤佳\n\n1.親和力強具高度熱誠服務,想挑戰高薪者\n2.個性積極主動,負責,有強烈學習意願\n3.進行店務管理及業務拓展，門市管理\n4.需有門市之管理超過10人經驗佳\n5.相關管理制度規章守則與作業流程之sop門市員關管理，建立書面與電子系統檔，並管理與執行，規範門市人員\n6.危機處理，解決顧客抱怨\n7.管理門市營業業績、人事、進出貨事宜\n8.店舖行政",
+      "category": "healthcare",
+      "first_seen": "2026-05-23",
+      "last_seen": "2026-07-04",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "Quantitative Research Intern 量化研究實習生",
       "company": "SuDo Research Labs（蘇度科技有限公司）",
@@ -1104,6 +1158,24 @@
     },
     {
       "platform": "104",
+      "title": "【西班牙遠端實習】數位行銷／行政實習生",
+      "company": "歐洲家顧問社",
+      "location": "南歐",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-04",
+      "url": "https://www.104.com.tw/job/8rdcg",
+      "description": "國際職場初體驗！遠端實習 × 亞洲選品 × 數位行銷 × 電商營運\n你是否嚮往國際化的工作環境？\n是否熱愛亞洲設計品牌、數位行銷與創意內容製作？\nAMAE正在招募對亞洲文化有熱情、希望挑戰跨國合作與實務經驗的你！\n\n\n\n公司簡介（實習企業：",
+      "category": "marketing",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-07-04",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "行銷企劃實習生",
       "company": "大葉高島屋百貨股份有限公司",
       "location": "台北市士林區",
@@ -1115,6 +1187,24 @@
       "description": "\n《早班》09:30~18:30\n實習生一週至少配合三天，每日時數為6-8小時。\n",
       "category": "marketing",
       "first_seen": "2026-05-02",
+      "last_seen": "2026-07-04",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "ReadyGo影音社群暨網站行銷實習生",
+      "company": "台灣旅圖資訊股份有限公司",
+      "location": "台北市南港區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-04",
+      "url": "https://www.104.com.tw/job/5ae4l",
+      "description": "成為ReadyGo團隊的一員\n有時能去全新旅館住一晚，有時能去特色餐廳吃一餐\n讓ReadyGo成為你發揮創意的舞台，透過影像、文字分享旅遊的美好\n\n—   實習內容   — \n1. 影音後製&包裝企劃\n跟著ReadyGo旅遊節目《RG特派員》、《",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-07-04",
       "deadline": "",
       "skills": [],
@@ -1302,6 +1392,42 @@
     },
     {
       "platform": "104",
+      "title": "醫美集團實習店長(桃園地區)",
+      "company": "藝群台北診所",
+      "location": "桃園市桃園區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-04",
+      "url": "https://www.104.com.tw/job/8ygbb",
+      "description": "上班地點：桃園市桃園區\n1.親和力強具高度熱誠服務,想挑戰高薪者\n2.個性積極主動,負責,有強烈學習意願\n3.進行店務管理及業務拓展，門市管理\n4.需有門市之管理超過10人經驗佳\n5.相關管理制度規章守則與作業流程之sop門市員關管理，建立書面與電子系統檔，並管理與執行，規範門市人員\n6.危機處理，解決顧客抱怨\n7.管理門市營業業績、人事、進出貨事宜\n8.店舖行政工作管理與帳務處理",
+      "category": "bd_sales",
+      "first_seen": "2026-05-23",
+      "last_seen": "2026-07-04",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "醫美集團實習店長(台南地區)",
+      "company": "藝群台北診所",
+      "location": "台南市東區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-04",
+      "url": "https://www.104.com.tw/job/8yjl1",
+      "description": "醫美集團店長(台南地區)\n\n1.親和力強具高度熱誠服務,想挑戰高薪者\n2.個性積極主動,負責,有強烈學習意願\n3.進行店務管理及業務拓展，門市管理\n4.需有門市之管理超過10人經驗佳\n5.相關管理制度規章守則與作業流程sop之建立，管理與執行，規範門市人員\n6.危機處理，解決顧客抱怨\n7.管理門市營業業績、人事、進出貨事宜\n8.店舖行政工作管理與帳務處理",
+      "category": "bd_sales",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-07-04",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【2026新鮮人搶先就業】實習/兼職 銷售人員-全勤獎金另計",
       "company": "IKEA_宜家家居股份有限公司",
       "location": "台北市松山區",
@@ -1407,27 +1533,6 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "人資實習生(歡迎大二~大三在校生)！！暑期打工者勿試！！",
-      "company": "robinmay總公司_薇恩股份有限公司",
-      "location": "台北市中山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-07-03",
-      "url": "https://www.104.com.tw/job/80cpy",
-      "description": "**你是人資新鮮人，想快速窺探人資的實戰世界嗎？\n\n**那就加入RM吧！我們對於此實習職缺有完整的想法和計畫，是你快速窺探人資世界不可忽視的捷徑！\n\n實習期間的工作內容主要在於協助人員招募相關事項，包括：\n1.面試邀約\n2.安排面試時間\n3.面試",
-      "category": "hr",
-      "first_seen": "2026-06-26",
-      "last_seen": "2026-07-04",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大二",
-        "大三"
-      ]
     },
     {
       "platform": "Yourator",
@@ -1727,6 +1832,42 @@
     },
     {
       "platform": "104",
+      "title": "行政助理（近龍華科大）實習兼職可談",
+      "company": "台旭科技有限公司",
+      "location": "桃園市龜山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-04",
+      "url": "https://www.104.com.tw/job/85dna",
+      "description": "：7-11巴頓門市（我們的工業區就在旁邊）\n工業區內有很多機車位子，適合有機車的通勤族\n\n若想兼職、實習者也可談：$200時薪\n",
+      "category": "operations",
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-07-04",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "企業實習生產學合作",
+      "company": "歐洲家顧問社",
+      "location": "台南市東區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-04",
+      "url": "https://www.104.com.tw/job/7a7ng",
+      "description": "1. 新學生開發 (留學/遊學) \n2. 招生說明會 (留學/遊學) \n3. 分析學生條件，幫學生找出適合的學校或專案 \n4. 幫學生規畫出國,遊學留學計畫\n5. 協助行政\n6. 學校資訊更新＆宣傳\n\n\n歡迎具備相關資格和經驗的候選人加入我們的團隊，請投遞您的履歷表，期待與您共同創造更美好的未來！",
+      "category": "operations",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-07-04",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "夫家FUISM HAIR-設計助理(實習師）",
       "company": "夫家FUISM HAIR_夫家有限公司",
       "location": "台北市大安區",
@@ -1835,6 +1976,24 @@
     },
     {
       "platform": "104",
+      "title": "實習律師（台南所）",
+      "company": "守諺法律事務所",
+      "location": "台南市安平區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-04",
+      "url": "https://www.104.com.tw/job/86b7g",
+      "description": "1、撰寫訴訟書狀及各類法律文件、文章\n2、陪同律師開庭、調解、陪偵、律見及現場履勘、執行等\n3、與客戶聯繫、會議、提供法律諮詢\n4、案件資料整理、法律問題及實務見解研究\n5、審閱及撰擬各類契約、意見書\n6、其他事務所交辦事項 ",
+      "category": "legal",
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-07-04",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習律師",
       "company": "杰論法律事務所",
       "location": "台北市松山區",
@@ -1889,6 +2048,24 @@
     },
     {
       "platform": "104",
+      "title": "【空運/海運】實習生",
+      "company": "安泰國際物流股份有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-04",
+      "url": "https://www.104.com.tw/job/8pnt2",
+      "description": "【空運/海運】實習生\n\n●製作空運/海運文件製作\n●帳單製作\n\n*可配合學校 簽訂實習合約\n*每週可配合 四天以上到班者為佳\n\n歡迎樂於學習、細心負責，對國際貿易、物流產業有熱忱的同學加入我們的行列",
+      "category": "supply_chain",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-07-04",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "墨More 義法餐館｜廚房實習正職",
       "company": "森達餐飲國際股份有限公司",
       "location": "高雄市左營區",
@@ -1936,6 +2113,24 @@
       "description": "1.\t餐飲服務、點餐等及餐廳外場相關其他工作。\n2.\t協助出餐、備餐及廚房其他相關工作。\n3.\t對餐飲服務工作有熱忱，具備高度親和力。\n4.\t兼職夥伴也依比例享有特休假。\n5.\t完成各項主管交代的事宜。\n6.     可配合學生實習計畫。",
       "category": "hospitality",
       "first_seen": "2026-06-08",
+      "last_seen": "2026-07-04",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "真·手作日式料理-內場實習生(時薪+獎金/彈性排班/師傅帶領完整培訓）",
+      "company": "真手作日式料理_金禾創作日式料理",
+      "location": "新北市土城區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-04",
+      "url": "https://www.104.com.tw/job/8djai",
+      "description": "1. 烹調和製作各種日式菜餚；\r\n2. 確保儲存和處理食材的品質和安全性；\r\n3. 確保廚房的衛生和清潔；\r\n4. 烤、炸、炒台、冷台各區培訓\r\n5. 配合主管的安排，完成其他相關工作。\r\n\r\n本職位是在日式餐飲業中的重要職位，在這個領域中具有很大的發展前景。作為一名日式廚師，您將負責製作精美的日式料理，確保每位客人都能享受到最佳的餐飲體驗。\r\n歡迎符合條件的候選人申請此職位，請投遞履歷和聯繫方式",
+      "category": "hospitality",
+      "first_seen": "2026-07-04",
       "last_seen": "2026-07-04",
       "deadline": "",
       "skills": [],
@@ -2173,6 +2368,26 @@
       "last_seen": "2026-07-04",
       "deadline": "",
       "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【BigByte教育業｜實習生計劃 | 二度就業】Learning Advisor",
+      "company": "BigByte Education_大樹國際文化企業股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-04",
+      "url": "https://www.104.com.tw/job/8mi2y",
+      "description": " event planning.\n\n【英文教育實習亮點】\n1. 開拓教學視野，BigByte採用美國小學教材Wonders，在觀課過程中體驗「專題式學習」（PBL, Project-Based Learning）課程運作模式。\n\n2.",
+      "category": "other",
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-07-04",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
       "eligibility": []
     },
     {
