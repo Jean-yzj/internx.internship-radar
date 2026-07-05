@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T08:42:42",
+  "generated_at": "2026-07-05T13:12:30",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 115,
-    "new_today": 0,
+    "total": 121,
+    "new_today": 1,
     "by_platform": {
-      "104": 51,
+      "104": 57,
       "CakeResume": 13,
       "Yourator": 51
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 25
+      "count": 26
     },
     {
       "key": "data",
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 22
+      "count": 24
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 9
+      "count": 10
     },
     {
       "key": "bd_sales",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 9
+      "count": 11
     }
   ],
   "jobs": [
@@ -407,6 +407,24 @@
       "description": "具有3D建模及軟體美編操作專長，協助整理潛水裝備,設計商品DM以及其他主管交辦事項",
       "category": "tech",
       "first_seen": "2026-06-27",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Vespa 進口二輪維修保養 實習生",
+      "company": "峰雨有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/8ckky",
+      "description": "公司主要針對進口二輪 Vespa機車的維修、改裝、保養。我們希望找到熱愛二輪的人，一起為車主的安全一同努力！把好的技術傳承下去，成為優秀的職人。\n\n【偉士計劃實習生訓練系統】\n第一步、到職\n\n第二步、偉士牌基礎概念培訓\n\n第三步、初試考核 (到職",
+      "category": "tech",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-07-05",
       "deadline": "",
       "skills": [],
@@ -1103,6 +1121,24 @@
     },
     {
       "platform": "104",
+      "title": "數位廣告工讀生／實習生",
+      "company": "呈鈺顧問股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/92mdp",
+      "description": "AI工具輔助工作流程，培養未來必備的AI應用技能\n\n我們深知在職生的時間寶貴，特別提供彈性安排：\n- 彈性時間：每週至少 3 天，需於週一固定排班，可配合你的工作時程每天至少4小時安排\n- 合理薪資：時薪200 元，實習也有應得報酬與時數簽核\n-",
+      "category": "marketing",
+      "first_seen": "2026-06-11",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "遠東SOGO百貨-03天母店-企劃實習生",
       "company": "遠東SOGO_太平洋崇光百貨股份有限公司",
       "location": "台北市士林區",
@@ -1152,6 +1188,24 @@
       "description": "1.產品介紹及銷售商品\n2.提供顧客接待與服務\n3.進貨、銷貨、存貨作業\n4.商品銷售管理及相關陳列工作\n5.配合品牌參加產品教育訓練",
       "category": "marketing",
       "first_seen": "2026-04-24",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "行銷文案工讀生/實習生_【OLENS】韓國知名隱形眼鏡品牌_(台北辦公室)",
+      "company": "韓國OLENS總代理_泰瑞兒有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/8vk43",
+      "description": "OLENS為韓國超人氣隱形眼鏡品牌，在韓國擁有300間實體門市\n★ 2018年邀請韓國天團【BLACKPINK】擔任品牌代言人 \n☆ 2023年攜手大勢女團【NewJeans】持續引領時尚潮流\n★ 2026年全新合作新世代女團【MEOVV】再掀時尚浪潮\n\nOLENS不斷創新研發設計，期許未來成為提供健康與美麗兼得的隱形眼鏡頂級品牌！\n歡迎喜愛韓國流行彩妝文化或品牌忠實粉絲，一同加入我們的團隊！\n\n",
+      "category": "marketing",
+      "first_seen": "2026-06-28",
       "last_seen": "2026-07-05",
       "deadline": "",
       "skills": [],
@@ -1303,6 +1357,26 @@
       "last_seen": "2026-07-05",
       "deadline": "",
       "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "英文老師（實習可）",
+      "company": "臺北市私立愛笛語文短期補習班",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/82a8z",
+      "description": "\r\n【工作內容: 】\r\n\r\n*實習培訓期\r\n\r\n1.協助主教老師之英語教學及作業批改\r\n2.配合教學活動規劃執行 \r\n3.班級經營與教室環境管理維護\r\n4.親師聯絡相關事項 \r\n5.主管交辦事項\r\n\r\n【工作時間】\r\n\r\n( 週休二日)\r\n星期一",
+      "category": "content",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
       "eligibility": []
     },
     {
@@ -1525,7 +1599,7 @@
     },
     {
       "platform": "104",
-      "title": "畢業前就累積企業招募經驗｜外商實習生｜時薪210元｜在校生限定 | 需配合6個月以上/JO3",
+      "title": "畢業前就累積企業招募經驗｜外商獵才實習生｜時薪210元｜日/夜間在校生限定 | 需配合6個月以上/JO3",
       "company": "新加坡商立福人事顧問有限公司台灣分公司",
       "location": "高雄市鼓山區",
       "salary": "",
@@ -2231,6 +2305,24 @@
     },
     {
       "platform": "104",
+      "title": "專案經理PM 實習生",
+      "company": "有日互動有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/93dsi",
+      "description": " Notion）經驗者加分，但非必要。\n\n\n工作待遇：15,000/月\n上班地點：台北市大安區信義路三段134巷94號1樓\n上班時段：彈性\n可上班日：每週可配合實習3天以上，開學時段可面議調整。\n需求人數：1人\n公司福利：彈性上下班時間 / 不定期聚餐 /",
+      "category": "other",
+      "first_seen": "2026-07-05",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "美髮實習師(信義店 景美店 新店店)",
       "company": "CRE.A HAIR SALON_創意美型有限公司",
       "location": "台北市信義區",
@@ -2266,6 +2358,26 @@
         "英文"
       ],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【2nd STREET日本最大二手店】高雄夢時代店-門市兼職人員(可配合學生實習)",
+      "company": "2ndSTREET_台灣極沃股份有限公司",
+      "location": "高雄市前鎮區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-06-29",
+      "url": "https://www.104.com.tw/job/7opcs",
+      "description": "動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！\n",
+      "category": "other",
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大二"
+      ]
     }
   ]
 }
