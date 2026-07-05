@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T04:56:21",
+  "generated_at": "2026-07-05T08:42:42",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 101,
-    "new_today": 2,
+    "total": 115,
+    "new_today": 0,
     "by_platform": {
-      "104": 37,
+      "104": 51,
       "CakeResume": 13,
       "Yourator": 51
     }
@@ -28,14 +28,14 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 23
+      "count": 25
     },
     {
       "key": "data",
       "label": "資料分析",
       "emoji": "📊",
       "color": "#14b8a6",
-      "count": 1
+      "count": 0
     },
     {
       "key": "pm",
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 20
+      "count": 22
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 8
+      "count": 9
     },
     {
       "key": "bd_sales",
@@ -98,21 +98,21 @@
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 0
+      "count": 1
     },
     {
       "key": "hr",
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 3
+      "count": 5
     },
     {
       "key": "accounting",
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 2
+      "count": 3
     },
     {
       "key": "education",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 14
+      "count": 19
     },
     {
       "key": "legal",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 8
+      "count": 9
     }
   ],
   "jobs": [
@@ -396,6 +396,42 @@
     },
     {
       "platform": "104",
+      "title": "在學實習生",
+      "company": "捷你爾股份有限公司",
+      "location": "嘉義市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/8d37g",
+      "description": "具有3D建模及軟體美編操作專長，協助整理潛水裝備,設計商品DM以及其他主管交辦事項",
+      "category": "tech",
+      "first_seen": "2026-06-27",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習工程師(可培訓)",
+      "company": "德春營造股份有限公司",
+      "location": "新北市新店區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/8ljaj",
+      "description": "1.執行業主與公司共同規範之施工管理及作業\n2.負責上包與下包之串聯協調\n3.嚴格控管材物料之調配\n4.施作數量之審核及計價\n5.現場狀況之回報\n6.管理包商等現場工程進度及程序\n7.日報表輸入",
+      "category": "tech",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "日班實習技術員(無相關經驗)",
       "company": "優奇印刷有限公司",
       "location": "台中市神岡區",
@@ -589,24 +625,6 @@
       "description": "",
       "category": "tech",
       "first_seen": "2026-06-29",
-      "last_seen": "2026-07-05",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "Internship - CS EUV OPP team - Tainan _ J-00345172",
-      "company": "(ASML)台灣艾司摩爾科技股份有限公司",
-      "location": "台南市新市區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-07-05",
-      "url": "https://www.104.com.tw/job/92vzo",
-      "description": "External Job Description\nIntroduction to the job\nResponsible for operating and executing tasks within the SAP system, conducting data analysis and integration, and supporting the organization in ensur",
-      "category": "data",
-      "first_seen": "2026-06-21",
       "last_seen": "2026-07-05",
       "deadline": "",
       "skills": [],
@@ -1010,6 +1028,42 @@
     },
     {
       "platform": "104",
+      "title": "[MK] Korean Marketing Intern 韓國行銷實習生",
+      "company": "GDT_起達通有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/7l4oy",
+      "description": "【About GDT | Asia-Pacific O2O Brand Incubation Leader】\n\nGDT operates under a Hong Kong–based holding group, with Taipei as its strategic headquarters, and a business presence spanning key Southeast As",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "[MK] Thai Marketing Intern / Part time 泰國行銷實習生",
+      "company": "GDT_起達通有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/6tl18",
+      "description": "【About GDT | Asia-Pacific O2O Brand Incubation Leader】\n\nGDT operates under a Hong Kong–based holding group, with Taipei as its strategic headquarters, and a business presence spanning key Southeast As",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【微風集團-美工設計兼職】環境優//見紅休//實習&夜校生可",
       "company": "微風廣場實業股份有限公司",
       "location": "台北市信義區",
@@ -1291,6 +1345,24 @@
     },
     {
       "platform": "104",
+      "title": "引電修護實習生(內湖) 【無經驗/可培訓】",
+      "company": "Volvo_新凱汽車股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/84kpe",
+      "description": "【VOLVO 新凱汽車｜我們正在找的，就是你】\n您正在找一份穩定又有成就感的工作嗎？\n我們正在找一位手藝細膩、做事有責任感的夥伴，一起打造舒適、安全的座車體驗。\n\n一支短影音，也許能改變你的選擇——\n點我看影片：https://www.facebook.com/share/v/16hWNCQnqi/\n\n這不只是徵才，這是我們對夥伴的期待：\n「如果你～沒有如果，我們就是要你！」\n加入新凱，讓您與國際",
+      "category": "content",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "瑞彼家 | 租賃管理師 | 實習專案",
       "company": "瑞彼家租賃住宅包租代管有限公司",
       "location": "台南市東區",
@@ -1435,6 +1507,24 @@
     },
     {
       "platform": "104",
+      "title": "UIUX 設計實習生",
+      "company": "果思設計股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/8tfun",
+      "description": "情況詳談續聘、轉正或是專案合作關係\n\n- 薪資＆上班時段：\n設計實習生（時薪制）：時薪 200 起｜一週2-3天，詳細可面談\n\n- 應徵請來這：yenting@goonsdesign.com\n來信請【說明應徵的職位＋提供履歷/作品集】喔 \n\n另外一",
+      "category": "design",
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "畢業前就累積企業招募經驗｜外商實習生｜時薪210元｜在校生限定 | 需配合6個月以上/JO3",
       "company": "新加坡商立福人事顧問有限公司台灣分公司",
       "location": "高雄市鼓山區",
@@ -1464,6 +1554,42 @@
       "description": "我們正在尋找一位充滿熱情的人資實習生，一起打造新進同仁的美好 Onboarding Journey！從新人報到、教育訓練到系統資料維護，你將成為新夥伴加入 Wiwynn 時的重要推手，協助他們順利展開職涯新篇章。\n\n如果你喜歡與人互動、樂於協調溝",
       "category": "hr",
       "first_seen": "2026-05-18",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【後勤】2026年實習生招募",
+      "company": "啟新生物科技股份有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/90gqj",
+      "description": "台灣的微生物診斷與檢驗水準更趨完整與國際並進。\n\n◖本職務僅提供在學者應徵，需與學校簽署實習合約◗\n學年實習：115/09/01 (二)- 116/06/30(三)，為期10個月，全勤獎學金31,000元/月；\n學期實習：115/09/01(二)",
+      "category": "hr",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "人資實習生/工讀生 F53",
+      "company": "永慶房產集團_永慶房屋仲介股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/7bctd",
+      "description": "1. 人事行政事務協助\n2. 新進報到流程協助\n3. 新進人事資料催收/整理/檢核/Key in/掃描及歸檔\n4. 員工關係活動協助",
+      "category": "hr",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-07-05",
       "deadline": "",
       "skills": [],
@@ -1507,17 +1633,35 @@
     },
     {
       "platform": "104",
-      "title": "稽核人員Internal Audit",
-      "company": "美商安瑞科技股份有限公司",
+      "title": "會計實習生",
+      "company": "眾勤聯合會計師事務所",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/7bppu",
+      "description": "1.  協助會計師事務所會計服務事務\r\n2. 協助一般文書資料處理。\r\n3. 協助處理庶務性行政工作（如：事務機器叫修維護、文具用品採買）。\r\n4. 協助外出送件及物件寄送。\r\n5. 協助接待訪客、準備會議室及茶水。\r\n6. 協助訂購餐點。\r\n7. 協助辦公室環境與設備之清潔與維護。\r\n",
+      "category": "accounting",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "FN-會計實習生 Accounting Intern｜彈性排班・轉正機會",
+      "company": "順立智慧股份有限公司",
       "location": "台北市內湖區",
       "salary": "",
       "salary_min": null,
       "salary_type": "unknown",
-      "posted_at": "2026-06-29",
-      "url": "https://www.104.com.tw/job/8zro8",
-      "description": "所實習/工作經驗\n★稽核經驗\n★★英語能力能溝通",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/7vpc1",
+      "description": "**一週至少需實習 3 天，並且可實習半年以上**\n\n【關於 CYBERBIZ】\nCYBERBIZ（順立智慧股份有限公司）是台灣新零售系統商，致力於 AI 數據智慧、平台整合與技術創新，提供一站式完整服務，涵蓋品牌購物官網、門市 POS 系統、電",
       "category": "accounting",
-      "first_seen": "2026-04-23",
+      "first_seen": "2026-06-26",
       "last_seen": "2026-07-05",
       "deadline": "",
       "skills": [],
@@ -1689,6 +1833,24 @@
     },
     {
       "platform": "104",
+      "title": "[MK] Korean Operation Intern 韓國市場營運實習生",
+      "company": "GDT_起達通有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/8xhgy",
+      "description": " post-sales support in Korean via email or KakaoTalk under the guidance of a supervisor.\n\n\n【工作職責】\n\n作為實習生，你將在資深主管帶領下，協助品牌完成韓國市場的落",
+      "category": "operations",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習師 助理",
       "company": "城事髮廊",
       "location": "桃園市桃園區",
@@ -1700,6 +1862,42 @@
       "description": "執行洗髮、護髮、頭皮護理等工作。 \n協助設計師執行修髮、染髮、燙髮、髮型吹整等工作。 \n完成設計師交辦工作。\n \n學習專業美髮技能分A.B.C三階考核，\n協助現場設計師完成項目額外工作獎金。",
       "category": "operations",
       "first_seen": "2026-05-07",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "[MK] Japan Operation Intern / Part time 日本市場營運實習生",
+      "company": "GDT_起達通有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/7imgs",
+      "description": " sync with your contributions.\n\n\n【工作職責】\n\n作為實習生，你將深度參與品牌從 0 到 1 進入日本市場的過程，並在資深主管帶領下執行以下任務：\n\n1. 協助市場落地與行政支援 (Market Entry Support",
+      "category": "operations",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "[兼任或實習] 財務及專案助理",
+      "company": "捷峰管理顧問股份有限公司",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/6yqpv",
+      "description": "[有相關經歷及科系的夥伴，兼職或學生實習皆歡迎]\n1. 協助專案營運及財務數據彙整\n2. 協助專案報告與簡報\n3. 專案管理及其他主管交辦事項\n上班時段可配課程時間調整，以長期實習需求（約1～2年）為主。\n\n\n\n\n",
+      "category": "operations",
+      "first_seen": "2026-05-14",
       "last_seen": "2026-07-05",
       "deadline": "",
       "skills": [],
@@ -1736,6 +1934,42 @@
       "description": "\n-櫃台行政與分校活動執行\n\n若妳/妳是實習生，我們的訓練計畫如下~\n【實習訓練計畫】\n提供任務參與、實務經驗及專案執行的機會，並給予充滿企圖心的你「轉正」的機會!!\n共有三階段：\n第一階段：為期2個月－熟悉日常運作流程、建立教養觀念與實務經驗累積、",
       "category": "operations",
       "first_seen": "2026-05-30",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "[MK] Malaysia Operation Intern / Part time 馬來西亞市場電商營運實習生",
+      "company": "GDT_起達通有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/8z38a",
+      "description": "【About GDT | Asia-Pacific O2O Brand Incubation Leader】\n\nGDT operates under a Hong Kong–based holding group, with Taipei as its strategic headquarters, and a business presence spanning key Southeast As",
+      "category": "operations",
+      "first_seen": "2026-05-22",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "[MK] Singapore Operation Intern / Part time 新加坡市場電商營運實習生",
+      "company": "GDT_起達通有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/8z381",
+      "description": "【About GDT | Asia-Pacific O2O Brand Incubation Leader】\n\nGDT operates under a Hong Kong–based holding group, with Taipei as its strategic headquarters, and a business presence spanning key Southeast As",
+      "category": "operations",
+      "first_seen": "2026-06-13",
       "last_seen": "2026-07-05",
       "deadline": "",
       "skills": [],
@@ -1997,23 +2231,41 @@
     },
     {
       "platform": "104",
-      "title": "【2nd STREET日本最大二手店】高雄夢時代店-門市兼職人員(可配合學生實習)",
-      "company": "2ndSTREET_台灣極沃股份有限公司",
-      "location": "高雄市前鎮區",
+      "title": "美髮實習師(信義店 景美店 新店店)",
+      "company": "CRE.A HAIR SALON_創意美型有限公司",
+      "location": "台北市信義區",
       "salary": "",
       "salary_min": null,
       "salary_type": "unknown",
-      "posted_at": "2026-06-29",
-      "url": "https://www.104.com.tw/job/7opcs",
-      "description": "動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！\n",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/627qm",
+      "description": "CRE.a Hair Salon 擴大徵才<<美髮實習師>>\n尋找志同道合一起衝的夥伴！\n想在新北/台北發展夥伴歡迎加入我們的行列！",
       "category": "other",
-      "first_seen": "2026-06-27",
+      "first_seen": "2026-05-31",
       "last_seen": "2026-07-05",
       "deadline": "",
       "skills": [],
-      "eligibility": [
-        "大二"
-      ]
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "中英文翻譯實習（暑假/學期中）",
+      "company": "立言翻譯社_立言翻譯有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-05",
+      "url": "https://www.104.com.tw/job/5238z",
+      "description": "本職位為實習職缺：\n•\t實習生薪資為時薪制，每週 2.5-4 天（時間可談），實際薪資面議。\n•\t為讓更多優秀的人才踏入翻譯產業，立言翻譯依據翻譯導師制度，針對實習生的語言、翻譯、判斷、查證及寫作能力進行個案教學。如果表現良好未來可兼職接案；符合",
+      "category": "other",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-07-05",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
+      "eligibility": []
     }
   ]
 }
