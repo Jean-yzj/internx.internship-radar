@@ -58,6 +58,18 @@ jobs:
             git push
           fi
 
+      - name: Deploy to Zeabur
+        env:
+          ZEABUR_TOKEN: ${{ secrets.ZEABUR_TOKEN }}
+        run: |
+          mkdir -p ~/.config/zeabur
+          printf 'token: %s\n' "$ZEABUR_TOKEN" > ~/.config/zeabur/cli.yaml
+          # 直傳只上傳已 commit 內容，所以放在 commit 步驟之後
+          npx -y zeabur@latest deploy \
+            --project-id 69e8def1c2a06cbb27e7d320 \
+            --service-id 69e8def8c2a06cbb27e7d321 \
+            --interactive=false
+
       - name: Notify Discord (daily 9am TW)
         if: github.event.schedule == '0 1 * * *' || github.event.inputs.notify == 'true'
         env:
