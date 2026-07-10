@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T09:21:00",
+  "generated_at": "2026-07-10T14:03:11",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 215,
-    "new_today": 4,
+    "total": 230,
+    "new_today": 0,
     "by_platform": {
-      "104": 149,
+      "104": 164,
       "CakeResume": 15,
       "Yourator": 51
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 31
+      "count": 36
     },
     {
       "key": "data",
@@ -42,7 +42,7 @@
       "label": "產品",
       "emoji": "🎯",
       "color": "#8b5cf6",
-      "count": 3
+      "count": 4
     },
     {
       "key": "biotech",
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 45
+      "count": 46
     },
     {
       "key": "content",
@@ -91,7 +91,7 @@
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 9
+      "count": 10
     },
     {
       "key": "design",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 22
+      "count": 24
     },
     {
       "key": "legal",
@@ -147,7 +147,7 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 1
+      "count": 3
     },
     {
       "key": "hospitality",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 24
+      "count": 27
     }
   ],
   "jobs": [
@@ -471,6 +471,24 @@
     },
     {
       "platform": "104",
+      "title": "AI假日實習生",
+      "company": "金牛智能數據管理顧問股份有限公司",
+      "location": "桃園市蘆竹區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/912ew",
+      "description": "企業需求AI軟體，提供現有需求，以及已完成的軟體，培養獨立Coding",
+      "category": "tech",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "機械分析/設計/電控/裝配/加工(實習及助理)工程師",
       "company": "東台集團_亞太菁英股份有限公司",
       "location": "台中市南屯區",
@@ -507,6 +525,60 @@
         "大四",
         "研究所"
       ]
+    },
+    {
+      "platform": "104",
+      "title": "全時工讀_工研院機械所_機器人學習模擬與控制技術實習生(Q500)",
+      "company": "工研院 _財團法人工業技術研究院",
+      "location": "新竹縣竹東鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/89m44",
+      "description": "協助模擬器建模與控制整合開發",
+      "category": "tech",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "工研院機械所_自動化系統測試實習生(H200)",
+      "company": "工研院 _財團法人工業技術研究院",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/922mz",
+      "description": "控制系統組裝與測試，相關周邊模組組裝與測試，協助工程師處理日常業務。",
+      "category": "tech",
+      "first_seen": "2026-05-28",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "全時工讀_工研院機械所_AI機器人軟體開發實習生(Q200)",
+      "company": "工研院 _財團法人工業技術研究院",
+      "location": "新竹縣竹東鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/8uni4",
+      "description": "協助AI模型訓練、資料標記。",
+      "category": "tech",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -547,6 +619,24 @@
       "skills": [
         "JavaScript"
       ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "全時工讀_工研院機械所_自主移動式機器人實習生(Q200)",
+      "company": "工研院 _財團法人工業技術研究院",
+      "location": "新竹縣竹東鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/8unic",
+      "description": "協助自主移動機器人軟體開發。",
+      "category": "tech",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
       "eligibility": []
     },
     {
@@ -836,6 +926,24 @@
       "description": "與流程管理，能穩定推進日常任務與多方協作\n4. 能以數據驅動思考與驗證假設，對指標變化敏感，願意深入學習數據分析\n5. 每周至少要排班 3 天\n6. 英語閱讀能力佳（其他外語也可），可理解海外用戶或競品資訊者優先\n\n\n*此為半年以上長期實習職缺\n*",
       "category": "pm",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Gojelly.AI內容產品實習生",
+      "company": "四天科技有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/92rzu",
+      "description": "巴哈等）產出圖文／影片貼文，吸引喜歡用無限畫布的用戶。\n我們希望你\n• 是 AI 生圖／生影片的資深用戶，有自己的社媒帳號，或對某競品有深度使用紀錄（請附帳號／作品／使用心得）；\n• 在學學生（本實習可開立實習證明），數位媒體／設計／傳播／行銷等相",
+      "category": "pm",
+      "first_seen": "2026-06-16",
       "last_seen": "2026-07-10",
       "deadline": "",
       "skills": [],
@@ -1810,6 +1918,26 @@
     },
     {
       "platform": "104",
+      "title": "社群經營小編實習生",
+      "company": "家樂生活嚴選團購_家樂學習窩教育科技有限公司",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/8cc3q",
+      "description": "公司形象和聲譽\n7. 分析和追蹤社交媒體行銷活動的效果\n8.可自由排班採有獎金熟悉作業後可在家遠距上班\n\n9.歡迎在校生寒暑假實習 同時歡迎剛畢業兩年內大學生前來實習培訓\n    須配合國內外出差若無法可能較不適合此工作\n10.轉正後國內外業務探訪",
+      "category": "marketing",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "不限"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "【思邁智能】【實習】AI 產品行銷實習生",
       "company": "思邁智能股份有限公司",
       "location": "台北市大安區",
@@ -2291,6 +2419,24 @@
       "description": "心負責，具備良好的資料整理能力與執行力。\n5.\t具備數位行銷、廣告、媒體或業務開發相關實習／工作經驗者尤佳。\n6.\t熟悉或喜愛使用美圖系列產品者尤佳。\n  \n申請條件：\n1.\t須能配合進辦公室工作，每週至少可排班 20 小時以上，24 小時以上尤佳",
       "category": "bd_sales",
       "first_seen": "2026-04-30",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "<實習計劃> 業務部實習生 Intern(台北)(1 year contract)",
+      "company": "DHL_新加坡商敦豪全球貨運物流股份有限公司台灣分公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/90w4n",
+      "description": "*實習期間：一年制\n*實習每週工作天數：五天(週一至週五)\n\n*實習工作內容：\n1. 協助銷售客服作業 (Support sales customer service)\n2. 協助業務會議 (Support sales business",
+      "category": "bd_sales",
+      "first_seen": "2026-05-06",
       "last_seen": "2026-07-10",
       "deadline": "",
       "skills": [],
@@ -2973,6 +3119,26 @@
     },
     {
       "platform": "104",
+      "title": "秘書行政實習生",
+      "company": "家樂生活嚴選團購_家樂學習窩教育科技有限公司",
+      "location": "新北市永和區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/8m1we",
+      "description": "和維護公司形象和聲譽\n7. 分析和追蹤社交媒體行銷活動的效果\n8.可自由排班採有獎金熟悉作業後可在家遠距上班\n\n9.歡迎在校生暑假實習 同時歡迎剛畢業兩年內大學生前來實習培訓\n    須配合國內外出差若無法可能較不適合此工作\n\n10.轉正後國內外各",
+      "category": "operations",
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "不限"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "行政資源實習生",
       "company": "口袋證券股份有限公司",
       "location": "新北市板橋區",
@@ -2988,6 +3154,26 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "行政助理實習生",
+      "company": "家樂生活嚴選團購_家樂學習窩教育科技有限公司",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/91vyv",
+      "description": "效益\n7. 建立和維護公司形象和聲譽\n\n8.可自由排班採有獎金熟悉作業後可在家遠距上班\n\n9.歡迎在校生寒暑假實習\n10. 歡迎剛畢業大學生實習培訓\n\n11.轉正後海外分公司業務探訪一年內須有6個月以內國內外出差\n12.需具英語口說與聽力能力多益成",
+      "category": "operations",
+      "first_seen": "2026-06-19",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "不限"
+      ]
     },
     {
       "platform": "104",
@@ -3459,6 +3645,24 @@
     },
     {
       "platform": "104",
+      "title": "<實習計劃> 空運出口部實習生 Intern(台北)(1 year contract)",
+      "company": "DHL_新加坡商敦豪全球貨運物流股份有限公司台灣分公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/8oe7d",
+      "description": "*實習期間：一年制\n*實習每週工作天數：五天(週一至週五)\n\n*實習工作內容：\n1.處理客戶出貨需求及貨況追蹤\n2.CW1系統及出口提單製作\n3.報表彙整製作與資料分析\n4.ISO文件表單更新及維護\n5.主管交辦事項\n\n*透過此實習計畫，讓您熟悉",
+      "category": "supply_chain",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習生(採購部-一年期)",
       "company": "克瑞電子股份有限公司",
       "location": "高雄市前鎮區",
@@ -3470,6 +3674,24 @@
       "description": "1.整理及製作相關採購表單（如：請款單、採購單等）\n2.執行材料詢價及議價\n3.其他主管交辦事項\n\n歡迎符合要求的學生申請，我們期待您的加入！",
       "category": "supply_chain",
       "first_seen": "2026-04-24",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【空運/海運】實習生",
+      "company": "安泰國際物流股份有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/8pnt2",
+      "description": "【空運/海運】實習生\n\n●製作空運/海運文件製作\n●帳單製作\n\n*可配合學校 簽訂實習合約\n*每週可配合 四天以上到班者為佳\n\n歡迎樂於學習、細心負責，對國際貿易、物流產業有熱忱的同學加入我們的行列",
+      "category": "supply_chain",
+      "first_seen": "2026-05-15",
       "last_seen": "2026-07-10",
       "deadline": "",
       "skills": [],
@@ -3844,6 +4066,42 @@
     },
     {
       "platform": "104",
+      "title": "2026_實習計劃",
+      "company": "一嵎藝術有限公司",
+      "location": "桃園市蘆竹區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/8r0ba",
+      "description": "JOIN US！成為 YioO Studio 的實習生 \n讓美感成為你生活的一部分，從這裡開始！\n\n如果你對「美」有感覺，喜歡接觸漂亮的空間、用影像與擺設說故事，\n歡迎加入 YioO Studio，透過實習親身體驗業界日常，提早感受設計與影像的魅",
+      "category": "other",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "全時工讀_工研院機械所_AI機器人機構設計實習生(Q200)",
+      "company": "工研院 _財團法人工業技術研究院",
+      "location": "新竹縣竹東鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/8par6",
+      "description": "協助智慧機器人機構設計。",
+      "category": "other",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習生(生產管理部-一年期)",
       "company": "克瑞電子股份有限公司",
       "location": "高雄市前鎮區",
@@ -3876,6 +4134,26 @@
       "last_seen": "2026-07-10",
       "deadline": "",
       "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【BigByte教育業｜實習生計劃 | 二度就業】Learning Advisor",
+      "company": "BigByte Education_大樹國際文化企業股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/8mi2y",
+      "description": " event planning.\n\n【英文教育實習亮點】\n1. 開拓教學視野，BigByte採用美國小學教材Wonders，在觀課過程中體驗「專題式學習」（PBL, Project-Based Learning）課程運作模式。\n\n2.",
+      "category": "other",
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-07-10",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
       "eligibility": []
     },
     {
