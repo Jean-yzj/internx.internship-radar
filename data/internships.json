@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T04:12:24",
+  "generated_at": "2026-07-11T07:42:13",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 105,
+    "total": 122,
     "new_today": 0,
     "by_platform": {
-      "104": 39,
+      "104": 56,
       "CakeResume": 15,
       "Yourator": 51
     }
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 4
+      "count": 7
     },
     {
       "key": "consulting",
@@ -84,14 +84,14 @@
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 2
+      "count": 3
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 5
+      "count": 8
     },
     {
       "key": "design",
@@ -105,28 +105,28 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 2
+      "count": 3
     },
     {
       "key": "accounting",
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 3
+      "count": 6
     },
     {
       "key": "education",
       "label": "教育／輔導",
       "emoji": "📚",
       "color": "#0891b2",
-      "count": 2
+      "count": 5
     },
     {
       "key": "operations",
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 10
+      "count": 12
     },
     {
       "key": "legal",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 12
+      "count": 13
     }
   ],
   "jobs": [
@@ -721,6 +721,63 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "實習生(備證券業務員資格)(敦南分公司)_I00008856",
+      "company": "國泰綜合證券股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/8ljyr",
+      "description": "1. 基礎中文輸入及office操作\n2. 協助文件建檔，整理\n3. 客戶權益外撥通知\n4. 主管交辦事項\n\n大三升大四學習佳，每週可安排3天實習優先錄取~\n\n\n",
+      "category": "finance",
+      "first_seen": "2026-04-27",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四"
+      ]
+    },
+    {
+      "platform": "104",
+      "title": "實習生(備證券業務員資格)(數位營運中心)_I00008049",
+      "company": "國泰綜合證券股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/8x4z1",
+      "description": "國泰證券數位營運中心為業界首創，採集中化提供客戶各項服務。本單位招募實習生，可藉由此工作經歷對證券業的實務，取得一定程度的了解！ \n\n1. 客戶線上申辦之資料檢核，並進行洗錢防制審查。 \n2. 協助通知客戶重要事項\n3. 協助各項行政與經營專案",
+      "category": "finance",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習生(國際金融結算業管部)_I00008242",
+      "company": "國泰綜合證券股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/8l69t",
+      "description": "1.開戶契約及印鑑掃描歸檔。\n2.W-8BBEN表格整理及歸檔。\n3.其他主管交辦事項。",
+      "category": "finance",
+      "first_seen": "2026-06-02",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "Slack 商務拓展實習顧問（2026/2027畢業生專案)",
       "company": "伊原力科技",
@@ -1192,6 +1249,26 @@
     },
     {
       "platform": "104",
+      "title": "資訊人員維運(MIS)實習生(資訊服務部)_I00012752",
+      "company": "國泰綜合證券股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/8b46l",
+      "description": "【申請資格】\n1. 大學三年級以上(含碩士)在學學生。\n2. 實習後將可視實習表現優先轉正。\n\n【工作內容】\n1. 協助正職人員整理硬體設備相關作業。\n2. 協助正職人員寄發資訊設備。\n3. 協助正職人員執行基本端末文書作業。\n4. 主管交辦事項",
+      "category": "content",
+      "first_seen": "2026-04-27",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "研究所"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "實習直播經紀人《兼職可》",
       "company": "愛音文創有限公司",
       "location": "台北市大安區",
@@ -1239,6 +1316,62 @@
       "description": "業務開發 / 業務 / 國內業務人員 / 業務助理 / 異業合作",
       "category": "bd_sales",
       "first_seen": "2026-07-08",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習生(業務管理部)_I00015712",
+      "company": "國泰綜合證券股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/8rr7g",
+      "description": "1.\t文件收發、建檔、管理分類及郵件處理。\n2.\t基本中文輸入及熟悉office操作\n3.\t支援活動及協助處理庶務性行政工作\n4.\t主管交辦事項",
+      "category": "bd_sales",
+      "first_seen": "2026-04-27",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【法人債券業務部】實習生_I00025070",
+      "company": "國泰綜合證券股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/8x0xx",
+      "description": "1. 收集債券市場交易相關資訊\n2. 整理並清理歷史行情數據\n3. 具備基本的金融交易知識\n4. 熟練使用程式語言( Python)\n5. 其他主管交辦事項\n",
+      "category": "bd_sales",
+      "first_seen": "2026-06-25",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [
+        "Python"
+      ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習生(新莊分公司)_I00008281",
+      "company": "國泰綜合證券股份有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/8uuxx",
+      "description": "1.文件收發、建檔、管理分類及郵件處理。\n2.契約歸檔、掃描、收發等庶務性行政工作。\n3.支援前台業務及協助臨櫃服務。\n4.主管交辦事項\n",
+      "category": "bd_sales",
+      "first_seen": "2026-04-27",
       "last_seen": "2026-07-11",
       "deadline": "",
       "skills": [],
@@ -1371,6 +1504,24 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "人資實習生/工讀生 C53",
+      "company": "永慶房產集團_永慶房屋仲介股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/7bcta",
+      "description": "1. 人事行政事務協助\n2. 新進報到流程協助\n3. 新進人事資料催收/整理/檢核/Key in/掃描及歸檔\n4. 員工關係活動協助",
+      "category": "hr",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "【SFIN0101I】財會實習生",
       "company": "SHOPLINE 商線科技股份有限公司",
@@ -1408,6 +1559,24 @@
     },
     {
       "platform": "104",
+      "title": "實習生(會計部)_I00016970",
+      "company": "國泰綜合證券股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/8pdkb",
+      "description": "1、處理費用等帳務。\n2、整理裝訂會計傳票及報表。\n3、其他主管交辦工作。\n\n須具備條件：\n1、在學期間修習中級會計學及格或具會計工作實務經驗。\n2、熟悉EXCEL。\n3、細心、認真負責。\n4、每週至少可工作三營業日。",
+      "category": "accounting",
+      "first_seen": "2026-05-26",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "長期工讀生/大四實習生",
       "company": "富盛會計師事務所",
       "location": "新北市三重區",
@@ -1425,6 +1594,44 @@
       "eligibility": [
         "大四"
       ]
+    },
+    {
+      "platform": "104",
+      "title": "【寵物科技公司】Accounting Intern",
+      "company": "Tomofun_友愉股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-10",
+      "url": "https://www.104.com.tw/job/93mfe",
+      "description": "生（修習過中級會計者佳）\n♦ 具備熟悉使用 Excel 函數能力\n♦ 能夠定義和實踐內部控制相關作業\n♦ 擁有良好的書面和口頭表達溝通能力，積極解決問題\n♦ 期待在快速成長的環境中接受挑戰，並能妥善管理多重任務\n♦ 可以實習半年～一年左右，一週到班",
+      "category": "accounting",
+      "first_seen": "2026-07-10",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [
+        "Excel"
+      ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "稽核人員Internal Audit",
+      "company": "美商安瑞科技股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-08",
+      "url": "https://www.104.com.tw/job/8zro8",
+      "description": "所實習/工作經驗\n★稽核經驗\n★★英語能力能溝通",
+      "category": "accounting",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1461,6 +1668,66 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "新竹二重樂獅英語助教(工讀生可、大四實習可)",
+      "company": "樂獅英語大同分校_新竹縣私立益程文理短期補習班",
+      "location": "新竹縣竹東鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/81p8h",
+      "description": "1.配合補習班教學活動\n\n2.協助老師打電輔,改作業",
+      "category": "education",
+      "first_seen": "2026-05-01",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
+    },
+    {
+      "platform": "104",
+      "title": "竹東樂獅英語助教(工讀生可、大四實習可)",
+      "company": "樂獅英語大同分校_新竹縣私立益程文理短期補習班",
+      "location": "新竹縣竹東鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/83ms0",
+      "description": "1.配合補習班教學活動\r\n\r\n2.協助老師接送、批改作業、電話輔導等\r\n\r\n3.其他主管交辦行政事宜",
+      "category": "education",
+      "first_seen": "2026-05-01",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
+    },
+    {
+      "platform": "104",
+      "title": "竹北樂獅英語助教(工讀生可、大四實習可)",
+      "company": "樂獅英語大同分校_新竹縣私立益程文理短期補習班",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/81xwu",
+      "description": "1.配合補習班教學活動\n\n2.協助老師接送及照顧學生\n\n3.其他主管交辦行政事宜",
+      "category": "education",
+      "first_seen": "2026-05-01",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "Yourator",
@@ -1601,6 +1868,42 @@
       "description": "\n-櫃台行政與分校活動執行\n\n若妳/妳是實習生，我們的訓練計畫如下~\n【實習訓練計畫】\n提供任務參與、實務經驗及專案執行的機會，並給予充滿企圖心的你「轉正」的機會!!\n共有三階段：\n第一階段：為期2個月－熟悉日常運作流程、建立教養觀念與實務經驗累積、",
       "category": "operations",
       "first_seen": "2026-05-30",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習工讀生",
+      "company": "崧林科技事業有限公司",
+      "location": "桃園市中壢區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/8h9kh",
+      "description": "1. 產品相關文件翻譯撰寫/平面文宣品製作執行\n2. 庶務性行政工作執行\n3. 品質文書資料產出及歸檔\n4. 進出貨相關事宜\n5. 生產作業支援\n6. 其他主管交辦事宜\n",
+      "category": "operations",
+      "first_seen": "2026-05-18",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習生(光榮分公司)_I00020870",
+      "company": "國泰綜合證券股份有限公司",
+      "location": "高雄市苓雅區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/8nlsq",
+      "description": "1.掃描開戶相關文件\n2.文件歸檔\n3.協助行政相關事務\n4.其他主管交辦事項",
+      "category": "operations",
+      "first_seen": "2026-05-04",
       "last_seen": "2026-07-11",
       "deadline": "",
       "skills": [],
@@ -2001,6 +2304,26 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習生計劃",
+      "company": "私立森文理短期補習班",
+      "location": "新北市三重區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-11",
+      "url": "https://www.104.com.tw/job/8afmt",
+      "description": "\n\n【儲備幹部】全職培訓\n＊歡迎有志教育事業的你，我們提供獨當一面的管理培訓。\n＊歡迎大四實習，提供兼職轉正職機會，畢業即就業。\n＊按能力敘薪 36,000 ~ 40,000元，轉正職後即調升。\n\n\n《公司福利》\n保障類：勞健保、勞退、團保、法定特休。",
+      "category": "other",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-07-11",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
     },
     {
       "platform": "104",
