@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T08:02:33",
+  "generated_at": "2026-07-12T12:59:47",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 118,
+    "total": 122,
     "new_today": 1,
     "by_platform": {
-      "104": 52,
+      "104": 56,
       "CakeResume": 15,
       "Yourator": 51
     }
@@ -112,21 +112,21 @@
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 1
+      "count": 2
     },
     {
       "key": "education",
       "label": "教育／輔導",
       "emoji": "📚",
       "color": "#0891b2",
-      "count": 1
+      "count": 2
     },
     {
       "key": "operations",
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 14
+      "count": 16
     },
     {
       "key": "legal",
@@ -1618,6 +1618,24 @@
     },
     {
       "platform": "104",
+      "title": "會計實習生",
+      "company": "眾勤聯合會計師事務所",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-12",
+      "url": "https://www.104.com.tw/job/7bppu",
+      "description": "1.  協助會計師事務所會計服務事務\r\n2. 協助一般文書資料處理。\r\n3. 協助處理庶務性行政工作（如：事務機器叫修維護、文具用品採買）。\r\n4. 協助外出送件及物件寄送。\r\n5. 協助接待訪客、準備會議室及茶水。\r\n6. 協助訂購餐點。\r\n7. 協助辦公室環境與設備之清潔與維護。\r\n",
+      "category": "accounting",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-07-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "美語實習老師",
       "company": "新竹縣私立安䕟文理技藝短期補習班",
       "location": "新竹縣竹北市",
@@ -1634,6 +1652,24 @@
       "skills": [
         "英文"
       ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "社工人員(需修畢社工員 45 學分 + 400 小時實習)",
+      "company": "晁福長照社團法人附設宜蘭縣私立禾悅住宿長照機構",
+      "location": "宜蘭縣壯圍鄉",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-12",
+      "url": "https://www.104.com.tw/job/93701",
+      "description": " (歡迎取得社工員資格，但未有經驗之社工人員參加培訓 )\n1.個案管理、支持與輔導\n2.活動安排與帶領\n3.家屬互動、聯絡、申訴處理\n4.評鑑資料整理製作\n5.社區資源連結與轉介\n6.其他主管交辦事項\n7.上班時間及需求可以另作討論",
+      "category": "education",
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-07-12",
+      "deadline": "",
+      "skills": [],
       "eligibility": []
     },
     {
@@ -1793,6 +1829,42 @@
       "description": "1.櫃檯(來賓接待、訂房、會議區管理....)\n2.廠區車位管理(主管、員工)\n3.外籍交通(計程車、大巴車)\n4.外來公文管理",
       "category": "operations",
       "first_seen": "2026-05-28",
+      "last_seen": "2026-07-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "國貿船務專員／助理  International Trade & Shipping Specialist / Assistant(無經驗可/實習生可)",
+      "company": "繼茂橡膠工業股份有限公司",
+      "location": "彰化縣鹿港鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-12",
+      "url": "https://www.104.com.tw/job/7jfkb",
+      "description": "【職務使命】\n\n在 GMORS，每一個精密密封元件順利送達全球客戶手中，背後都需要專業、細心且可靠的國際貿易夥伴。\n國貿船務團隊是連結客戶、生產、物流與全球供應鏈的重要窗口。透過精準的訂單管理、進出口作業與跨部門協作，確保每一次交付都實現對客戶的承諾。\n我們期待具備細心、責任感與國際溝通能力的夥伴加入，一起讓台灣精密製造能力連結世界。\n\n【工作內容】\n\n1. 執行 ERP／內部系統相關作業，確保訂",
+      "category": "operations",
+      "first_seen": "2026-07-12",
+      "last_seen": "2026-07-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "工讀生/實習生/助理",
+      "company": "品森國際股份有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-12",
+      "url": "https://www.104.com.tw/job/8ghtt",
+      "description": "誠摯邀請 \"想法\"   x  \"熱情\"  x \" 能力\" 的★優秀人才★~\n- 負責維持會館之環境整潔。\n- 熟稔會員接待禮儀服務，態度親切有禮。\n- 協助會員合約完成，並負責課程協調與安排。\n- 執行會員服務作業，提供即刻服務資源。\n- 協助教練完成交代事項。\n- 負責一般文書資料處理工作。\n- 維護、更新、管理各類文件檔案（如：合約、會議記錄、書目資料、活動文件）和資料庫系統。\n- 每日營業結",
+      "category": "operations",
+      "first_seen": "2026-05-27",
       "last_seen": "2026-07-12",
       "deadline": "",
       "skills": [],
