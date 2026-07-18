@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T03:54:22",
+  "generated_at": "2026-07-18T07:29:15",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 82,
-    "new_today": 4,
+    "total": 95,
+    "new_today": 1,
     "by_platform": {
-      "104": 34,
+      "104": 47,
       "CakeResume": 0,
       "Yourator": 48
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 15
+      "count": 18
     },
     {
       "key": "data",
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 2
+      "count": 3
     },
     {
       "key": "consulting",
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 16
+      "count": 17
     },
     {
       "key": "content",
@@ -119,7 +119,7 @@
       "label": "教育／輔導",
       "emoji": "📚",
       "color": "#0891b2",
-      "count": 2
+      "count": 7
     },
     {
       "key": "operations",
@@ -147,14 +147,14 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 1
+      "count": 2
     },
     {
       "key": "hospitality",
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 5
+      "count": 6
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 14
+      "count": 15
     }
   ],
   "jobs": [
@@ -358,6 +358,24 @@
     },
     {
       "platform": "104",
+      "title": "建築產業探索實習生｜開放式職缺、不限科系｜無經驗可",
+      "company": "築囿建築師事務所",
+      "location": "高雄市苓雅區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-18",
+      "url": "https://www.104.com.tw/job/93w5m",
+      "description": "對建築、設計或工程產業有興趣，但還不知道自己適合設計、監造、工程管理、行政或影像工作嗎？\n這是一個類似「不分系」概念的建築產業入門職缺。\n你不需要在應徵前就決定未來要成為設計師、工程師或監造人員，而是可以先從實際專案的基礎工作開始，接觸建築師事務所、工地現場及專案行政的運作方式。\n工作初期會以工地拍照、資料整理、外勤協助及簡單行政工作為主，並依照個人興趣、能力及事務所工作需求，逐步接觸不同類型的建",
+      "category": "tech",
+      "first_seen": "2026-07-18",
+      "last_seen": "2026-07-18",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "Technical Service Intern 軟體客服實習生",
       "company": "微碧愛普科技有限公司",
       "location": "台中市西屯區",
@@ -378,6 +396,24 @@
     },
     {
       "platform": "104",
+      "title": "Intern Engineer, D&T, Software QA 軟體測試實習生(包含自動化測試)",
+      "company": "West Pharmaceutical Services Asia, Ltd_西氏亞洲有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-18",
+      "url": "https://www.104.com.tw/job/73juk",
+      "description": "IoT device connectivity \n\n-Worked in a global and virtual environment \n\n誠邀在校學生前來實習或者工讀。我們將提供良好的實踐環境，以及多元的學習機會。\n如果你希望在課業之餘累積工作",
+      "category": "tech",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-07-18",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【Gogoro 雲林門市】實習工程師 - 帶薪培訓！",
       "company": "Gogoro_聯安車業股份有限公司",
       "location": "雲林縣斗六市",
@@ -389,6 +425,24 @@
       "description": "務，包含定期保養，零件更換與軟韌體更新等。\n✔ 確保來到服務中心的客人可以得到有效的解決與對應辦法。\n✔ 工作環境、特種工具及機具設備維護。\n✔ Gogoro電動機車配件推薦及裝修。\n\n[ 薪資結構 ]\n✔ 帶薪培訓，實習工程師培訓階段月薪：$",
       "category": "tech",
       "first_seen": "2026-04-25",
+      "last_seen": "2026-07-18",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【髮型／美髮實習師】讓你看見不一樣的美髮產業",
+      "company": "價值設計 VALUE DESIGN_價值整體形象設計企業",
+      "location": "台中市西區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-18",
+      "url": "https://www.104.com.tw/job/92nvh",
+      "description": "【只要你願意無經驗沒關係 • 我們帶著你學習】\n協助髮型設計師完成剪髮、燙髮、染髮及造型等之操作內容。\n\n價值設計重視的不只是技術學習，也包含服務細節、顧客感受與環境品質。實習師的工作不是單純協助現場，而是在每一次服務過程中，學習如何成為一位更成",
+      "category": "tech",
+      "first_seen": "2026-06-12",
       "last_seen": "2026-07-18",
       "deadline": "",
       "skills": [],
@@ -553,6 +607,24 @@
       "description": "finance / Accounting",
       "category": "finance",
       "first_seen": "2026-05-14",
+      "last_seen": "2026-07-18",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習保險業務員",
+      "company": "錠嵂保險經紀人股份有限公司_大里通訊處(王世豪)",
+      "location": "台中市大里區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-18",
+      "url": "https://www.104.com.tw/job/7orvu",
+      "description": "1.針對企業或個人可能面臨的風險，設計、解說及銷售各種不同類型的保險\n2.協助客戶辦理保險理賠、契約變更等業務。\n3.提供保險諮詢服務。\n* 獎金另計",
+      "category": "finance",
+      "first_seen": "2026-05-01",
       "last_seen": "2026-07-18",
       "deadline": "",
       "skills": [],
@@ -885,6 +957,26 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "【日商】廣告行銷企劃實習生｜N3以上 × 數位廣告× 學以致用",
+      "company": "美迪科思行銷股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-18",
+      "url": "https://www.104.com.tw/job/7bgog",
+      "description": "✎ 歡迎數位廣告有興趣的你！\n\n《工作日常》\n1. 數位廣告報表製作及基本操作(主要)\n2. 協助廣告素材文案撰寫\n3. 協助數據分析\n除上述外，依據個人意願分派其他廣告相關工作\n\n\n《這份實習可以學到》\n1. 掌握 Excel 的基本至進階操作",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-07-18",
+      "deadline": "",
+      "skills": [
+        "Excel"
+      ],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "市場行銷及業務實習生 Marketing & Business Intern",
       "company": "Aidmics 億觀生技",
@@ -1140,6 +1232,24 @@
     },
     {
       "platform": "104",
+      "title": "【板橋校】平日晚班教務助理工讀生（短期勿試，實習可）",
+      "company": "戴爾美語教育科技事業股份有限公司附設臺中市私立戴爾語文短期補習班",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-18",
+      "url": "https://www.104.com.tw/job/85090",
+      "description": "協助教務行政事務、文書處理、教材印製、收納管理。 \n櫃台學員服務、電話接聽、電腦資料Key in、各項考試安排規畫。\n環境整潔及主管交辦事項。\n\n工讀時段，固定排班:\n平日一、二、五 17:30-22:00\n\n輪班(若需輪班會提前告知):\n平日三、四 17:30-22:15\n週六　09:30-17:30",
+      "category": "education",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-07-18",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "大四實習生/工讀生/兼職  /課輔班老師",
       "company": "新竹市私立恆悅文理短期補習班",
       "location": "新竹市",
@@ -1160,6 +1270,24 @@
     },
     {
       "platform": "104",
+      "title": "【板橋校】週六教務助理工讀生（短期勿試可實習）",
+      "company": "戴爾美語教育科技事業股份有限公司附設臺中市私立戴爾語文短期補習班",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-18",
+      "url": "https://www.104.com.tw/job/8z2p9",
+      "description": "協助教務行政事務、文書處理、教材印製、電腦建檔。 \n學員服務相關事務處理、各項考試安排規畫。\n環境整潔及主管交辦事項。\n\n工讀時段:\n星期六: 09:30-17:30\n",
+      "category": "education",
+      "first_seen": "2026-06-05",
+      "last_seen": "2026-07-18",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習教練",
       "company": "鐵三角健康事業有限公司",
       "location": "台中市南屯區",
@@ -1169,6 +1297,60 @@
       "posted_at": "2026-07-18",
       "url": "https://www.104.com.tw/job/90mah",
       "description": "- 為會員提供一對一健身諮詢服務\n- 設計和教授會員專屬課程\n- 協助現場指導會員和確保使用安全\n- 管理和維護健身器材和場館清潔\n- 保持健康的體態和良好的運動習慣\n\n我們正在招募健身教練，這是一個重要的職位，對公司的發展前景具有關鍵作用。作為健身教練，您將負責指導和幫助會員達到他們的健身目標，並提供優質的客戶服務。加入我們的團隊，您將有很多機會成長和發展，同時也能為客戶帶來積極的影響。\n如果您",
+      "category": "education",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-07-18",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【板橋校】平日下午教務助理工讀生（短期勿試可實習）",
+      "company": "戴爾美語教育科技事業股份有限公司附設臺中市私立戴爾語文短期補習班",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-18",
+      "url": "https://www.104.com.tw/job/7rilr",
+      "description": "協助教務行政事務、文書處理、教材印製、電腦建檔。 \n學員服務相關事務處理、各項考試安排規畫。\n環境整潔及主管交辦事項。\n\n工讀時段:\n星期一至星期五 13:00-18:00\n",
+      "category": "education",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-07-18",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "美語實習教師(企業實習)",
+      "company": "長頸鹿美語 塗城分校_台中市私立弘見文理短期補習班",
+      "location": "台中市北屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-18",
+      "url": "https://www.104.com.tw/job/7uzgt",
+      "description": "1. 協助美語教學等相關事務 \n2. 行政事務\n3. 幫學生補課 \n4. 與家長溝通\n5.各節日美工製作\n6.批改作業及測驗輔導。\n7.配合分校活動策劃與宣傳",
+      "category": "education",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-07-18",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【戴爾美語板橋校】平日星期三、四晚班教務助理工讀生（短期勿試可實習）",
+      "company": "戴爾美語教育科技事業股份有限公司附設臺中市私立戴爾語文短期補習班",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-18",
+      "url": "https://www.104.com.tw/job/5zg2d",
+      "description": "電腦表格行政相關事務、文書處理、教材印製、收納管理。 \n學員服務及上課點名、各項考試安排規畫。\n環境整潔及主管交辦事項。\n\n工讀時段:\n星期三、四 17:30-22:15\n",
       "category": "education",
       "first_seen": "2026-04-25",
       "last_seen": "2026-07-18",
@@ -1322,6 +1504,24 @@
     },
     {
       "platform": "104",
+      "title": "空運出口併裝操作實習生",
+      "company": "中菲行國際物流股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-18",
+      "url": "https://www.104.com.tw/job/91ppz",
+      "description": "建立你的職涯舞台，加入中菲行\n想讓自己的職涯更上一層樓嗎？加入中菲行，發揮你的潛力！\n\n我們正在尋找具責任感、主動積極，並希望在快速發展的國際物流產業中持續成長的人才。在中菲行，我們提供支持學習的環境、完善的專業培訓，以及清晰的職涯發展機會。我們的使命很簡單卻充滿力量：為有潛力的人才開啟機會之門，並協助他們培養實現職涯夢想所需的能力。\n\n關於中菲行：\n中菲行國際物流（Dimerco Express",
+      "category": "supply_chain",
+      "first_seen": "2026-05-19",
+      "last_seen": "2026-07-18",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【2026年大學實習生專區】",
       "company": "台北板橋馥華艾美酒店_馥華國際酒店股份有限公司",
       "location": "新北市板橋區",
@@ -1405,6 +1605,24 @@
       "description": "1.\t餐飲服務、點餐等及餐廳外場相關其他工作。\n2.\t協助出餐、備餐及廚房其他相關工作。\n3.\t對餐飲服務工作有熱忱，具備高度親和力。\n4.\t兼職夥伴也依比例享有特休假。\n5.\t完成各項主管交代的事宜。\n6.     可配合學生實習計畫。",
       "category": "hospitality",
       "first_seen": "2026-06-08",
+      "last_seen": "2026-07-18",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【響 海鮮餐廳】餐飲服務人員（實習可、電洽優先）",
+      "company": "響海鮮_八八海鮮有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-18",
+      "url": "https://www.104.com.tw/job/8vrb6",
+      "description": "月休8日，可自行排假 \n（包含兩個週末） \n\n\n1. 送餐基本介紹 了解餐點內容 \n2. 負責客人帶位、倒水、點餐 \n3. 於客人用餐完畢後，負責收拾碗盤與清理環境。 \n\n餐飲服務生是餐廳行業中至關重要的一份工作。這個職位是為客人提供高品質的服務，並確保他們有一個愉快的用餐體驗。餐飲服務生的工作前景非常好，因為餐廳行業繼續增長，需要越來越多的專業人士來擔任這個職位。 \n如果您符合上述要求，請立即申",
+      "category": "hospitality",
+      "first_seen": "2026-06-21",
       "last_seen": "2026-07-18",
       "deadline": "",
       "skills": [],
@@ -1591,6 +1809,24 @@
       "eligibility": [
         "大四"
       ]
+    },
+    {
+      "platform": "104",
+      "title": "寒假(1個月)/長期實習生",
+      "company": "築囿建築師事務所",
+      "location": "高雄市苓雅區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-18",
+      "url": "https://www.104.com.tw/job/8aojl",
+      "description": "實習生是事務所每年的活力來源，實習安排主要著重於學習與觀摩，透過參與討論與工作流程認識，協助實習生理解事務所的設計思維與實務運作方式，我們歡迎對設計充滿熱情的你/妳參與我們的工作日常。\n\n希望您有以下特質:\n一、願意參與討論，對建築設計工作充滿熱",
+      "category": "other",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-07-18",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
