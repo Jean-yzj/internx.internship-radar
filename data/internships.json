@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T08:01:57",
+  "generated_at": "2026-07-19T12:57:37",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 106,
-    "new_today": 3,
+    "total": 117,
+    "new_today": 2,
     "by_platform": {
-      "104": 58,
+      "104": 69,
       "CakeResume": 0,
       "Yourator": 48
     }
@@ -84,14 +84,14 @@
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 9
+      "count": 10
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 5
+      "count": 6
     },
     {
       "key": "design",
@@ -105,14 +105,14 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 3
+      "count": 4
     },
     {
       "key": "accounting",
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 3
+      "count": 5
     },
     {
       "key": "education",
@@ -133,7 +133,7 @@
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 1
+      "count": 2
     },
     {
       "key": "manufacturing",
@@ -147,14 +147,14 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 0
+      "count": 2
     },
     {
       "key": "hospitality",
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 8
+      "count": 9
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 14
+      "count": 16
     }
   ],
   "jobs": [
@@ -358,6 +358,24 @@
     },
     {
       "platform": "104",
+      "title": "[HQ] AI 策略規劃實習生AI Strategy Planning Intern_台北",
+      "company": "昕力資訊股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-19",
+      "url": "https://www.104.com.tw/job/93wcr",
+      "description": "中、台南、高雄、新加坡及越南。\n\n在現在這個數位轉型的大時代中，我們需要優秀的夥伴加入我們AI 策略規劃團隊。\n\n【實習生的工作內容會包含什麼？】\n1. ChatGPT導入文件製作。\n2. AI 活動規劃與舉辦。\n3. 主管交辦事項。\n\n【我們期望",
+      "category": "tech",
+      "first_seen": "2026-07-19",
+      "last_seen": "2026-07-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "輿情分析實習生(Research Intern）",
       "company": "Taiwan AI Labs_雅婷智慧股份有限公司",
       "location": "台北市大同區",
@@ -477,24 +495,6 @@
       "description": "◎工作內容：\n1. 支援護理臨床學生實習教學【內外科、產兒科優先】。\n2. 指導學生相關護理課室技術練習與輔導。\n3. 協助護理專業課程實驗及實習之相關行政事項。\n4. 其他臨時交辦事項。\n\n※薪資：依本校約聘雇人員敘薪相關規定辦理(大學畢業39",
       "category": "tech",
       "first_seen": "2026-07-19",
-      "last_seen": "2026-07-19",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "*保障年薪14個月*品檢員（PQC / FQC / IQC）｜正職／學年實習可｜工作地點:汐止",
-      "company": "彩富電子股份有限公司",
-      "location": "新北市汐止區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-07-15",
-      "url": "https://www.104.com.tw/job/488y9",
-      "description": "評估以品檢員或品檢技術員(薪資略高)錄用\n\n\n\n\n【歡迎實習生】\n以整學年度為主，不接受學期實習，實習生起薪為30000元。\n實習結束有轉正機會，歡迎理工相關科系學生應徵。\n\n",
-      "category": "tech",
-      "first_seen": "2026-04-28",
       "last_seen": "2026-07-19",
       "deadline": "",
       "skills": [],
@@ -1120,6 +1120,24 @@
     },
     {
       "platform": "104",
+      "title": "【2026新鮮人搶先就業】實習/兼職 顧客關係人員-全勤獎金另計",
+      "company": "IKEA_宜家家居股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-19",
+      "url": "https://www.104.com.tw/job/7j6bt",
+      "description": "請註明欲【應徵店別】\n※工作區域\n1.迎賓：入口迎賓，發放購物工具、店內備品補充並協助店內活動推廣\n2.兒童遊戲區：確保兒童遊戲區的設備準備就緒，確實檢查所有物品的完整性並協助登記、照顧小朋友，確保兒童安全\n3.客服櫃台：確保簡易運送(送貨到府)購買流程、退換貨服務。\n\n工作內容包括:\n1.提供顧客服務，包括贈品兌換、宜家卡友問題處理、退換貨、到店提貨、客訴處理、特價品運送組裝等\n2.提供IKEA",
+      "category": "content",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-07-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "<營管處>總務辦事員 ~歡迎高年級實習生加入~",
       "company": "佰鴻工業股份有限公司",
       "location": "新北市板橋區",
@@ -1228,6 +1246,24 @@
     },
     {
       "platform": "104",
+      "title": "【2026新鮮人搶先就業】實習/兼職 銷售人員-全勤獎金另計",
+      "company": "IKEA_宜家家居股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-19",
+      "url": "https://www.104.com.tw/job/7j5yw",
+      "description": "請註明欲【應徵店別】\n**有機會在賣場show出你的居家佈置靈感\n**永遠比別人早知道IKEA新商品\t\n\t\t\t\t\n1. 負責產品介紹、諮詢、銷售。\t\n2. 協助顧客訂單、取貨、搬貨。\t\n3. 陳列商品、組裝商品、整理賣場、維持清潔。\n\n※ 免經驗可\n※ 科系不限\n※ 除核定時薪外，若計薪週期當月無請事病假曠職等，加計每小時全勤獎金6元。",
+      "category": "bd_sales",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-07-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "業務助理及實習業務",
       "company": "楷模旅行社有限公司",
       "location": "台北市松山區",
@@ -1318,6 +1354,42 @@
     },
     {
       "platform": "104",
+      "title": "畢業前就累積企業招募經驗｜外商獵才實習生｜時薪210元｜日/夜間在校生限定 | 需配合6個月以上/JO3",
+      "company": "新加坡商立福人事顧問有限公司台灣分公司",
+      "location": "高雄市鼓山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-19",
+      "url": "https://www.104.com.tw/job/8t02u",
+      "description": "還在找一份真正能學到東西、讓履歷更有競爭力的實習嗎？\n\n加入我們，你將實際參與企業招募流程，不只是行政協助，而是從人才媒合、面試安排到與企業合作，累積未來進入外商、人資、金融業都很加分的實戰經驗！\n\n你會學到什麼？\n\n✔ 履歷篩選與人才評估技巧",
+      "category": "hr",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-07-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "招募助理/實習生 (計時人員)",
+      "company": "Volvo_新凱汽車股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-19",
+      "url": "https://www.104.com.tw/job/8k542",
+      "description": "在這裡，您不只是招募助理/實習生，而是 HR 團隊的一員！\n您將透過工作獲得HR實戰經驗，提升職場溝通與分析能力，為未來職涯鋪路。歡迎您立即投遞履歷，期待您的加入！\n\n1.人才搜尋與履歷篩選\n2.面試邀約 (電話訪談、信件邀約、面試安排)\n3.招",
+      "category": "hr",
+      "first_seen": "2026-07-03",
+      "last_seen": "2026-07-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "人資實習生/工讀生 B53",
       "company": "永慶房產集團_永慶房屋仲介股份有限公司",
       "location": "台北市大安區",
@@ -1353,24 +1425,6 @@
       "eligibility": []
     },
     {
-      "platform": "104",
-      "title": "《即將開幕．時薪210元起》【日商壽司郎】新光三越台南新天地店-兼職人員★歡迎二度就業、學生實習★",
-      "company": "台灣壽司郎股份有限公司",
-      "location": "台南市中西區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-07-14",
-      "url": "https://www.104.com.tw/job/927c5",
-      "description": "⭕復職同仁大歡迎\n離職未滿三個月者享有：\n▪年資累計\n▪體檢費用補助\n▪薪資照舊計算\n\n⭕招募條件\n▪職前教育訓練，歡迎無經驗者加入!!\n▪歡迎二度就業、學生實習、長期打工、短期工讀（寒暑假）\n▪彈性排班：08:30~23:30（每日至少排班4小",
-      "category": "hr",
-      "first_seen": "2026-06-01",
-      "last_seen": "2026-07-19",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
       "platform": "Yourator",
       "title": "【SFIN0101I】財會實習生",
       "company": "SHOPLINE 商線科技股份有限公司",
@@ -1383,6 +1437,24 @@
       "description": "電商 / 跨國團隊",
       "category": "accounting",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-07-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "會計實習生",
+      "company": "眾勤聯合會計師事務所",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-19",
+      "url": "https://www.104.com.tw/job/7bppu",
+      "description": "1.  協助會計師事務所會計服務事務\r\n2. 協助一般文書資料處理。\r\n3. 協助處理庶務性行政工作（如：事務機器叫修維護、文具用品採買）。\r\n4. 協助外出送件及物件寄送。\r\n5. 協助接待訪客、準備會議室及茶水。\r\n6. 協助訂購餐點。\r\n7. 協助辦公室環境與設備之清潔與維護。\r\n",
+      "category": "accounting",
+      "first_seen": "2026-04-26",
       "last_seen": "2026-07-19",
       "deadline": "",
       "skills": [],
@@ -1407,6 +1479,24 @@
       "eligibility": [
         "應屆"
       ]
+    },
+    {
+      "platform": "104",
+      "title": "實習會計助理",
+      "company": "華信會計師事務所",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-19",
+      "url": "https://www.104.com.tw/job/7pjn6",
+      "description": "1.辦理工商登記文書處理。\n2.處理其他一般會計帳務。\n3.協助申報營業稅、營所稅等各項稅務。\n4.協助公司外帳之查核及登帳、結帳整理及稅務申報。\n5.配合財報需要，備妥查帳準備資料。\n6.協助編製帳務報表及其他財務分析資料。\n7.接聽電話、櫃台接待、傳真列印掃描、客戶連絡、文書處理、寄送件等行政事務。\n8.主管交辦事項。\n",
+      "category": "accounting",
+      "first_seen": "2026-07-19",
+      "last_seen": "2026-07-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1683,6 +1773,24 @@
     {
       "platform": "104",
       "title": "實習律師",
+      "company": "權麒法律事務所",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-19",
+      "url": "https://www.104.com.tw/job/7rpc8",
+      "description": "【權麒法律事務所誠徵實習律師】\n\n目前事務所有三名受雇律師\n因事務所業績穩定成長中\n現在誠徵實習律師一名\n歡迎有興趣的夥伴加入我們~\n\n⚖職務說明\n\n1. 研究法律理論、原理及其相關特殊法律或法院判決。\n2. 根據現存法律，草擬法令及政府法規。",
+      "category": "legal",
+      "first_seen": "2026-06-25",
+      "last_seen": "2026-07-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
       "company": "杰論法律事務所",
       "location": "台北市松山區",
       "salary": "",
@@ -1693,6 +1801,42 @@
       "description": "實務見解研究、法律意見撰擬、合約審議、訴訟撰狀、其他律師交辦事項",
       "category": "legal",
       "first_seen": "2026-04-24",
+      "last_seen": "2026-07-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【2026新鮮人搶先就業】實習/暑期兼職 觀音物流中心_倉儲物流理貨人員-全勤獎金另計",
+      "company": "IKEA_宜家家居股份有限公司",
+      "location": "桃園市觀音區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-19",
+      "url": "https://www.104.com.tw/job/8lkp3",
+      "description": "學校簽定實習合約\n \n打破你對物流中心的想像，智慧自動化倉儲物流技術，省時省工高效率！\nIKEA物流中心支援全台門市與線上購物倉儲需求。實踐全零售通路的物流整合，加速購物流程，為消費者帶來更便捷輕鬆的購物體驗。同時引進綠色運輸使用電動大貨車運送物品",
+      "category": "supply_chain",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-07-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【空運/海運】實習生",
+      "company": "安泰國際物流股份有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-19",
+      "url": "https://www.104.com.tw/job/8pnt2",
+      "description": "【空運/海運】實習生\n\n●製作空運/海運文件製作\n●帳單製作\n\n*可配合學校 簽訂實習合約\n*每週可配合 四天以上到班者為佳\n\n歡迎樂於學習、細心負責，對國際貿易、物流產業有熱忱的同學加入我們的行列",
+      "category": "supply_chain",
+      "first_seen": "2026-05-15",
       "last_seen": "2026-07-19",
       "deadline": "",
       "skills": [],
@@ -1729,6 +1873,24 @@
       "description": "1.提供內外線電話服務與賓客需求\n2.熟悉飯店客房位置、類型、房費、折扣、飯店設施、營業時間以及特殊促銷等資訊。\n3.為客人辦理退房手續，確保客人準確付款。熟練掌握現金付款、信用卡、外幣兌換和轉帳等結帳方式\n4.門口迎賓服務、行李服務，協助行李送房。",
       "category": "hospitality",
       "first_seen": "2026-04-30",
+      "last_seen": "2026-07-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【2026新鮮人搶先就業】實習/兼職 餐飲廚房人員-全勤獎金另計",
+      "company": "IKEA_宜家家居股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-19",
+      "url": "https://www.104.com.tw/job/7j61n",
+      "description": "請註明欲【應徵店別】\n1.依IKEA的SOP製作餐點及操作設備\n2.依據生產計劃表備料\n3.負責物料進貨搬運、驗收等作業\n4.協助進行食材盤點\n5.協助Uber Eats出餐\n\n※免經驗可\n※科系不限\n※ 除核定時薪外，若計薪週期當月無請事病假曠職等，加計每小時全勤獎金6元。",
+      "category": "hospitality",
+      "first_seen": "2026-06-20",
       "last_seen": "2026-07-19",
       "deadline": "",
       "skills": [],
@@ -2026,6 +2188,24 @@
     },
     {
       "platform": "104",
+      "title": "【2026新鮮人搶先就業】實習/兼職 收銀人員-全勤獎金另計",
+      "company": "IKEA_宜家家居股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-19",
+      "url": "https://www.104.com.tw/job/7j6ba",
+      "description": "1.引導顧客結帳動線與流程，協助顧客結帳或使用自助結帳機台\n2.遵守收銀相關處理程序，確保收取款項的正確性與安全性\n\n※ 免經驗可\n※ 科系不限\n※ 請註明欲【應徵店別】\n※ 除核定時薪外，若計薪週期當月無請事病假曠職等，加計每小時全勤獎金6元。",
+      "category": "other",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-07-19",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "長期工讀或實習生",
       "company": "芝麻街後埔分校_優昇文理語文短期補習班",
       "location": "新北市板橋區",
@@ -2040,6 +2220,26 @@
       "last_seen": "2026-07-19",
       "deadline": "",
       "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【BigByte教育業｜實習生計劃 | 二度就業】Learning Advisor",
+      "company": "BigByte Education_大樹國際文化企業股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-19",
+      "url": "https://www.104.com.tw/job/8mi2y",
+      "description": " event planning.\n\n【英文教育實習亮點】\n1. 開拓教學視野，BigByte採用美國小學教材Wonders，在觀課過程中體驗「專題式學習」（PBL, Project-Based Learning）課程運作模式。\n\n2.",
+      "category": "other",
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-07-19",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
       "eligibility": []
     },
     {
