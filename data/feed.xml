@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-07-20T04:35:05+00:00</updated>
+  <updated>2026-07-20T08:43:04+00:00</updated>
   <entry>
     <title>實習生 · 偉立資訊有限公司</title>
     <id>https://www.104.com.tw/job/93wjl</id>
@@ -31,6 +31,14 @@
     <summary>地點：桃園市平鎮區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>2026實習生招募–生成式AI工程師(竹科/南科) · 富采光電股份有限公司 (原為晶元光電及隆達電子)</title>
+    <id>https://www.104.com.tw/job/8zhtn</id>
+    <link href="https://www.104.com.tw/job/8zhtn" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：新竹市 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>7006- 竹科 專案儀控實習/助理工程師 (約聘) · 聯華林德氣體工業股份有限公司</title>
     <id>https://www.104.com.tw/job/93wx9</id>
     <link href="https://www.104.com.tw/job/93wx9" />
@@ -47,6 +55,22 @@
     <summary>地點：新竹市 · 平台：104</summary>
   </entry>
   <entry>
+    <title>工研院南分院_軟體開發暑期實習生(六甲/T000) · 工研院 _財團法人工業技術研究院</title>
+    <id>https://www.104.com.tw/job/90cqy</id>
+    <link href="https://www.104.com.tw/job/90cqy" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台南市六甲區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>國立臺北護理健康大學護理系徵實習課程教學人員1名(115.8.21截止) · 國立臺北護理健康大學</title>
+    <id>https://www.104.com.tw/job/93xk8</id>
+    <link href="https://www.104.com.tw/job/93xk8" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="healthcare" />
+    <summary>地點：台北市北投區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>實習工讀生 · 西華動物藥品股份有限公司</title>
     <id>https://www.104.com.tw/job/8c148</id>
     <link href="https://www.104.com.tw/job/8c148" />
@@ -55,28 +79,60 @@
     <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>【鴻佰科技實習專區 Ingrasys Internship Program】- 實習廠區：桃園_鴻佰科技股份有限公司 9/4(五)實體媒合會現場面談 · 【企業專案招募】104未來無限整合招募中心</title>
+    <id>https://www.104.com.tw/job/93vnk</id>
+    <link href="https://www.104.com.tw/job/93vnk" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="consulting" />
+    <summary>地點：桃園市蘆竹區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>《新創實習》行銷實習生  (Social Marketing Intern) Internship · 捷德爾有限公司</title>
+    <id>https://www.104.com.tw/job/8otue</id>
+    <link href="https://www.104.com.tw/job/8otue" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>Marketing Intern 行銷實習生 · CASETiFY_香港商殼子特玩有限公司台灣分公司</title>
+    <id>https://www.104.com.tw/job/8qpyv</id>
+    <link href="https://www.104.com.tw/job/8qpyv" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台北市信義區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>Shopee APP - 社群行銷實習生 / Marketing · 新加坡商蝦皮娛樂電商有限公司台灣分公司</title>
+    <id>https://www.104.com.tw/job/93xc1</id>
+    <link href="https://www.104.com.tw/job/93xc1" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台北市信義區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>日商服飾品牌 UNIQLO教育訓練實習生 | 完善公司體系 | 活潑企業文化 |Tm · 新加坡商立福人事顧問有限公司台灣分公司</title>
+    <id>https://www.104.com.tw/job/93xqi</id>
+    <link href="https://www.104.com.tw/job/93xqi" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：新北市板橋區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>&lt;&lt;RecruitFirst&gt;&gt;Branding &amp; Marketing Intern 行銷實習生(高雄) · 新加坡商立福人事顧問有限公司台灣分公司</title>
+    <id>https://www.104.com.tw/job/8v6ba</id>
+    <link href="https://www.104.com.tw/job/8v6ba" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：高雄市鼓山區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>Gamesofa 行銷創意長期實習生 · 神來也麻將_慧邦科技股份有限公司</title>
     <id>https://www.104.com.tw/job/8sizv</id>
     <link href="https://www.104.com.tw/job/8sizv" />
     <updated>2026-07-20T00:00:00+08:00</updated>
     <category term="marketing" />
     <summary>地點：台北市中正區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>S-實習有薪有人帶【中山區快樂掃碼理貨人員】時薪279｜無經驗可｜享油資補助 · 惟可國際有限公司</title>
-    <id>https://www.104.com.tw/job/8x0lw</id>
-    <link href="https://www.104.com.tw/job/8x0lw" />
-    <updated>2026-07-20T00:00:00+08:00</updated>
-    <category term="content" />
-    <summary>地點：台北市中山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【日商-丸亀製麵】台中一中店-長期兼職夥伴｜工讀生｜實習｜彈性排班｜ · 丸亀製麵、長田本庄軒_台灣東利多股份有限公司</title>
-    <id>https://www.104.com.tw/job/6pv1c</id>
-    <link href="https://www.104.com.tw/job/6pv1c" />
-    <updated>2026-07-20T00:00:00+08:00</updated>
-    <category term="content" />
-    <summary>地點：台中市北區 · 平台：104</summary>
   </entry>
   <entry>
     <title>企業實習生 · 捷創微精量測股份有限公司</title>
@@ -95,6 +151,14 @@
     <summary>地點：台北市中山區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>KeepTossingLab [Global Solution] - UX實習生 (User Experience Designer, intern) · 傳接球實驗數據股份有限公司</title>
+    <id>https://www.104.com.tw/job/8c07n</id>
+    <link href="https://www.104.com.tw/job/8c07n" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="design" />
+    <summary>地點：台南市歸仁區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>實習生_人力資源部(新竹廠) · 美商達爾國際有限公司台灣分公司</title>
     <id>https://www.104.com.tw/job/93x21</id>
     <link href="https://www.104.com.tw/job/93x21" />
@@ -111,6 +175,54 @@
     <summary>地點：台北市內湖區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>KeepTossingLab - 運動科學研究實習助理 (Sports Science Research Assistant, intern position) · 傳接球實驗數據股份有限公司</title>
+    <id>https://www.104.com.tw/job/79qfn</id>
+    <link href="https://www.104.com.tw/job/79qfn" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="operations" />
+    <summary>地點：台南市安南區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>實習律師（具法務經驗優先錄用） · 第一國際法律事務所</title>
+    <id>https://www.104.com.tw/job/8ndik</id>
+    <link href="https://www.104.com.tw/job/8ndik" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="legal" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>實習律師 · 亨達法律事務所</title>
+    <id>https://www.104.com.tw/job/8bigt</id>
+    <link href="https://www.104.com.tw/job/8bigt" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="legal" />
+    <summary>地點：新北市三重區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>林口-生管實習生(一年期定期契約) · 志聖工業股份有限公司</title>
+    <id>https://www.104.com.tw/job/93xdp</id>
+    <link href="https://www.104.com.tw/job/93xdp" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="legal" />
+    <summary>地點：新北市林口區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>實習律師(台北所) · 駿騰法律事務所</title>
+    <id>https://www.104.com.tw/job/8hyc5</id>
+    <link href="https://www.104.com.tw/job/8hyc5" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="legal" />
+    <summary>地點：台北市大同區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>實習律師 · 宸軒兩岸法律事務所</title>
+    <id>https://www.104.com.tw/job/65i6h</id>
+    <link href="https://www.104.com.tw/job/65i6h" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="legal" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>&lt;實習計劃&gt; 報關部實習生 Intern(桃園遠雄)(1 year contract) · DHL_新加坡商敦豪全球貨運物流股份有限公司台灣分公司</title>
     <id>https://www.104.com.tw/job/93ovv</id>
     <link href="https://www.104.com.tw/job/93ovv" />
@@ -119,131 +231,19 @@
     <summary>地點：桃園市大園區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>【學生實習】南部地區【YAYOI彌生軒日式定食】內/外場人員 · YAYOI_臺灣富禮納思股份有限公司</title>
+    <id>https://www.104.com.tw/job/8bqg4</id>
+    <link href="https://www.104.com.tw/job/8bqg4" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="hospitality" />
+    <summary>地點：台南市歸仁區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>客服實習生（粵語/中文） Customer Care Intern · 悠雅科技有限公司</title>
     <id>https://www.104.com.tw/job/8qdx8</id>
     <link href="https://www.104.com.tw/job/8qdx8" />
     <updated>2026-07-20T00:00:00+08:00</updated>
     <category term="other" />
     <summary>地點：台北市中山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>HR教育訓練-實習生 · 智邦科技股份有限公司</title>
-    <id>https://www.104.com.tw/job/8jsbf</id>
-    <link href="https://www.104.com.tw/job/8jsbf" />
-    <updated>2026-07-20T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>地點：新竹市 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>資訊工程實習生 · 台北博報堂管理顧問股份有限公司</title>
-    <id>https://www.104.com.tw/job/90vu6</id>
-    <link href="https://www.104.com.tw/job/90vu6" />
-    <updated>2026-07-20T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【2nd STREET日本最大二手店】基隆店-門市兼職人員(可配合學生實習) · 2ndSTREET_台灣極沃股份有限公司</title>
-    <id>https://www.104.com.tw/job/8ok1k</id>
-    <link href="https://www.104.com.tw/job/8ok1k" />
-    <updated>2026-07-20T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>地點：基隆市中正區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【2nd STREET日本最大二手店】台中廣三SOGO店-門市兼職人員(可配合學生實習) · 2ndSTREET_台灣極沃股份有限公司</title>
-    <id>https://www.104.com.tw/job/7n5c0</id>
-    <link href="https://www.104.com.tw/job/7n5c0" />
-    <updated>2026-07-20T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>地點：台中市西區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>[學期實習] 量化研究員 · 宏穩資本股份有限公司</title>
-    <id>https://www.104.com.tw/job/93ufw</id>
-    <link href="https://www.104.com.tw/job/93ufw" />
-    <updated>2026-07-17T00:00:00+08:00</updated>
-    <category term="finance" />
-    <summary>地點：台北市信義區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【中租控股】美編設計實習生 ( 半年期 ) · 中租控股</title>
-    <id>https://www.yourator.co/companies/chailease/jobs/47799</id>
-    <link href="https://www.yourator.co/companies/chailease/jobs/47799" />
-    <updated>2026-07-13T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>薪資：NT$ 210 - 210 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>[實習] 初階軟體/維護工程師 實習生 · 華厚股份有限公司</title>
-    <id>https://www.104.com.tw/job/7smpv</id>
-    <link href="https://www.104.com.tw/job/7smpv" />
-    <updated>2026-07-13T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【中租控股】美編設計實習生(半年期) · 中租控股_中租迪和股份有限公司</title>
-    <id>https://www.104.com.tw/job/93o6i</id>
-    <link href="https://www.104.com.tw/job/93o6i" />
-    <updated>2026-07-13T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：台北市內湖區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【2026實習】大型語言模型開發與實作實習生_台達研究院(新竹研發中心) · 台達電子工業股份有限公司 _DELTA ELECTRONICS INC.</title>
-    <id>https://www.104.com.tw/job/8z96p</id>
-    <link href="https://www.104.com.tw/job/8z96p" />
-    <updated>2026-07-13T00:00:00+08:00</updated>
-    <category term="content" />
-    <summary>地點：新竹縣竹北市 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【2026 實習生/儲備人才招募計畫】助理工程實習生(北/中/南) · 華電聯網股份有限公司</title>
-    <id>https://www.104.com.tw/job/909qt</id>
-    <link href="https://www.104.com.tw/job/909qt" />
-    <updated>2026-07-13T00:00:00+08:00</updated>
-    <category term="hr" />
-    <summary>地點：新北市汐止區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【瑞星管顧】獵頭業務實習生✦高獎金制度+完整培訓 (畢業有轉正機會)-LN · 瑞星管理顧問股份有限公司</title>
-    <id>https://www.104.com.tw/job/8xfk2</id>
-    <link href="https://www.104.com.tw/job/8xfk2" />
-    <updated>2026-07-10T00:00:00+08:00</updated>
-    <category term="consulting" />
-    <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【商務開發】國內業務/業務助理 (實習/兼職) · 淡然有味 Danran Tea</title>
-    <id>https://www.yourator.co/companies/drywtea/jobs/18692</id>
-    <link href="https://www.yourator.co/companies/drywtea/jobs/18692" />
-    <updated>2026-07-08T00:00:00+08:00</updated>
-    <category term="bd_sales" />
-    <summary>薪資：NT$ 196 - 230 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>【實習/兼職】數位行銷企劃 · 淡然有味 Danran Tea</title>
-    <id>https://www.yourator.co/companies/drywtea/jobs/18681</id>
-    <link href="https://www.yourator.co/companies/drywtea/jobs/18681" />
-    <updated>2026-07-08T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>薪資：NT$ 170 - 190 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>[HR] 學生實習 - HR 實習生 · BOSCH</title>
-    <id>https://www.yourator.co/companies/BOSCH/jobs/41966</id>
-    <link href="https://www.yourator.co/companies/BOSCH/jobs/41966" />
-    <updated>2026-07-07T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>薪資：NT$ 200 -  (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>行銷助理/實習生( Marketing Assistant/ Intern) · 席伊麗 &amp; 丹普_香港商席伊麗亞洲有限公司台灣分公司</title>
-    <id>https://www.104.com.tw/job/91qmb</id>
-    <link href="https://www.104.com.tw/job/91qmb" />
-    <updated>2026-07-06T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
 </feed>
