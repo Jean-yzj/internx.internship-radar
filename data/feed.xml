@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-07-21T04:14:58+00:00</updated>
+  <updated>2026-07-21T08:10:27+00:00</updated>
   <entry>
     <title>【暑期&amp;學期實習】資安實習生 · 威強電工業電腦股份有限公司</title>
     <id>https://www.104.com.tw/job/93ym3</id>
@@ -23,28 +23,60 @@
     <summary>地點：新竹縣竹北市 · 平台：104</summary>
   </entry>
   <entry>
+    <title>【台北學生實習Internship】NPU (Neural Processing Unit) Compiler Engineer · 杰發科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/93yup</id>
+    <link href="https://www.104.com.tw/job/93yup" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【台北學生實習Internship】 NPU (Neural Processing Unit) Bit-true Modeling Engineer · 杰發科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/93yuk</id>
+    <link href="https://www.104.com.tw/job/93yuk" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【台北學生實習Internship】  NPU (Neural Processing Unit) Digital IC Architecture Verification Engineer (DV) · 杰發科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/93yum</id>
+    <link href="https://www.104.com.tw/job/93yum" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【台北學生實習Internship】 NPU (Neural Processing Unit) Digital IC Architecture Design Engineer (DE) · 杰發科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/93yu5</id>
+    <link href="https://www.104.com.tw/job/93yu5" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>產品機構研發實習生（兼職） · 歐漾淨水_益銳股份有限公司</title>
+    <id>https://www.104.com.tw/job/93yz3</id>
+    <link href="https://www.104.com.tw/job/93yz3" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：彰化縣彰化市 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【忠泰商場】實習工務助理工程師 · 忠泰商場事業股份有限公司</title>
+    <id>https://www.104.com.tw/job/93zh3</id>
+    <link href="https://www.104.com.tw/job/93zh3" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>保底～美髮設計師、實習設計師、新銳設計師、準師、資深技術師 · M,Y HAIR SALON_美妍髮沙龍店</title>
     <id>https://www.104.com.tw/job/6kcbt</id>
     <link href="https://www.104.com.tw/job/6kcbt" />
     <updated>2026-07-21T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：台北市士林區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>2026【仁寶學年實習】產品功能測試實習生 · 仁寶電腦工業股份有限公司</title>
-    <id>https://www.104.com.tw/job/7b40i</id>
-    <link href="https://www.104.com.tw/job/7b40i" />
-    <updated>2026-07-21T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台北市內湖區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>工研院電光系統所_住宅2D平面圖轉3D模型AI實習生/約聘人員(T400) · 工研院 _財團法人工業技術研究院</title>
-    <id>https://www.104.com.tw/job/8yez9</id>
-    <link href="https://www.104.com.tw/job/8yez9" />
-    <updated>2026-07-21T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：新竹縣竹東鎮 · 平台：104</summary>
   </entry>
   <entry>
     <title>記帳/查帳員-實習同學 · 維信企業管理顧問有限公司</title>
@@ -63,6 +95,14 @@
     <summary>地點：台北市信義區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>【智選家實習生專區】 · WitsPer 智選家_智選科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/93zal</id>
+    <link href="https://www.104.com.tw/job/93zal" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：新北市中和區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>行銷助理-(學生工讀實習) · DIGITIMES INC._大椽股份有限公司</title>
     <id>https://www.104.com.tw/job/7tgca</id>
     <link href="https://www.104.com.tw/job/7tgca" />
@@ -71,12 +111,28 @@
     <summary>地點：台北市松山區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>都會館《2026學生實習專區》實習生Intern職缺-供餐供宿 · 煙波大飯店股份有限公司</title>
-    <id>https://www.104.com.tw/job/7xi21</id>
-    <link href="https://www.104.com.tw/job/7xi21" />
+    <title>社群內容暨短影音行銷實習生｜發票存摺 App · 麻布數據科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/93z3e</id>
+    <link href="https://www.104.com.tw/job/93z3e" />
     <updated>2026-07-21T00:00:00+08:00</updated>
     <category term="marketing" />
-    <summary>地點：新竹市 · 平台：104</summary>
+    <summary>地點：台北市信義區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【都市更新組】實習生(駐點辦公室) · 桃園市住宅及都市更新中心</title>
+    <id>https://www.104.com.tw/job/93yvr</id>
+    <link href="https://www.104.com.tw/job/93yvr" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="content" />
+    <summary>地點：桃園市桃園區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>三商家購-美廉社【霧峰民生店】門市實習生(全職) · 美廉社_三商家購股份有限公司</title>
+    <id>https://www.104.com.tw/job/93zhi</id>
+    <link href="https://www.104.com.tw/job/93zhi" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="content" />
+    <summary>地點：台中市霧峰區 · 平台：104</summary>
   </entry>
   <entry>
     <title>★時薪206元起★【日商 丸亀製麵】新光南西店_長期兼職人員/工讀生/實習 · 丸亀製麵、長田本庄軒_台灣東利多股份有限公司－家樂福桂林店</title>
@@ -95,14 +151,6 @@
     <summary>地點：台中市西屯區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>鵝房宮公益旗艦店 外場副理/實習副理 · 鵝房宮餐飲有限公司</title>
-    <id>https://www.104.com.tw/job/6h8zo</id>
-    <link href="https://www.104.com.tw/job/6h8zo" />
-    <updated>2026-07-21T00:00:00+08:00</updated>
-    <category term="hr" />
-    <summary>地點：台中市南屯區 · 平台：104</summary>
-  </entry>
-  <entry>
     <title>工讀實習生 · 展立聯合會計師事務所</title>
     <id>https://www.104.com.tw/job/6q3pa</id>
     <link href="https://www.104.com.tw/job/6q3pa" />
@@ -111,20 +159,44 @@
     <summary>地點：台北市信義區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>┃七期店┃大廳禮賓組(前台接待PT/出納PT) #時薪200~250 #校園實習生/新鮮人 #高薪打工人 · ONCOR響艷都市會所_響艷股份有限公司</title>
-    <id>https://www.104.com.tw/job/8oaf1</id>
-    <link href="https://www.104.com.tw/job/8oaf1" />
-    <updated>2026-07-21T00:00:00+08:00</updated>
-    <category term="accounting" />
-    <summary>地點：台中市西屯區 · 平台：104</summary>
-  </entry>
-  <entry>
     <title>【學期實習】人力資源實習生(在校生/應屆生) · 鴻準精密工業股份有限公司</title>
     <id>https://www.104.com.tw/job/8wg7c</id>
     <link href="https://www.104.com.tw/job/8wg7c" />
     <updated>2026-07-21T00:00:00+08:00</updated>
     <category term="operations" />
     <summary>地點：新北市土城區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>[Internship] Cardiovascular Department Intern 心血管疾病部門實習生 (At least 1 year) · Medtronic (Taiwan) Ltd._美敦力醫療產品股份有限公司</title>
+    <id>https://www.104.com.tw/job/93z0w</id>
+    <link href="https://www.104.com.tw/job/93z0w" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="operations" />
+    <summary>地點：台北市松山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>實習店長（培訓展店） · 牛舌的檸檬（牛たんの檸檬）台北店_兆一心餐飲有限公司</title>
+    <id>https://www.104.com.tw/job/8v7us</id>
+    <link href="https://www.104.com.tw/job/8v7us" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="operations" />
+    <summary>地點：台北市信義區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【忠泰商場】實習物管專員 · 忠泰商場事業股份有限公司</title>
+    <id>https://www.104.com.tw/job/93zhe</id>
+    <link href="https://www.104.com.tw/job/93zhe" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="operations" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>廠務助理實習生（兼職） · 歐漾淨水_益銳股份有限公司</title>
+    <id>https://www.104.com.tw/job/93yz4</id>
+    <link href="https://www.104.com.tw/job/93yz4" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="operations" />
+    <summary>地點：彰化縣彰化市 · 平台：104</summary>
   </entry>
   <entry>
     <title>實習律師 · 聖安法律事務所</title>
@@ -143,6 +215,22 @@
     <summary>地點：高雄市三民區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>實習律師(總會北部專職律師中心) · 財團法人法律扶助基金會</title>
+    <id>https://www.104.com.tw/job/7pdaq</id>
+    <link href="https://www.104.com.tw/job/7pdaq" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="legal" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>實習律師 · 正颺法律事務所</title>
+    <id>https://www.104.com.tw/job/8zcq4</id>
+    <link href="https://www.104.com.tw/job/8zcq4" />
+    <updated>2026-07-21T00:00:00+08:00</updated>
+    <category term="legal" />
+    <summary>地點：台北市中正區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>實習律師 · 睿昱法律事務所</title>
     <id>https://www.104.com.tw/job/83obm</id>
     <link href="https://www.104.com.tw/job/83obm" />
@@ -157,93 +245,5 @@
     <updated>2026-07-21T00:00:00+08:00</updated>
     <category term="legal" />
     <summary>地點：台北市中正區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>POPEYES-實習襄理/襄理【台北地區】 · Popeyes＿金皇食品股份有限公司</title>
-    <id>https://www.104.com.tw/job/8ver8</id>
-    <link href="https://www.104.com.tw/job/8ver8" />
-    <updated>2026-07-21T00:00:00+08:00</updated>
-    <category term="hospitality" />
-    <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【蠻荒咖啡】咖啡館正職人員 咖啡師  (實習生、有無經驗皆可) 魚池門市 · 蠻荒咖啡_不列顛文化事業有限公司日月潭營業所</title>
-    <id>https://www.104.com.tw/job/7uiu8</id>
-    <link href="https://www.104.com.tw/job/7uiu8" />
-    <updated>2026-07-21T00:00:00+08:00</updated>
-    <category term="hospitality" />
-    <summary>地點：南投縣魚池鄉 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>資訊部-假日班/長期工讀生【實習生可】 · 台北101_台北金融大樓股份有限公司</title>
-    <id>https://www.104.com.tw/job/90500</id>
-    <link href="https://www.104.com.tw/job/90500" />
-    <updated>2026-07-21T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>地點：台北市信義區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>記帳/查帳員-實習同學(一) · 德昌聯合會計師事務所</title>
-    <id>https://www.104.com.tw/job/8es8d</id>
-    <link href="https://www.104.com.tw/job/8es8d" />
-    <updated>2026-07-21T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>地點：台北市信義區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>Internship - CS Office Coordinator Team - Tainan _ J-00347735 · (ASML)台灣艾司摩爾科技股份有限公司</title>
-    <id>https://www.104.com.tw/job/93y7d</id>
-    <link href="https://www.104.com.tw/job/93y7d" />
-    <updated>2026-07-21T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>地點：台南市新市區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>實習全職有氧老師(新竹地區) · World Gym_香港商世界健身事業有限公司台灣分公司</title>
-    <id>https://www.104.com.tw/job/8g2qz</id>
-    <link href="https://www.104.com.tw/job/8g2qz" />
-    <updated>2026-07-21T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>地點：新竹市 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>測試工程師 (實習生/工讀生) · 連騰科技股份有限公司</title>
-    <id>https://www.104.com.tw/job/93pcs</id>
-    <link href="https://www.104.com.tw/job/93pcs" />
-    <updated>2026-07-14T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：新北市新店區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【固定早班｜經驗即戰力】設備維護儲備技術工程師（實習期滿拿1萬｜歡迎50+） · 中華汽車工業股份有限公司楊梅廠</title>
-    <id>https://www.104.com.tw/job/93psz</id>
-    <link href="https://www.104.com.tw/job/93psz" />
-    <updated>2026-07-14T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：桃園市楊梅區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【固定早班｜無經驗可】設備維護儲備技術工程師（實習期滿拿1萬｜歡迎50+） · 中華汽車工業股份有限公司楊梅廠</title>
-    <id>https://www.104.com.tw/job/93ptb</id>
-    <link href="https://www.104.com.tw/job/93ptb" />
-    <updated>2026-07-14T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：桃園市楊梅區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>產品經理實習生 (Intern, Product Manager) · 104人力銀行_一零四資訊科技股份有限公司</title>
-    <id>https://www.104.com.tw/job/6ocky</id>
-    <link href="https://www.104.com.tw/job/6ocky" />
-    <updated>2026-07-14T00:00:00+08:00</updated>
-    <category term="pm" />
-    <summary>地點：新北市新店區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>宜蘭館《2026學生實習專區》實習生Intern職缺-供餐供宿 · 煙波大飯店股份有限公司</title>
-    <id>https://www.104.com.tw/job/85dma</id>
-    <link href="https://www.104.com.tw/job/85dma" />
-    <updated>2026-07-14T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：宜蘭縣宜蘭市 · 平台：104</summary>
   </entry>
 </feed>
