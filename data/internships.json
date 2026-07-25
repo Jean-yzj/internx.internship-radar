@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T07:52:28",
+  "generated_at": "2026-07-25T13:04:38",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 89,
-    "new_today": 1,
+    "total": 94,
+    "new_today": 0,
     "by_platform": {
-      "104": 39,
+      "104": 44,
       "CakeResume": 0,
       "Yourator": 50
     }
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 4
+      "count": 5
     },
     {
       "key": "consulting",
@@ -105,7 +105,7 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 1
+      "count": 0
     },
     {
       "key": "accounting",
@@ -126,14 +126,14 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 8
+      "count": 9
     },
     {
       "key": "legal",
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 3
+      "count": 4
     },
     {
       "key": "manufacturing",
@@ -147,14 +147,14 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 2
+      "count": 3
     },
     {
       "key": "hospitality",
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 7
+      "count": 8
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 12
+      "count": 13
     }
   ],
   "jobs": [
@@ -625,6 +625,24 @@
       "description": "finance / Accounting",
       "category": "finance",
       "first_seen": "2026-05-14",
+      "last_seen": "2026-07-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【學生專案 】企業實習生/尖兵計畫(保障專案企劃)",
+      "company": "錠嵂保險經紀人股份有限公司_中20營業處",
+      "location": "台中市北區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-25",
+      "url": "https://www.104.com.tw/job/8atbl",
+      "description": "1.提供客戶全方位理財建議與規劃。\n2.銷售金融商品及諮詢服務。\n3.拜訪、維繫客戶關係、推廣金融商品、提供客戶資產配置建議、分析投資績效及報表。\n4.參與通路基金銷售業務推展、舉辦說明會、提供銷售資源、市場及同業資訊回報。\n5.參與國內外專業金融諮詢、培訓計畫、稅務規劃、資產管理等專案執行。\n\n這是一個不可錯過的機會，展現您的專業技能和創新想法，參與國際頂尖團隊的全方位金融服務，提供客戶最優質的",
+      "category": "finance",
+      "first_seen": "2026-05-22",
       "last_seen": "2026-07-25",
       "deadline": "",
       "skills": [],
@@ -1173,27 +1191,6 @@
       "eligibility": []
     },
     {
-      "platform": "104",
-      "title": "人資實習生(歡迎大二~大三在校生)！！暑期打工者勿試！！",
-      "company": "robinmay總公司_薇恩股份有限公司",
-      "location": "台北市中山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-07-24",
-      "url": "https://www.104.com.tw/job/80cpy",
-      "description": "**你是人資新鮮人，想快速窺探人資的實戰世界嗎？\n\n**那就加入RM吧！我們對於此實習職缺有完整的想法和計畫，是你快速窺探人資世界不可忽視的捷徑！\n\n實習期間的工作內容主要在於協助人員招募相關事項，包括：\n1.面試邀約\n2.安排面試時間\n3.面試",
-      "category": "hr",
-      "first_seen": "2026-06-26",
-      "last_seen": "2026-07-25",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大二",
-        "大三"
-      ]
-    },
-    {
       "platform": "Yourator",
       "title": "【SFIN0101I】財會實習生",
       "company": "SHOPLINE 商線科技股份有限公司",
@@ -1357,6 +1354,24 @@
     },
     {
       "platform": "104",
+      "title": "企劃美編助理+行政-學生實習",
+      "company": "耀驊科技有限公司",
+      "location": "台中市沙鹿區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-25",
+      "url": "https://www.104.com.tw/job/74ljp",
+      "description": "我們公司主要協助企業撰寫政府補助企劃，助理工作是協助示意圖製作與一些文案撰寫（類似雜誌，做為補充說明），也需幫忙處理一些行政事務\n繪圖工作會較多，美編與文案撰寫比例為７：３\n工作內容多元豐富，適合喜歡學習，觀察能力好的人，未來的職涯會不錯的發展性。\n\n主要工作內容為協助同事(專案經理)進行\n1.示意圖製作\n2.少部分文案撰寫\n3.資料蒐集與整理\n4.PPT製作\n5.行政事務\n\n【應徵特別說明】\n投",
+      "category": "operations",
+      "first_seen": "2026-05-01",
+      "last_seen": "2026-07-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習律師",
       "company": "宏祥聯合會計師事務所",
       "location": "彰化縣彰化市",
@@ -1388,6 +1403,24 @@
       "description": "一、跟隨指導律師進行民事、刑事、行政訴訟等案情分析、處理及調解，收集保存證據、約見當事人商談案情、到法院閱卷等。\n\n二、跟隨指導律師前往開庭，學習訴訟上的攻防技巧。\n\n三、各類法律文書之撰擬(包括訴訟類文書、非訟合約等)。  \n\n四、協助陪同當事人到行政機關或法院處理非訴訟性質之相關事務。\n\n五、提供當事人即時性的法律意見諮詢。 \n\n六、針對法人的法律顧問部分，學習按照法人客戶的行業類別，同步考量",
       "category": "legal",
       "first_seen": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "杰論法律事務所",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-25",
+      "url": "https://www.104.com.tw/job/6vydg",
+      "description": "實務見解研究、法律意見撰擬、合約審議、訴訟撰狀、其他律師交辦事項",
+      "category": "legal",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-07-25",
       "deadline": "",
       "skills": [],
@@ -1442,6 +1475,42 @@
       "description": "*實習期間：一年制\n*實習每週工作天數：五天(週一至週五)\n\n*實習工作內容：\n1.處理客戶出貨需求及貨況追蹤\n2.CW1系統及出口提單製作\n3.報表彙整製作與資料分析\n4.ISO文件表單更新及維護\n5.主管交辦事項\n\n*透過此實習計畫，讓您熟悉",
       "category": "supply_chain",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-07-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【空運/海運】實習生",
+      "company": "安泰國際物流股份有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-25",
+      "url": "https://www.104.com.tw/job/8pnt2",
+      "description": "【空運/海運】實習生\n\n●製作空運/海運文件製作\n●帳單製作\n\n*可配合學校 簽訂實習合約\n*每週可配合 四天以上到班者為佳\n\n歡迎樂於學習、細心負責，對國際貿易、物流產業有熱忱的同學加入我們的行列",
+      "category": "supply_chain",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-07-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "國內旅遊-實習領隊",
+      "company": "樂派旅行社有限公司",
+      "location": "新北市三重區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-25",
+      "url": "https://www.104.com.tw/job/7rydl",
+      "description": "【國內外領團人員招聘】 \n您如果親切、大方、喜愛人群、熱愛戶外活動，您，就是我們要找的人。 \n沒有經驗？沒有關係 \n我們會提供您「領團培訓課程及實務旅遊操作培訓」， \n以及出團旅遊和景點探勘的實習機會，讓您從實際操作中一步步地成長為專業的領團領隊",
+      "category": "hospitality",
+      "first_seen": "2026-04-25",
       "last_seen": "2026-07-25",
       "deadline": "",
       "skills": [],
@@ -1791,6 +1860,26 @@
       "last_seen": "2026-07-25",
       "deadline": "",
       "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【BigByte教育業｜實習生計劃 | 二度就業】Learning Advisor",
+      "company": "BigByte Education_大樹國際文化企業股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-25",
+      "url": "https://www.104.com.tw/job/8mi2y",
+      "description": " event planning.\n\n【英文教育實習亮點】\n1. 開拓教學視野，BigByte採用美國小學教材Wonders，在觀課過程中體驗「專題式學習」（PBL, Project-Based Learning）課程運作模式。\n\n2.",
+      "category": "other",
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-07-25",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
       "eligibility": []
     }
   ]
