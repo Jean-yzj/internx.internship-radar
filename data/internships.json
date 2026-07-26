@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T08:10:51",
+  "generated_at": "2026-07-26T13:01:34",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 96,
+    "total": 104,
     "new_today": 0,
     "by_platform": {
-      "104": 46,
+      "104": 54,
       "CakeResume": 0,
       "Yourator": 50
     }
@@ -28,14 +28,14 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 21
+      "count": 23
     },
     {
       "key": "data",
       "label": "資料分析",
       "emoji": "📊",
       "color": "#14b8a6",
-      "count": 0
+      "count": 1
     },
     {
       "key": "pm",
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 16
+      "count": 18
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 5
+      "count": 6
     },
     {
       "key": "bd_sales",
@@ -112,7 +112,7 @@
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 2
+      "count": 3
     },
     {
       "key": "education",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 10
+      "count": 11
     },
     {
       "key": "legal",
@@ -394,6 +394,24 @@
     },
     {
       "platform": "104",
+      "title": "【Gogoro 虎尾門市】實習工程師 - 帶薪培訓！",
+      "company": "Gogoro_聯安車業股份有限公司",
+      "location": "雲林縣虎尾鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-26",
+      "url": "https://www.104.com.tw/job/80z49",
+      "description": "務，包含定期保養，零件更換與軟韌體更新等。\n✔ 確保來到服務中心的客人可以得到有效的解決與對應辦法。\n✔ 工作環境、特種工具及機具設備維護。\n✔ Gogoro電動機車配件推薦及裝修。\n\n[ 薪資結構 ]\n✔ 帶薪培訓，實習工程師培訓階段月薪：$",
+      "category": "tech",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-07-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "建築產業探索實習生｜開放式職缺、不限科系｜無經驗可",
       "company": "築囿建築師事務所",
       "location": "高雄市苓雅區",
@@ -430,6 +448,24 @@
     },
     {
       "platform": "104",
+      "title": "【Gogoro 斗六門市】實習工程師 - 帶薪培訓！",
+      "company": "Gogoro_聯安車業股份有限公司",
+      "location": "雲林縣斗六市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-26",
+      "url": "https://www.104.com.tw/job/80z46",
+      "description": "務，包含定期保養，零件更換與軟韌體更新等。\n✔ 確保來到服務中心的客人可以得到有效的解決與對應辦法。\n✔ 工作環境、特種工具及機具設備維護。\n✔ Gogoro電動機車配件推薦及裝修。\n\n[ 薪資結構 ]\n✔ 帶薪培訓，實習工程師培訓階段月薪：$",
+      "category": "tech",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-07-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習-資訊工程師-龍潭廠-ATT260032",
       "company": "艾克爾國際科技股份有限公司",
       "location": "桃園市龍潭區",
@@ -446,6 +482,24 @@
       "skills": [
         "SQL"
       ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Vespa 進口二輪維修保養 實習生",
+      "company": "峰雨有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-26",
+      "url": "https://www.104.com.tw/job/8ckky",
+      "description": "公司主要針對進口二輪 Vespa機車的維修、改裝、保養。我們希望找到熱愛二輪的人，一起為車主的安全一同努力！把好的技術傳承下去，成為優秀的職人。\n\n【偉士計劃實習生訓練系統】\n第一步、到職\n\n第二步、偉士牌基礎概念培訓\n\n第三步、初試考核 (到職",
+      "category": "tech",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-07-26",
+      "deadline": "",
+      "skills": [],
       "eligibility": []
     },
     {
@@ -480,24 +534,6 @@
       "posted_at": "2026-07-26",
       "url": "https://www.104.com.tw/job/8smjb",
       "description": "1.安排工程(機電)進度，掌握施工狀況與施工品質\n2.監控工程(機電)規劃與執行，是否遵守安全法規\n3.繪製建築內部水電工程藍圖，精選施工材料\n4.指導監督各施工人員依水電工程藍圖施工\n5.機電工程管理等相關事務\n*公司另設有駐外津貼、住宿及交通津貼、全勤津貼等福利",
-      "category": "tech",
-      "first_seen": "2026-04-25",
-      "last_seen": "2026-07-26",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "空調實習工程師(無經驗可培訓)(有獎金紅利)",
-      "company": "立揚機電工程股份有限公司",
-      "location": "台北市中正區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-07-26",
-      "url": "https://www.104.com.tw/job/8smjp",
-      "description": "1.安排工程(機電)進度，掌握施工狀況與施工品質\n2.監控工程(機電)規劃與執行，是否遵守安全法規\n3.繪製建築內部空調工程藍圖，精選施工材料\n4.指導監督各施工人員依空調工程藍圖施工\n5.機電工程管理等相關事務\n*公司另設有駐外津貼、住宿及交通津貼、全勤津貼等福利",
       "category": "tech",
       "first_seen": "2026-04-25",
       "last_seen": "2026-07-26",
@@ -556,6 +592,24 @@
       "description": "",
       "category": "tech",
       "first_seen": "2026-06-29",
+      "last_seen": "2026-07-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "產品企客部實習生",
+      "company": "悠由數據應用股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-26",
+      "url": "https://www.104.com.tw/job/8vubi",
+      "description": "1. 支援研究性質專案，如文獻蒐集、數據蒐集及處理、報告撰寫、簡報製作等。\n2. 支援產品應用資料蒐集，如市場資料蒐集、作物指數分析、產品應用研究等。\n3.支援企業客戶專案，如需求訪談、栽培管理資料蒐集、協助客戶系統導入等。 \n4.[本職缺有機會拓展的技能領域]: 資料分析及視覺化處理、農業科技及環境科學領域研究、產品開發及應用、專案管理\n5. 執行其他主管交辦事項。\n",
+      "category": "data",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-07-26",
       "deadline": "",
       "skills": [],
@@ -977,6 +1031,24 @@
     },
     {
       "platform": "104",
+      "title": "ReadyGo 行銷暨影音製作實習生",
+      "company": "台灣旅圖資訊股份有限公司",
+      "location": "台北市南港區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-26",
+      "url": "https://www.104.com.tw/job/5ae4l",
+      "description": "成為 ReadyGo 團隊的一員，有時能去全新旅館住一晚，有時能去特色餐廳吃一餐，讓 ReadyGo 成為你發揮創意的舞台，透過影像、文字分享旅遊的美好。\n\n\n【 實 習 工 作 內 容】\n1. 影音後製＆包裝企劃\n跟著 ReadyGo 影音節目《RG 特派員》、《RG 探探》⋯⋯等企劃，從主題發想、腳本企劃、拍攝到後製宣傳都有機會接觸，一起用影像征服大家的目光吧！\n2. 社群經營\n透過 Read",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-07-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "品牌營運實習生 *可配合學生企業實習  | 豆嫂 | 日韓零食品牌(桃園青埔A18)",
       "company": "豆嫂零食雜貨店_載來有限公司",
       "location": "桃園市中壢區",
@@ -1006,6 +1078,24 @@
       "description": "• 官網越南語系翻譯（測試站、前後台及文章內容確認）\n• 療程手冊翻譯\n• 衛教影片翻譯\n• 行銷部分活動協助",
       "category": "marketing",
       "first_seen": "2026-05-18",
+      "last_seen": "2026-07-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "數位廣告工讀生／實習生",
+      "company": "呈鈺顧問股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-26",
+      "url": "https://www.104.com.tw/job/92mdp",
+      "description": "AI工具輔助工作流程，培養未來必備的AI應用技能\n\n我們深知在職生的時間寶貴，特別提供彈性安排：\n- 彈性時間：每週至少 3 天，需於週一固定排班，可配合你的工作時程每天至少4小時安排\n- 合理薪資：時薪200 元，實習也有應得報酬與時數簽核\n-",
+      "category": "marketing",
+      "first_seen": "2026-06-11",
       "last_seen": "2026-07-26",
       "deadline": "",
       "skills": [],
@@ -1078,6 +1168,24 @@
       "description": "電商 / 跨國團隊",
       "category": "content",
       "first_seen": "2026-05-26",
+      "last_seen": "2026-07-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "影音剪輯助理（短期／歡迎實習生）",
+      "company": "牧羊人影像有限公司",
+      "location": "台北市士林區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-26",
+      "url": "https://www.104.com.tw/job/93w5z",
+      "description": "是一般自媒體剪輯。\n\n你將有機會參與：\n・商業廣告剪輯流程\n・品牌影片企劃與製作\n・專業拍攝現場\n・AI 影像工作流程\n・與導演、攝影、後期團隊共同完成專案\n\n合作品牌包含國內外知名品牌。\n\n【我們提供】\n-有薪實習\n-完整商業廣告製作流程\n-接觸",
+      "category": "content",
+      "first_seen": "2026-07-18",
       "last_seen": "2026-07-26",
       "deadline": "",
       "skills": [],
@@ -1283,6 +1391,27 @@
     },
     {
       "platform": "104",
+      "title": "實習生",
+      "company": "盛鑫聯合會計師事務所",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-26",
+      "url": "https://www.104.com.tw/job/8v9gz",
+      "description": "歡迎應屆大四同學對會計、稅務及審計作為發展目標及參予，實習方向如下\n1. 會計帳務處理。\n2. 營業稅申報。\n3. 審計實務作業。\n4. 營利事業所得稅實務作業。\n",
+      "category": "accounting",
+      "first_seen": "2026-07-02",
+      "last_seen": "2026-07-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大四",
+        "應屆"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "財務實習生 (竹科)",
       "company": "驊洲運通股份有限公司",
       "location": "新竹市",
@@ -1438,6 +1567,24 @@
       "description": "＊這場實習，讓你提前掌握「業界生存法則」\n「網站與 App 是如何從需求訪談到正式上線的？」\n在時賦科技，我們不打算讓你只做瑣碎的行政。這項計畫的核心在於讓你真實接觸軟體產業的日常。除了學習專案邏輯，你將直接參與專業開發流程，看見技術、商業與溝通",
       "category": "operations",
       "first_seen": "2026-04-26",
+      "last_seen": "2026-07-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【BigByte教育業｜帶薪實習 | 二度就業兼職】國小課後助理班導師",
+      "company": "BigByte Education_大樹國際文化企業股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-26",
+      "url": "https://www.104.com.tw/job/3xoui",
+      "description": "\n-櫃台行政與分校活動執行\n\n若妳/妳是實習生，我們的訓練計畫如下~\n【實習訓練計畫】\n提供任務參與、實務經驗及專案執行的機會，並給予充滿企圖心的你「轉正」的機會!!\n共有三階段：\n第一階段：為期2個月－熟悉日常運作流程、建立教養觀念與實務經驗累積、",
+      "category": "operations",
+      "first_seen": "2026-05-30",
       "last_seen": "2026-07-26",
       "deadline": "",
       "skills": [],
