@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T08:06:02",
+  "generated_at": "2026-08-01T12:59:40",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 98,
-    "new_today": 3,
+    "total": 106,
+    "new_today": 2,
     "by_platform": {
-      "104": 48,
+      "104": 56,
       "CakeResume": 0,
       "Yourator": 50
     }
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 5
+      "count": 6
     },
     {
       "key": "consulting",
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 14
+      "count": 15
     },
     {
       "key": "content",
@@ -91,14 +91,14 @@
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 5
+      "count": 6
     },
     {
       "key": "design",
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 4
+      "count": 5
     },
     {
       "key": "hr",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 8
+      "count": 10
     },
     {
       "key": "legal",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 12
+      "count": 14
     }
   ],
   "jobs": [
@@ -450,6 +450,24 @@
     },
     {
       "platform": "104",
+      "title": "Vespa 進口二輪維修保養 實習生",
+      "company": "峰雨有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-01",
+      "url": "https://www.104.com.tw/job/8ckky",
+      "description": "公司主要針對進口二輪 Vespa機車的維修、改裝、保養。我們希望找到熱愛二輪的人，一起為車主的安全一同努力！把好的技術傳承下去，成為優秀的職人。\n\n【偉士計劃實習生訓練系統】\n第一步、到職\n\n第二步、偉士牌基礎概念培訓\n\n第三步、初試考核 (到職",
+      "category": "tech",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-08-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "美髮實習師（台北安和店）",
       "company": "尤卡髮型集團_尤卡地下店",
       "location": "台北市大安區",
@@ -461,24 +479,6 @@
       "description": "1.協助設計師執行染髮、燙髮等組合項目，以及整體造型設計等工作\n2.技術層面分為A階、B階，必須經過教育考試升上階級\n（通過A階級月薪$30000，B階級$29500）\n3.完成設計師指派交辦工作\n4.固定保障底薪、平均月休八天、享勞健保提撥6%退休金、協助設計師技術業績抽成\n",
       "category": "tech",
       "first_seen": "2026-07-10",
-      "last_seen": "2026-08-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "(高雄NATC) 實習軟體工程師 Application Developer Intern",
-      "company": "IBM_台灣國際商業機器股份有限公司",
-      "location": "高雄市前鎮區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-07-28",
-      "url": "https://www.104.com.tw/job/9392y",
-      "description": "工作時長：一週五天（開學後至少四天），9:00-18:00，需進辦公室\n實習期間：2-6個月\n\n關於團隊\n我們是一個處於快速成長期的技術團隊，專注於現代化軟體架構與大型企業技術轉型。我們深信「信任」與「當責」是團隊合作的基石，並致力於打造一個透明",
-      "category": "tech",
-      "first_seen": "2026-07-01",
       "last_seen": "2026-08-01",
       "deadline": "",
       "skills": [],
@@ -560,24 +560,6 @@
     },
     {
       "platform": "Yourator",
-      "title": "Quantitative Research Intern 量化研究實習生",
-      "company": "SuDo Research Labs（蘇度科技有限公司）",
-      "location": "臺北市",
-      "salary": "NT$ 300 - 700 (時薪)",
-      "salary_min": 52800,
-      "salary_type": "hourly",
-      "posted_at": "",
-      "url": "https://www.yourator.co/companies/sudoresearch/jobs/46536",
-      "description": "blockchain / crypto / web3 / DeFi / Market research / Quantitative Trading",
-      "category": "finance",
-      "first_seen": "2026-04-23",
-      "last_seen": "2026-08-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "Yourator",
       "title": "Investment Research Intern 投資研究實習生",
       "company": "SuDo Research Labs（蘇度科技有限公司）",
       "location": "臺北市",
@@ -587,6 +569,24 @@
       "posted_at": "",
       "url": "https://www.yourator.co/companies/sudoresearch/jobs/26012",
       "description": "區塊鏈 / blockchain / crypto / DeFi / 金融研究員 / Market research",
+      "category": "finance",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-08-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "Yourator",
+      "title": "Quantitative Research Intern 量化研究實習生",
+      "company": "SuDo Research Labs（蘇度科技有限公司）",
+      "location": "臺北市",
+      "salary": "NT$ 300 - 700 (時薪)",
+      "salary_min": 52800,
+      "salary_type": "hourly",
+      "posted_at": "",
+      "url": "https://www.yourator.co/companies/sudoresearch/jobs/46536",
+      "description": "blockchain / crypto / web3 / DeFi / Market research / Quantitative Trading",
       "category": "finance",
       "first_seen": "2026-04-23",
       "last_seen": "2026-08-01",
@@ -625,6 +625,24 @@
       "description": "finance / Accounting",
       "category": "finance",
       "first_seen": "2026-05-14",
+      "last_seen": "2026-08-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "財務實習生",
+      "company": "安益國際展覽股份有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-01",
+      "url": "https://www.104.com.tw/job/94dxt",
+      "description": "1. 協助日常會計作業，整理、歸檔帳務憑證及傳票\n2. 協助應收/應付帳款資料整理\n3. 協助供應商資料建檔\n4. 協助銀行相關作業(資料整理、匯款文件準備)\n5. 其他主管交辦及聯繫事項 \n",
+      "category": "finance",
+      "first_seen": "2026-08-01",
       "last_seen": "2026-08-01",
       "deadline": "",
       "skills": [],
@@ -922,6 +940,24 @@
     },
     {
       "platform": "104",
+      "title": "數位廣告工讀生／實習生",
+      "company": "呈鈺顧問股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-01",
+      "url": "https://www.104.com.tw/job/92mdp",
+      "description": "AI工具輔助工作流程，培養未來必備的AI應用技能\n\n我們深知在職生的時間寶貴，特別提供彈性安排：\n- 彈性時間：每週至少 3 天，需於週一固定排班，可配合你的工作時程每天至少4小時安排\n- 合理薪資：時薪200 元，實習也有應得報酬與時數簽核\n-",
+      "category": "marketing",
+      "first_seen": "2026-06-11",
+      "last_seen": "2026-08-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "李鐵柱火鍋永和區-實習店長",
       "company": "李鐵柱餐飲股份有限公司",
       "location": "新北市永和區",
@@ -1142,6 +1178,24 @@
     },
     {
       "platform": "104",
+      "title": "(HOLA和樂家居) 銷售兼職人員_中和環球店~歡迎長期兼職/企業實習",
+      "company": "HOLA_和樂家居股份有限公司",
+      "location": "新北市中和區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-01",
+      "url": "https://www.104.com.tw/job/94dxq",
+      "description": "我們正在找尋熱愛「舒適生活」的你！\n加入 HOLA，用你的品味與親和力與顧客互動並專注於產品的銷售，讓人走進門市就感受到舒心自在。\n\n【工作內容】\n｜產品推薦｜介紹生活居家用品(如美食飲品/居家織品/日用品...等)\n｜顧客服務｜透過與顧客交流，知道他們喜歡的風格／用途，並給予合適建議\n｜專區維護｜補貨、維護庫存、保持專區整潔、陳列美觀，營造舒適購物氛圍與體驗\n\n【薪酬福利】\n•時薪196-220",
+      "category": "bd_sales",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "(HOLA和樂家居) 銷售(補貨)兼職人員_土城店~歡迎新鮮人/企業實習/二度就業",
       "company": "HOLA_和樂家居股份有限公司",
       "location": "新北市土城區",
@@ -1189,6 +1243,24 @@
       "description": "新時行銷 —\n是寰宇教育事業體幕後最大功臣，以網路行銷與包裝創造新穎的做法，享受把創意具體化，為品牌創造影響力。\n\n✔此為擴編職缺，依照實習生的經驗與任務能力給薪，不要懷疑，我們在找不得了的你！\n\n✔ 看得到成果，也看得到自己的成長\n我們把兼職視",
       "category": "design",
       "first_seen": "2026-04-29",
+      "last_seen": "2026-08-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【美髮 實習師 / 助理 / 實習設計師】 新竹市 MiraKo Hair Salon",
+      "company": "MiraKo Hair Salon_米拉可美髮",
+      "location": "新竹市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-01",
+      "url": "https://www.104.com.tw/job/7r73a",
+      "description": "*需配合兩間門市輪調\n新竹市東區仁愛街73號1樓\n新竹縣竹北市縣政13路17號\n\n工作內容\n1. 接待顧客、為顧客準備茶水、點心與書報雜誌。 \n2. 執行洗髮、染髮、護髮、頭皮護理等工作。 \n3. 協助設計師執行修髮、染髮、燙髮、髮型吹整等工作。 \n4. 完成設計師交辦工作，準備材料和工具。 \n5. 接聽電話，確認顧客預約時間及服務項目。 \n6. 清洗器材、設備及整體環境清潔。\n\n\n樂於學習積極嘗",
+      "category": "design",
+      "first_seen": "2026-05-07",
       "last_seen": "2026-08-01",
       "deadline": "",
       "skills": [],
@@ -1423,6 +1495,42 @@
       "description": "《About the Role 》\n你是否正在尋找一個能真正動手做、累積實戰經驗的實習機會？這裡很適合喜歡多元任務、樂於嘗試新工具，並想親身了解科技新創如何運作的你。\n身為 ULTRON 的營運實習生，你將橫跨銷售流程、會計事務與行政營運三大領域",
       "category": "operations",
       "first_seen": "2026-04-24",
+      "last_seen": "2026-08-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "企劃美編助理+行政-學生實習",
+      "company": "耀驊科技有限公司",
+      "location": "台中市沙鹿區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-01",
+      "url": "https://www.104.com.tw/job/74ljp",
+      "description": "我們公司主要協助企業撰寫政府補助企劃，助理工作是協助示意圖製作與一些文案撰寫（類似雜誌，做為補充說明），也需幫忙處理一些行政事務\n繪圖工作會較多，美編與文案撰寫比例為７：３\n工作內容多元豐富，適合喜歡學習，觀察能力好的人，未來的職涯會不錯的發展性。\n\n主要工作內容為協助同事(專案經理)進行\n1.示意圖製作\n2.少部分文案撰寫\n3.資料蒐集與整理\n4.PPT製作\n5.行政事務\n\n【應徵特別說明】\n投",
+      "category": "operations",
+      "first_seen": "2026-05-01",
+      "last_seen": "2026-08-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【BigByte教育業｜帶薪實習 | 二度就業兼職】國小課後助理班導師",
+      "company": "BigByte Education_大樹國際文化企業股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-01",
+      "url": "https://www.104.com.tw/job/3xoui",
+      "description": "\n-櫃台行政與分校活動執行\n\n若妳/妳是實習生，我們的訓練計畫如下~\n【實習訓練計畫】\n提供任務參與、實務經驗及專案執行的機會，並給予充滿企圖心的你「轉正」的機會!!\n共有三階段：\n第一階段：為期2個月－熟悉日常運作流程、建立教養觀念與實務經驗累積、",
+      "category": "operations",
+      "first_seen": "2026-05-30",
       "last_seen": "2026-08-01",
       "deadline": "",
       "skills": [],
@@ -1898,6 +2006,26 @@
     },
     {
       "platform": "104",
+      "title": "實習生計劃",
+      "company": "私立森文理短期補習班",
+      "location": "新北市三重區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-01",
+      "url": "https://www.104.com.tw/job/8afmt",
+      "description": "\n\n【儲備幹部】全職培訓\n＊歡迎有志教育事業的你，我們提供獨當一面的管理培訓。\n＊歡迎大四實習，提供兼職轉正職機會，畢業即就業。\n＊按能力敘薪 36,000 ~ 40,000元，轉正職後即調升。\n\n\n《公司福利》\n保障類：勞健保、勞退、團保、法定特休。",
+      "category": "other",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-08-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大四"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "客勤專員(實習/夜校生可)",
       "company": "鴻昇實業股份有限公司",
       "location": "台中市西區",
@@ -1948,6 +2076,26 @@
       "last_seen": "2026-08-01",
       "deadline": "",
       "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "產品測試實習生 (長期工讀&學生實習)",
+      "company": "新加坡商技流創新有限公司台灣分公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-01",
+      "url": "https://www.104.com.tw/job/70koj",
+      "description": "實習期間與條件：\n在校生： 優先考量可配合「學年」、「學期」或「暑期+學期」等長期實習者。\n非在校生： 需至少可配合四個月以上之合作期間，恕不接受兩個月內之短期實習申請。\n\n我們期待這樣的你：\n★對科技產品充滿熱忱與好奇心。\n★具備基礎英文能力，",
+      "category": "other",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-08-01",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
       "eligibility": []
     }
   ]
