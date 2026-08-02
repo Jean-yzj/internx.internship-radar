@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:22:26",
+  "generated_at": "2026-08-02T08:07:51",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 87,
-    "new_today": 1,
+    "total": 98,
+    "new_today": 3,
     "by_platform": {
-      "104": 40,
+      "104": 51,
       "CakeResume": 0,
       "Yourator": 47
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 15
+      "count": 17
     },
     {
       "key": "data",
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 14
+      "count": 16
     },
     {
       "key": "content",
@@ -91,21 +91,21 @@
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 3
+      "count": 4
     },
     {
       "key": "design",
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 0
+      "count": 1
     },
     {
       "key": "hr",
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 0
+      "count": 1
     },
     {
       "key": "accounting",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 9
+      "count": 11
     },
     {
       "key": "legal",
@@ -147,7 +147,7 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 5
+      "count": 6
     },
     {
       "key": "hospitality",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 14
+      "count": 15
     }
   ],
   "jobs": [
@@ -358,6 +358,24 @@
     },
     {
       "platform": "104",
+      "title": "AI 行銷內容實習生",
+      "company": "臺灣區塊鏈愛好者協會",
+      "location": "台北市南港區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-02",
+      "url": "https://www.104.com.tw/job/94e4n",
+      "description": "AI 行銷內容實習生\n\n工作內容：\n善用相關 AI 工具，產製社群貼文、活動文案、圖文與短影音素材。\n協助協會社群平台內容排程、發布與成效數據彙整。\n協助行銷活動籌劃與執行人力。\n接受主管交辦之專案執行事項。\n\n條件需求：\n獨立細心負責，具時程觀",
+      "category": "tech",
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "Intern Engineer, D&T, Software QA 軟體測試實習生(包含自動化測試)",
       "company": "West Pharmaceutical Services Asia, Ltd_西氏亞洲有限公司",
       "location": "台中市西屯區",
@@ -369,6 +387,24 @@
       "description": "IoT device connectivity \n\n-Worked in a global and virtual environment \n\n誠邀在校學生前來實習或者工讀。我們將提供良好的實踐環境，以及多元的學習機會。\n如果你希望在課業之餘累積工作",
       "category": "tech",
       "first_seen": "2026-04-29",
+      "last_seen": "2026-08-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "建築產業探索實習生｜開放式職缺、不限科系｜無經驗可",
+      "company": "築囿建築師事務所",
+      "location": "高雄市苓雅區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-02",
+      "url": "https://www.104.com.tw/job/93w5m",
+      "description": "對建築、設計或工程產業有興趣，但還不知道自己適合設計、監造、工程管理、行政或影像工作嗎？\n這是一個類似「不分系」概念的建築產業入門職缺。\n你不需要在應徵前就決定未來要成為設計師、工程師或監造人員，而是可以先從實際專案的基礎工作開始，接觸建築師事務所、工地現場及專案行政的運作方式。\n工作初期會以工地拍照、資料整理、外勤協助及簡單行政工作為主，並依照個人興趣、能力及事務所工作需求，逐步接觸不同類型的建",
+      "category": "tech",
+      "first_seen": "2026-07-18",
       "last_seen": "2026-08-02",
       "deadline": "",
       "skills": [],
@@ -394,20 +430,22 @@
     },
     {
       "platform": "104",
-      "title": "(高雄NATC) 實習軟體工程師 Application Developer Intern",
-      "company": "IBM_台灣國際商業機器股份有限公司",
-      "location": "高雄市前鎮區",
+      "title": "AI 金融科技實習生",
+      "company": "臺灣區塊鏈愛好者協會",
+      "location": "台北市南港區",
       "salary": "",
       "salary_min": null,
       "salary_type": "unknown",
-      "posted_at": "2026-07-28",
-      "url": "https://www.104.com.tw/job/9392y",
-      "description": "工作時長：一週五天（開學後至少四天），9:00-18:00，需進辦公室\n實習期間：2-6個月\n\n關於團隊\n我們是一個處於快速成長期的技術團隊，專注於現代化軟體架構與大型企業技術轉型。我們深信「信任」與「當責」是團隊合作的基石，並致力於打造一個透明",
+      "posted_at": "2026-08-02",
+      "url": "https://www.104.com.tw/job/91w6o",
+      "description": "工作內容：\n1.善用相關AI工具，完成內容編修與研究資料彙整。\n2.協助行銷活動籌劃與執行人力。\n3.接受主管交辦之專案執行事項。\n\n條件需求：\n•獨立細心負責，具時程觀念與執行力\n•具基本溝通能力，能獨立進行信件與電話聯繫\n•能配合活動檔期彈性出勤\n•有課務、活動執行、社群營運、行政助理經驗者佳\n•對金融科技、Web3、AI、創新產業有興趣者佳\n•良好英文溝通與讀寫能力\n\n條件限制：\n大學以上在",
       "category": "tech",
-      "first_seen": "2026-07-01",
+      "first_seen": "2026-05-24",
       "last_seen": "2026-08-02",
       "deadline": "",
-      "skills": [],
+      "skills": [
+        "英文"
+      ],
       "eligibility": []
     },
     {
@@ -812,6 +850,24 @@
     },
     {
       "platform": "104",
+      "title": "行銷行政助理（品牌營運實習生）",
+      "company": "點點造型_集美造型有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-02",
+      "url": "https://www.104.com.tw/job/90o6a",
+      "description": "【工作內容】\n\n我們是一個專注於婚禮美感與品牌體驗的團隊，\n正在尋找一位細心且具備審美感的夥伴，\n一起參與品牌營運與內容製作的日常。\n\n這份角色將同時接觸「品牌行銷」與「營運流程」，\n適合對婚禮產業、視覺美感與品牌經營有興趣的你。\n\n【品牌內容與行銷支援】\n\n婚禮作品照片整理、篩選與風格統整\n基礎修圖與圖片優化（維持品牌視覺一致性）\n社群平台內容上架與版面整理（IG、網站）\n協助品牌素材建檔與內容",
+      "category": "marketing",
+      "first_seen": "2026-08-02",
+      "last_seen": "2026-08-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "品牌營運實習生 *可配合學生企業實習  | 豆嫂 | 日韓零食品牌(桃園青埔A18)",
       "company": "豆嫂零食雜貨店_載來有限公司",
       "location": "桃園市中壢區",
@@ -859,6 +915,24 @@
       "description": "▍關於 MYFEEL\n\n如果你對各式最新產品保持好奇，也嚮往與品牌並肩作戰，用清晰的市場洞察與沉穩的創意，把理念轉化成看得見的業績，你會喜歡這裡。\n\n如果你追求自由與扁平，欣賞氣氛和諧、彼此成長的團隊文化，你也會喜歡這裡。\n\n我們是 MYFEEL，一支講求團隊合作、高度自主且戰力堅實的 Go-to-Market 團隊。\n\n\n▍工作內容\n\n短影音企劃：撰寫與拍攝專案產品相關的短影音內容\n網紅行銷：建",
       "category": "marketing",
       "first_seen": "2026-04-25",
+      "last_seen": "2026-08-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "行銷企劃實習生 (畢業後經考核可轉正)",
+      "company": "上策行銷有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-02",
+      "url": "https://www.104.com.tw/job/7q6fx",
+      "description": "【Bespo實習生培訓系統】\n第一步、到職註冊\n\n第二步、口碑行銷基礎概念培訓\n\n第三步、初試考核 (到職滿一個月)\n考核六項口碑行銷基礎能力\n通過與否將決定實習生之去留\n通過者將進入第二階段完整寫文訓練\n\n第四步、二試考核(到職滿三個月)\n寫文",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-08-02",
       "deadline": "",
       "skills": [],
@@ -1059,6 +1133,60 @@
       "description": "一、顧客諮詢服務。\n二、顧客意件受理。\n三、店內外指引服務。\n四、店內廣播。\n五、服務台相關業務。",
       "category": "bd_sales",
       "first_seen": "2026-06-28",
+      "last_seen": "2026-08-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習生(通路經營部)_I00009686",
+      "company": "國泰綜合證券股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-29",
+      "url": "https://www.104.com.tw/job/8vt6i",
+      "description": "1. 報表製作：工作大量使用Excel，需熟稔、細心。\n2. 處理庶務性工作，包括但不限於Email信件回覆、文書資料處理等。\n3. 其他主管交辦事項。\n4. 每週需上班至少３天（含）以上。",
+      "category": "bd_sales",
+      "first_seen": "2026-07-29",
+      "last_seen": "2026-08-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "一個人的才華不能被埋沒~(實習設計師)招募!!",
+      "company": "O3O hair salon_宇宙沙龍美髮店",
+      "location": "台中市西區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-02",
+      "url": "https://www.104.com.tw/job/694kc",
+      "description": "一個人的才華 不能被埋沒\n\n\n充滿新時代的教育制度\n採用日式混合歐美教育剪裁\n打破美髮10~20幾年不變的傳統想法\n讓新生代設計師 看見未來 不會再苦苦等待等客人\n\n如果你還停滯在要上不下的階段\n我們一定是你的最好的選擇",
+      "category": "design",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-08-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "人資實習生/工讀生 G53",
+      "company": "永慶房產集團_永慶房屋仲介股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-02",
+      "url": "https://www.104.com.tw/job/7bcte",
+      "description": "1. 人事行政事務協助\n2. 新進報到流程協助\n3. 新進人事資料催收/整理/檢核/Key in/掃描及歸檔\n4. 員工關係活動協助",
+      "category": "hr",
+      "first_seen": "2026-04-25",
       "last_seen": "2026-08-02",
       "deadline": "",
       "skills": [],
@@ -1300,6 +1428,24 @@
     },
     {
       "platform": "104",
+      "title": "實習師 助理",
+      "company": "城事髮廊",
+      "location": "桃園市桃園區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-02",
+      "url": "https://www.104.com.tw/job/7u4nq",
+      "description": "執行洗髮、護髮、頭皮護理等工作。 \n協助設計師執行修髮、染髮、燙髮、髮型吹整等工作。 \n完成設計師交辦工作。\n \n學習專業美髮技能分A.B.C三階考核，\n協助現場設計師完成項目額外工作獎金。",
+      "category": "operations",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-08-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "美髮助理/實習師（週休二日，高抽成）30500-50000",
       "company": "喜來 SHI LAI Hairstyling_喜仕來美髮工作室",
       "location": "台中市南屯區",
@@ -1329,6 +1475,24 @@
       "description": "歡迎在校實習同學投遞履歷~\n一、協助營業賣場管理及執行。 \n二、常駐賣場提供顧客諮詢服務。 \n三、例行性工作執行及賣場維護。 \n四、網路社群(粉絲團、IG、FB等)行銷規劃、提案、執行能力\n五、非周休二日，早、晚、全天班排班制。",
       "category": "operations",
       "first_seen": "2026-04-24",
+      "last_seen": "2026-08-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "[實習工讀]【快銷品FMCG】電商平台助理 E-commerce Assistant",
+      "company": "台灣大昌華嘉股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-27",
+      "url": "https://www.104.com.tw/job/91v9t",
+      "description": "工作職責:\n● 電商平台訂單處理和客服\n● 商務團隊支援和行政庶務\n\n1. 電商平台與訂單管理\n2. 客戶服務、訂單受理及售後處理\n3. 客訴處理與顧客問題追蹤\n4. 產品介紹與諮詢服務\n5. 報表彙整與文件管理\n6. 競品資訊蒐集與分析\n7. 行銷活動及商務支援\n8. 出貨管理、庫存盤點及主管交辦事項 ",
+      "category": "operations",
+      "first_seen": "2026-08-02",
       "last_seen": "2026-08-02",
       "deadline": "",
       "skills": [],
@@ -1437,6 +1601,24 @@
       "description": "建立你的職涯舞台，加入中菲行\n想讓自己的職涯更上一層樓嗎？加入中菲行，發揮你的潛力！\n\n我們正在尋找具責任感、主動積極，並希望在快速發展的國際物流產業中持續成長的人才。在中菲行，我們提供支持學習的環境、完善的專業培訓，以及清晰的職涯發展機會。我們的使命很簡單卻充滿力量：為有潛力的人才開啟機會之門，並協助他們培養實現職涯夢想所需的能力。\n\n關於中菲行：\n中菲行國際物流（Dimerco Express",
       "category": "supply_chain",
       "first_seen": "2026-05-29",
+      "last_seen": "2026-08-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "空運出口併裝操作實習生",
+      "company": "中菲行國際物流股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-02",
+      "url": "https://www.104.com.tw/job/91ppz",
+      "description": "建立你的職涯舞台，加入中菲行\n想讓自己的職涯更上一層樓嗎？加入中菲行，發揮你的潛力！\n\n我們正在尋找具責任感、主動積極，並希望在快速發展的國際物流產業中持續成長的人才。在中菲行，我們提供支持學習的環境、完善的專業培訓，以及清晰的職涯發展機會。我們的使命很簡單卻充滿力量：為有潛力的人才開啟機會之門，並協助他們培養實現職涯夢想所需的能力。\n\n關於中菲行：\n中菲行國際物流（Dimerco Express",
+      "category": "supply_chain",
+      "first_seen": "2026-05-19",
       "last_seen": "2026-08-02",
       "deadline": "",
       "skills": [],
@@ -1671,6 +1853,24 @@
       "description": "1. 在主管人員指導之下，從事工作之設計與執行。\n2. 執行主管交辦事項規劃，協助公司之現場事務執行。。\n3. 配合公司各種活動，有團體精神，具備核心價值。\n4. 與家長和學生溝通，隨時提供學生課業上支援。\n5. 負責人員之調度、督導及管理。\n",
       "category": "other",
       "first_seen": "2026-05-07",
+      "last_seen": "2026-08-02",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "寒假(1個月)/長期實習生",
+      "company": "築囿建築師事務所",
+      "location": "高雄市苓雅區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-02",
+      "url": "https://www.104.com.tw/job/8aojl",
+      "description": "實習生是事務所每年的活力來源，實習安排主要著重於學習與觀摩，透過參與討論與工作流程認識，協助實習生理解事務所的設計思維與實務運作方式，我們歡迎對設計充滿熱情的你/妳參與我們的工作日常。\n\n希望您有以下特質:\n一、願意參與討論，對建築設計工作充滿熱",
+      "category": "other",
+      "first_seen": "2026-04-28",
       "last_seen": "2026-08-02",
       "deadline": "",
       "skills": [],
