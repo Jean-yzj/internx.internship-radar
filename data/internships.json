@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T02:54:07",
+  "generated_at": "2026-08-08T06:36:22",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 82,
-    "new_today": 4,
+    "total": 88,
+    "new_today": 0,
     "by_platform": {
-      "104": 37,
+      "104": 43,
       "CakeResume": 0,
       "Yourator": 45
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 17
+      "count": 18
     },
     {
       "key": "data",
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 14
+      "count": 15
     },
     {
       "key": "content",
@@ -91,7 +91,7 @@
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 2
+      "count": 1
     },
     {
       "key": "design",
@@ -105,7 +105,7 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 1
+      "count": 2
     },
     {
       "key": "accounting",
@@ -119,7 +119,7 @@
       "label": "教育／輔導",
       "emoji": "📚",
       "color": "#0891b2",
-      "count": 0
+      "count": 1
     },
     {
       "key": "operations",
@@ -133,7 +133,7 @@
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 2
+      "count": 4
     },
     {
       "key": "manufacturing",
@@ -147,7 +147,7 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 0
+      "count": 1
     },
     {
       "key": "hospitality",
@@ -459,6 +459,24 @@
       "description": "1. 協助找出業務痛點與定義分析命題，並提出數據解決方案。\r\n2. 運用自然語言處理(NLP)等大語言模型，優化現有工作流程，提升作業效率和品質。\r\n3. 研究如何將生成式AI/深度學習/機器學習等技術應用於各式業務場景，協助公司業務推展、找出潛在商機、降低風險及成本、提升服務品質。\r\n4. 協助數據中臺之規劃、建置、測試與部署。\r\n\r\n如果你具備以上相關經驗和技能，歡迎加入我們，一起打造更好的未",
       "category": "tech",
       "first_seen": "2026-06-13",
+      "last_seen": "2026-08-08",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "(高雄NATC) 實習軟體工程師 Application Developer Intern",
+      "company": "IBM_台灣國際商業機器股份有限公司",
+      "location": "高雄市前鎮區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-28",
+      "url": "https://www.104.com.tw/job/9392y",
+      "description": "工作時長：一週五天（開學後至少四天），9:00-18:00，需進辦公室\n實習期間：2-6個月\n\n關於團隊\n我們是一個處於快速成長期的技術團隊，專注於現代化軟體架構與大型企業技術轉型。我們深信「信任」與「當責」是團隊合作的基石，並致力於打造一個透明",
+      "category": "tech",
+      "first_seen": "2026-07-01",
       "last_seen": "2026-08-08",
       "deadline": "",
       "skills": [],
@@ -812,6 +830,26 @@
     },
     {
       "platform": "104",
+      "title": "【日商】廣告行銷企劃實習生｜N3以上 × 數位廣告× 學以致用",
+      "company": "美迪科思行銷股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-08",
+      "url": "https://www.104.com.tw/job/7bgog",
+      "description": "✎ 歡迎數位廣告有興趣的你！\n\n《工作日常》\n1. 數位廣告報表製作及基本操作(主要)\n2. 協助廣告素材文案撰寫\n3. 協助數據分析\n除上述外，依據個人意願分派其他廣告相關工作\n\n\n《這份實習可以學到》\n1. 掌握 Excel 的基本至進階操作",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-08-08",
+      "deadline": "",
+      "skills": [
+        "Excel"
+      ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【執行辦公室】行銷專員/實習生",
       "company": "涵碧樓大飯店股份有限公司",
       "location": "南投縣魚池鄉",
@@ -1030,24 +1068,6 @@
     },
     {
       "platform": "104",
-      "title": "實習生(通路經營部)_I00009686",
-      "company": "國泰綜合證券股份有限公司",
-      "location": "台北市大安區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-08-06",
-      "url": "https://www.104.com.tw/job/8vt6i",
-      "description": "1. 報表製作：工作大量使用Excel，需熟稔、細心。\n2. 處理庶務性工作，包括但不限於Email信件回覆、文書資料處理等。\n3. 其他主管交辦事項。\n4. 每週需上班至少３天（含）以上。",
-      "category": "bd_sales",
-      "first_seen": "2026-07-29",
-      "last_seen": "2026-08-08",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
       "title": "美髮實習設計師/助理",
       "company": "琺亞髮廊",
       "location": "台北市中山區",
@@ -1119,6 +1139,24 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "人資實習生/工讀生 D53",
+      "company": "永慶房產集團_永慶房屋仲介股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-08",
+      "url": "https://www.104.com.tw/job/7bctb",
+      "description": "1. 人事行政事務協助\n2. 新進報到流程協助\n3. 新進人事資料催收/整理/檢核/Key in/掃描及歸檔\n4. 員工關係活動協助",
+      "category": "hr",
+      "first_seen": "2026-05-01",
+      "last_seen": "2026-08-08",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "【SFIN0101I】財會實習生",
       "company": "SHOPLINE 商線科技股份有限公司",
@@ -1149,6 +1187,24 @@
       "description": "帳務處理及主管交辦事宜\n----\n1.有良好會計觀基礎及觀念\n2.個性主動積極、合群、細心、有耐心、抗壓力強\n3.具備良好之溝通及表達能力\n4.熟悉Microsoft Office操作\n5.對事務所工作有興趣,具高度穩定性",
       "category": "accounting",
       "first_seen": "2026-07-21",
+      "last_seen": "2026-08-08",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【實習生專區】TOYOTA實習員 (台中/彰化/南投)",
+      "company": "TOYOTA/LEXUS_中部汽車股份有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-08",
+      "url": "https://www.104.com.tw/job/7u358",
+      "description": "服務專員\n1.提供客戶專業諮詢服務。\n2.汽車進廠維修、保養之客戶接待等相關工作。\n3.了解顧客問題及車況及確認將進行的保養及維修項目。\n4.維修後追蹤服務與電訪關懷。\n\n引擎技術專員\n1.提供客戶專業諮詢服務。\n2.汽車進廠維修、保養服務等相關工作。\n3.了解顧客問題及車況及確認將進行保養及維修項目。\n\n噴漆技術人員\n1.汽車車輛外觀噴漆、烤漆塗裝作業。\n2.車輛外觀與內部清潔之維護 。\n3.其",
+      "category": "education",
+      "first_seen": "2026-04-23",
       "last_seen": "2026-08-08",
       "deadline": "",
       "skills": [],
@@ -1383,6 +1439,60 @@
       "description": "【工作內容】\n1.撰擬各類訴訟及非訟法律文書\n2.法律問題之分析與研究\n3.協助處理訴訟及非訟相關事務\n4.庭期陪同旁聽學習記錄\n5.協助辦理其他專案事務\n6.書狀製作接聽電話\n7.其他律師交辦法務及行政事項\n\n\n\n\n【工作說明】\n主要業務為民刑事行政訴訟及仲裁案件、公司、政府機關法顧等非訟法律服務。\n各類法律爭訟及非訟事務類型眾多，資深律師親自指導及修改書狀，有志從事\n律師行業者，實務學習的絕佳",
       "category": "legal",
       "first_seen": "2026-08-04",
+      "last_seen": "2026-08-08",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "圓矩法律事務所",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-01",
+      "url": "https://www.104.com.tw/job/7nim5",
+      "description": "圓矩法律事務所【#實習律師】徵才，誠摯邀請您加入\n\n圓矩法律事務所，由擁有台美頂尖法學院背景之青壯年律師共同組成，兼具訴訟與非訟案源，每人都將自己法學知識與經驗注入在法律實踐中。我們期待能透過實習律師找到長久合作的夥伴。 \n\n▶ 多元案件\n我們提",
+      "category": "legal",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-08-08",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "亨達法律事務所",
+      "location": "新北市三重區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-20",
+      "url": "https://www.104.com.tw/job/8bigt",
+      "description": "撰寫各類書狀/學習各類法律流程/回答客戶法律問題/研究法律問題\n\n",
+      "category": "legal",
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-08-08",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "空運客服實習生(新竹)",
+      "company": "中菲行國際物流股份有限公司",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-08",
+      "url": "https://www.104.com.tw/job/8o5zg",
+      "description": "建立你的職涯舞台，加入中菲行\n想讓自己的職涯更上一層樓嗎？加入中菲行，發揮你的潛力！\n\n我們正在尋找具責任感、主動積極，並希望在快速發展的國際物流產業中持續成長的人才。在中菲行，我們提供支持學習的環境、完善的專業培訓，以及清晰的職涯發展機會。我們的使命很簡單卻充滿力量：為有潛力的人才開啟機會之門，並協助他們培養實現職涯夢想所需的能力。\n\n關於中菲行：\n中菲行國際物流（Dimerco Express",
+      "category": "supply_chain",
+      "first_seen": "2026-05-29",
       "last_seen": "2026-08-08",
       "deadline": "",
       "skills": [],
