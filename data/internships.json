@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T03:01:11",
+  "generated_at": "2026-08-09T06:40:04",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 77,
+    "total": 84,
     "new_today": 1,
     "by_platform": {
-      "104": 32,
+      "104": 39,
       "CakeResume": 0,
       "Yourator": 45
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 15
+      "count": 16
     },
     {
       "key": "data",
@@ -42,7 +42,7 @@
       "label": "產品",
       "emoji": "🎯",
       "color": "#8b5cf6",
-      "count": 1
+      "count": 2
     },
     {
       "key": "biotech",
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 14
+      "count": 13
     },
     {
       "key": "content",
@@ -105,7 +105,7 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 0
+      "count": 1
     },
     {
       "key": "accounting",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 8
+      "count": 9
     },
     {
       "key": "legal",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 3
+      "count": 7
     },
     {
       "key": "research",
@@ -358,6 +358,42 @@
     },
     {
       "platform": "104",
+      "title": "短波紅外光量子點元件工程實習生 (SWIR QD Device Engineer Intern)",
+      "company": "來成光子科技股份有限公司",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/94mwc",
+      "description": "工作地點： 台灣台北市 (Taipei, Taiwan)\n雇用類型： 實習 (Internship - 全職或兼職；每週至少 3 天，實習期 3–6 個月)\n\n關於 AilumiQ\nAilumiQ 是一家創新的深科技（Deep-Tech）新創公司",
+      "category": "tech",
+      "first_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Intern Engineer, D&T, Software QA 軟體測試實習生(包含自動化測試)",
+      "company": "West Pharmaceutical Services Asia, Ltd_西氏亞洲有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/73juk",
+      "description": "IoT device connectivity \n\n-Worked in a global and virtual environment \n\n誠邀在校學生前來實習或者工讀。我們將提供良好的實踐環境，以及多元的學習機會。\n如果你希望在課業之餘累積工作",
+      "category": "tech",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【Gogoro 虎尾門市】實習工程師 - 帶薪培訓！",
       "company": "Gogoro_聯安車業股份有限公司",
       "location": "雲林縣虎尾鎮",
@@ -391,30 +427,6 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "Google workspace_實習生/工讀生",
-      "company": "博弘雲端科技股份有限公司",
-      "location": "台北市中山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-08-03",
-      "url": "https://www.104.com.tw/job/945xp",
-      "description": " Cloud Business Operations Intern（歡迎大三、大四及研究所同學）\n\n【你將在這裡獲得什麼？】\n\n雲端產業第一線視野：直接接觸市場對 Google Cloud 與 Google Workspace 的真實需求，建立對 Enterprise Software 與 B2B 商業模式的敏銳度。\n\n跨部門協作與專案管理能力：從商機捕捉到合約落地、帳款追蹤，完整參與 B2B 業",
-      "category": "tech",
-      "first_seen": "2026-07-27",
-      "last_seen": "2026-08-09",
-      "deadline": "",
-      "skills": [
-        "GCP"
-      ],
-      "eligibility": [
-        "大三",
-        "大四",
-        "研究所"
-      ]
     },
     {
       "platform": "Yourator",
@@ -467,6 +479,24 @@
       "description": "Internship / web3 / Business",
       "category": "pm",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "ESG專案／產品管理實習生 | ESG Project/Product Management Intern",
+      "company": "麟數據科技股份有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/9348p",
+      "description": "趣。\n●  具備永續相關證照(如iPAS)或專案管理、產品開發相關實習經驗。\n●  主修管理、商科或資訊相關學系，或具備相關專業背景。\n●  熟悉需求分析與用戶訪談方法，具備專案管理或產品開發經驗。\n●  具備商業敏銳度，能快速學習並將市場需求轉化",
+      "category": "pm",
+      "first_seen": "2026-07-04",
       "last_seen": "2026-08-09",
       "deadline": "",
       "skills": [],
@@ -951,28 +981,6 @@
       "eligibility": []
     },
     {
-      "platform": "104",
-      "title": "客戶成長處_實習生/工讀生(intern)",
-      "company": "博弘雲端科技股份有限公司",
-      "location": "台北市中山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-08-03",
-      "url": "https://www.104.com.tw/job/93216",
-      "description": "【工作內容】\n\n**歡迎大三、大四、研究所在校學生投遞**\n\n1. 客戶資料管理與維護: \n。整理及更新 Salesforce 客戶資料\n。檢查並補齊客戶缺失文件與資訊\n。協助資料清理、資料驗證及品質管理\n\n2. 流程優化與專案支援:\n。協助團隊進行作業流程標準化\n。參與內部專案推動與執行\n。協助整理 SOP、作業文件及教育訓練資料\n\n3. 團隊營運支援:\n。協助客戶成長團隊日常營運作業\n。處理主",
-      "category": "marketing",
-      "first_seen": "2026-06-25",
-      "last_seen": "2026-08-09",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大三",
-        "大四",
-        "研究所"
-      ]
-    },
-    {
       "platform": "Yourator",
       "title": "市場行銷及業務實習生 Marketing & Business Intern",
       "company": "Aidmics 億觀生技",
@@ -1129,6 +1137,24 @@
       "description": "一、顧客諮詢服務。\n二、顧客意件受理。\n三、店內外指引服務。\n四、店內廣播。\n五、服務台相關業務。",
       "category": "bd_sales",
       "first_seen": "2026-06-28",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "人資實習生/工讀生 E53",
+      "company": "永慶房產集團_永慶房屋仲介股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/7bctc",
+      "description": "1. 人事行政事務協助\n2. 新進報到流程協助\n3. 新進人事資料催收/整理/檢核/Key in/掃描及歸檔\n4. 員工關係活動協助",
+      "category": "hr",
+      "first_seen": "2026-04-23",
       "last_seen": "2026-08-09",
       "deadline": "",
       "skills": [],
@@ -1316,6 +1342,24 @@
     },
     {
       "platform": "104",
+      "title": "實習師 助理",
+      "company": "城事髮廊",
+      "location": "桃園市桃園區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/7u4nq",
+      "description": "執行洗髮、護髮、頭皮護理等工作。 \n協助設計師執行修髮、染髮、燙髮、髮型吹整等工作。 \n完成設計師交辦工作。\n \n學習專業美髮技能分A.B.C三階考核，\n協助現場設計師完成項目額外工作獎金。",
+      "category": "operations",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習律師",
       "company": "喆大律師事務所",
       "location": "台北市大安區",
@@ -1381,6 +1425,78 @@
       "description": "1.\t餐飲服務、點餐等及餐廳外場相關其他工作。\n2.\t協助出餐、備餐及廚房其他相關工作。\n3.\t對餐飲服務工作有熱忱，具備高度親和力\n4.     兼職夥伴也依比例享有特休假喔\n5.\t完成各項主管交代的事宜，\n6.     可配合學生校外實習計畫",
       "category": "hospitality",
       "first_seen": "2026-06-15",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【歐鄉牛排-花蓮店】餐飲/外場/正職/全職/實習夥伴 薪水35K起 ★月休8-10天 ★績效獎金/季獎金分紅/年終獎金另計 ★團隊聚餐",
+      "company": "歐鄉牛排館",
+      "location": "花蓮縣花蓮市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/8i7lu",
+      "description": "歡迎有餐飲經驗、社會新鮮人、二度就業、對服務業有熱血的你，加入我們!\n\n◉學/經 歷：\n 1. 高中以上。\n 2. 無經驗可，具有相關經驗者，待遇從優!\n\n◉工作內容：\n 1. 負責跑單、擺盤、送餐及聯繫內外場之工作\n 2. 負責客人帶位、點餐 等工作\n 3. 於客人用餐完畢後，負責收拾碗盤與清理環境\n 4. 需接觸結帳、收銀之工作\n 5. 喜愛餐飲．具有服務熱忱\n 6. 工作區域及設備的清潔\n ",
+      "category": "hospitality",
+      "first_seen": "2026-06-07",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【歐鄉牛排-台東店】廚房/內場/正職/全職/實習夥伴 薪水34000起 ★月休8-10天 ★績效獎金/季獎金分紅/年終獎金另計 ★團隊聚餐",
+      "company": "歐鄉牛排館",
+      "location": "台東縣台東市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/8i7le",
+      "description": "歡迎對於服務有熱情的你，一同與我們快樂學習成長，用服務及美食溫暖每一位顧客的心。\n\n◉學/經 歷：\n  1. 學歷不拘。\n  2. 無經驗可，具有相關經驗 (證照) 者，待遇從優!\n\n◉工作內容：\n 1. 負責洗、剝、削、切各種食材，以完成烹飪的前置工作\n 2. 協助廚師測量食材的容量與重量\n 3. 依照客人的點單，準備不同菜色所需要的食材\n 4. 於出菜時負責菜餚擺盤或調整份量之工作\n 5. 協",
+      "category": "hospitality",
+      "first_seen": "2026-08-01",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【歐鄉牛排-花蓮店】廚房/內場/正職/全職/實習夥伴 薪水35K起 ★月休8-10天 ★績效獎金/季獎金分紅/年終獎金另計 ★團隊聚餐",
+      "company": "歐鄉牛排館",
+      "location": "花蓮縣花蓮市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/8i7lw",
+      "description": "歡迎對於服務有熱情的你，一同與我們快樂學習成長，用服務及美食溫暖每一位顧客的心。\n\n◉學/經 歷：\n  1. 學歷不拘。\n  2. 無經驗可，具有相關經驗 (證照) 者，待遇從優!\n\n◉工作內容：\n 1. 負責洗、剝、削、切各種食材，以完成烹飪的前置工作\n 2. 協助廚師測量食材的容量與重量\n 3. 依照客人的點單，準備不同菜色所需要的食材\n 4. 於出菜時負責菜餚擺盤或調整份量之工作\n 5. 協",
+      "category": "hospitality",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【來來牛排-台東店】廚房/內場/正職/全職/實習夥伴 薪水32000元起（全勤2000另計） ★月休8-10天 ★績效獎金/季獎金分紅/年終獎金另計 ★團隊聚餐",
+      "company": "歐鄉牛排館",
+      "location": "台東縣台東市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/4je8j",
+      "description": "歡迎對於服務有熱情的你，一同與我們快樂學習成長，用服務及美食溫暖每一位顧客的心。\n\n◉學/經 歷：\n  1. 學歷不拘。\n  2. 無經驗可，具有相關經驗 (證照) 者，待遇從優!\n\n◉工作內容：\n 1. 負責洗、剝、削、切各種食材，以完成烹飪的前置工作\n 2. 協助廚師測量食材的容量與重量\n 3. 依照客人的點單，準備不同菜色所需要的食材\n 4. 於出菜時負責菜餚擺盤或調整份量之工作\n 5. 協",
+      "category": "hospitality",
+      "first_seen": "2026-06-07",
       "last_seen": "2026-08-09",
       "deadline": "",
       "skills": [],
