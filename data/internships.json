@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:40:04",
+  "generated_at": "2026-08-09T12:31:45",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 84,
+    "total": 93,
     "new_today": 1,
     "by_platform": {
-      "104": 39,
+      "104": 48,
       "CakeResume": 0,
       "Yourator": 45
     }
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 13
+      "count": 14
     },
     {
       "key": "content",
@@ -112,7 +112,7 @@
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 1
+      "count": 2
     },
     {
       "key": "education",
@@ -133,7 +133,7 @@
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 1
+      "count": 3
     },
     {
       "key": "manufacturing",
@@ -147,14 +147,14 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 0
+      "count": 3
     },
     {
       "key": "hospitality",
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 7
+      "count": 8
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 11
+      "count": 12
     }
   ],
   "jobs": [
@@ -522,24 +522,6 @@
     },
     {
       "platform": "Yourator",
-      "title": "Investment Research Intern 投資研究實習生",
-      "company": "SuDo Research Labs（蘇度科技有限公司）",
-      "location": "臺北市",
-      "salary": "NT$ 300 - 700 (時薪)",
-      "salary_min": 52800,
-      "salary_type": "hourly",
-      "posted_at": "",
-      "url": "https://www.yourator.co/companies/sudoresearch/jobs/26012",
-      "description": "區塊鏈 / blockchain / crypto / DeFi / 金融研究員 / Market research",
-      "category": "finance",
-      "first_seen": "2026-04-23",
-      "last_seen": "2026-08-09",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "Yourator",
       "title": "Quantitative Research Intern 量化研究實習生",
       "company": "SuDo Research Labs（蘇度科技有限公司）",
       "location": "臺北市",
@@ -549,6 +531,24 @@
       "posted_at": "",
       "url": "https://www.yourator.co/companies/sudoresearch/jobs/46536",
       "description": "blockchain / crypto / web3 / DeFi / Market research / Quantitative Trading",
+      "category": "finance",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "Yourator",
+      "title": "Investment Research Intern 投資研究實習生",
+      "company": "SuDo Research Labs（蘇度科技有限公司）",
+      "location": "臺北市",
+      "salary": "NT$ 300 - 700 (時薪)",
+      "salary_min": 52800,
+      "salary_type": "hourly",
+      "posted_at": "",
+      "url": "https://www.yourator.co/companies/sudoresearch/jobs/26012",
+      "description": "區塊鏈 / blockchain / crypto / DeFi / 金融研究員 / Market research",
       "category": "finance",
       "first_seen": "2026-04-23",
       "last_seen": "2026-08-09",
@@ -981,6 +981,28 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "客戶成長處_實習生/工讀生(intern)",
+      "company": "博弘雲端科技股份有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-03",
+      "url": "https://www.104.com.tw/job/93216",
+      "description": "【工作內容】\n\n**歡迎大三、大四、研究所在校學生投遞**\n\n1. 客戶資料管理與維護: \n。整理及更新 Salesforce 客戶資料\n。檢查並補齊客戶缺失文件與資訊\n。協助資料清理、資料驗證及品質管理\n\n2. 流程優化與專案支援:\n。協助團隊進行作業流程標準化\n。參與內部專案推動與執行\n。協助整理 SOP、作業文件及教育訓練資料\n\n3. 團隊營運支援:\n。協助客戶成長團隊日常營運作業\n。處理主",
+      "category": "marketing",
+      "first_seen": "2026-06-25",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四",
+        "研究所"
+      ]
+    },
+    {
       "platform": "Yourator",
       "title": "市場行銷及業務實習生 Marketing & Business Intern",
       "company": "Aidmics 億觀生技",
@@ -1173,6 +1195,24 @@
       "description": "電商 / 跨國團隊",
       "category": "accounting",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "會計助理/實習生 (part-time)",
+      "company": "UnaBiz_優納比科技股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/88uka",
+      "description": "[財務會計實習生 Accounting Intern]\n\n想在畢業前累積真正的企業財會經驗嗎？\n\n如果你對數字有興趣、做事細心，也想了解一間國際公司的財務如何運作，歡迎加入我們！\n\n在這裡，你不只是協助行政工作，而是會一步步接觸企業會計實務，把課",
+      "category": "accounting",
+      "first_seen": "2026-07-10",
       "last_seen": "2026-08-09",
       "deadline": "",
       "skills": [],
@@ -1378,6 +1418,98 @@
     },
     {
       "platform": "104",
+      "title": "實習律師",
+      "company": "杰論法律事務所",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/6vydg",
+      "description": "實務見解研究、法律意見撰擬、合約審議、訴訟撰狀、其他律師交辦事項",
+      "category": "legal",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "圓矩法律事務所",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-01",
+      "url": "https://www.104.com.tw/job/7nim5",
+      "description": "圓矩法律事務所【#實習律師】徵才，誠摯邀請您加入\n\n圓矩法律事務所，由擁有台美頂尖法學院背景之青壯年律師共同組成，兼具訴訟與非訟案源，每人都將自己法學知識與經驗注入在法律實踐中。我們期待能透過實習律師找到長久合作的夥伴。 \n\n▶ 多元案件\n我們提",
+      "category": "legal",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "<實習計劃> 空運部實習生 Intern(高雄)(1 year contract)",
+      "company": "DHL_新加坡商敦豪全球貨運物流股份有限公司台灣分公司",
+      "location": "高雄市苓雅區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/8r4sr",
+      "description": "*實習期間：一年制\n*實習每週工作天數：五天(週一至週五)\n\n*實習工作內容：\n1.空運進出口文件/帳單等相關業務\n2.廠商請款帳務相關作業\n3.報表彙整與製作\n4.供應商績效管理\n5.系統資料上傳 \n6.主管交辦事項\n\n*透過此實習計畫，讓您熟",
+      "category": "supply_chain",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Supply Chain Coordinator (Part-time / Internship)",
+      "company": "UnaBiz_優納比科技股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/8w2ie",
+      "description": " supply chain operations.\n\n這份實習不是影印跑腿，你會學到實際的 ERP、倉庫管理與國際物流流程。\n This internship is hands-on—you will learn ERP, warehouse",
+      "category": "supply_chain",
+      "first_seen": "2026-08-09",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "二廠-物流辦事員學年實習生(歡迎學生學年實習、附設員工宿舍、無經驗可、週休二日)",
+      "company": "臺灣永光化學工業股份有限公司",
+      "location": "桃園市觀音區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/91lmy",
+      "description": "1.內外銷供貨作業\n2.原料/成品進出貨協助\n3.其他主管交辦事項\n\n★★我們要的就是你★★\n1.歡迎同學學年實習\n2.不限科系\n3.具基本文書作業能力(Word、Excel)",
+      "category": "supply_chain",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [
+        "Excel"
+      ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "早/晚班櫃檯接待專員(可供實習)",
       "company": "Hotel Se7en_福星旅店股份有限公司",
       "location": "台中市西屯區",
@@ -1425,6 +1557,24 @@
       "description": "1.\t餐飲服務、點餐等及餐廳外場相關其他工作。\n2.\t協助出餐、備餐及廚房其他相關工作。\n3.\t對餐飲服務工作有熱忱，具備高度親和力\n4.     兼職夥伴也依比例享有特休假喔\n5.\t完成各項主管交代的事宜，\n6.     可配合學生校外實習計畫",
       "category": "hospitality",
       "first_seen": "2026-06-15",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "石門水庫桃禧漫遊-實習生  Intern",
+      "company": "桃園喜來登酒店／桃園機場假日酒店_桃禧航空城大飯店股份有限公司",
+      "location": "桃園市大溪區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/5gnb8",
+      "description": "露營區: (大溪-桃禧漫遊渡假露營區)\n○服務人員:  接待賓客、協助行李運送 級接駁服務，及相關戶外活動執行等。\n                       餐廳餐飲服務、執行簡易餐飲料理。\n                       帳蓬房務及園區清潔管理。\n                        各據點支援與輪調學習。",
+      "category": "hospitality",
+      "first_seen": "2026-06-11",
       "last_seen": "2026-08-09",
       "deadline": "",
       "skills": [],
@@ -1612,24 +1762,6 @@
     },
     {
       "platform": "104",
-      "title": "法律實習生",
-      "company": "聖安法律事務所",
-      "location": "台北市中山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-08-09",
-      "url": "https://www.104.com.tw/job/82ljb",
-      "description": "實習",
-      "category": "other",
-      "first_seen": "2026-05-01",
-      "last_seen": "2026-08-09",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
       "title": "實習生計劃",
       "company": "私立森文理短期補習班",
       "location": "新北市三重區",
@@ -1661,6 +1793,44 @@
       "description": "1.確保文件正確迅速地送達給客戶\n2.郵件的領取與寄送\n3.客情維護與客戶意見回饋\n4.安全駕駛\n5.無經驗可，實習或夜校生尤佳\n\n客勤專員是與客戶接觸的第一線人員之一，\n需要在兼顧安全與時效的前提下，將重要文件送達客戶手中。\n\n本職務歡迎無經驗",
       "category": "other",
       "first_seen": "2026-06-12",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【BigByte教育業｜實習生計劃 | 二度就業】Learning Advisor",
+      "company": "BigByte Education_大樹國際文化企業股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/8mi2y",
+      "description": " event planning.\n\n【英文教育實習亮點】\n1. 開拓教學視野，BigByte採用美國小學教材Wonders，在觀課過程中體驗「專題式學習」（PBL, Project-Based Learning）課程運作模式。\n\n2.",
+      "category": "other",
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-08-09",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "學生實習-桿娣(實習期間半年至一年)",
+      "company": "老爺關西高爾夫球場_互馨育樂股份有限公司",
+      "location": "新竹縣關西鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-09",
+      "url": "https://www.104.com.tw/job/86fre",
+      "description": "1. 球車駕駛協助球友擊球\n2. 高爾夫球場場地資訊提供(有教育訓練)\n3. 協助球友擊球流程順利\n保證薪資29500,出班後以服務人數計算薪水\n平均月薪 30000~60000元 ",
+      "category": "other",
+      "first_seen": "2026-05-13",
       "last_seen": "2026-08-09",
       "deadline": "",
       "skills": [],
