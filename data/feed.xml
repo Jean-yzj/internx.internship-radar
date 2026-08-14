@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-08-14T07:11:38+00:00</updated>
+  <updated>2026-08-14T12:44:26+00:00</updated>
   <entry>
     <title>AI 搜尋成長與行銷自動化實習生 · 永泓明有限公司</title>
     <id>https://www.104.com.tw/job/94ubm</id>
@@ -39,12 +39,20 @@
     <summary>地點：台北市內湖區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>人力資源實習生 · 天虹科技股份有限公司</title>
-    <id>https://www.104.com.tw/job/8xs0b</id>
-    <link href="https://www.104.com.tw/job/8xs0b" />
+    <title>【 Vesta Association】 數位行銷實習生 · Tomofun_友愉股份有限公司</title>
+    <id>https://www.104.com.tw/job/94v69</id>
+    <link href="https://www.104.com.tw/job/94v69" />
+    <updated>2026-08-14T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台北市松山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>影音內容編輯實習生 · 英莩留學服務股份有限公司</title>
+    <id>https://www.104.com.tw/job/94uxh</id>
+    <link href="https://www.104.com.tw/job/94uxh" />
     <updated>2026-08-14T00:00:00+08:00</updated>
     <category term="content" />
-    <summary>地點：新竹縣湖口鄉 · 平台：104</summary>
+    <summary>地點：台北市信義區 · 平台：104</summary>
   </entry>
   <entry>
     <title>實習業務領隊 · 三立旅行社有限公司</title>
@@ -93,6 +101,14 @@
     <updated>2026-08-14T00:00:00+08:00</updated>
     <category term="research" />
     <summary>地點：新北市新莊區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>實習律師【智博法律事務所】 · 智博法律事務所</title>
+    <id>https://www.104.com.tw/job/8bqr0</id>
+    <link href="https://www.104.com.tw/job/8bqr0" />
+    <updated>2026-08-11T00:00:00+08:00</updated>
+    <category term="legal" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
   <entry>
     <title>社群行銷實習生 · 魔數</title>
@@ -207,6 +223,14 @@
     <summary>地點：桃園市桃園區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>人資實習生 HR intern · 新加坡商和樂网有限公司台灣分公司</title>
+    <id>https://www.104.com.tw/job/7r3a9</id>
+    <link href="https://www.104.com.tw/job/7r3a9" />
+    <updated>2026-08-04T00:00:00+08:00</updated>
+    <category term="hr" />
+    <summary>地點：台北市信義區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>實習律師 · 謙亨法律事務所</title>
     <id>https://www.104.com.tw/job/8sayp</id>
     <link href="https://www.104.com.tw/job/8sayp" />
@@ -221,29 +245,5 @@
     <updated>2026-07-31T00:00:00+08:00</updated>
     <category term="hr" />
     <summary>地點：桃園市龜山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>AI研發實習生（AI R&amp;D Intern） · 峻魁智慧股份有限公司</title>
-    <id>https://www.104.com.tw/job/94b13</id>
-    <link href="https://www.104.com.tw/job/94b13" />
-    <updated>2026-07-30T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：新竹縣寶山鄉 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>行銷文案企劃實習生 · 奧藝數位行銷有限公司</title>
-    <id>https://www.104.com.tw/job/94asj</id>
-    <link href="https://www.104.com.tw/job/94asj" />
-    <updated>2026-07-30T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：台北市內湖區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>行政總務實習生 · 優式資本 UC Capital</title>
-    <id>https://www.yourator.co/companies/UCCapital/jobs/47882</id>
-    <link href="https://www.yourator.co/companies/UCCapital/jobs/47882" />
-    <updated>2026-07-29T00:00:00+08:00</updated>
-    <category term="operations" />
-    <summary>薪資：NT$ 220 -  (時薪) · 地點：臺北市 · 平台：Yourator</summary>
   </entry>
 </feed>
