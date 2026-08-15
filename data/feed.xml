@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-08-15T06:22:38+00:00</updated>
+  <updated>2026-08-15T12:19:59+00:00</updated>
   <entry>
     <title>數據分析實習生 Data Analysis Intern · 燦通國際資產管理股份有限公司</title>
     <id>https://www.104.com.tw/job/8k39a</id>
@@ -63,6 +63,14 @@
     <summary>地點：台北市中山區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>會計事務所內勤會計助理兼職實習工讀生 · 宸信會計事務所_黃元勳記帳及報稅代理人事務所</title>
+    <id>https://www.104.com.tw/job/94vem</id>
+    <link href="https://www.104.com.tw/job/94vem" />
+    <updated>2026-08-15T00:00:00+08:00</updated>
+    <category term="accounting" />
+    <summary>地點：新北市樹林區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>兼職行政助理/工讀生/助理實習（計時） · 燦通國際資產管理股份有限公司</title>
     <id>https://www.104.com.tw/job/8m7ty</id>
     <link href="https://www.104.com.tw/job/8m7ty" />
@@ -77,6 +85,22 @@
     <updated>2026-08-15T00:00:00+08:00</updated>
     <category term="other" />
     <summary>地點：台北市中山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>餐廚助手兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請-內湖店 · 焼肉の名門 赤虎_浪漫街道股份有限公司</title>
+    <id>https://www.104.com.tw/job/7fh63</id>
+    <link href="https://www.104.com.tw/job/7fh63" />
+    <updated>2026-08-15T00:00:00+08:00</updated>
+    <category term="other" />
+    <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>餐廚助手兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請-新莊店 · 焼肉の名門 赤虎_浪漫街道股份有限公司</title>
+    <id>https://www.104.com.tw/job/6d7b4</id>
+    <link href="https://www.104.com.tw/job/6d7b4" />
+    <updated>2026-08-15T00:00:00+08:00</updated>
+    <category term="other" />
+    <summary>地點：新北市新莊區 · 平台：104</summary>
   </entry>
   <entry>
     <title>社群行銷實習生 · 魔數</title>
@@ -143,14 +167,6 @@
     <summary>薪資：NT$ 220 -  (時薪) · 地點：臺北市 · 平台：Yourator</summary>
   </entry>
   <entry>
-    <title>《IS-13》(實習/約聘)採購助理(新北市) · 義隆電子股份有限公司</title>
-    <id>https://www.104.com.tw/job/8oqql</id>
-    <link href="https://www.104.com.tw/job/8oqql" />
-    <updated>2026-07-28T00:00:00+08:00</updated>
-    <category term="operations" />
-    <summary>地點：新北市中和區 · 平台：104</summary>
-  </entry>
-  <entry>
     <title>【湯蒸火鍋-林場店】餐飲/外場/正職/全職/實習夥伴 薪水33K起【全勤2000另計】 ★月休8-10天 ★達標季獎金/年終獎金另計 ★團隊聚餐 · 歐鄉牛排館</title>
     <id>https://www.104.com.tw/job/8i7ky</id>
     <link href="https://www.104.com.tw/job/8i7ky" />
@@ -183,67 +199,51 @@
     <summary>地點：台北市中山區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>實習律師 · 亨達法律事務所</title>
+    <id>https://www.104.com.tw/job/8bigt</id>
+    <link href="https://www.104.com.tw/job/8bigt" />
+    <updated>2026-07-20T00:00:00+08:00</updated>
+    <category term="legal" />
+    <summary>地點：新北市三重區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>餐飲服務生兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請--新莊店 · 焼肉の名門 赤虎_浪漫街道股份有限公司</title>
+    <id>https://www.104.com.tw/job/8unvy</id>
+    <link href="https://www.104.com.tw/job/8unvy" />
+    <updated>2026-07-17T00:00:00+08:00</updated>
+    <category term="hospitality" />
+    <summary>地點：新北市新莊區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>餐飲服務生兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請--內湖店 · 焼肉の名門 赤虎_浪漫街道股份有限公司</title>
+    <id>https://www.104.com.tw/job/7f2uk</id>
+    <link href="https://www.104.com.tw/job/7f2uk" />
+    <updated>2026-07-17T00:00:00+08:00</updated>
+    <category term="hospitality" />
+    <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>餐飲服務生兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請--信義安和店 · 焼肉の名門 赤虎_浪漫街道股份有限公司</title>
+    <id>https://www.104.com.tw/job/6d7b3</id>
+    <link href="https://www.104.com.tw/job/6d7b3" />
+    <updated>2026-07-17T00:00:00+08:00</updated>
+    <category term="hospitality" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>餐廚助手兼職、工讀（時薪200起)可配合校外實習/協助外籍工作證申請-信義安和店 · 焼肉の名門 赤虎_浪漫街道股份有限公司</title>
+    <id>https://www.104.com.tw/job/7ybqc</id>
+    <link href="https://www.104.com.tw/job/7ybqc" />
+    <updated>2026-07-17T00:00:00+08:00</updated>
+    <category term="other" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>星展科技學期實習生 TECH Internship（金融科技／銀行科技系統） CK · 全球人事顧問股份有限公司</title>
     <id>https://www.104.com.tw/job/8zduw</id>
     <link href="https://www.104.com.tw/job/8zduw" />
     <updated>2026-07-16T00:00:00+08:00</updated>
     <category term="finance" />
     <summary>地點：台北市內湖區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【中租控股】美編設計實習生 ( 半年期 ) · 中租控股</title>
-    <id>https://www.yourator.co/companies/chailease/jobs/47799</id>
-    <link href="https://www.yourator.co/companies/chailease/jobs/47799" />
-    <updated>2026-07-13T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>薪資：NT$ 210 - 210 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>高雄義大店-金色三麥#學生實習【計時員】週五/六/日時薪215元/H · 金色三麥餐飲股份有限公司</title>
-    <id>https://www.104.com.tw/job/52zf6</id>
-    <link href="https://www.104.com.tw/job/52zf6" />
-    <updated>2026-06-30T00:00:00+08:00</updated>
-    <category term="hospitality" />
-    <summary>地點：高雄市大樹區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>企劃助理實習生 · 好攝創意溝通有限公司</title>
-    <id>https://www.104.com.tw/job/9368p</id>
-    <link href="https://www.104.com.tw/job/9368p" />
-    <updated>2026-06-29T00:00:00+08:00</updated>
-    <category term="operations" />
-    <summary>地點：台北市中山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>『 社群內容經營實習生 』Social Media Content  Intern · POPUPASIA</title>
-    <id>https://www.yourator.co/companies/popupasia/jobs/35735</id>
-    <link href="https://www.yourator.co/companies/popupasia/jobs/35735" />
-    <updated>2026-06-26T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>薪資：NT$ 200 - 200 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>『 海外市場開發實習生 』Overseas market development intern · POPUPASIA</title>
-    <id>https://www.yourator.co/companies/popupasia/jobs/35736</id>
-    <link href="https://www.yourator.co/companies/popupasia/jobs/35736" />
-    <updated>2026-06-26T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>薪資：NT$ 200 - 200 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>『 專案規劃執行實習生 』Project Planning and Execution Intern · POPUPASIA</title>
-    <id>https://www.yourator.co/companies/popupasia/jobs/35066</id>
-    <link href="https://www.yourator.co/companies/popupasia/jobs/35066" />
-    <updated>2026-06-26T00:00:00+08:00</updated>
-    <category term="other" />
-    <summary>薪資：NT$ 200 - 200 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>企業實習生(在校生)-會議企劃、專案企劃 · 漢肯國際會展_漢肯事業有限公司</title>
-    <id>https://www.104.com.tw/job/8upiw</id>
-    <link href="https://www.104.com.tw/job/8upiw" />
-    <updated>2026-06-26T00:00:00+08:00</updated>
-    <category term="content" />
-    <summary>地點：台北市信義區 · 平台：104</summary>
   </entry>
 </feed>

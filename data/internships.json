@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T06:22:38",
+  "generated_at": "2026-08-15T12:19:59",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 98,
-    "new_today": 0,
+    "total": 114,
+    "new_today": 3,
     "by_platform": {
-      "104": 50,
+      "104": 66,
       "CakeResume": 0,
       "Yourator": 48
     }
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 14
+      "count": 16
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 4
+      "count": 5
     },
     {
       "key": "bd_sales",
@@ -98,14 +98,14 @@
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 3
+      "count": 4
     },
     {
       "key": "hr",
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 1
+      "count": 2
     },
     {
       "key": "accounting",
@@ -126,14 +126,14 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 14
+      "count": 13
     },
     {
       "key": "legal",
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 2
+      "count": 4
     },
     {
       "key": "manufacturing",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 7
+      "count": 12
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 14
+      "count": 19
     }
   ],
   "jobs": [
@@ -941,6 +941,26 @@
     },
     {
       "platform": "104",
+      "title": "行銷部 | 行銷企劃實習生 (Marketing Intern)",
+      "company": "城智科技股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/901w7",
+      "description": " TOEIC>750 or TOFEL(iBT)>71 or其他同等證明，或是可以使用英文交談書寫\n\n==加分項目==\n\n1. 有學習使用工作相關軟體的經驗，或是曾接觸過影像編輯軟體\n2. 有活動籌辦經驗，或是有相關實習經驗\n3. 曾有參與過新創企業，",
+      "category": "marketing",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【擴編招募】品牌行銷企劃實習生｜創意腦來玩｜依經驗能力值給薪",
       "company": "寰宇教育事業機構(台北市私立寰宇文理短期補習班)",
       "location": "台北市中山區",
@@ -1018,6 +1038,24 @@
       ]
     },
     {
+      "platform": "104",
+      "title": "內/外場服務生 / 高時薪220~280 / 歡迎二度就業人士 實習生 學生打工 連鎖速食 台灣新品牌 內湖首店",
+      "company": "A Beach 101&Pizza_口香糖俱樂部股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/8sjjp",
+      "description": "『工作內容』\n\n外場服務\n\n1. 接待客人、帶位、點餐\n2. 送餐、收桌與環境整理\n3. 與內場配合，維持出餐順暢\n4. 視學習狀況培訓吧台基本技能（調飲與備料）\n5. 協助餐具回收與清潔（使用洗碗機）\n\n內場協助\n1. 協助簡易備料與餐點準備\n2. 支援出餐流程，確保順暢\n合夥人制度 母子公司\n\n\n預計6月底開幕\n可先到信義區餐廳「A Beach 101&Pizza」訓練及磨合者\n優先錄取",
+      "category": "marketing",
+      "first_seen": "2026-07-04",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "市場行銷及業務實習生 Marketing & Business Intern",
       "company": "Aidmics 億觀生技",
@@ -1093,6 +1131,24 @@
     },
     {
       "platform": "104",
+      "title": "永續實習生",
+      "company": "思綴有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/7xeez",
+      "description": "【工作內容】\n作為永續實習生，你將參與公司永續專案的資料整理、碳足跡計算、ESG規劃、報告撰寫與平台建構等實務工作。我們的服務對象橫跨政府機關、公協會與產業團體，能讓你在實務中快速累積對永續議題的敏感度與應對能力。\n\n主要工作內容包括：\n\n協助規",
+      "category": "content",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "企業實習生(在校生)-會議企劃、專案企劃",
       "company": "漢肯國際會展_漢肯事業有限公司",
       "location": "台北市信義區",
@@ -1122,6 +1178,24 @@
       "description": "",
       "category": "bd_sales",
       "first_seen": "2026-06-01",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "美髮實習設計師/助理",
+      "company": "琺亞髮廊",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/8ada9",
+      "description": "FARYA HAIR 位於南京復興捷運站。\n\n1.執行髮型及造型設計。\n2.執行修髮、洗髮及吹整髮型等工作。\n3.進行燙髮。\n4.進行染漂頭髮。\n\n◆ 獎金\n1.年節紅包\n\n◆ 保險\n1.勞保\n2.健保\n3.團保(意外險)\n4.勞退提撥 6%\n\n◆ 休閒類\n1.員工旅遊(不需業績)\n2.員工聚餐\n\n工作內容:\n1、協助設計師進行髮型設計\n2、協助設計師執行修髮、護髮、洗髮、染燙及吹整髮型工作\n3、",
+      "category": "design",
+      "first_seen": "2026-06-30",
       "last_seen": "2026-08-15",
       "deadline": "",
       "skills": [],
@@ -1183,6 +1257,24 @@
     },
     {
       "platform": "104",
+      "title": "畢業前就累積企業招募經驗｜外商獵才實習生｜時薪210元｜日/夜間在校生限定 | 需配合6個月以上/JO3",
+      "company": "新加坡商立福人事顧問有限公司台灣分公司",
+      "location": "高雄市鼓山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/8t02u",
+      "description": "還在找一份真正能學到東西、讓履歷更有競爭力的實習嗎？\n\n加入我們，你將實際參與企業招募流程，不只是行政協助，而是從人才媒合、面試安排到與企業合作，累積未來進入外商、人資、金融業都很加分的實戰經驗！\n\n你會學到什麼？\n\n✔ 履歷篩選與人才評估技巧",
+      "category": "hr",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "人力資源實習生 HR Intern",
       "company": "燦通國際資產管理股份有限公司",
       "location": "台北市中山區",
@@ -1237,6 +1329,24 @@
     },
     {
       "platform": "104",
+      "title": "會計事務所內勤會計助理兼職實習工讀生",
+      "company": "宸信會計事務所_黃元勳記帳及報稅代理人事務所",
+      "location": "新北市樹林區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/94vem",
+      "description": "1. 整理、記算及彙整交易產生之原始憑證，並登錄至會計系統製作傳票。\n2. 協助申報每期營業稅。\n3. 主管交辦事項。\n\n\n",
+      "category": "accounting",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "財會工讀生(兼職/工讀/實習)台中西屯",
       "company": "社團法人桃園市溫暖關懷協會",
       "location": "台中市西屯區",
@@ -1252,26 +1362,6 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "長期工讀生/大四實習生",
-      "company": "富盛會計師事務所",
-      "location": "新北市三重區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-08-15",
-      "url": "https://www.104.com.tw/job/7eiub",
-      "description": "1、會計憑證裝訂、傳票登打及整理\n2、帳冊列印及統整\n3、營業稅／營所稅／各類所得稅申報、稅務抽憑、報告登打\n4、協助處理庶務性行政工作；接聽電話、訪客接待\n\n【相關條件】\n\n- 接受身份：夜間就讀中\n- 工作經歷：不拘\n- 學歷要求：專科、大學\n- 公司產業：會計服務業\n- 科系要求：會計學相關、一般商業學類、企業管理相關\n- 語文條件：不拘\n- 擅長工具：不拘\n- 工作技能：不拘\n\n【其他條件",
-      "category": "accounting",
-      "first_seen": "2026-05-07",
-      "last_seen": "2026-08-15",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大四"
-      ]
     },
     {
       "platform": "104",
@@ -1530,24 +1620,6 @@
     },
     {
       "platform": "104",
-      "title": "《IS-13》(實習/約聘)採購助理(新北市)",
-      "company": "義隆電子股份有限公司",
-      "location": "新北市中和區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-08-11",
-      "url": "https://www.104.com.tw/job/8oqql",
-      "description": "一、請款帳務處理\n二、費用轉單\n三、系統資料維護及建檔",
-      "category": "operations",
-      "first_seen": "2026-07-28",
-      "last_seen": "2026-08-15",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
       "title": "實習律師",
       "company": "懷安法律事務所",
       "location": "台北市中山區",
@@ -1584,6 +1656,42 @@
     },
     {
       "platform": "104",
+      "title": "實習律師",
+      "company": "杰論法律事務所",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/6vydg",
+      "description": "實務見解研究、法律意見撰擬、合約審議、訴訟撰狀、其他律師交辦事項",
+      "category": "legal",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "亨達法律事務所",
+      "location": "新北市三重區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-07-20",
+      "url": "https://www.104.com.tw/job/8bigt",
+      "description": "撰寫各類書狀/學習各類法律流程/回答客戶法律問題/研究法律問題\n\n",
+      "category": "legal",
+      "first_seen": "2026-07-20",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "高雄義大店-金色三麥#學生實習【計時員】週五/六/日時薪215元/H",
       "company": "金色三麥餐飲股份有限公司",
       "location": "高雄市大樹區",
@@ -1595,6 +1703,24 @@
       "description": "#週一至週四時薪200元/H，週五~週日時薪215元/H\n#負責點餐送餐之餐飲桌邊服務，提供顧客專業品飲啤酒介紹\n\n◆月排班100H以上，全勤獎金1000元\n◆休假制度:月排休9天(採排休制)\n◆提供美味員工餐\n\n*到職日需自備[一年效期供膳體檢表]",
       "category": "hospitality",
       "first_seen": "2026-06-30",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "墨More 義法餐館｜廚房實習正職",
+      "company": "森達餐飲國際股份有限公司",
+      "location": "高雄市左營區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/903zd",
+      "description": "・嚴格遵守食譜配方、廚房營運流程，以維持穩定的標準。\n\n・能夠承受餐點標準的一致性及步調快速的廚房環境。\n\n・具強烈責任感，依照班表排班出勤，穩定性高且服從現場主管安排。\n\n・達到目標營業額，將額外發放職位獎金。\n\n・上班日出勤有滿6hr，會有現金100元伙食費。\n\n・無經驗可。\n\n工作時段\n\n10:00~14:00、17:00～21:00\n\n(每日實際上班工時8小時，加班費另計，排班區間另安排休",
+      "category": "hospitality",
+      "first_seen": "2026-06-20",
       "last_seen": "2026-08-15",
       "deadline": "",
       "skills": [],
@@ -1638,6 +1764,24 @@
     },
     {
       "platform": "104",
+      "title": "西餐廚師實習生\b⏐\b月薪35000-40000元⏐內場廚房餐飲餐廳餐酒",
+      "company": "A Beach 101&Pizza_口香糖俱樂部股份有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/76waa",
+      "description": "『工作內容』\n\t1. 依照標準流程進行餐點製作，確保出餐品質與穩定度。\n\t2. 執行各項備料作業（切配、分裝、保存），維持食材品質。\n\t3. 負責出餐節奏掌控，與外場協作確保餐點順暢送達。\n\t4. 操作廚房設備（含炸台、洗碗機等），並維持設備正常運作。\n\t5. 維持工作區域清潔與衛生，符合食品安全標準。\n\t6. 支援內場各站位工作，維持整體運作效率。\n\n我們提供完整培訓制度，從基礎開始，逐步培養你",
+      "category": "hospitality",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "餐廳外場正職- TSUTAYA BOOKSTORE(蔦屋台中市政店)~歡迎實習生",
       "company": "TSUTAYA BOOKSTORE 蔦屋_得利影視股份有限公司",
       "location": "台中市西屯區",
@@ -1649,6 +1793,24 @@
       "description": "(1)外場顧客服務\n(2)飲料調製.協助客訴處理\n(3)維護顧客關係\n(4)環境清潔作業\n(5)口齒清晰、反應靈敏、主動積極\n\n",
       "category": "hospitality",
       "first_seen": "2026-05-04",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "外場實習生\b⏐\b月薪35000-40000元⏐外場餐飲餐廳餐酒",
+      "company": "A Beach 101&Pizza_口香糖俱樂部股份有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/77cmo",
+      "description": "『工作內容』\n1. 負責送餐及聯繫內外場之工作。\n2. 負責客人帶位、點餐等工作。\n3. 於客人用餐完畢後，負責收拾碗盤與清理環境。\n4. 進行吧台調飲及備料。\n5. 負責結帳、收銀之工作。\n6. 負責全店的打掃與清理，時而進行環境清潔。\n\n\n我們提供完整培訓制度，從基礎開始，逐步培養你成為能獨立帶場的夥伴：\n\n『基礎訓練』（新進人員）\n從現場基本運作開始學習，熟悉餐廳節奏與工作流程\n\n『崗位訓練",
+      "category": "hospitality",
+      "first_seen": "2026-04-25",
       "last_seen": "2026-08-15",
       "deadline": "",
       "skills": [],
@@ -1674,6 +1836,60 @@
     },
     {
       "platform": "104",
+      "title": "餐飲服務生兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請--新莊店",
+      "company": "焼肉の名門 赤虎_浪漫街道股份有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/8unvy",
+      "description": "早班:開店業務.為客人點餐、送餐、整理桌面清潔等\n晚班:為客人點餐、送餐、整理桌面清潔等,閉店業務,清潔,刷鍋\n無經驗者(外籍人士(有工作證者))也歡迎~~\n享團保,任職滿5個月以上,享生日卷1000元\n當月排班滿151小時,當月時薪+10元\n\n歡迎在校學生、外國學生、兼職打工！ \n \n【調薪考核】累計工時達500小時，每半年考核調薪，最高時薪230元！ \n\n【工作時段】11:30~22:30（可",
+      "category": "hospitality",
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "餐飲服務生兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請--內湖店",
+      "company": "焼肉の名門 赤虎_浪漫街道股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/7f2uk",
+      "description": "早班:開店業務.為客人點餐、送餐、整理桌面清潔等\n晚班:為客人點餐、送餐、整理桌面清潔等,閉店業務,清潔,刷鍋\n無經驗者(外籍人士(有工作證者))也歡迎~~\n享團保,任職滿5個月以上,享生日卷1000元\n當月排班滿151小時,當月時薪+10元\n\n歡迎在校學生、外國學生、兼職打工！ \n \n【調薪考核】累計工時達500小時，每半年考核調薪，最高時薪230元！ \n\n【工作時段】11:30~22:30（可",
+      "category": "hospitality",
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "餐飲服務生兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請--信義安和店",
+      "company": "焼肉の名門 赤虎_浪漫街道股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/6d7b3",
+      "description": "早班:開店業務.為客人點餐、送餐、整理桌面清潔等\n晚班:為客人點餐、送餐、整理桌面清潔等,閉店業務,清潔,刷鍋\n無經驗者(外籍人士(有工作證者))也歡迎~~\n享團保,任職滿5個月以上,享生日卷1000元\n當約排班滿151小時,當月時薪+10元\n\n歡迎在校學生、外國學生、兼職打工！ \n \n【調薪考核】累計工時達500小時，每半年考核調薪，最高時薪230元！ \n\n【工作時段】11:30~22:30（可",
+      "category": "hospitality",
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【湯蒸火鍋-林場店】餐飲/外場/正職/全職/實習夥伴 薪水33K起【全勤2000另計】 ★月休8-10天 ★達標季獎金/年終獎金另計 ★團隊聚餐",
       "company": "歐鄉牛排館",
       "location": "宜蘭縣羅東鎮",
@@ -1685,24 +1901,6 @@
       "description": "歡迎有餐飲經驗、社會新鮮人、二度就業、對服務業有熱血的你，加入我們!\n\n◉學/經 歷：\n 1. 高中以上。\n 2. 無經驗可，具有相關經驗者，待遇從優!\n\n◉工作內容：\n 1. 負責跑單、擺盤、送餐及聯繫內外場之工作\n 2. 負責客人帶位、點餐 等工作\n 3. 於客人用餐完畢後，負責收拾碗盤與清理環境\n 4. 需接觸結帳、收銀之工作\n 5. 喜愛餐飲．具有服務熱忱\n 6. 工作區域及設備的清潔\n ",
       "category": "hospitality",
       "first_seen": "2026-07-26",
-      "last_seen": "2026-08-15",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "【Ukai】服務實習生 Service Intern-歡迎僑外生!!",
-      "company": "The Ukai Taipei_御盟建設股份有限公司台北分公司",
-      "location": "台北市信義區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-08-15",
-      "url": "https://www.104.com.tw/job/848uh",
-      "description": "★歡迎僑外生加入，可協助申請工作簽★\n\n1. 負責餐飲現場服務及內外場連繫工作。\n2. 餐廳環境、器具、設備維護與盤點。\n3. 談吐、服儀佳\n4. 能配合兩段班(另有空班津貼$150/天)者優。\n5. 實習區間半年以上者優。",
-      "category": "hospitality",
-      "first_seen": "2026-05-27",
       "last_seen": "2026-08-15",
       "deadline": "",
       "skills": [],
@@ -1910,6 +2108,24 @@
     },
     {
       "platform": "104",
+      "title": "[2026暑期實習計畫－優先獲得畢業預聘機會]托育人員實習",
+      "company": "夏綠蒂國際托嬰機構_臺南市私立夏綠蒂國際托嬰中心",
+      "location": "台南市東區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/8cdo6",
+      "description": "[2026暑期實習計畫－優先獲得畢業預聘機會]托育人員實習\n我們正在尋找對幼托工作有興趣，具工作熱忱、認真負責特質之實習生，您有機會參與實習工作，獲得實務學習經驗與職場接軌，有助於您專業的養成。 \n歡迎以畢業後轉正職為培訓目標的學生，一年期/半年",
+      "category": "other",
+      "first_seen": "2026-05-08",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "｛麥味登｝實習副店長薪46000（紅字幾天休幾天）",
       "company": "麥味登北市八德金控店_首食早餐店",
       "location": "台北市中山區",
@@ -1944,6 +2160,80 @@
       "skills": [
         "英文"
       ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【BigByte教育業｜實習生計劃 | 二度就業】Learning Advisor",
+      "company": "BigByte Education_大樹國際文化企業股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/8mi2y",
+      "description": " event planning.\n\n【英文教育實習亮點】\n1. 開拓教學視野，BigByte採用美國小學教材Wonders，在觀課過程中體驗「專題式學習」（PBL, Project-Based Learning）課程運作模式。\n\n2.",
+      "category": "other",
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "餐廚助手兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請-內湖店",
+      "company": "焼肉の名門 赤虎_浪漫街道股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/7fh63",
+      "description": "1.備料. 2.出餐. 洗碗. 清潔工作等\n\n\n無經驗者(外籍人士(有工作證者))也歡迎~~\n享團保,任職滿5個月以上,享生日卷1000元\n當月排班滿151小時,當月時薪+10元\n\n歡迎在校學生、外國學生、兼職打工！ \n \n【調薪考核】累計工時達500小時，每半年考核調薪，最高時薪230元！ \n\n【工作時段】10:00~21:30（可彈性排班4~8小時） \n\n【加班費】 \n\n*國定假日，時薪雙倍計",
+      "category": "other",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "餐廚助手兼職、工讀（時薪200起)可配合校外實習/協助外籍工作證申請-信義安和店",
+      "company": "焼肉の名門 赤虎_浪漫街道股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/7ybqc",
+      "description": "1.備料. 2.出餐. 洗碗. 清潔工作等\n\n\n無經驗者(外籍人士(有工作證者))也歡迎~~\n享團保,任職滿5個月以上,享生日卷1000元\n當約排班滿151小時,當月時薪+10元\n\n歡迎在校學生、外國學生、兼職打工！ \n \n【調薪考核】累計工時達500小時，每半年考核調薪，最高時薪230元！ \n\n【工作時段】10:00~21:30（可彈性排班4~8小時） \n\n【加班費】 \n\n*國定假日，時薪雙倍計",
+      "category": "other",
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "餐廚助手兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請-新莊店",
+      "company": "焼肉の名門 赤虎_浪漫街道股份有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-15",
+      "url": "https://www.104.com.tw/job/6d7b4",
+      "description": "1.備料. 2.出餐. 洗碗. 清潔工作等\n\n\n無經驗者(外籍人士(有工作證者))也歡迎~~\n享團保,任職滿5個月以上,享生日卷1000元\n當約排班滿151小時,當月時薪+10元\n\n歡迎在校學生、外國學生、兼職打工！ \n \n【調薪考核】累計工時達500小時，每半年考核調薪，最高時薪230元！ \n\n【工作時段】10:00~21:30（可彈性排班4~8小時） \n\n【加班費】 \n\n*國定假日，時薪雙倍計",
+      "category": "other",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "deadline": "",
+      "skills": [],
       "eligibility": []
     },
     {
