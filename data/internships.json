@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:20:44",
+  "generated_at": "2026-08-16T06:24:35",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 72,
-    "new_today": 1,
+    "total": 80,
+    "new_today": 0,
     "by_platform": {
-      "104": 24,
+      "104": 32,
       "CakeResume": 0,
       "Yourator": 48
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 15
+      "count": 16
     },
     {
       "key": "data",
@@ -91,7 +91,7 @@
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 2
+      "count": 4
     },
     {
       "key": "design",
@@ -126,14 +126,14 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 9
+      "count": 10
     },
     {
       "key": "legal",
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 1
+      "count": 2
     },
     {
       "key": "manufacturing",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 3
+      "count": 4
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 12
+      "count": 14
     }
   ],
   "jobs": [
@@ -405,6 +405,24 @@
       "description": "務，包含定期保養，零件更換與軟韌體更新等。\n✔ 確保來到服務中心的客人可以得到有效的解決與對應辦法。\n✔ 工作環境、特種工具及機具設備維護。\n✔ Gogoro電動機車配件推薦及裝修。\n\n[ 薪資結構 ]\n✔ 帶薪培訓，實習工程師培訓階段月薪：$",
       "category": "tech",
       "first_seen": "2026-04-26",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "(高雄NATC) 實習軟體工程師 Application Developer Intern",
+      "company": "IBM_台灣國際商業機器股份有限公司",
+      "location": "高雄市前鎮區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-13",
+      "url": "https://www.104.com.tw/job/9392y",
+      "description": "工作時長：一週4~5天，9:00-18:00，需進辦公室\n實習期間：2-6個月\n實習資格：於2025~2028畢業的同學\n\n關於團隊\n我們是一個處於快速成長期的技術團隊，專注於現代化軟體架構與大型企業技術轉型。我們深信「信任」與「當責」是團隊合作",
+      "category": "tech",
+      "first_seen": "2026-07-01",
       "last_seen": "2026-08-16",
       "deadline": "",
       "skills": [],
@@ -972,6 +990,24 @@
     },
     {
       "platform": "104",
+      "title": "(HOLA和樂家居) 銷售兼職人員_內湖店~歡迎長期兼職/企業實習",
+      "company": "HOLA_和樂家居股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/8w97q",
+      "description": "我們正在找尋熱愛「舒適生活」的你！\n加入 HOLA，用你的品味與親和力與顧客互動並專注於產品的銷售，讓人走進門市就感受到舒心自在。\n\n【工作內容】\n｜產品推薦｜介紹生活居家用品(如美食飲品/居家織品/日用品...等)\n｜顧客服務｜透過與顧客交流，知道他們喜歡的風格／用途，並給予合適建議\n｜專區維護｜補貨、維護庫存、保持專區整潔、陳列美觀，營造舒適購物氛圍與體驗\n\n【薪酬福利】\n•時薪196-220",
+      "category": "bd_sales",
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "遠東SOGO百貨-03天母店-顧客服務實習生",
       "company": "遠東SOGO_太平洋崇光百貨股份有限公司",
       "location": "台北市士林區",
@@ -983,6 +1019,24 @@
       "description": "一、顧客諮詢服務。\n二、顧客意件受理。\n三、店內外指引服務。\n四、店內廣播。\n五、服務台相關業務。",
       "category": "bd_sales",
       "first_seen": "2026-06-28",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "(HOLA和樂家居) 銷售(補貨)兼職人員_土城店~歡迎新鮮人/企業實習/二度就業",
+      "company": "HOLA_和樂家居股份有限公司",
+      "location": "新北市土城區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/91vz7",
+      "description": "HOLA 致力將適合台灣多變氣候、環境與空間的居家選物帶給顧客\n從在地需求出發，精心打造符合台灣人生活習慣的原創設計，\n並引進世界知名品牌，提供顧客好搭好選的多元風格選擇\n期望以溫暖的人文風格，傳遞動人的居家生活美學。\n我們相信，家應該是在一起再久，依然能感受到心動的地方。\n來 HOLA，一起創造家的動人時刻吧！\n歡迎一起加入我們!\n\n1.商品銷售\n2.收銀結帳與顧客服務\n3.商品上架與檔期更換作",
+      "category": "bd_sales",
+      "first_seen": "2026-05-23",
       "last_seen": "2026-08-16",
       "deadline": "",
       "skills": [],
@@ -1170,6 +1224,24 @@
     },
     {
       "platform": "104",
+      "title": "實習師 助理",
+      "company": "城事髮廊",
+      "location": "桃園市桃園區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/7u4nq",
+      "description": "執行洗髮、護髮、頭皮護理等工作。 \n協助設計師執行修髮、染髮、燙髮、髮型吹整等工作。 \n完成設計師交辦工作。\n \n學習專業美髮技能分A.B.C三階考核，\n協助現場設計師完成項目額外工作獎金。",
+      "category": "operations",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "電影製片行政實習生",
       "company": "大昇影業股份有限公司",
       "location": "台北市松山區",
@@ -1199,6 +1271,24 @@
       "description": "【誠瀛法律事務所｜實習律師招募】\n訴訟，是目前最難以被AI取代的律師核心業務。\n真正的訴訟案件處理，包含事實整理、證據判斷、程序攻防、風險評估，以及如何在有限資訊、法庭攻防、談判來回過招，有效建立策略與說服力。\n在誠瀛，我們重視的是「能實際處理案",
       "category": "legal",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "中新法律事務所",
+      "location": "桃園市桃園區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/8xq33",
+      "description": " 1.辦理民事、刑事、行政案件（包含會議及開庭等）及法律諮詢。\n 2.各類書狀撰擬（包含書狀及律師函等）。\n 3.契約撰擬、審閱及回覆客戶法律問題。\n 4.研究法律意見、法律問題分析及查詢實務見解。\n 5.其他律師交辦事項。    \n",
+      "category": "legal",
+      "first_seen": "2026-08-13",
       "last_seen": "2026-08-16",
       "deadline": "",
       "skills": [],
@@ -1253,6 +1343,24 @@
       "description": "1.處理房間安排、訂房、入住、退房、收款、核帳等事宜。\n2.接待客人並提供相關服務與解決客訴問題，確保顧客享受到愉快的住宿體驗。\n3.為旅客提供當地旅遊資訊，協助安排旅行計劃、交通工具及接送服務。\n4.執行主管交辦的其他事項，積極參與團隊品質提升。\n\n※上班時段早班:07:00-15:00、晚班:15:00-23:00，需輪班。",
       "category": "hospitality",
       "first_seen": "2026-08-09",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "石門水庫桃禧漫遊-實習生  Intern",
+      "company": "桃園喜來登酒店／桃園機場假日酒店_桃禧航空城大飯店股份有限公司",
+      "location": "桃園市大溪區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/5gnb8",
+      "description": "露營區: (大溪-桃禧漫遊渡假露營區)\n○服務人員:  接待賓客、協助行李運送 級接駁服務，及相關戶外活動執行等。\n                       餐廳餐飲服務、執行簡易餐飲料理。\n                       帳蓬房務及園區清潔管理。\n                        各據點支援與輪調學習。",
+      "category": "hospitality",
+      "first_seen": "2026-06-11",
       "last_seen": "2026-08-16",
       "deadline": "",
       "skills": [],
@@ -1422,6 +1530,24 @@
     },
     {
       "platform": "104",
+      "title": "客勤專員(實習/夜校生可)",
+      "company": "鴻昇實業股份有限公司",
+      "location": "台中市西區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/70pk0",
+      "description": "1.確保文件正確迅速地送達給客戶\n2.郵件的領取與寄送\n3.客情維護與客戶意見回饋\n4.安全駕駛\n5.無經驗可，實習或夜校生尤佳\n\n客勤專員是與客戶接觸的第一線人員之一，\n需要在兼顧安全與時效的前提下，將重要文件送達客戶手中。\n\n本職務歡迎無經驗",
+      "category": "other",
+      "first_seen": "2026-06-12",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【門市產品展銷】大台北地區 學生實習{學年/學期}",
       "company": "里仁事業股份有限公司",
       "location": "台北市中正區",
@@ -1451,6 +1577,24 @@
       "description": "校外實習計畫",
       "category": "other",
       "first_seen": "2026-04-27",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "(HOLA和樂家居) 網購包裝出貨專員_土城Online店~歡迎長期兼職/企業實習/二度就業",
+      "company": "HOLA_和樂家居股份有限公司",
+      "location": "新北市土城區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/91vz5",
+      "description": "1.網路購物備貨，出貨品質控管\n2.商品包裝、裝箱、上架、下架\n3.協助商品進貨、理貨\n4.顧客退貨、貨故理賠商品處理\n5.不定期出貨專案支援\n6.其他主管交辦事項\n7.需搬重物，體力好佳\n8.需輪早、晚班、假日班\n工作環境佳，有冷氣，依學經歷/專業技能/發展潛力敘薪",
+      "category": "other",
+      "first_seen": "2026-05-23",
       "last_seen": "2026-08-16",
       "deadline": "",
       "skills": [],
