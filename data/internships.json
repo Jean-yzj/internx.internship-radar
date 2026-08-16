@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T06:24:35",
+  "generated_at": "2026-08-16T12:21:12",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 80,
+    "total": 87,
     "new_today": 0,
     "by_platform": {
-      "104": 32,
+      "104": 39,
       "CakeResume": 0,
       "Yourator": 48
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 16
+      "count": 17
     },
     {
       "key": "data",
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 15
+      "count": 17
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 3
+      "count": 4
     },
     {
       "key": "bd_sales",
@@ -98,7 +98,7 @@
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 0
+      "count": 1
     },
     {
       "key": "hr",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 10
+      "count": 11
     },
     {
       "key": "legal",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 14
+      "count": 15
     }
   ],
   "jobs": [
@@ -358,6 +358,24 @@
     },
     {
       "platform": "104",
+      "title": "AI 創作實習生",
+      "company": "特博斯影像製作有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/8mpra",
+      "description": "DOUBLE SHOTS 是一間創意影像製作公司，從策略概念、視覺設計到拍攝與後製一站到位，協助品牌透過影像清晰溝通、被市場記住。\n\n我們正把 AI 導入創作核心，打造前沿的 AI 角色與內容。現在在找一位 AI 內容創作實習生，一起站在 AI",
+      "category": "tech",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【Gogoro 虎尾門市】實習工程師 - 帶薪培訓！",
       "company": "Gogoro_聯安車業股份有限公司",
       "location": "雲林縣虎尾鎮",
@@ -412,17 +430,17 @@
     },
     {
       "platform": "104",
-      "title": "(高雄NATC) 實習軟體工程師 Application Developer Intern",
-      "company": "IBM_台灣國際商業機器股份有限公司",
-      "location": "高雄市前鎮區",
+      "title": "Vespa 進口二輪維修保養 實習生",
+      "company": "峰雨有限公司",
+      "location": "新北市新莊區",
       "salary": "",
       "salary_min": null,
       "salary_type": "unknown",
-      "posted_at": "2026-08-13",
-      "url": "https://www.104.com.tw/job/9392y",
-      "description": "工作時長：一週4~5天，9:00-18:00，需進辦公室\n實習期間：2-6個月\n實習資格：於2025~2028畢業的同學\n\n關於團隊\n我們是一個處於快速成長期的技術團隊，專注於現代化軟體架構與大型企業技術轉型。我們深信「信任」與「當責」是團隊合作",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/8ckky",
+      "description": "公司主要針對進口二輪 Vespa機車的維修、改裝、保養。我們希望找到熱愛二輪的人，一起為車主的安全一同努力！把好的技術傳承下去，成為優秀的職人。\n\n【偉士計劃實習生訓練系統】\n第一步、到職\n\n第二步、偉士牌基礎概念培訓\n\n第三步、初試考核 (到職",
       "category": "tech",
-      "first_seen": "2026-07-01",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-08-16",
       "deadline": "",
       "skills": [],
@@ -846,6 +864,42 @@
     },
     {
       "platform": "104",
+      "title": "數位廣告工讀生／實習生",
+      "company": "呈鈺顧問股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/92mdp",
+      "description": "AI工具輔助工作流程，培養未來必備的AI應用技能\n\n我們深知在職生的時間寶貴，特別提供彈性安排：\n- 彈性時間：每週至少 3 天，需於週一固定排班，可配合你的工作時程每天至少4小時安排\n- 合理薪資：時薪200 元，實習也有應得報酬與時數簽核\n-",
+      "category": "marketing",
+      "first_seen": "2026-06-11",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "自媒體行銷實習生招募中！",
+      "company": "八爪魚創意娛樂行銷有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/5kxtj",
+      "description": "八爪魚創意娛樂行銷｜自媒體行銷實習生招募中！\n\n八爪魚創意娛樂是一家以網路新媒體行銷為核心、跨足 網紅孵化、內容策略 × 行銷通路的創意行銷公司。我們專精於新媒體操作、內容企劃與品牌行銷。\n現在，我們要招募 大專院校的實習生菁英，\n如果你想踏進自",
+      "category": "marketing",
+      "first_seen": "2026-05-01",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "台南館《2026學生實習專區》實習生Intern職缺-供餐供宿",
       "company": "煙波大飯店_煙波國際觀光股份有限公司",
       "location": "台南市中西區",
@@ -929,6 +983,24 @@
       "description": "電商 / 跨國團隊",
       "category": "content",
       "first_seen": "2026-05-26",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "影片&短視頻製作實習",
+      "company": "八爪魚創意娛樂行銷有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/5v1vt",
+      "description": "我們正在招募 大專院校的新媒體實習生菁英，\n如果你對內容創作有想法、想在實務上大展身手——\n你會是我們最想認識的下一位人才！\n\n八爪魚歡迎各校 產學合作 / 學分合作、自主實習\n歡迎各大專院校的產學合作、學分合作或自己想實務學習\n如有作品， 也可",
+      "category": "content",
+      "first_seen": "2026-05-01",
       "last_seen": "2026-08-16",
       "deadline": "",
       "skills": [],
@@ -1037,6 +1109,24 @@
       "description": "HOLA 致力將適合台灣多變氣候、環境與空間的居家選物帶給顧客\n從在地需求出發，精心打造符合台灣人生活習慣的原創設計，\n並引進世界知名品牌，提供顧客好搭好選的多元風格選擇\n期望以溫暖的人文風格，傳遞動人的居家生活美學。\n我們相信，家應該是在一起再久，依然能感受到心動的地方。\n來 HOLA，一起創造家的動人時刻吧！\n歡迎一起加入我們!\n\n1.商品銷售\n2.收銀結帳與顧客服務\n3.商品上架與檔期更換作",
       "category": "bd_sales",
       "first_seen": "2026-05-23",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習設計師 (髮型助理)",
+      "company": "Santé Hair_宇倖造型工作室",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/7mo8f",
+      "description": "實習設計師（助理）-接待客人、協助設計師燙染護、洗髮、技術相關操作、內含教育制度（培養直升設計師）、認真負責、喜歡美髮產業，依目前實際學習階段通過可直接進行下階段學習，需有美髮行業經驗。",
+      "category": "design",
+      "first_seen": "2026-08-13",
       "last_seen": "2026-08-16",
       "deadline": "",
       "skills": [],
@@ -1197,6 +1287,24 @@
       "posted_at": "",
       "url": "https://www.yourator.co/companies/hourloop/jobs/41405",
       "description": "",
+      "category": "operations",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "髮型助理/實習師",
+      "company": "萃CUI Salon_十盛髮廊",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/6e6pv",
+      "description": "青年領航店家 (職缺編號15533)\n\n1.執行髮型及造型設計。\n2.執行洗髮及吹整髮型等工作。\n3.進行燙髮。\n4.進行染漂頭髮。\n5.進行假髮設計。\n_\n額外福利\n實習店抽成\n美髮產品抽成\n護髮抽成\n(與設計師抽成相同)\n歡迎想自我成長的夥伴",
       "category": "operations",
       "first_seen": "2026-04-23",
       "last_seen": "2026-08-16",
@@ -1559,6 +1667,24 @@
       "description": "★想推動永續、爲社會付出，但不知如何落實嗎？\n★在里仁，每一項產品都是實踐永續的行動。透過友善食材支持農友、蔬食配方守護生命、本土原料減少碳足跡...\n如果您認同以上行動，歡迎加入我們！帶動更多消費者一起翻轉世界！\n\n【實習内容】\n  (1) 學",
       "category": "other",
       "first_seen": "2026-06-12",
+      "last_seen": "2026-08-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "材料開發實習生",
+      "company": "瑞儀光電股份有限公司",
+      "location": "高雄市前鎮區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-16",
+      "url": "https://www.104.com.tw/job/92v18",
+      "description": "小專案執行，如參數優化或產學專案實驗協助等包含文獻搜索",
+      "category": "other",
+      "first_seen": "2026-06-18",
       "last_seen": "2026-08-16",
       "deadline": "",
       "skills": [],
