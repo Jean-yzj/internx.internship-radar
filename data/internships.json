@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T10:57:21",
+  "generated_at": "2026-08-30T15:46:10",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 103,
-    "new_today": 1,
+    "total": 111,
+    "new_today": 0,
     "by_platform": {
-      "104": 53,
+      "104": 61,
       "CakeResume": 0,
       "Yourator": 50
     }
@@ -21,7 +21,7 @@
       "label": "工程（機電）",
       "emoji": "🔧",
       "color": "#0369a1",
-      "count": 1
+      "count": 2
     },
     {
       "key": "tech",
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 14
+      "count": 16
     },
     {
       "key": "content",
@@ -91,21 +91,21 @@
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 2
+      "count": 3
     },
     {
       "key": "design",
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 1
+      "count": 2
     },
     {
       "key": "hr",
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 2
+      "count": 3
     },
     {
       "key": "accounting",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 10
+      "count": 11
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 13
+      "count": 14
     }
   ],
   "jobs": [
@@ -185,6 +185,24 @@
       "description": "希望尋找一同創業打拼的優秀夥伴，\n實習內容有:\nFirmware Engineer Internship\nMechanical Engineer Internship\nProduct Application Researcher",
       "category": "engineering",
       "first_seen": "2026-05-07",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "生管實習生(一年期)-W591100",
+      "company": "昇陽國際半導體股份有限公司",
+      "location": "新竹市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-24",
+      "url": "https://www.104.com.tw/job/9559s",
+      "description": "想了解半導體產業如何從接單、生產到出貨嗎？\n\n我們正在招募對供應鏈管理、生產管理及企業營運有興趣的實習夥伴！透過實際參與生管與出貨作業，深入了解半導體產業的運作流程，累積職場實戰經驗，為未來職涯提早做好準備。\n\n工作內容\n1. 協助開立出貨通知單",
+      "category": "engineering",
+      "first_seen": "2026-08-24",
       "last_seen": "2026-08-30",
       "deadline": "",
       "skills": [],
@@ -976,6 +994,24 @@
     },
     {
       "platform": "104",
+      "title": "婚禮活動企劃 × 社群內容實習生",
+      "company": "煦願活動整合有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/94hg5",
+      "description": "學習\n彈性排班，可依課表安排\n活動日提供餐點或餐費補助（依活動安排）/外縣市補助交通費用\n\n表現優異者，畢業後優先轉任正職\n這份實習適合你，如果你希望……\n\n累積真正的作品集，而不只是完成課堂作業。\n跟著品牌一起成長，參與不同類型的專案。\n在畢業前",
+      "category": "marketing",
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "服裝科實習生",
       "company": "彩色球國際股份有限公司",
       "location": "桃園市桃園區",
@@ -987,6 +1023,24 @@
       "description": "｜職務定位｜發揮與服裝設計產業相關之才能，並精進自己的實力，與公司同步向前邁進。 \n\n｜職缺優勢｜\n1.品牌前進國際，能夠習得國際精品時尚之美學。\n2.滿足對精品時尚的絶對熱枕。\n3.有機會前進國際展秀，拓展視野與自身的能力上限。\n4.依照個人所長，進行部門分配，能夠找到展現自己所長的舞台。\n\n｜工作內容｜\n設計部：1.手縫、手作工藝。\n            2.Key in行政工作。\n    ",
       "category": "marketing",
       "first_seen": "2026-04-27",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【誠徵 教學管理幹部】實習主任",
+      "company": "Hella English_臺北市私立錡宏文理短期補習班",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/8vikd",
+      "description": "非傳統教育體系：\n我們拒絕填鴨式學習，強調孩子的思考、創造力與表達能力。\n每一堂課都是任務導向、互動實作與生活應用的學習歷程。\n\n二、明確升遷制度：\n從實習主任、副主任到主任，皆有完整培訓與評鑑制度。\n\n三、穩定與成長並重：\n我們注重長期發展，提供",
+      "category": "marketing",
+      "first_seen": "2026-05-02",
       "last_seen": "2026-08-30",
       "deadline": "",
       "skills": [],
@@ -1194,6 +1248,24 @@
     },
     {
       "platform": "104",
+      "title": "LBS-台北 客戶經營實習生 (Internship)",
+      "company": "香港商史偉莎企業有限公司台灣分公司",
+      "location": "台北市士林區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-27",
+      "url": "https://www.104.com.tw/job/91lo3",
+      "description": "•處理日常行政與支援事務\n•各通路銷售報表彙整、簡報製作\n•跨部門溝通協調\n•跟進作業進度與問題處理\n•管理報表撰寫\n•客戶情報蒐集\n•其他主管交辦事項\n\n※須具備高細心度、主動積極、溝通表達力",
+      "category": "bd_sales",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "工業設計師實習生",
       "company": "香港商旭昶香港有限公司台灣分公司",
       "location": "台北市大同區",
@@ -1212,6 +1284,60 @@
     },
     {
       "platform": "104",
+      "title": "髮型設計師助理(實習)",
+      "company": "玖壹No.91_玖壹髮型",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/5bozc",
+      "description": "［職缺：實習設計師］\n\n想進入美髮業卻還在起步階段？\n我們為你打造完整升級計畫！\n\n1.完善勞基法制度：8小時工時，月休8~10天\n2. 完整教育系統：每週課程訓練、每月技術考核、職涯分級規劃\n3. 薪資穩定：每月實領$40000-$45,000",
+      "category": "design",
+      "first_seen": "2026-06-18",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "JO3畢業前就累積招募經驗｜外商招募實習生｜時薪210元｜日/夜間在校生限定 | 需配合6個月以上",
+      "company": "新加坡商立福人事顧問有限公司台灣分公司",
+      "location": "高雄市鼓山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/8t02u",
+      "description": "還在找一份真正能學到東西、讓履歷更有競爭力的實習嗎？\n\n加入我們，你將實際參與企業招募流程，不只是行政協助，而是從人才媒合、面試安排到與企業合作，累積未來進入外商、人資、金融業都很加分的實戰經驗！\n\n你會學到什麼？\n\n✔ 履歷篩選與人才評估技巧",
+      "category": "hr",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【熱情招募】國小課後實習生",
+      "company": "Hella English_臺北市私立錡宏文理短期補習班",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/8srwq",
+      "description": "喜歡孩子、樂於陪伴與引導嗎？\n歡迎有經驗或無經驗者加入，我們會提供完整指導，陪你一起成長。\n\n【工作內容】\n• 學生到校後的接送與安全照顧\n• 維持課堂秩序，輔導國語、數學等學校作業\n• 協助課輔老師準備教材、整理考卷及課堂所需物品\n• 與課輔老師配合，進行個別或小組作業輔導\n\n【我們需要你】\n• 每週可排班 3～4 天，主要時段 11:30–19:30（其他時段可面談）\n• 具責任感、喜歡與孩子",
+      "category": "hr",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "人資實習生 HR intern",
       "company": "新加坡商和樂网有限公司台灣分公司",
       "location": "台北市信義區",
@@ -1223,24 +1349,6 @@
       "description": "1. 收集及維護企業內部人力資源之相關紀錄，如員工資料及出缺勤紀錄等\n2. 協助內部人員招募，如開發及管理徵才管道及協助招募流程等\n3. 合作規劃及執行公司內部各式大小活動\n4. 安排新人訓練及教育訓練\n5. 其他行政事項及主管交辦之工作",
       "category": "hr",
       "first_seen": "2026-08-04",
-      "last_seen": "2026-08-30",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "【寵物科技實習】HR Intern",
-      "company": "Tomofun_友愉股份有限公司",
-      "location": "台北市松山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-08-20",
-      "url": "https://www.104.com.tw/job/94i6q",
-      "description": "透過此連結投遞履歷將優先考慮：https://grnh.se/a22928193us\n\n【 About the company 】\n\nAt Tomofun, we LOVE pets and technology. Our vision is to bring joy and innovation to every pet lover in the world.\n\nWe are pioneers ",
-      "category": "hr",
-      "first_seen": "2026-08-05",
       "last_seen": "2026-08-30",
       "deadline": "",
       "skills": [],
@@ -1662,6 +1770,24 @@
     },
     {
       "platform": "104",
+      "title": "【2026年大學實習生專區】",
+      "company": "台北板橋馥華艾美酒店_馥華國際酒店股份有限公司",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/924wv",
+      "description": "【大專院校實習專區】\n板橋地區第一家萬豪直營艾美酒店即將開業，我們邀請您成為籌備創始團隊，在這裡我們重視多元與包容，鼓勵每一位夥伴展現真實的自我，也相信員工的幸福，正是成就卓越服務的起點!\n\n【實習區間】\n•\t 依據個人可調整區間\n\n【開放實習單",
+      "category": "hospitality",
+      "first_seen": "2026-05-29",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【客意直火-蘆洲長興店】兼職夥伴，可配合學生實習、中壯齡夥伴。",
       "company": "Kitchen creAfe' 客意直火_匯盟餐飲服務股份有限公司",
       "location": "新北市蘆洲區",
@@ -1997,6 +2123,24 @@
       "description": "1.確保文件正確迅速地送達給客戶\n2.郵件的領取與寄送\n3.客情維護與客戶意見回饋\n4.安全駕駛\n5.無經驗可，實習或夜校生尤佳\n\n客勤專員是與客戶接觸的第一線人員之一，\n需要在兼顧安全與時效的前提下，將重要文件送達客戶手中。\n\n本職務歡迎無經驗",
       "category": "other",
       "first_seen": "2026-06-12",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "長期工讀或實習生",
+      "company": "芝麻街後埔分校_優昇文理語文短期補習班",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/m9cv",
+      "description": "周一~周五(最少3天)\nA班:pm4:00~7:00\nB班:pm5:30~8:30\nC班週三12:00～18:00",
+      "category": "other",
+      "first_seen": "2026-04-23",
       "last_seen": "2026-08-30",
       "deadline": "",
       "skills": [],
