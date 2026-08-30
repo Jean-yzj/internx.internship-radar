@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T06:15:54",
+  "generated_at": "2026-08-30T10:57:21",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 89,
-    "new_today": 0,
+    "total": 103,
+    "new_today": 1,
     "by_platform": {
-      "104": 39,
+      "104": 53,
       "CakeResume": 0,
       "Yourator": 50
     }
@@ -21,7 +21,7 @@
       "label": "工程（機電）",
       "emoji": "🔧",
       "color": "#0369a1",
-      "count": 2
+      "count": 1
     },
     {
       "key": "tech",
@@ -70,28 +70,28 @@
       "label": "管顧／策略",
       "emoji": "🧭",
       "color": "#ec4899",
-      "count": 4
+      "count": 8
     },
     {
       "key": "marketing",
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 13
+      "count": 14
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 5
+      "count": 8
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 1
+      "count": 2
     },
     {
       "key": "design",
@@ -105,7 +105,7 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 0
+      "count": 2
     },
     {
       "key": "accounting",
@@ -126,14 +126,14 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 13
+      "count": 14
     },
     {
       "key": "legal",
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 2
+      "count": 1
     },
     {
       "key": "manufacturing",
@@ -147,14 +147,14 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 1
+      "count": 2
     },
     {
       "key": "hospitality",
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 8
+      "count": 10
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 12
+      "count": 13
     }
   ],
   "jobs": [
@@ -185,24 +185,6 @@
       "description": "希望尋找一同創業打拼的優秀夥伴，\n實習內容有:\nFirmware Engineer Internship\nMechanical Engineer Internship\nProduct Application Researcher",
       "category": "engineering",
       "first_seen": "2026-05-07",
-      "last_seen": "2026-08-30",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "生管實習生(一年期)-W591100",
-      "company": "昇陽國際半導體股份有限公司",
-      "location": "新竹市",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-08-24",
-      "url": "https://www.104.com.tw/job/9559s",
-      "description": "想了解半導體產業如何從接單、生產到出貨嗎？\n\n我們正在招募對供應鏈管理、生產管理及企業營運有興趣的實習夥伴！透過實際參與生管與出貨作業，深入了解半導體產業的運作流程，累積職場實戰經驗，為未來職涯提早做好準備。\n\n工作內容\n1. 協助開立出貨通知單",
-      "category": "engineering",
-      "first_seen": "2026-08-24",
       "last_seen": "2026-08-30",
       "deadline": "",
       "skills": [],
@@ -684,6 +666,78 @@
     },
     {
       "platform": "104",
+      "title": "MAZDA  汽車實習銷售顧問(北台南所)",
+      "company": "瑞達汽車股份有限公司",
+      "location": "台南市北區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/74gns",
+      "description": "銷售&服務相關職務進階如下：\n1.據點接待顧客，協助客戶入座、製作飲品、並隨時處理客戶需求、迎賓、接聽電話、需求探詢、關懷聯繫、車輛了解與介紹等流程。\n2.對汽車本質有興趣，可往保修廠服務職務發展。了解客戶需求，有效率問診、熱誠與同理心展現、車輛檢修分級、回饋車輛專業、建立起長遠且良善的客情關係等。\n3.對銷售服務有興趣，可往客戶服務著手，了解客戶需求，理性分析、熱誠與同理心展現、逐步引導客戶選擇",
+      "category": "consulting",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "MAZDA  汽車實習銷售顧問(斗南所)",
+      "company": "瑞達汽車股份有限公司",
+      "location": "雲林縣斗南鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/74gnr",
+      "description": "銷售&服務相關職務進階如下：\n1.據點接待顧客，協助客戶入座、製作飲品、並隨時處理客戶需求、迎賓、接聽電話、需求探詢、關懷聯繫、車輛了解與介紹等流程。\n2.對汽車本質有興趣，可往保修廠服務職務發展。了解客戶需求，有效率問診、熱誠與同理心展現、車輛檢修分級、回饋車輛專業、建立起長遠且良善的客情關係等。\n3.對銷售服務有興趣，可往客戶服務著手，了解客戶需求，理性分析、熱誠與同理心展現、逐步引導客戶選擇",
+      "category": "consulting",
+      "first_seen": "2026-05-20",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "MAZDA 汽車實習銷售顧問 (民雄所)",
+      "company": "瑞達汽車股份有限公司",
+      "location": "嘉義縣民雄鄉",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/74gnp",
+      "description": "銷售&服務相關職務進階如下：\n1.據點接待顧客，協助客戶入座、製作飲品、並隨時處理客戶需求、迎賓、接聽電話、需求探詢、關懷聯繫、車輛了解與介紹等流程。\n2.對汽車本質有興趣，可往保修廠服務職務發展。了解客戶需求，有效率問診、熱誠與同理心展現、車輛檢修分級、回饋車輛專業、建立起長遠且良善的客情關係等。\n3.對銷售服務有興趣，可往客戶服務著手，了解客戶需求，理性分析、熱誠與同理心展現、逐步引導客戶選擇",
+      "category": "consulting",
+      "first_seen": "2026-06-26",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "MAZDA 汽車實習銷售顧問(永康所)",
+      "company": "瑞達汽車股份有限公司",
+      "location": "台南市永康區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/74gnu",
+      "description": "銷售&服務相關職務進階如下：\n1.據點接待顧客，協助客戶入座、製作飲品、並隨時處理客戶需求、迎賓、接聽電話、需求探詢、關懷聯繫、車輛了解與介紹等流程。\n2.對汽車本質有興趣，可往保修廠服務職務發展。了解客戶需求，有效率問診、熱誠與同理心展現、車輛檢修分級、回饋車輛專業、建立起長遠且良善的客情關係等。\n3.對銷售服務有興趣，可往客戶服務著手，了解客戶需求，理性分析、熱誠與同理心展現、逐步引導客戶選擇",
+      "category": "consulting",
+      "first_seen": "2026-05-27",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "近桃園藝文特區【人才招募／獵才顧問】無經驗及實習可｜全新辦公室｜周休二日｜透明升遷制度｜年薪80萬↑ (BB-顧問)",
       "company": "美商康彼斯有限公司台灣分公司",
       "location": "桃園市桃園區",
@@ -846,6 +900,24 @@
     },
     {
       "platform": "104",
+      "title": "自媒體行銷實習生招募中！",
+      "company": "八爪魚創意娛樂行銷有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/5kxtj",
+      "description": "八爪魚創意娛樂行銷｜自媒體行銷實習生招募中！\n\n八爪魚創意娛樂是一家以網路新媒體行銷為核心、跨足 網紅孵化、內容策略 × 行銷通路的創意行銷公司。我們專精於新媒體操作、內容企劃與品牌行銷。\n現在，我們要招募 大專院校的實習生菁英，\n如果你想踏進自",
+      "category": "marketing",
+      "first_seen": "2026-05-01",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【內部徵才/日文實習生】日商保聖那RPO部門-專案實習生  #日商見學",
       "company": "保聖那管理顧問股份有限公司(Pasona Taiwan Co., Ltd.)",
       "location": "台北市松山區",
@@ -976,6 +1048,24 @@
     },
     {
       "platform": "104",
+      "title": "「成功牛排龜山店」_兼職夥伴/實習人員/二度就業",
+      "company": "大利食品有限公司",
+      "location": "桃園市龜山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/8saz0",
+      "description": "歡迎無經驗的夥伴一起加入我們~\n\n工作內容\n1. 負責跑單、送餐及聯繫內外場之工作。\n2. 負責客人帶位、點餐等工作。\n3. 於客人用餐完畢後，負責收拾碗盤與清理環境。\n4. 進行簡易餐飲之料理。\n5. 負責結帳、收銀之工作。\n6. 負責全店的打掃與清理，時而進行環境布置。\n\n\n具有完整的獎金制度，我們希望每位同仁都有著共同努力的向心力！\n\n\n\n",
+      "category": "content",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【兼職/實習】英文助教",
       "company": "嘉義市私立展將文理技藝短期補習班",
       "location": "嘉義市",
@@ -992,6 +1082,24 @@
       "skills": [
         "英文"
       ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "影片&短視頻製作實習",
+      "company": "八爪魚創意娛樂行銷有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/5v1vt",
+      "description": "我們正在招募 大專院校的新媒體實習生菁英，\n如果你對內容創作有想法、想在實務上大展身手——\n你會是我們最想認識的下一位人才！\n\n八爪魚歡迎各校 產學合作 / 學分合作、自主實習\n歡迎各大專院校的產學合作、學分合作或自己想實務學習\n如有作品， 也可",
+      "category": "content",
+      "first_seen": "2026-05-01",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
       "eligibility": []
     },
     {
@@ -1031,6 +1139,24 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "六月新開幕~「大利牛排南港環球店」_兼職夥伴/實習人員/二度就業",
+      "company": "大利食品有限公司",
+      "location": "台北市南港區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/90nuc",
+      "description": "歡迎無經驗的夥伴一起加入我們~\n\n工作內容\n1. 負責製作餐點及聯繫內外場之工作。\n2. 負責點餐等工作。\n3. 於客人用餐完畢後，負責清洗碗盤。\n4. 進行簡易餐飲之料理。\n5. 負責結帳、收銀之工作。\n6. 負責打掃與清理，時而進行環境布置。\n\n\n具有完整的獎金制度，我們希望每位同仁都有著共同努力的向心力！\n\n\n【工作地點】\n南港環球GLOBAL MALL 美食街\n台北市南港區忠孝東路七段37",
+      "category": "content",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "[實習生專區]- 資訊AI業務實習生｜完整培訓＋實務經驗＋優先轉正機會！(實習時間一年,每週至少4天)",
       "company": "人工智能股份有限公司",
@@ -1050,6 +1176,24 @@
     },
     {
       "platform": "104",
+      "title": "實習生Intern/Management Trainee (提供轉正職機會) (台北101、台南)",
+      "company": "新加坡商和樂网有限公司台灣分公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/8ropp",
+      "description": "#快速累積職場即戰力 #了解人資的邏輯思考 #學會自信開口不害怕\n\n如果你對人資或業務工作有興趣、擅於溝通、想拓展市場視野與人脈，且擁有一顆勇於挑戰的心，歡迎加入我們！！\n\nKey Responsibility\n1. 求職者開發及資料建立\nAssist in database sourcing project; conduct mapping for organization structures",
+      "category": "bd_sales",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "工業設計師實習生",
       "company": "香港商旭昶香港有限公司台灣分公司",
       "location": "台北市大同區",
@@ -1061,6 +1205,42 @@
       "description": "Adobe Illustrator等\n具備優秀的建模及渲染設計能力\n具有團隊合作精神，溝通能力良好，能夠與不同背景的人合作\n富有創造力和想像力，能夠提出新穎的設計概念和解決方案\n實習期需每週至少實習3天\n\n",
       "category": "design",
       "first_seen": "2026-06-30",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "人資實習生 HR intern",
+      "company": "新加坡商和樂网有限公司台灣分公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/7r3a9",
+      "description": "1. 收集及維護企業內部人力資源之相關紀錄，如員工資料及出缺勤紀錄等\n2. 協助內部人員招募，如開發及管理徵才管道及協助招募流程等\n3. 合作規劃及執行公司內部各式大小活動\n4. 安排新人訓練及教育訓練\n5. 其他行政事項及主管交辦之工作",
+      "category": "hr",
+      "first_seen": "2026-08-04",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【寵物科技實習】HR Intern",
+      "company": "Tomofun_友愉股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-20",
+      "url": "https://www.104.com.tw/job/94i6q",
+      "description": "透過此連結投遞履歷將優先考慮：https://grnh.se/a22928193us\n\n【 About the company 】\n\nAt Tomofun, we LOVE pets and technology. Our vision is to bring joy and innovation to every pet lover in the world.\n\nWe are pioneers ",
+      "category": "hr",
+      "first_seen": "2026-08-05",
       "last_seen": "2026-08-30",
       "deadline": "",
       "skills": [],
@@ -1320,6 +1500,24 @@
     },
     {
       "platform": "104",
+      "title": "美容助理／肌膚管理｜建教合作 實習可",
+      "company": "愛美女王美容美體事業",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/95d8b",
+      "description": "工作內容：\n\nAI 肌膚檢測、膚況觀察及顧客諮詢\n臉部清潔、粉刺調理、保濕舒緩等課程\n頭皮檢測與頭皮環境清潔調理\n建立服務紀錄、課後關懷及顧客回訪\n維持環境、儀器及器具清潔消毒\n\n我們希望你：\n有美容、美體、SPA或頭皮護理經驗者佳\n無經驗但願意學習，也可從美容助理開始\n細心、守時、重視衛生及服務品質\n願意配合預約制度，學習專業諮詢與顧客經營\n\n我們重視態度與穩定度，不只看年資。無論已有經驗，或想",
+      "category": "operations",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "HR助理 / 實習生(至少6個月以上)",
       "company": "經緯智庫股份有限公司 (MGR Consulting Co., Ltd.)",
       "location": "台北市松山區",
@@ -1392,17 +1590,17 @@
     },
     {
       "platform": "104",
-      "title": "實習律師",
-      "company": "圓矩法律事務所",
-      "location": "台北市中正區",
+      "title": "長期實習生-採購部CIM",
+      "company": "新加坡商第一線資訊科技有限公司台灣分公司",
+      "location": "台北市大安區",
       "salary": "",
       "salary_min": null,
       "salary_type": "unknown",
-      "posted_at": "2026-08-26",
-      "url": "https://www.104.com.tw/job/7nim5",
-      "description": "圓矩法律事務所【#實習律師】徵才，誠摯邀請您加入\n\n圓矩法律事務所，由擁有台美頂尖法學院背景之青壯年律師共同組成，兼具訴訟與非訟案源，每人都將自己法學知識與經驗注入在法律實踐中。我們期待能透過實習律師找到長久合作的夥伴。 \n\n▶ 多元案件\n我們提",
-      "category": "legal",
-      "first_seen": "2026-05-06",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/8oj7h",
+      "description": "1.學習網路設備採購/出貨相關單據製作。\n2.學習線路申請/終止相關單據製作。\n3.學習網路設備到貨/備貨/回收處理。\n4.學習線路完工系統資料建檔。\n5.學習網路設備/電信帳單請款作業。\n6.學習國內外快遞/運送方式網路設備寄送處理。\n7.進階學習完整供應鍊管理作業。\n8.主管交辦工作。\n",
+      "category": "supply_chain",
+      "first_seen": "2026-05-09",
       "last_seen": "2026-08-30",
       "deadline": "",
       "skills": [],
@@ -1421,6 +1619,42 @@
       "description": "*實習期間：一年制\n*實習每週工作天數：五天(週一至週五)\n\n*實習工作內容：\n1.處理客戶訂單、依客戶要求安排貨物進口\n2.與國外e-mail確認貨物運輸相關事宜\n3.協助追蹤貨況、定期查詢航班、進倉、放行\n4.報表彙整與製作\n5.開立帳單\n6",
       "category": "supply_chain",
       "first_seen": "2026-04-28",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "石門水庫桃禧漫遊-實習生  Intern",
+      "company": "桃園喜來登酒店／桃園機場假日酒店_桃禧航空城大飯店股份有限公司",
+      "location": "桃園市大溪區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/5gnb8",
+      "description": "露營區: (大溪-桃禧漫遊渡假露營區)\n○服務人員:  接待賓客、協助行李運送 級接駁服務，及相關戶外活動執行等。\n                       餐廳餐飲服務、執行簡易餐飲料理。\n                       帳蓬房務及園區清潔管理。\n                        各據點支援與輪調學習。",
+      "category": "hospitality",
+      "first_seen": "2026-06-11",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "「成功牛排淡水店」_兼職夥伴/實習人員/二度就業",
+      "company": "大利食品有限公司",
+      "location": "新北市淡水區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/8m2ay",
+      "description": "外場兼職\r\n\r\n職務說明\r\n1.負責跑單、擺盤、送餐及聯繫內外場之工作。 \r\n2.負責客人帶位、點餐、送餐等工作。 \r\n3.於客人用餐完畢後，負責收拾碗盤與清理環境。 \r\n4.負責結帳、收銀之工作。\r\n5.提供顧客一切所需服務。\r\n6.負責維持餐廳內部清潔。\r\n7.餐廳物料補充。\r\n\r\n內場兼職\r\n\r\n職務說明：\r\n1.負責洗、剝、削、切各種食材，以完成烹飪的前置工作。 \r\n2.依照客人的點單，準",
+      "category": "hospitality",
+      "first_seen": "2026-05-09",
       "last_seen": "2026-08-30",
       "deadline": "",
       "skills": [],
@@ -1727,6 +1961,24 @@
       "description": "",
       "category": "other",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-08-30",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "材料開發實習生",
+      "company": "瑞儀光電股份有限公司",
+      "location": "高雄市前鎮區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-30",
+      "url": "https://www.104.com.tw/job/92v18",
+      "description": "小專案執行，如參數優化或產學專案實驗協助等包含文獻搜索",
+      "category": "other",
+      "first_seen": "2026-06-18",
       "last_seen": "2026-08-30",
       "deadline": "",
       "skills": [],
