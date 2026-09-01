@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T10:50:57",
+  "generated_at": "2026-09-01T15:48:45",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 290,
-    "new_today": 15,
+    "total": 291,
+    "new_today": 1,
     "by_platform": {
-      "104": 240,
+      "104": 241,
       "CakeResume": 0,
       "Yourator": 50
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 49
+      "count": 48
     },
     {
       "key": "data",
@@ -42,7 +42,7 @@
       "label": "產品",
       "emoji": "🎯",
       "color": "#8b5cf6",
-      "count": 3
+      "count": 2
     },
     {
       "key": "biotech",
@@ -70,35 +70,35 @@
       "label": "管顧／策略",
       "emoji": "🧭",
       "color": "#ec4899",
-      "count": 8
+      "count": 11
     },
     {
       "key": "marketing",
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 44
+      "count": 42
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 7
+      "count": 8
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 18
+      "count": 16
     },
     {
       "key": "design",
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 4
+      "count": 3
     },
     {
       "key": "hr",
@@ -119,7 +119,7 @@
       "label": "教育／輔導",
       "emoji": "📚",
       "color": "#0891b2",
-      "count": 7
+      "count": 13
     },
     {
       "key": "operations",
@@ -133,7 +133,7 @@
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 9
+      "count": 11
     },
     {
       "key": "manufacturing",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 11
+      "count": 10
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 36
+      "count": 33
     }
   ],
   "jobs": [
@@ -634,6 +634,24 @@
     },
     {
       "platform": "104",
+      "title": "【科技與轉型服務】數位轉型服務-雲端轉型長期實習生",
+      "company": "DELOITTE CONSULTING BUSINESSES_勤業眾信管理顧問股份有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/8wab6",
+      "description": "本職務將提供以雲端技術為目標的實習生一個良好的實務學習機會。\n1.\t協助整理雲端與產業趨勢的文件與內容\n2.\t協助雲端轉型專案的文件準備與行政事務\n3.\t依照技術設計文件進行雲端環境的設定\n4.\t系統設定與維運的腳本撰寫",
+      "category": "tech",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "助理工程師  (可實習、大學生/夜校生)",
       "company": "呈睿國際股份有限公司",
       "location": "新北市新莊區",
@@ -689,6 +707,26 @@
       "eligibility": [
         "大三",
         "研究所"
+      ]
+    },
+    {
+      "platform": "104",
+      "title": "【DA04實習】展場3D設計 [實習學徒]",
+      "company": "元墉國際股份有限公司",
+      "location": "台北市文山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/5v8ht",
+      "description": "我們肯給予年輕人機會，只要肯學習，我們願意培養人才至儲備幹部。\n非常歡迎在學生企業實習，嘗試你的想法與創意。\n這裡不怕你學，只怕你不肯學、不肯做、只要你肯在這裡爬起來，月薪可達4萬5以上起跳。\n\n1.有基礎電腦繪圖軟體相關經驗。 \n\n2.對室內設",
+      "category": "tech",
+      "first_seen": "2026-06-14",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "不限"
       ]
     },
     {
@@ -914,6 +952,24 @@
     },
     {
       "platform": "104",
+      "title": "實習助理工程師【無相關經驗可】",
+      "company": "埃立思科技股份有限公司",
+      "location": "台中市西區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/7ii8h",
+      "description": "\n\n■ 職位名稱：實習助理工程師【無相關經驗可】\n\n任職條件：\n\n- 學過程式，至少有課堂上寫過程式\n- 對HTML或CSS或JavaScript有基礎認識\n- 資訊相關科系畢業，或有選修程式相關課程或自學\n\n應徵須知：\n\n- 應徵時請提供",
+      "category": "tech",
+      "first_seen": "2026-05-06",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習生(數值模擬、AI工程師、軟體工程師)",
       "company": "恆續科技股份有限公司",
       "location": "新北市三重區",
@@ -1063,82 +1119,6 @@
       "eligibility": []
     },
     {
-      "platform": "104",
-      "title": "軟體測試工程師助理(時薪制實習生)-歡迎在校⽣、應屆畢業⽣或沒有軟體開發⼯作經驗者",
-      "company": "TVBS_聯利媒體股份有限公司",
-      "location": "台北市內湖區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/793va",
-      "description": "TVBS開發團隊對於軟體的品質有最高的要求。\n我們致力於以穩定的開發速率，持續地交付有價值的軟體來滿足客戶需求，並以全局為考量穩定改善團隊及消除多餘的浪費。我們深信最佳的架構與設計來自於能自我組織的團隊，歡迎有相同信念的朋友一起加入！\n\n【關於我們的團隊】\n1. 多數團隊以Scrum的方式開發，少數以Kanban的方式進行。\n2. 開發的產品多為TVBS節目的延伸，例如：新聞網、節目網、電商平台.",
-      "category": "tech",
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "應屆"
-      ]
-    },
-    {
-      "platform": "104",
-      "title": "《美國專案》模具設計與繪圖實習生(長期or短期皆可)",
-      "company": "鴻準精密工業股份有限公司",
-      "location": "新北市土城區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/937ab",
-      "description": "1.協助產品拆圖、組裝流程及標準資料庫建置與維護。\n2.協助機加工設備規格彙整、保養維護文件編制及技術文件管理。\n3.執行新技術調查與技術資料蒐集，涵蓋自動化、機加工及智慧製造相關技術。",
-      "category": "tech",
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "[學期實習] Surveillance Product Developer (Intern)",
-      "company": "Synology_群暉科技股份有限公司",
-      "location": "新北市板橋區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/7pz03",
-      "description": "Synology's product developers create cutting-edge products used by millions of users around the world. Our portfolio of data storage, networking, and surveillance products are powered by our own softw",
-      "category": "tech",
-      "first_seen": "2026-07-02",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "網管客服工程師(無經驗或大四實習可)",
-      "company": "戰國策網路科技股份有限公司",
-      "location": "台北市信義區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/7b69l",
-      "description": "擔任戰國策網管工程師的效益：\n\n1. 技術成長：我們的公司使用最新的 Linux/Windows 技術，這將為您提供學習和實踐新技術的機會。您將有機會深入了解 Linux/Windows系統的運作及學習vibe coding撰寫程式，並獲得實際操作經驗。\n\n2. 團隊合作：我們的工程師團隊擁有豐富的知識和經驗，您將有機會與他們一起工作，學習他們的專業知識，並與他們共享您的知識。\n\n3. 專業發展：",
-      "category": "tech",
-      "first_seen": "2026-05-13",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大四"
-      ]
-    },
-    {
       "platform": "Yourator",
       "title": "CRM 技術顧問實習生(應屆畢業）",
       "company": "伊原力科技",
@@ -1225,24 +1205,6 @@
       "description": "我們正在尋找一位具備「數位直覺」且能熟練運用「AI 工具」的行銷助教。如果你熱愛研究各類 App、懂 AI Prompt，並且能穩定、高品質地完成交付任務，歡迎加入我們的行列！\n主要工作內容（任務導向）\n一、AI 內容高效產出：\n　1.運用 AI 協作撰寫社群文案、產品介紹。\n　2.利用工具輔助製作視覺素材。\n　3.將現有素材進行 AI 改寫與格式優化（如：長文轉簡報）。\n　4.產出官網文章\n二、",
       "category": "pm",
       "first_seen": "2026-06-06",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "[學期實習] RMA Product Assistant (RMA 產品助理)",
-      "company": "Synology_群暉科技股份有限公司",
-      "location": "新北市中和區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/46xeg",
-      "description": "群暉科技的 NAS、IPSAN、網路和監控系統受到全球數百萬客戶的信賴。\n而保固服務部門提供客戶購置產品後保固期內完整的 RMA 服務，從最初的檢測、維修，到整新包裝完成產出良品，每一個環節當中我們都必須確保提供給客戶良品的品質以及可靠性\n\n職務說明 :\n協助將售出後因硬體功能異常返修的產品重新產製為 RMA 良品：\n- 故障檢測及維修：協助工程師針對返修產品進行第一道快速故障排査，並經完善的測試",
-      "category": "pm",
-      "first_seen": "2026-04-23",
       "last_seen": "2026-09-01",
       "deadline": "",
       "skills": [],
@@ -1726,6 +1688,24 @@
     },
     {
       "platform": "104",
+      "title": "實習生 Intern",
+      "company": "覓食顧問股份有限公司",
+      "location": "新北市三重區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/92lvd",
+      "description": "如果你對新創公司快速迭代的流程有興趣，透過至新創公司實習，能更清楚自身是否適合靈活彈性和快速成長的工作環境，更能參與從市場驗證、產品規劃、定價策略、到市場開發這些以往在大公司需至少5年才能經歷的過程，如果你對餐飲或食農產業有興趣，積極主動且反應靈",
+      "category": "consulting",
+      "first_seen": "2026-06-11",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "奢華旅遊顧問實習助理",
       "company": "鴻軒逸遊旅行社有限公司",
       "location": "台北市松山區",
@@ -1737,6 +1717,60 @@
       "description": "球頂級酒店、米其林餐廳及獨家活動資訊（如：私人酒莊探訪、特殊閉館參觀）。\n客戶資料維護： 精準紀錄客戶偏好（從枕頭材質到飲食禁忌），確保服務的一致性。\n市場趨勢追蹤： 監測全球旅遊動態、新開精品酒店與航空業最新趨勢。\n\n【實習收穫】\n深入了解頂級旅",
       "category": "consulting",
       "first_seen": "2026-05-08",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "組織策略與人才管理實習顧問-T&T-台北",
+      "company": "DELOITTE CONSULTING BUSINESSES_勤業眾信管理顧問股份有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/8xg6p",
+      "description": "1.\t協助執行企業永續組織與人才發展專案，如人力資源管理、永續社會與人權諮詢輔導專案\n2.\t協助執行永續相關議題資料蒐集、翻譯與彙整，如國際趨勢報告、標竿企業案例、國內外永續新聞等\n3.\t其他主管交辦事項\n",
+      "category": "consulting",
+      "first_seen": "2026-06-29",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習生 Intern",
+      "company": "覓食顧問股份有限公司",
+      "location": "新北市三重區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/85oav",
+      "description": "如果你對新創公司快速迭代的流程有興趣，透過至新創公司實習，能更清楚自身是否適合靈活彈性和快速成長的工作環境，更能參與從市場驗證、產品規劃、定價策略、到市場開發這些以往在大公司需至少5年才能經歷的過程，如果你對餐飲或食農產業有興趣，積極主動且反應靈",
+      "category": "consulting",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【科技與轉型服務】資訊策略與流程規劃長期實習生",
+      "company": "DELOITTE CONSULTING BUSINESSES_勤業眾信管理顧問股份有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/8waaw",
+      "description": "本職務將提供以資訊策略、流程規劃、專案管理或顧問業為⽬標的實習⽣⼀個良好的實務學習機會。主要⼯作項⽬，如下：\n1.協助顧問團隊進行企業資訊系統現況調查與資料整理\n2.參與雲端化、AI應用、系統現代化等專案的前期研究與分析工作\n3.協助撰寫顧問報告",
+      "category": "consulting",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-09-01",
       "deadline": "",
       "skills": [],
@@ -1791,24 +1825,6 @@
       "description": "一、實習生(商管領域)職務主要工作內容包含：\n1.陪同研究員進行企業商業模式與產業分析。\n2.計畫書與簡報基礎資料匯整。\n\n二、實習時間的專業養成訓練\n有別傳統實習生的事務型工作，公司在實習期間，提供完整的儲備顧問的養成訓練，包含:\n1.創新商業",
       "category": "consulting",
       "first_seen": "2026-06-02",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "美商宏智顧問公司-專案執行與課程助教實習生",
-      "company": "美商宏智國際顧問有限公司台灣分公司",
-      "location": "台北市信義區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/90z8n",
-      "description": "【工作內容】\n1. 協助專案產出校對、數據分析、簡報製作與內容彙整。 \n2. 協助產品在地化，簡中/繁中翻譯與用語校對。 \n3. 協助日常評鑑等專案活動進行、擔任實體(隨堂至客戶端)/線上課程助教 (課前場佈、課中觀察記錄及其他行政支援，遠端VC課程助教，操作Zoom/Webex/Teams)。 \n4. 聯絡印刷廠，協助教材下印；寄送教材行李箱至客戶端、教材/教具與行李箱回收整理。 \n5. 協助課",
-      "category": "consulting",
-      "first_seen": "2026-04-28",
       "last_seen": "2026-09-01",
       "deadline": "",
       "skills": [],
@@ -1960,6 +1976,24 @@
     },
     {
       "platform": "104",
+      "title": "實習生",
+      "company": "瑞璽家族辦公室有限公司(籌備處)",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/95ey0",
+      "description": "、樂於學習，能在快速變動的環境中成長\n\n2. 實習專長方向\n依照個人學經歷與興趣，可選擇以下其中一組別：\n• 財稅組（Tax Specialty） 聚焦跨境稅務優化，協助客戶家庭的傳承規劃，包括移民身份、財富傳承及資產管理過程中的稅務方案。\n• 企",
+      "category": "marketing",
+      "first_seen": "2026-09-01",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "韓國市場運營實習生（마케팅 인턴）（非短期寒暑假實習）",
       "company": "玩美行動股份有限公司",
       "location": "台北市內湖區",
@@ -2061,24 +2095,6 @@
       "description": "【實習內容】\n・參與企業、政府單位、民間團體的永續 / 公關提案。\n\n\n【我們可以給你什麼】\n・理解企業端的商業邏輯、政府端的採購與行政規範，以及非營利組織的資源條件與使命定位。\n・由固定 mentor 帶領，提供具體回饋與方向引導，而非單向指派",
       "category": "marketing",
       "first_seen": "2026-07-24",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "【偷訂宇宙後援會】兼職行銷助理/實習生・短影音內容輸出",
-      "company": "偷訂餐飲科技有限公司",
-      "location": "台北市大安區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/95gfu",
-      "description": "【關於這個職位】\n\n偷訂想打造一個「午餐宇宙」——把上班族吃飯這件小事，變成一直長出新內容的品牌世界。\n\n我們的行銷企劃需要一個手腳快、對短影音有手感的夥伴，一起把「偷訂宇宙」的內容量產出來。這是兼職/實習生職缺，時間彈性，適合還在學或想累積作品",
-      "category": "marketing",
-      "first_seen": "2026-09-01",
       "last_seen": "2026-09-01",
       "deadline": "",
       "skills": [],
@@ -2555,42 +2571,6 @@
       "eligibility": []
     },
     {
-      "platform": "104",
-      "title": "VVG好樣(長期兼職行銷企劃助理/實習生) in 台中國家歌劇院",
-      "company": "好樣餐廳_好樣本事股份有限公司",
-      "location": "台中市西屯區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/89gqc",
-      "description": "我們要尋找對餐飲及文創產業充滿熱誠的夥伴們。與品牌一起合作，共同在這個舞台發揮，我們不侷限任何創意及想法，共同創造品牌發展的多元性，在公司內外持續學習，與團隊一起進步。\n20年來，好樣VVG以無比的創造力和執行力，達成許多的可能和不可能，為民眾演譯撫慰人心的健康食物，為台北時尚精品界打造國際水準的F&B、爲文創設計界開拓演出的平臺、爲藝術工藝創造無數的展演機會。好樣VVG打造各個型式的餐飲品牌，將",
-      "category": "marketing",
-      "first_seen": "2026-06-23",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "【發票存摺】App 行銷實習生（社群內容／短影音）",
-      "company": "麻布數據科技股份有限公司",
-      "location": "台北市信義區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/94oih",
-      "description": " 產品行銷、社群內容與短影音製作」充滿熱情的實習夥伴，和我們一起把實用的產品功能，轉化成有趣、易懂、讓人想分享的內容。\n\n這份實習不只是協助發文或處理例行工作。你將實際參與社群內容企劃、產品功能推廣、視覺素材設計，以及短影音拍攝與製作，從創意發想到",
-      "category": "marketing",
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
       "platform": "Yourator",
       "title": "市場行銷及業務實習生 Marketing & Business Intern",
       "company": "Aidmics 億觀生技",
@@ -2639,6 +2619,24 @@
       "description": "1.編輯自駕車測試情境\n2.協助建立情境資料庫",
       "category": "content",
       "first_seen": "2026-04-28",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【全職】美食攝影文字小編 (歡迎校園實習)",
+      "company": "淘主意股份有限公司",
+      "location": "高雄市三民區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/84wa2",
+      "description": "喜歡美食、愛寫文字、看到光線就想拍照？\n你就是我們在找的內容創作夥伴！\n1. 對文字有敏銳度，能撰寫有溫度、畫面感強的美食體驗文\n2. 喜歡美食，樂於拍照並分享用餐過程與亮點\n3. 具備美感、攝影技巧，能拍出掌握美食拍攝構圖&氛圍\n4. 撰寫FB、IG、Threads等社群貼文，與粉絲建立連結  \n5. 協助主管交辦事項，並參與內容企劃與發想\n\n【加分項目】\n✔ 擅長文案 / 拍照 / 攝影 / ",
+      "category": "content",
+      "first_seen": "2026-05-11",
       "last_seen": "2026-09-01",
       "deadline": "",
       "skills": [],
@@ -3036,42 +3034,6 @@
     },
     {
       "platform": "104",
-      "title": "商品服務實習生(遊樂世界)-學生實習",
-      "company": "義大遊樂世界_義大世界購物廣場_義大開發股份有限公司",
-      "location": "高雄市大樹區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/47wvn",
-      "description": "1.商品店務及行政作業\n2.商品調撥、盤點作業\n3.顧客意見反應及回饋\n4.商品銷售、結帳作業",
-      "category": "bd_sales",
-      "first_seen": "2026-05-14",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "業務助理 / 實習生 ( Business assistant )",
-      "company": "威德數位設計有限公司",
-      "location": "台中市北區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/7f2dk",
-      "description": "業務助理是市場與策略團隊的重要培養角色，透過實務參與，逐步理解客戶、專案與商業運作。本職務不僅協助業務執行，更著重於能力養成，為未來往業務、策略顧問或市場開發角色發展奠定基礎。\n\n我們期待你具備：\n◼積極、樂觀的態度，具良好溝通能力\n◼面對多任務與工作節奏，能保持穩定與執行力\n◼具抗壓性，願意學習並承擔成長過程中的挑戰\n◼重視團隊合作，能與不同角色順暢協作\n◼具備基礎潛在客戶開發能力（網路、電話等",
-      "category": "bd_sales",
-      "first_seen": "2026-04-24",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
       "title": "設計實習生Design Intern",
       "company": "好玩事業有限公司",
       "location": "台北市大安區",
@@ -3127,24 +3089,6 @@
         "Excel",
         "PowerPoint"
       ],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "【實習】或【兼職】設計",
-      "company": "灰時有限公司",
-      "location": "台北市中山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/8r58t",
-      "description": "【 平面設計實習生招募中】\n\n這是一份難得的實習機會，您將直接進入商業環境，會看到你設計的作品實現於市場上。\n推薦給想要累積電商工作經驗者。\n->實習長度以及每週實習的時數另外詳談。\n\n\n\n【 兼職設計師】\n無論是否為兼職副業，或是您時間還要做其",
-      "category": "design",
-      "first_seen": "2026-08-17",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
       "eligibility": []
     },
     {
@@ -3437,6 +3381,24 @@
     },
     {
       "platform": "104",
+      "title": "人資行政實習生/HR Intern（學期中每週4天/全職）",
+      "company": "DELOITTE CONSULTING BUSINESSES_勤業眾信管理顧問股份有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/8xr0x",
+      "description": "檔\n -協助校園招募、說明會或招募活動支援（視專案需求）\n- 其他招募團隊及主管交辦事項\n**實習期間5個月**\n**配合每週出勤4天(含)以上**\n",
+      "category": "hr",
+      "first_seen": "2026-07-15",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "《時薪200元、周末時薪215元》【日商壽司郎】新北板橋府中店-兼職人員★歡迎長期打工、二度就業、學生實習★",
       "company": "台灣壽司郎股份有限公司",
       "location": "新北市板橋區",
@@ -3600,24 +3562,6 @@
       "eligibility": []
     },
     {
-      "platform": "104",
-      "title": "【人資行政工讀生/實習生】在校生友善｜彈性排班｜可學人資實務",
-      "company": "聖威光電科技發展股份有限公司",
-      "location": "新北市中和區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/91eck",
-      "description": "遇到問題願意主動詢問及確認\n7.可穩定、長期配合排班\n人力資源、企業管理、資訊管理或其他相關科系優先，但不是必要條件。具人資或行政實習經驗者加分；無相關經驗也歡迎應徵。\n\n【關於聖威光電】\n聖威光電深耕光通訊技術及光收發模組研發製造，產品應用於電信",
-      "category": "hr",
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
       "platform": "Yourator",
       "title": "【SFIN0101I】財會實習生",
       "company": "SHOPLINE 商線科技股份有限公司",
@@ -3648,6 +3592,24 @@
       "description": "帳務處理及主管交辦事宜\n----\n1.有良好會計觀基礎及觀念\n2.個性主動積極、合群、細心、有耐心、抗壓力強\n3.具備良好之溝通及表達能力\n4.熟悉Microsoft Office操作\n5.對事務所工作有興趣,具高度穩定性",
       "category": "accounting",
       "first_seen": "2026-07-21",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "會計實習生",
+      "company": "眾勤聯合會計師事務所",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/7bppu",
+      "description": "1.  協助會計師事務所會計服務事務\r\n2. 協助一般文書資料處理。\r\n3. 協助處理庶務性行政工作（如：事務機器叫修維護、文具用品採買）。\r\n4. 協助外出送件及物件寄送。\r\n5. 協助接待訪客、準備會議室及茶水。\r\n6. 協助訂購餐點。\r\n7. 協助辦公室環境與設備之清潔與維護。\r\n",
+      "category": "accounting",
+      "first_seen": "2026-04-26",
       "last_seen": "2026-09-01",
       "deadline": "",
       "skills": [],
@@ -3726,26 +3688,6 @@
       "eligibility": []
     },
     {
-      "platform": "104",
-      "title": "長期工讀生/大四實習生",
-      "company": "富盛會計師事務所",
-      "location": "新北市三重區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/7eiub",
-      "description": "1、會計憑證裝訂、傳票登打及整理\n2、帳冊列印及統整\n3、營業稅／營所稅／各類所得稅申報、稅務抽憑、報告登打\n4、協助處理庶務性行政工作；接聽電話、訪客接待\n\n【相關條件】\n\n- 接受身份：夜間就讀中\n- 工作經歷：不拘\n- 學歷要求：專科、大學\n- 公司產業：會計服務業\n- 科系要求：會計學相關、一般商業學類、企業管理相關\n- 語文條件：不拘\n- 擅長工具：不拘\n- 工作技能：不拘\n\n【其他條件",
-      "category": "accounting",
-      "first_seen": "2026-05-07",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大四"
-      ]
-    },
-    {
       "platform": "Yourator",
       "title": "AI語言分析標記與教學實習生(華語、英語、西班牙語教學背景者佳) | 完全遠端 | 美國教育科技新創",
       "company": "DAHUA AI Corp.",
@@ -3758,6 +3700,96 @@
       "description": "",
       "category": "education",
       "first_seen": "2026-08-27",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "POSH女性專屬運動空間實習教練（桃園）",
+      "company": "金鷹運動有限公司",
+      "location": "桃園市桃園區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/8yw35",
+      "description": "。\n3）升遷與分潤清清楚楚，不畫大餅\n我們不跟你講夢想，我們跟你講階梯：\n培訓實習（培訓期）：專業訓練＋跟課學習\n上課教練：開始接課，收入起飛、快速累積經驗\n業績教練：開始接體驗，薪資更高、假期更多\n門店管理：享有門店「淨利分潤」，走向合夥人路線",
+      "category": "education",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "POSH女性專屬運動空間實習教練（台中）",
+      "company": "金鷹運動有限公司",
+      "location": "台中市北區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/8yg9y",
+      "description": "。\n3）升遷與分潤清清楚楚，不畫大餅\n我們不跟你講夢想，我們跟你講階梯：\n培訓實習（培訓期）：專業訓練＋跟課學習\n上課教練：開始接課，收入起飛、快速累積經驗\n業績教練：開始接體驗，薪資更高、假期更多\n門店管理：享有門店「淨利分潤」，走向合夥人路線",
+      "category": "education",
+      "first_seen": "2026-04-27",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習老師",
+      "company": "復興文華美語、文理短期補習班",
+      "location": "新北市樹林區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/838hz",
+      "description": "1.具親和力，個性活潑，樂於與學生接觸\n2.指導課業、批改學生作業、考卷等\n3.協助各類試卷之建檔、管理\n4.積極主動、懂得團隊相處、配合度高\n5.配合在學學生上下課時間，彈性排班制\n6.可累積工作經驗，訓練解題及授課能力\n7.若沒有相關經驗會有老師培訓",
+      "category": "education",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "POSH女性專屬運動空間實習教練（台北）",
+      "company": "金鷹運動有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/8yw34",
+      "description": "。\n3）升遷與分潤清清楚楚，不畫大餅\n我們不跟你講夢想，我們跟你講階梯：\n培訓實習（培訓期）：專業訓練＋跟課學習\n上課教練：開始接課，收入起飛、快速累積經驗\n業績教練：開始接體驗，薪資更高、假期更多\n門店管理：享有門店「淨利分潤」，走向合夥人路線",
+      "category": "education",
+      "first_seen": "2026-04-23",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "POSH實習教練/櫃檯無經驗可(新竹)",
+      "company": "金鷹運動有限公司",
+      "location": "新竹市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/8bsb5",
+      "description": "1.櫃檯接待\n2.場內環境維持\n3.巡場\n每月休8到10天，每天排班8小時。\n早班10：00～18：00\n晚班14：00～22：00\n同事協調排班\n希望能與大家打成一片的夥伴以及喜歡熱心幫助別人的妳。\n想成為教練我們也可以培訓幫助各位成為教練，幫助別人也讓自己有更好的生活～\n不需要出去填問券，更不用強迫推銷會員加入。",
+      "category": "education",
+      "first_seen": "2026-04-25",
       "last_seen": "2026-09-01",
       "deadline": "",
       "skills": [],
@@ -3821,6 +3853,42 @@
     },
     {
       "platform": "104",
+      "title": "有家健身/女性友善健身房/實習教練/無經驗可(高雄)",
+      "company": "金鷹運動有限公司",
+      "location": "高雄市左營區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/72kx3",
+      "description": "1.櫃檯接待\n2.場內環境維持\n3.巡場器材教學\n週休二日天，每天排班8小時。\n最主要找的是喜歡運動健身。\n以及喜歡熱心幫助別人的妳。\n其他的交給我們培訓幫助各位成為教練幫助別人也讓自己有更好的生活～\n不需要出去填問券，更不用強迫推銷會員加入。",
+      "category": "education",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "TheGym實習教練/無經驗可(桃園)",
+      "company": "金鷹運動有限公司",
+      "location": "桃園市桃園區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/7zqcs",
+      "description": "1.櫃檯接待\n2.場內環境維持\n3.巡場器材教學\n週休二日天，每天排班8小時。\n最主要找的是喜歡運動健身。\n以及喜歡熱心幫助別人的妳。\n其他的交給我們培訓幫助各位成為教練幫助別人也讓自己有更好的生活～\n不需要出去填問券，更不用強迫推銷會員加入。",
+      "category": "education",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "竹北樂獅英語助教(工讀生可、大四實習可)",
       "company": "樂獅英語大同分校_新竹縣私立益程文理短期補習班",
       "location": "新竹縣竹北市",
@@ -3858,24 +3926,6 @@
       "eligibility": [
         "大四"
       ]
-    },
-    {
-      "platform": "104",
-      "title": "MINI D南區/中北區-實習督導",
-      "company": "多那之國際股份有限公司",
-      "location": "高雄市三民區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/80w9t",
-      "description": "1.負責管理指定區域內各門店營運環境及人員操作檢核管理及輔導 \n2.監督和支援所屬門市營運業績管理輔導 ，確保門市端遵循公司政策和流程，達成業績目標\n3.協助門店開幕相關事宜並招聘、培訓和管理區域內的人員教育訓練，包括人工成本、設備 \n   維護費用和庫存管理\n4.定期向總公司提交營運報告，區域業績、參與會議討論。\n5.維護及確保所屬的門市遵循食品安全和衛生標準，並定期檢查和評估來保證公司品質。\n",
-      "category": "education",
-      "first_seen": "2026-08-10",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -4128,6 +4178,26 @@
       "deadline": "",
       "skills": [
         "日文"
+      ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "資訊助理【可配合學生實習】",
+      "company": "臺北市私立高偉文理短期補習班",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/7c3kc",
+      "description": "主要工作內容：\n\n1. 協助本班資訊工作推動\n2. 協助本班電腦硬體維護\n3. 會撰寫 python .net c# 懂網頁設計邏輯\n4. 其它交辦工作\n\n\n〝本班工作環境好、氣氛佳〞\n只要您有心，大家都很歡迎您加入哦！\n※上班時間，周一至周五為1730~2300，例假日分早晚班。\n\n跟我們一起工作，\n學生跟家長的回饋會讓您每天都充滿能量。\n\n\n\n",
+      "category": "operations",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [
+        "Python"
       ],
       "eligibility": []
     },
@@ -4391,27 +4461,6 @@
     },
     {
       "platform": "104",
-      "title": "【實習/工讀】AFTEK行政文書",
-      "company": "南寶樹脂化學工廠股份有限公司",
-      "location": "台北市內湖區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/8hwjd",
-      "description": "【工作內容】\n1、協助文件整理、資料建檔與歸檔（紙本／數位）。\n2、協助處理行政作業：表單填寫、資料彙整、會議準備。\n3、協助收發郵件、公文與一般文書處理（影印、掃描、列印）。\n4、協助物品管理與環境維護（耗材盤點、領用紀錄）。\n5、協助主管交辦事項，如資料查詢、簡易報表整理等。\n6、其他行政支援相關工作。\n\n【技能要求】\n# 基本文書能力，熟悉 Word、Excel、PowerPoint。\n# ",
-      "category": "operations",
-      "first_seen": "2026-06-03",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [
-        "Excel",
-        "PowerPoint"
-      ],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
       "title": "實習律師",
       "company": "德久法律事務所",
       "location": "台北市中正區",
@@ -4576,6 +4625,42 @@
       "skills": [
         "日文"
       ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "得耀法律事務所",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-01",
+      "url": "https://www.104.com.tw/job/7j1y3",
+      "description": "1.辦理一般民事訴訟、刑事訴訟案件\n2.辦理行政訴訟及非訟相關案件\n3.辦理政府採購相關案件\n4.政府採購議題研究\n5.回覆法律問題並提供法律意見\n6.法案研究\n7.出席政府機關之會議\n8.其他交辦事宜",
+      "category": "legal",
+      "first_seen": "2026-07-22",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "常欣法律事務所",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-08-31",
+      "url": "https://www.104.com.tw/job/7vfgr",
+      "description": "1.參與所內律師與當事人之會議，解決、分析當事人之法律問題。\n2.協助撰寫訴狀及撰擬、審閱契約。\n3.學習開庭程序之進行。\n4.協助處理所內律師交辦之法律相關事務及法律問題之研究。",
+      "category": "legal",
+      "first_seen": "2026-08-27",
+      "last_seen": "2026-09-01",
+      "deadline": "",
+      "skills": [],
       "eligibility": []
     },
     {
@@ -4813,24 +4898,6 @@
       "eligibility": [
         "大四"
       ]
-    },
-    {
-      "platform": "104",
-      "title": "(平假日兼職)HSR/STN/MCY房務部-房務人員-歡迎學生打工實習",
-      "company": "鼎弋實業股份有限公司",
-      "location": "台中市中區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/7xpgy",
-      "description": "1.\t客房清潔及保養作業、備品補充。 \n2.\t大廳、營業場所、電梯、客廁等公共區域清潔保養作業。 \n3.　 客用消耗品數量統計。\n4.\t其他主管日常交辦事項。\n5.\t無經驗可、提供完整訓練。\n6.\t具飯店房務經驗者優先錄取。 \n7.\t耗費體力工作，無誠勿試。\n8.\t另有超房獎金制度，歡迎加入。\n\n※上班時間：週一~週五  09:00~16:00（中午休息一小時） 時薪196\n           ",
-      "category": "hospitality",
-      "first_seen": "2026-06-30",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -5449,66 +5516,6 @@
       "description": "動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！\n",
       "category": "other",
       "first_seen": "2026-06-05",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大二"
-      ]
-    },
-    {
-      "platform": "104",
-      "title": "【2nd STREET日本最大二手店】南港店-門市兼職人員(可配合學生實習)",
-      "company": "2ndSTREET_台灣極沃股份有限公司",
-      "location": "台北市南港區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/7d9ek",
-      "description": "動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！\n",
-      "category": "other",
-      "first_seen": "2026-06-05",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大二"
-      ]
-    },
-    {
-      "platform": "104",
-      "title": "【2nd STREET日本最大二手店】新光三越台南中山店-門市兼職人員(可配合學生實習)",
-      "company": "2ndSTREET_台灣極沃股份有限公司",
-      "location": "台南市中西區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/89b3q",
-      "description": "喜愛與人互動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！",
-      "category": "other",
-      "first_seen": "2026-05-13",
-      "last_seen": "2026-09-01",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大二"
-      ]
-    },
-    {
-      "platform": "104",
-      "title": "【2nd STREET日本最大二手店】台北西門漢中店-門市兼職人員(可配合學生實習)",
-      "company": "2ndSTREET_台灣極沃股份有限公司",
-      "location": "台北市萬華區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-01",
-      "url": "https://www.104.com.tw/job/865nd",
-      "description": "喜愛與人互動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！",
-      "category": "other",
-      "first_seen": "2026-07-28",
       "last_seen": "2026-09-01",
       "deadline": "",
       "skills": [],
