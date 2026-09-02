@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-09-02T10:15:45+00:00</updated>
+  <updated>2026-09-02T15:41:42+00:00</updated>
   <entry>
     <title>人力資源實習生 HR Intern · 優式資本 UC Capital</title>
     <id>https://www.yourator.co/companies/UCCapital/jobs/48188</id>
@@ -21,6 +21,14 @@
     <updated>2026-09-02T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：台北市中山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>人形機器人 AI 實習生 (Robotics AI Intern) · 圖策科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/95i62</id>
+    <link href="https://www.104.com.tw/job/95i62" />
+    <updated>2026-09-02T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市中正區 · 平台：104</summary>
   </entry>
   <entry>
     <title>【AI實習工程師 AI Developer Intern】 · 飛德科技有限公司</title>
@@ -47,22 +55,6 @@
     <summary>地點：台南市六甲區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>工研院資通所_機器人系統基礎架構與平台維運實習生(U207，工作地點: 新竹竹東/台南六甲) · 工研院 _財團法人工業技術研究院</title>
-    <id>https://www.104.com.tw/job/9598z</id>
-    <link href="https://www.104.com.tw/job/9598z" />
-    <updated>2026-09-02T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台南市六甲區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>工研院資通所_AMR載具動線調度分析實習生(U204) · 工研院 _財團法人工業技術研究院</title>
-    <id>https://www.104.com.tw/job/9598w</id>
-    <link href="https://www.104.com.tw/job/9598w" />
-    <updated>2026-09-02T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：新竹縣竹東鎮 · 平台：104</summary>
-  </entry>
-  <entry>
     <title>【實習計畫】智金實習生（請至官網投遞，10月05日收件截止） · 玉山銀行_玉山商業銀行股份有限公司</title>
     <id>https://www.104.com.tw/job/9574x</id>
     <link href="https://www.104.com.tw/job/9574x" />
@@ -71,12 +63,12 @@
     <summary>地點：台北市松山區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>工研院資通所_機器人控制策略模型訓練實習生(U203，工作地點: 新竹竹東/台南六甲) · 工研院 _財團法人工業技術研究院</title>
-    <id>https://www.104.com.tw/job/9598v</id>
-    <link href="https://www.104.com.tw/job/9598v" />
+    <title>【長期實習】影片剪輯人員 · 飛捷科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/8qr1w</id>
+    <link href="https://www.104.com.tw/job/8qr1w" />
     <updated>2026-09-02T00:00:00+08:00</updated>
-    <category term="consulting" />
-    <summary>地點：台南市六甲區 · 平台：104</summary>
+    <category term="content" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
   </entry>
   <entry>
     <title>實習生(台中所) · 信永中和聯合會計師事務所</title>
@@ -101,6 +93,14 @@
     <updated>2026-09-02T00:00:00+08:00</updated>
     <category term="content" />
     <summary>地點：台北市中正區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>！New新展店【日商 丸亀製麵】Focus台南店-長期工讀生｜實習｜彈性排班｜開店獎金 · 丸亀製麵、長田本庄軒_台灣東利多股份有限公司成功店</title>
+    <id>https://www.104.com.tw/job/95i3j</id>
+    <link href="https://www.104.com.tw/job/95i3j" />
+    <updated>2026-09-02T00:00:00+08:00</updated>
+    <category term="content" />
+    <summary>地點：台南市中西區 · 平台：104</summary>
   </entry>
   <entry>
     <title>！New新展店【日商 丸亀製麵】Focus台南店-長期兼職夥伴｜工讀生｜實習｜彈性排班｜開店獎金 · 丸亀製麵、長田本庄軒_台灣東利多股份有限公司</title>
@@ -199,6 +199,22 @@
     <summary>地點：台北市信義區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>資管工讀生／實習生｜大四生可｜一起累積你的 IT 實戰經驗 (週一~週五皆需上班) · 明緯企業股份有限公司</title>
+    <id>https://www.104.com.tw/job/95i4f</id>
+    <link href="https://www.104.com.tw/job/95i4f" />
+    <updated>2026-09-02T00:00:00+08:00</updated>
+    <category term="other" />
+    <summary>地點：新北市五股區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>材料分析實習生（學期制/學年制） · 先鋒材料科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/95i4x</id>
+    <link href="https://www.104.com.tw/job/95i4x" />
+    <updated>2026-09-02T00:00:00+08:00</updated>
+    <category term="other" />
+    <summary>地點：新北市五股區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>工研院資通所_機器人控制整合實習生(U206，工作地點: 新竹竹東/台南六甲) · 工研院 _財團法人工業技術研究院</title>
     <id>https://www.104.com.tw/job/9598y</id>
     <link href="https://www.104.com.tw/job/9598y" />
@@ -215,14 +231,6 @@
     <summary>地點：新竹縣竹東鎮 · 平台：104</summary>
   </entry>
   <entry>
-    <title>[一年期實習] JR0286422 Solution Enabling Engineer (1 Year Internship) · Intel_美商英特爾亞太科技有限公司台灣分公司</title>
-    <id>https://www.104.com.tw/job/95dui</id>
-    <link href="https://www.104.com.tw/job/95dui" />
-    <updated>2026-08-31T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台北市南港區 · 平台：104</summary>
-  </entry>
-  <entry>
     <title>【行銷】行政助理/實習生 (約聘一年期) · PChome Online 網路家庭</title>
     <id>https://www.yourator.co/companies/PChome/jobs/48129</id>
     <link href="https://www.yourator.co/companies/PChome/jobs/48129" />
@@ -237,13 +245,5 @@
     <updated>2026-08-27T00:00:00+08:00</updated>
     <category term="education" />
     <summary>薪資：NT$ 200 - 400 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>【2027產學實習】PE助理工程師_台灣區製造本部 · 台達電子工業股份有限公司 _DELTA ELECTRONICS INC.</title>
-    <id>https://www.104.com.tw/job/958mq</id>
-    <link href="https://www.104.com.tw/job/958mq" />
-    <updated>2026-08-26T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：桃園市中壢區 · 平台：104</summary>
   </entry>
 </feed>
