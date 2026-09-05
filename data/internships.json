@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T09:42:32",
+  "generated_at": "2026-09-05T14:17:43",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 102,
-    "new_today": 3,
+    "total": 110,
+    "new_today": 0,
     "by_platform": {
-      "104": 51,
+      "104": 59,
       "CakeResume": 0,
       "Yourator": 51
     }
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 16
+      "count": 19
     },
     {
       "key": "content",
@@ -126,14 +126,14 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 13
+      "count": 16
     },
     {
       "key": "legal",
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 1
+      "count": 2
     },
     {
       "key": "manufacturing",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 13
+      "count": 14
     }
   ],
   "jobs": [
@@ -830,6 +830,24 @@
     },
     {
       "platform": "104",
+      "title": "法律實習生 / 工讀生（台中所）",
+      "company": "方日法律事務所",
+      "location": "台中市西區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-05",
+      "url": "https://www.104.com.tw/job/8sh3q",
+      "description": "我們在找一位能一起長期合作的夥伴\n如果你是正在尋找一份能穩定成長的工讀機會\n喜歡在友善又有制度的環境中工作\n也希望自己的努力能真正被看見\n那麼我們很期待認識你\n\n【我們在找這樣的你】\n你喜歡跟人溝通交流、也願意耐心聽完對方的故事，能在對方慌張、焦慮的時候，先幫他把狀況理一理、看見下一步怎麼走。你對法律有基本概念，懂得分辨事情的重點，比起埋頭寫書狀，你更享受「站在第一線」陪伴當事人、幫他找到合適的解",
+      "category": "marketing",
+      "first_seen": "2026-05-22",
+      "last_seen": "2026-09-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "品牌門市實習生／工讀生 PT｜台中南屯",
       "company": "誠繹國際企業有限公司",
       "location": "台中市南屯區",
@@ -859,6 +877,42 @@
       "description": "我們正在尋找對設計、品牌及精品家居產業有興趣的工讀／實習夥伴。\n\n工作內容將接觸國際精品燈具品牌、門市服務、官網內容維護及產品資料整理，適合希望累積品牌、設計產業或電商營運實務經驗的學生。\n\n無相關工作經驗亦可，我們更重視細心、責任感與學習態度。",
       "category": "marketing",
       "first_seen": "2026-08-20",
+      "last_seen": "2026-09-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "家居品牌 產品設計實習生",
+      "company": "富川創造股份有限公司",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-05",
+      "url": "https://www.104.com.tw/job/7nznq",
+      "description": "3D 軟體實作、Facebook／Google 廣告行銷投放、社群經營操作\n\n【實習時間及待遇】\n實習時間依個人時間規劃每週至少 12 hr；待遇 200 元／hr，會有定期的工作檢視，後續以職涯規劃跟表現評估轉為長期實習、外部支援或全職工作，此部",
+      "category": "marketing",
+      "first_seen": "2026-04-29",
+      "last_seen": "2026-09-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "家居品牌 平面設計實習生",
+      "company": "富川創造股份有限公司",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-05",
+      "url": "https://www.104.com.tw/job/7nu3r",
+      "description": "Google 廣告行銷投放、社群經營操作\n\n【實習時間及待遇】\n實習時間依個人時間規劃每週至少 12 hr；待遇 200 元／hr，會有定期的工作檢視，後續以職涯規劃跟表現評估轉為長期實習、外部支援或全職工作，此部分我們保持開放的態度！\n\n【申請方式】",
+      "category": "marketing",
+      "first_seen": "2026-04-29",
       "last_seen": "2026-09-05",
       "deadline": "",
       "skills": [],
@@ -1628,6 +1682,60 @@
     },
     {
       "platform": "104",
+      "title": "髮型實習師/助理 (台北仁愛圓環)",
+      "company": "in% Hair Salon_映忠孝美髮造型社",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-05",
+      "url": "https://www.104.com.tw/job/6t0gj",
+      "description": "我們希望能夠招募更多一起前進的夥伴，在 IN PERCENT，學歷不是重點，只要不斷學習，就能擁有進步的力量，我們有相當多元且完整的資源能夠協助你達到目標，提供適度的空間與時間，讓每一位夥伴都能自主規劃未來的發展，希望有相同理念的你，不怕吃苦、正向善良的你，加入我們，也歡迎想了解詳情的你，與我們聯絡。\n\n\n◆ 工作內容：\n1. 接待、協助設計師共同服務顧客。 \n2. 溝通能力、提升技術實務經驗。\n",
+      "category": "operations",
+      "first_seen": "2026-07-31",
+      "last_seen": "2026-09-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "髮型實習師/助理 (台北忠孝敦化)",
+      "company": "in% Hair Salon_映忠孝美髮造型社",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-05",
+      "url": "https://www.104.com.tw/job/6t0g0",
+      "description": "我們希望能夠招募更多一起前進的夥伴，在 IN PERCENT，學歷不是重點，只要不斷學習，就能擁有進步的力量，我們有相當多元且完整的資源能夠協助你達到目標，提供適度的空間與時間，讓每一位夥伴都能自主規劃未來的發展，希望有相同理念的你，不怕吃苦、正向善良的你，加入我們，也歡迎想了解詳情的你，與我們聯絡。\n\n\n◆ 工作內容：\n1. 接待、協助設計師共同服務顧客。 \n2. 溝通能力、提升技術實務經驗。\n",
+      "category": "operations",
+      "first_seen": "2026-06-06",
+      "last_seen": "2026-09-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "髮型實習師/助理 (台北忠孝復興)",
+      "company": "in% Hair Salon_映忠孝美髮造型社",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-05",
+      "url": "https://www.104.com.tw/job/7m0o2",
+      "description": "我們希望能夠招募更多一起前進的夥伴，在 ZIN，學歷不是重點，只要不斷學習，就能擁有進步的力量，我們有相當多元且完整的資源能夠協助你達到目標，提供適度的空間與時間，讓每一位夥伴都能自主規劃未來的發展，希望有相同理念的你，不怕吃苦、正向善良的你，加入我們，也歡迎想了解詳情的你，與我們聯絡。\n\n\n◆ 工作內容：\n1. 接待、協助設計師共同服務顧客。 \n2. 溝通能力、提升技術實務經驗。\n3. 洗髮、共",
+      "category": "operations",
+      "first_seen": "2026-06-06",
+      "last_seen": "2026-09-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【鈴鹿賽道樂園】遊樂設施/餐車-長期工讀/假日工讀/實習生",
       "company": "SKM Park Outlets_大魯閣開發股份有限公司高雄分公司",
       "location": "高雄市前鎮區",
@@ -1646,20 +1754,40 @@
     },
     {
       "platform": "104",
-      "title": "實習律師",
-      "company": "圓矩法律事務所",
-      "location": "台北市中正區",
+      "title": "實習律師（台中所）",
+      "company": "方日法律事務所",
+      "location": "台中市西區",
       "salary": "",
       "salary_min": null,
       "salary_type": "unknown",
-      "posted_at": "2026-09-03",
-      "url": "https://www.104.com.tw/job/7nim5",
-      "description": "圓矩法律事務所【#實習律師】徵才，誠摯邀請您加入\n\n圓矩法律事務所，由擁有台美頂尖法學院背景之青壯年律師共同組成，兼具訴訟與非訟案源，每人都將自己法學知識與經驗注入在法律實踐中。我們期待能透過實習律師找到長久合作的夥伴。 \n\n▶ 多元案件\n我們提",
+      "posted_at": "2026-09-05",
+      "url": "https://www.104.com.tw/job/8oify",
+      "description": "與理解，那麼，我們正在找的，也許就是你。\n\n【你會參與的工作內容】：\n\n我們重視每一位實習夥伴的成長，這不只是輔助性的職務，而是一段被信任、被培養的實務旅程。在日常中，你會參與：\n\n＊法律文書草擬與資料準備（起訴狀、答辯狀、意見書等）\n\n＊判決與法",
+      "category": "legal",
+      "first_seen": "2026-05-29",
+      "last_seen": "2026-09-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "尚澄法律事務所",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-05",
+      "url": "https://www.104.com.tw/job/74n8j",
+      "description": "工作內容：\n1、協助處理民、刑事訴訟案件、行政訴訟以及提供法律建議與諮詢服務。\n2、撰擬、修改合約及相關法律文件。\n3、陪同律師開庭見習、與當事人開會。\n\n如果您具備以下條件，我們將熱切歡迎您的加入：\n1、具備中、英文語言能力（本所有很多涉外案件），其他第二外國語是加分項目。\n2、熟悉 MS Office 、 Google Workplace 等基本電腦操作。",
       "category": "legal",
       "first_seen": "2026-05-06",
       "last_seen": "2026-09-05",
       "deadline": "",
-      "skills": [],
+      "skills": [
+        "英文"
+      ],
       "eligibility": []
     },
     {
@@ -1981,6 +2109,24 @@
       "description": "[2026暑期實習計畫－優先獲得畢業預聘機會]托育人員實習\n我們正在尋找對幼托工作有興趣，具工作熱忱、認真負責特質之實習生，您有機會參與實習工作，獲得實務學習經驗與職場接軌，有助於您專業的養成。 \n歡迎以畢業後轉正職為培訓目標的學生，一年期/半年",
       "category": "other",
       "first_seen": "2026-05-08",
+      "last_seen": "2026-09-05",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "2026_實習計劃",
+      "company": "一嵎藝術有限公司",
+      "location": "桃園市蘆竹區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-05",
+      "url": "https://www.104.com.tw/job/8r0ba",
+      "description": "JOIN US！成為 YioO Studio 的實習生 \n讓美感成為你生活的一部分，從這裡開始！\n\n如果你對「美」有感覺，喜歡接觸漂亮的空間、用影像與擺設說故事，\n歡迎加入 YioO Studio，透過實習親身體驗業界日常，提早感受設計與影像的魅",
+      "category": "other",
+      "first_seen": "2026-04-26",
       "last_seen": "2026-09-05",
       "deadline": "",
       "skills": [],

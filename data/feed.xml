@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-09-05T09:42:32+00:00</updated>
+  <updated>2026-09-05T14:17:43+00:00</updated>
   <entry>
     <title>財務部_企業實習/工讀生 · 牧德科技股份有限公司</title>
     <id>https://www.104.com.tw/job/7njt3</id>
@@ -143,6 +143,14 @@
     <summary>地點：新竹縣湖口鄉 · 平台：104</summary>
   </entry>
   <entry>
+    <title>髮型實習師/助理 (台北仁愛圓環) · in% Hair Salon_映忠孝美髮造型社</title>
+    <id>https://www.104.com.tw/job/6t0gj</id>
+    <link href="https://www.104.com.tw/job/6t0gj" />
+    <updated>2026-07-31T00:00:00+08:00</updated>
+    <category term="operations" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>行政總務實習生 · 優式資本 UC Capital</title>
     <id>https://www.yourator.co/companies/UCCapital/jobs/47882</id>
     <link href="https://www.yourator.co/companies/UCCapital/jobs/47882" />
@@ -237,13 +245,5 @@
     <updated>2026-06-06T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：新北市新莊區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>專案管理實習生（Project Management / PM intern） · Lawsnote</title>
-    <id>https://www.yourator.co/companies/lawsnote/jobs/43702</id>
-    <link href="https://www.yourator.co/companies/lawsnote/jobs/43702" />
-    <updated>2026-06-05T00:00:00+08:00</updated>
-    <category term="operations" />
-    <summary>薪資：NT$ 190 -  (時薪) · 地點：新北市 · 平台：Yourator</summary>
   </entry>
 </feed>
