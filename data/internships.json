@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T05:32:09",
+  "generated_at": "2026-09-06T09:57:49",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 83,
-    "new_today": 3,
+    "total": 96,
+    "new_today": 2,
     "by_platform": {
-      "104": 32,
+      "104": 45,
       "CakeResume": 0,
       "Yourator": 51
     }
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 6
+      "count": 7
     },
     {
       "key": "consulting",
@@ -77,28 +77,28 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 14
+      "count": 15
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 2
+      "count": 4
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 1
+      "count": 2
     },
     {
       "key": "design",
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 0
+      "count": 1
     },
     {
       "key": "hr",
@@ -119,7 +119,7 @@
       "label": "教育／輔導",
       "emoji": "📚",
       "color": "#0891b2",
-      "count": 1
+      "count": 3
     },
     {
       "key": "operations",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 6
+      "count": 8
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 12
+      "count": 15
     }
   ],
   "jobs": [
@@ -246,14 +246,14 @@
     },
     {
       "platform": "Yourator",
-      "title": "【實習生專區】-雲端系統實習生｜完整培訓＋實務經驗＋優先轉正機會",
+      "title": "【實習生專區】-雲端產品實習生｜完整培訓＋實務經驗＋優先轉正機會",
       "company": "人工智能股份有限公司",
       "location": "臺北市",
       "salary": "NT$ 200 -  (時薪)",
       "salary_min": 35200,
       "salary_type": "hourly",
       "posted_at": "",
-      "url": "https://www.yourator.co/companies/8d8a33fc/jobs/47371",
+      "url": "https://www.yourator.co/companies/8d8a33fc/jobs/47372",
       "description": "",
       "category": "tech",
       "first_seen": "2026-05-05",
@@ -264,14 +264,14 @@
     },
     {
       "platform": "Yourator",
-      "title": "【實習生專區】-雲端產品實習生｜完整培訓＋實務經驗＋優先轉正機會",
+      "title": "【實習生專區】-雲端系統實習生｜完整培訓＋實務經驗＋優先轉正機會",
       "company": "人工智能股份有限公司",
       "location": "臺北市",
       "salary": "NT$ 200 -  (時薪)",
       "salary_min": 35200,
       "salary_type": "hourly",
       "posted_at": "",
-      "url": "https://www.yourator.co/companies/8d8a33fc/jobs/47372",
+      "url": "https://www.yourator.co/companies/8d8a33fc/jobs/47371",
       "description": "",
       "category": "tech",
       "first_seen": "2026-05-05",
@@ -571,6 +571,24 @@
       "description": "finance / Accounting",
       "category": "finance",
       "first_seen": "2026-05-14",
+      "last_seen": "2026-09-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "暑期實習/學生實習",
+      "company": "木合空間制作_元初設計室內裝修有限公司",
+      "location": "高雄市鳳山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-06",
+      "url": "https://www.104.com.tw/job/8prnl",
+      "description": "1. 協助公司文件之建檔、管理。\n2. 負責郵件及內部文件之收發。\n3. 協助處理庶務性行政工作（如：文具用品採買）。\n4. 負責外出送件、物件寄送及簡易銀行業務處理。\n5. 負責電話接聽及顧客問題解答。\n6. 支援會議行政工作（如：會議前置茶水準備）。\n7. 負責辦公室環境與設備之清潔與維護。\n8. 支援各部門的業務及活動。\n",
+      "category": "finance",
+      "first_seen": "2026-04-25",
       "last_seen": "2026-09-06",
       "deadline": "",
       "skills": [],
@@ -908,6 +926,24 @@
     },
     {
       "platform": "104",
+      "title": "數位廣告工讀生／實習生",
+      "company": "呈鈺顧問股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-06",
+      "url": "https://www.104.com.tw/job/92mdp",
+      "description": "AI工具輔助工作流程，培養未來必備的AI應用技能\n\n我們深知在職生的時間寶貴，特別提供彈性安排：\n- 彈性時間：每週至少 3 天，需於週一固定排班，可配合你的工作時程每天至少4小時安排\n- 合理薪資：時薪200 元，實習也有應得報酬與時數簽核\n-",
+      "category": "marketing",
+      "first_seen": "2026-06-11",
+      "last_seen": "2026-09-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【AI行銷新創實習】用行政視角，開拓未來的行銷之路_一週排班2~3天_ 需願意配合至少半年 @ 市府站_KK",
       "company": "新加坡商立福人事顧問有限公司台灣分公司",
       "location": "台北市信義區",
@@ -962,6 +998,42 @@
     },
     {
       "platform": "104",
+      "title": "【校外實習】九九峰園區 實習生 (半年/一年)",
+      "company": "薰衣草森林股份有限公司",
+      "location": "南投縣草屯鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-06",
+      "url": "https://www.104.com.tw/job/8smor",
+      "description": "薰衣草森林實習生歡迎您來報名唷~\n目前我們提供以下半年/一年制至職場的實習機會，\n工作的內容包含【園區體驗服務員、餐廳接待服務員、吧檯飲料魔法師、\n商品分享員、售票服務員】，畢業後也可以銜接就業，歡迎您的加入~!\n\n實習待遇福利：\n☆實習津貼優於",
+      "category": "content",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-09-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習生(大專院校實習生專區)",
+      "company": "日暉池上股份有限公司",
+      "location": "台東縣池上鄉",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-06",
+      "url": "https://www.104.com.tw/job/8w4n5",
+      "description": "【實習部門與工作內容】\n餐飲部-餐飲服務員：餐飲外場服務工作\n房務部-房務員：整理房間\n休閒部-活動指導員：帶領活動及器材租借管理\n\n【實習期間】半年期或一年期\n\n【報名須知】投遞104履歷，請在104的「自我推薦區」說明實習部門與實習期間，將有",
+      "category": "content",
+      "first_seen": "2026-04-30",
+      "last_seen": "2026-09-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習直播經紀人《兼職可》",
       "company": "愛音文創有限公司",
       "location": "台北市大安區",
@@ -995,6 +1067,46 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "PORTER INTERNATIONAL_台南區域銷售助理",
+      "company": "PORTER INTERNATIONAL_尚立國際股份有限公司",
+      "location": "台南市中西區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-06",
+      "url": "https://www.104.com.tw/job/7usis",
+      "description": "尋找對時尚流行有高敏銳度的你！\nPORTER INTERNATIONAL品牌的愛用者並能完整傳達製包理念:簡約、品質、實用、驚喜、細節！歡迎加入銷售團隊，成為我們的品牌大使！\n\n◆排班制度\n1. 彈性工時，可提前排訂次月上班時間\n2. 歡迎二度就業及應屆畢業生提前就業\n\n◆晉升管道\n1. 達規定工作時數及經過考核，時薪調整為$196~$215\n2. 根據工作狀況及意願優先培訓為正職人員\n\n◆資深銷",
+      "category": "bd_sales",
+      "first_seen": "2026-09-06",
+      "last_seen": "2026-09-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "應屆"
+      ]
+    },
+    {
+      "platform": "104",
+      "title": "學期插畫美編實習生（限在學生，絕大部分時間遠端實習）",
+      "company": "韋伯文化國際出版有限公司",
+      "location": "新北市永和區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-06",
+      "url": "https://www.104.com.tw/job/8iblx",
+      "description": "請特別注意此職缺非計時工讀也非按件包案，而是教育學習性質的實習生，實習結束是採頒發獎學金制和實習證書。必須附插畫作品（手繪作品為主），才可以應徵。應徵者對此職缺意志或意願要很堅決才投履歷，保證一定滿載而歸：\n\n本社成立於一九九八年，原為學術出版社",
+      "category": "design",
+      "first_seen": "2026-09-06",
+      "last_seen": "2026-09-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "不限"
+      ]
     },
     {
       "platform": "Yourator",
@@ -1045,6 +1157,42 @@
       "description": "",
       "category": "education",
       "first_seen": "2026-08-27",
+      "last_seen": "2026-09-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "健身房教練/實習生（新竹可兼職）",
+      "company": "X Jumping新竹站前店_芙曜有限公司",
+      "location": "新竹縣新豐鄉",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-06",
+      "url": "https://www.104.com.tw/job/8s8mv",
+      "description": "你想要學習運動成為教練嗎？厭倦目前的工作想轉換環境嗎？ \n現在正在缺人手，我想徵健身業務.歡迎在職男女，年紀無上限. \n無經驗可有完整的培訓計畫. \n福利： \n可以在任何時間｛免費｝使用健身房所有設施現任教練專業教導你如何成為教練 \n免費團練課程上到飽 \n（重量訓練，TRX，拳擊有氧，肌力訓練，跳床有氧，ZUMBA，筋膜放鬆） \n論件計酬，而非一般工作/僱傭關係，平均一個月3萬以 \n上 \n上班時間",
+      "category": "education",
+      "first_seen": "2026-07-24",
+      "last_seen": "2026-09-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "健身房教練/實習生（新竹全職）",
+      "company": "X Jumping新竹站前店_芙曜有限公司",
+      "location": "新竹縣新豐鄉",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-06",
+      "url": "https://www.104.com.tw/job/8s8mu",
+      "description": "職務說明： \n你想要學習運動成為教練嗎？厭倦目前的工作想轉換環境嗎？ \n現在正在缺人手，我想徵健身業務.歡迎在職男女，年紀無上限. \n無經驗可有完整的培訓計畫. \n福利： \n可以在任何時間｛免費｝使用健身房所有設施現任教練專業教導你如何成為教練 \n免費團練課程上到飽 \n（重量訓練，TRX，拳擊有氧，肌力訓練，跳床有氧，ZUMBA，筋膜放鬆） \n論件計酬，而非一般工作/僱傭關係，平均一個月3萬以 \n",
+      "category": "education",
+      "first_seen": "2026-07-24",
       "last_seen": "2026-09-06",
       "deadline": "",
       "skills": [],
@@ -1448,6 +1596,24 @@
     },
     {
       "platform": "104",
+      "title": "餐飲服務生兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請--新莊店",
+      "company": "焼肉の名門 赤虎_浪漫街道股份有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-06",
+      "url": "https://www.104.com.tw/job/8unvy",
+      "description": "早班:開店業務.為客人點餐、送餐、整理桌面清潔等\n晚班:為客人點餐、送餐、整理桌面清潔等,閉店業務,清潔,刷鍋\n無經驗者(外籍人士(有工作證者))也歡迎~~\n享團保,任職滿5個月以上,享生日卷1000元\n當月排班滿151小時,當月時薪+10元\n\n歡迎在校學生、外國學生、兼職打工！ \n \n【調薪考核】累計工時達500小時，每半年考核調薪，最高時薪230元！ \n\n【工作時段】11:30~22:30（可",
+      "category": "hospitality",
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-09-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【實習生】澎湖福朋喜來登酒店 (一年期)",
       "company": "澎湖福朋喜來登酒店_佳朋開發股份有限公司",
       "location": "澎湖縣馬公市",
@@ -1465,18 +1631,18 @@
       "eligibility": []
     },
     {
-      "platform": "Yourator",
-      "title": "[實習生專區]-專案系統開發實習生｜完整培訓＋實務經驗＋優先轉正機會",
-      "company": "人工智能股份有限公司",
-      "location": "臺北市",
-      "salary": "NT$ 200 -  (時薪)",
-      "salary_min": 35200,
-      "salary_type": "hourly",
-      "posted_at": "",
-      "url": "https://www.yourator.co/companies/8d8a33fc/jobs/47374",
-      "description": "",
-      "category": "other",
-      "first_seen": "2026-05-05",
+      "platform": "104",
+      "title": "餐飲服務生兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請--內湖店",
+      "company": "焼肉の名門 赤虎_浪漫街道股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-06",
+      "url": "https://www.104.com.tw/job/7f2uk",
+      "description": "早班:開店業務.為客人點餐、送餐、整理桌面清潔等\n晚班:為客人點餐、送餐、整理桌面清潔等,閉店業務,清潔,刷鍋\n無經驗者(外籍人士(有工作證者))也歡迎~~\n享團保,任職滿5個月以上,享生日卷1000元\n當月排班滿151小時,當月時薪+10元\n\n歡迎在校學生、外國學生、兼職打工！ \n \n【調薪考核】累計工時達500小時，每半年考核調薪，最高時薪230元！ \n\n【工作時段】11:30~22:30（可",
+      "category": "hospitality",
+      "first_seen": "2026-07-17",
       "last_seen": "2026-09-06",
       "deadline": "",
       "skills": [],
@@ -1492,6 +1658,24 @@
       "salary_type": "hourly",
       "posted_at": "",
       "url": "https://www.yourator.co/companies/8d8a33fc/jobs/47375",
+      "description": "",
+      "category": "other",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-09-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "Yourator",
+      "title": "[實習生專區]-專案系統開發實習生｜完整培訓＋實務經驗＋優先轉正機會",
+      "company": "人工智能股份有限公司",
+      "location": "臺北市",
+      "salary": "NT$ 200 -  (時薪)",
+      "salary_min": 35200,
+      "salary_type": "hourly",
+      "posted_at": "",
+      "url": "https://www.yourator.co/companies/8d8a33fc/jobs/47374",
       "description": "",
       "category": "other",
       "first_seen": "2026-05-05",
@@ -1680,6 +1864,60 @@
       "description": "校外實習計畫",
       "category": "other",
       "first_seen": "2026-04-27",
+      "last_seen": "2026-09-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "餐廚助手兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請-新莊店",
+      "company": "焼肉の名門 赤虎_浪漫街道股份有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-06",
+      "url": "https://www.104.com.tw/job/6d7b4",
+      "description": "1.備料. 2.出餐. 洗碗. 清潔工作等\n\n\n無經驗者(外籍人士(有工作證者))也歡迎~~\n享團保,任職滿5個月以上,享生日卷1000元\n當約排班滿151小時,當月時薪+10元\n\n歡迎在校學生、外國學生、兼職打工！ \n \n【調薪考核】累計工時達500小時，每半年考核調薪，最高時薪230元！ \n\n【工作時段】10:00~21:30（可彈性排班4~8小時） \n\n【加班費】 \n\n*國定假日，時薪雙倍計",
+      "category": "other",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-09-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "餐廚助手兼職、工讀（時薪200起)可配合校外實習/協助外籍工作證申請-信義安和店",
+      "company": "焼肉の名門 赤虎_浪漫街道股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-06",
+      "url": "https://www.104.com.tw/job/7ybqc",
+      "description": "1.備料. 2.出餐. 洗碗. 清潔工作等\n\n\n無經驗者(外籍人士(有工作證者))也歡迎~~\n享團保,任職滿5個月以上,享生日卷1000元\n當約排班滿151小時,當月時薪+10元\n\n歡迎在校學生、外國學生、兼職打工！ \n \n【調薪考核】累計工時達500小時，每半年考核調薪，最高時薪230元！ \n\n【工作時段】10:00~21:30（可彈性排班4~8小時） \n\n【加班費】 \n\n*國定假日，時薪雙倍計",
+      "category": "other",
+      "first_seen": "2026-07-17",
+      "last_seen": "2026-09-06",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "餐廚助手兼職、工讀（時薪200起）可配合校外實習/協助外籍工作證申請-內湖店",
+      "company": "焼肉の名門 赤虎_浪漫街道股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-06",
+      "url": "https://www.104.com.tw/job/7fh63",
+      "description": "1.備料. 2.出餐. 洗碗. 清潔工作等\n\n\n無經驗者(外籍人士(有工作證者))也歡迎~~\n享團保,任職滿5個月以上,享生日卷1000元\n當月排班滿151小時,當月時薪+10元\n\n歡迎在校學生、外國學生、兼職打工！ \n \n【調薪考核】累計工時達500小時，每半年考核調薪，最高時薪230元！ \n\n【工作時段】10:00~21:30（可彈性排班4~8小時） \n\n【加班費】 \n\n*國定假日，時薪雙倍計",
+      "category": "other",
+      "first_seen": "2026-08-15",
       "last_seen": "2026-09-06",
       "deadline": "",
       "skills": [],
