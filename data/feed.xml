@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-09-07T05:42:54+00:00</updated>
+  <updated>2026-09-07T11:08:13+00:00</updated>
   <entry>
     <title>【實習專案】2027年實習生招募_製程實習工程師(歡迎大四同學應徵：學年實習) · 嘉晶電子股份有限公司</title>
     <id>https://www.104.com.tw/job/95mi5</id>
@@ -23,6 +23,14 @@
     <summary>地點：新竹市 · 平台：104</summary>
   </entry>
   <entry>
+    <title>【凱基銀行/資安部】2027企業實習_資安實習生 · 凱基金融控股股份有限公司|凱基證券|凱基銀行|中華開發資本|凱基投信</title>
+    <id>https://www.104.com.tw/job/95mqe</id>
+    <link href="https://www.104.com.tw/job/95mqe" />
+    <updated>2026-09-07T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市南港區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>軟體工程師 (實習) Software Engineer Intern（非短期寒暑假實習） · 玩美行動股份有限公司</title>
     <id>https://www.104.com.tw/job/95m3j</id>
     <link href="https://www.104.com.tw/job/95m3j" />
@@ -31,12 +39,60 @@
     <summary>地點：台北市內湖區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>n8n自動化實習生 · 零一成長行銷有限公司</title>
+    <id>https://www.104.com.tw/job/8y0g7</id>
+    <link href="https://www.104.com.tw/job/8y0g7" />
+    <updated>2026-09-07T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市中正區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>【車用領域 未來之星實習計畫】歡迎大三以上在學生加入 · 神達電腦股份有限公司</title>
     <id>https://www.104.com.tw/job/8rbnt</id>
     <link href="https://www.104.com.tw/job/8rbnt" />
     <updated>2026-09-07T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：桃園市龜山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>《實習》財富金融處-保險行政實習生 · 永豐商業銀行股份有限公司</title>
+    <id>https://www.104.com.tw/job/95nag</id>
+    <link href="https://www.104.com.tw/job/95nag" />
+    <updated>2026-09-07T00:00:00+08:00</updated>
+    <category term="finance" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【凱基銀行/金融科技處】2027企業實習_AI創新應用實習生 · 凱基金融控股股份有限公司|凱基證券|凱基銀行|中華開發資本|凱基投信</title>
+    <id>https://www.104.com.tw/job/95mq6</id>
+    <link href="https://www.104.com.tw/job/95mq6" />
+    <updated>2026-09-07T00:00:00+08:00</updated>
+    <category term="finance" />
+    <summary>地點：台北市松山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【凱基銀行/人力資源處】2027企業實習_招募與員工體驗實習生 · 凱基金融控股股份有限公司|凱基證券|凱基銀行|中華開發資本|凱基投信</title>
+    <id>https://www.104.com.tw/job/95mrd</id>
+    <link href="https://www.104.com.tw/job/95mrd" />
+    <updated>2026-09-07T00:00:00+08:00</updated>
+    <category term="finance" />
+    <summary>地點：台北市松山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【凱基銀行/財務管理處】2027企業實習_財務分析實習生 · 凱基金融控股股份有限公司|凱基證券|凱基銀行|中華開發資本|凱基投信</title>
+    <id>https://www.104.com.tw/job/95mqq</id>
+    <link href="https://www.104.com.tw/job/95mqq" />
+    <updated>2026-09-07T00:00:00+08:00</updated>
+    <category term="finance" />
+    <summary>地點：台北市松山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【凱基銀行/人力資源處】2027企業實習_人資數位化與流程自動化實習生 · 凱基金融控股股份有限公司|凱基證券|凱基銀行|中華開發資本|凱基投信</title>
+    <id>https://www.104.com.tw/job/95mrn</id>
+    <link href="https://www.104.com.tw/job/95mrn" />
+    <updated>2026-09-07T00:00:00+08:00</updated>
+    <category term="finance" />
+    <summary>地點：台北市松山區 · 平台：104</summary>
   </entry>
   <entry>
     <title>LI-外商金融機構-Operation(實習經驗可/高業證照/抗壓性高) · 新加坡商立可人事顧問有限公司台灣分公司</title>
@@ -55,6 +111,22 @@
     <summary>地點：台北市信義區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>菁英實習T-Start品牌星勢力｜MT儲備幹部銷售新星養成計畫 · 黛安芬國際股份有限公司</title>
+    <id>https://www.104.com.tw/job/8v8vy</id>
+    <link href="https://www.104.com.tw/job/8v8vy" />
+    <updated>2026-09-07T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：新北市中和區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>內容文案實習生｜SEO 文章與社群內容(實習生） · 零一成長行銷有限公司</title>
+    <id>https://www.104.com.tw/job/8y0bl</id>
+    <link href="https://www.104.com.tw/job/8y0bl" />
+    <updated>2026-09-07T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台北市中正區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>【晶華麗晶店】實習店長**獎金抽成另計** · 采采食茶文化國際股份有限公司</title>
     <id>https://www.104.com.tw/job/95m5u</id>
     <link href="https://www.104.com.tw/job/95m5u" />
@@ -63,19 +135,35 @@
     <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>【日商-丸亀製麵】高雄大樂購物中心店-長期兼職夥伴｜工讀生｜實習｜彈性排班｜ · 丸亀製麵、長田本庄軒_台灣東利多股份有限公司</title>
-    <id>https://www.104.com.tw/job/6puzn</id>
-    <link href="https://www.104.com.tw/job/6puzn" />
-    <updated>2026-09-07T00:00:00+08:00</updated>
-    <category term="content" />
-    <summary>地點：高雄市三民區 · 平台：104</summary>
-  </entry>
-  <entry>
     <title>【2026年學期實習】業務品質分析實習生 · (總公司)南山人壽保險股份有限公司</title>
     <id>https://www.104.com.tw/job/95mai</id>
     <link href="https://www.104.com.tw/job/95mai" />
     <updated>2026-09-07T00:00:00+08:00</updated>
     <category term="bd_sales" />
+    <summary>地點：台北市信義區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【德商DHL】HQ -  人力資源部門實習生 HR Intern · DHL_台灣敦豪供應鏈股份有限公司</title>
+    <id>https://www.104.com.tw/job/7br8t</id>
+    <link href="https://www.104.com.tw/job/7br8t" />
+    <updated>2026-09-07T00:00:00+08:00</updated>
+    <category term="hr" />
+    <summary>地點：新北市三重區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【台中】人資招募實習生 · 智生活科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/95mtt</id>
+    <link href="https://www.104.com.tw/job/95mtt" />
+    <updated>2026-09-07T00:00:00+08:00</updated>
+    <category term="hr" />
+    <summary>地點：台中市北區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>稅務部-日商服務(外人聘僱/稅務申報)-實習生 · 勤業眾信聯合會計師事務所</title>
+    <id>https://www.104.com.tw/job/8iwbb</id>
+    <link href="https://www.104.com.tw/job/8iwbb" />
+    <updated>2026-09-07T00:00:00+08:00</updated>
+    <category term="accounting" />
     <summary>地點：台北市信義區 · 平台：104</summary>
   </entry>
   <entry>
@@ -95,12 +183,20 @@
     <summary>地點：台北市內湖區 · 平台：104</summary>
   </entry>
   <entry>
-    <title>【34200元起】五鮮級彰化溪湖店-晚班實習正職人員 · 五鮮級平價鍋物_五鮮級國際餐飲股份有限公司</title>
-    <id>https://www.104.com.tw/job/845f0</id>
-    <link href="https://www.104.com.tw/job/845f0" />
+    <title>【34200元起】五鮮級台南永成店-實習正職人員 · 五鮮級平價鍋物_五鮮級國際餐飲股份有限公司</title>
+    <id>https://www.104.com.tw/job/785t2</id>
+    <link href="https://www.104.com.tw/job/785t2" />
     <updated>2026-09-07T00:00:00+08:00</updated>
     <category term="hospitality" />
-    <summary>地點：彰化縣溪湖鎮 · 平台：104</summary>
+    <summary>地點：台南市南區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【2nd STREET日本最大二手店】東門店-門市兼職人員(可配合學生實習) · 2ndSTREET_台灣極沃股份有限公司</title>
+    <id>https://www.104.com.tw/job/95n6b</id>
+    <link href="https://www.104.com.tw/job/95n6b" />
+    <updated>2026-09-07T00:00:00+08:00</updated>
+    <category term="other" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
   </entry>
   <entry>
     <title>(實習養成) ISO/IEC 27001 資訊安全管理系統稽核員 · 愛台灣驗證股份有限公司</title>
@@ -109,6 +205,14 @@
     <updated>2026-09-04T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：台北市大同區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>商務發展實習生 Business Development Intern｜AI 商務開發｜高潛力轉正 · 上策行銷有限公司</title>
+    <id>https://www.104.com.tw/job/95kxf</id>
+    <link href="https://www.104.com.tw/job/95kxf" />
+    <updated>2026-09-04T00:00:00+08:00</updated>
+    <category term="bd_sales" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
   </entry>
   <entry>
     <title>人力資源實習生 HR Intern · 優式資本 UC Capital</title>
@@ -141,109 +245,5 @@
     <updated>2026-08-31T00:00:00+08:00</updated>
     <category term="pm" />
     <summary>地點：台北市信義區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【實習計畫】理財實習生（請至官網投遞，10月05日收件截止） · 玉山銀行_玉山商業銀行股份有限公司</title>
-    <id>https://www.104.com.tw/job/7dkok</id>
-    <link href="https://www.104.com.tw/job/7dkok" />
-    <updated>2026-08-31T00:00:00+08:00</updated>
-    <category term="finance" />
-    <summary>地點：台北市松山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【實習計畫】證券實習生（請至官網投遞，10月05日收件截止） · 玉山銀行_玉山商業銀行股份有限公司</title>
-    <id>https://www.104.com.tw/job/7dkp3</id>
-    <link href="https://www.104.com.tw/job/7dkp3" />
-    <updated>2026-08-31T00:00:00+08:00</updated>
-    <category term="finance" />
-    <summary>地點：台北市松山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>行銷企劃實習生 ( 活動&amp;社群) · 蒔心田生醫有限公司</title>
-    <id>https://www.104.com.tw/job/8sl4y</id>
-    <link href="https://www.104.com.tw/job/8sl4y" />
-    <updated>2026-08-31T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>地點：台中市西屯區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【實習計畫】法金實習生（請至官網投遞，10月05日收件截止） · 玉山銀行_玉山商業銀行股份有限公司</title>
-    <id>https://www.104.com.tw/job/7gff6</id>
-    <link href="https://www.104.com.tw/job/7gff6" />
-    <updated>2026-08-31T00:00:00+08:00</updated>
-    <category term="content" />
-    <summary>地點：台北市松山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>人資實習生-小幫手(週上3日) · 世磊實業股份有限公司</title>
-    <id>https://www.104.com.tw/job/8s228</id>
-    <link href="https://www.104.com.tw/job/8s228" />
-    <updated>2026-08-31T00:00:00+08:00</updated>
-    <category term="hr" />
-    <summary>地點：台北市松山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【實習計畫】分行營運實習生（請至官網投遞，10月05日收件截止） · 玉山銀行_玉山商業銀行股份有限公司</title>
-    <id>https://www.104.com.tw/job/7dkml</id>
-    <link href="https://www.104.com.tw/job/7dkml" />
-    <updated>2026-08-31T00:00:00+08:00</updated>
-    <category term="operations" />
-    <summary>地點：台北市松山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【34200元起】五鮮級高雄七賢店-實習正職人員 · 五鮮級平價鍋物_五鮮級國際餐飲股份有限公司</title>
-    <id>https://www.104.com.tw/job/7x9iu</id>
-    <link href="https://www.104.com.tw/job/7x9iu" />
-    <updated>2026-08-31T00:00:00+08:00</updated>
-    <category term="hospitality" />
-    <summary>地點：高雄市新興區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【行銷】行政助理/實習生 (約聘一年期) · PChome Online 網路家庭</title>
-    <id>https://www.yourator.co/companies/PChome/jobs/48129</id>
-    <link href="https://www.yourator.co/companies/PChome/jobs/48129" />
-    <updated>2026-08-28T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>薪資：NT$ 196 -  (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>主管秘書實習生 · 臺灣行銷研究有限公司</title>
-    <id>https://www.104.com.tw/job/95c06</id>
-    <link href="https://www.104.com.tw/job/95c06" />
-    <updated>2026-08-28T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>AI 行銷實習生 · 臺灣行銷研究有限公司</title>
-    <id>https://www.104.com.tw/job/8sxvh</id>
-    <link href="https://www.104.com.tw/job/8sxvh" />
-    <updated>2026-08-28T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>行銷數據分析實習生｜最高 20 萬政府獎勵金＋部分專案工作另有報酬 · 臺灣行銷研究有限公司</title>
-    <id>https://www.104.com.tw/job/8sxvg</id>
-    <link href="https://www.104.com.tw/job/8sxvg" />
-    <updated>2026-08-28T00:00:00+08:00</updated>
-    <category term="data" />
-    <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>廠務助理實習生（兼職） · 歐漾淨水_益銳股份有限公司</title>
-    <id>https://www.104.com.tw/job/95brk</id>
-    <link href="https://www.104.com.tw/job/95brk" />
-    <updated>2026-08-28T00:00:00+08:00</updated>
-    <category term="operations" />
-    <summary>地點：彰化縣彰化市 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【34200元起】五鮮級屏東公園店-實習正職人員 · 五鮮級平價鍋物_五鮮級國際餐飲股份有限公司</title>
-    <id>https://www.104.com.tw/job/892bl</id>
-    <link href="https://www.104.com.tw/job/892bl" />
-    <updated>2026-08-28T00:00:00+08:00</updated>
-    <category term="hospitality" />
-    <summary>地點：屏東縣屏東市 · 平台：104</summary>
   </entry>
 </feed>
