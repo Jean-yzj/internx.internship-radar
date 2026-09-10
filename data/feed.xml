@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-09-10T10:18:28+00:00</updated>
+  <updated>2026-09-10T15:33:48+00:00</updated>
   <entry>
     <title>產品機構研發實習生（兼職） · 歐漾淨水_益銳股份有限公司</title>
     <id>https://www.104.com.tw/job/95r8x</id>
@@ -95,6 +95,14 @@
     <summary>地點：新北市永和區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>設計實習生 #新世代設計種子計畫 · 感官文化印刷有限公司</title>
+    <id>https://www.104.com.tw/job/95rzq</id>
+    <link href="https://www.104.com.tw/job/95rzq" />
+    <updated>2026-09-10T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：新北市中和區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>【日商｜專案行銷實習生】 · 台灣微告股份有限公司</title>
     <id>https://www.104.com.tw/job/94h29</id>
     <link href="https://www.104.com.tw/job/94h29" />
@@ -159,6 +167,22 @@
     <summary>地點：台中市大甲區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>新創公司營運助理（在學學生實習優先） · 藍迪投資有限公司</title>
+    <id>https://www.104.com.tw/job/95s0z</id>
+    <link href="https://www.104.com.tw/job/95s0z" />
+    <updated>2026-09-10T00:00:00+08:00</updated>
+    <category term="operations" />
+    <summary>地點：台北市大安區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【學生實習】供應鏈行政小幫手 · 詠鑠生活股份有限公司</title>
+    <id>https://www.104.com.tw/job/78r2z</id>
+    <link href="https://www.104.com.tw/job/78r2z" />
+    <updated>2026-09-10T00:00:00+08:00</updated>
+    <category term="operations" />
+    <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>廠務助理實習生（兼職） · 歐漾淨水_益銳股份有限公司</title>
     <id>https://www.104.com.tw/job/95r8q</id>
     <link href="https://www.104.com.tw/job/95r8q" />
@@ -221,29 +245,5 @@
     <updated>2026-09-04T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：台北市大同區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>商務發展實習生 Business Development Intern｜AI 商務開發｜高潛力轉正 · 上策行銷有限公司</title>
-    <id>https://www.104.com.tw/job/95kxf</id>
-    <link href="https://www.104.com.tw/job/95kxf" />
-    <updated>2026-09-04T00:00:00+08:00</updated>
-    <category term="bd_sales" />
-    <summary>地點：台北市中山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【2026 AI Server 實習生】-SE 伺服器系統工程師 實習生 (土城) · 鴻海精密工業股份有限公司</title>
-    <id>https://www.104.com.tw/job/95js2</id>
-    <link href="https://www.104.com.tw/job/95js2" />
-    <updated>2026-09-03T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：新北市土城區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>實習工程師 (兼職) · 炳軒企業有限公司</title>
-    <id>https://www.104.com.tw/job/95j3p</id>
-    <link href="https://www.104.com.tw/job/95j3p" />
-    <updated>2026-09-03T00:00:00+08:00</updated>
-    <category term="tech" />
-    <summary>地點：新北市中和區 · 平台：104</summary>
   </entry>
 </feed>
