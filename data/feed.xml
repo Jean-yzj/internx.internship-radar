@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-09-11T10:18:03+00:00</updated>
+  <updated>2026-09-11T15:35:34+00:00</updated>
   <entry>
     <title>半導體研發實習生 · 昇陽國際半導體股份有限公司</title>
     <id>https://www.104.com.tw/job/95t2l</id>
@@ -50,6 +50,14 @@
     <title>『Hahow』專案行銷實習生 Project Marketing Intern · 思哈股份有限公司</title>
     <id>https://www.104.com.tw/job/95sc7</id>
     <link href="https://www.104.com.tw/job/95sc7" />
+    <updated>2026-09-11T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台北市松山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>Brand Assistant - Fragrance 品牌助理 / 實習生 (在學可) · LUXASIA_盧亞股份有限公司</title>
+    <id>https://www.104.com.tw/job/95tej</id>
+    <link href="https://www.104.com.tw/job/95tej" />
     <updated>2026-09-11T00:00:00+08:00</updated>
     <category term="marketing" />
     <summary>地點：台北市松山區 · 平台：104</summary>
@@ -237,13 +245,5 @@
     <updated>2026-09-03T00:00:00+08:00</updated>
     <category term="marketing" />
     <summary>地點：台北市南港區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>高雄失控大聯盟_晚班實習直播小幫手（晚上時段6-12點）（時薪200元起） · 城中門一品有限公司</title>
-    <id>https://www.104.com.tw/job/8t5o2</id>
-    <link href="https://www.104.com.tw/job/8t5o2" />
-    <updated>2026-09-03T00:00:00+08:00</updated>
-    <category term="content" />
-    <summary>地點：高雄市三民區 · 平台：104</summary>
   </entry>
 </feed>
