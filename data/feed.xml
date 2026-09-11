@@ -5,14 +5,46 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-09-11T05:38:26+00:00</updated>
+  <updated>2026-09-11T10:18:03+00:00</updated>
   <entry>
-    <title>[一學期實習生]線上技術支援人員(早班) · 卓航科技有限公司</title>
-    <id>https://www.104.com.tw/job/7usgc</id>
-    <link href="https://www.104.com.tw/job/7usgc" />
+    <title>半導體研發實習生 · 昇陽國際半導體股份有限公司</title>
+    <id>https://www.104.com.tw/job/95t2l</id>
+    <link href="https://www.104.com.tw/job/95t2l" />
+    <updated>2026-09-11T00:00:00+08:00</updated>
+    <category term="engineering" />
+    <summary>地點：新竹市 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>AI 應用實習生｜下午彈性排班 ×具轉正機會 · 聯聖企管顧問股份有限公司</title>
+    <id>https://www.104.com.tw/job/95ssy</id>
+    <link href="https://www.104.com.tw/job/95ssy" />
     <updated>2026-09-11T00:00:00+08:00</updated>
     <category term="tech" />
-    <summary>地點：台北市中山區 · 平台：104</summary>
+    <summary>地點：台北市松山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【實習招募】機器人系統與演算法測試實習生 · 首象科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/95t2u</id>
+    <link href="https://www.104.com.tw/job/95t2u" />
+    <updated>2026-09-11T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：新竹市 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【實習】助理開發工程師 (C# / .NET)【林口】 · 神達電腦股份有限公司</title>
+    <id>https://www.104.com.tw/job/8wyym</id>
+    <link href="https://www.104.com.tw/job/8wyym" />
+    <updated>2026-09-11T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：桃園市龜山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>7006- 竹科 高級控制系統 實習工程師/助理工程師(ROC) · 聯華林德氣體工業股份有限公司</title>
+    <id>https://www.104.com.tw/job/8o2i8</id>
+    <link href="https://www.104.com.tw/job/8o2i8" />
+    <updated>2026-09-11T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：新竹市 · 平台：104</summary>
   </entry>
   <entry>
     <title>『Hahow』專案行銷實習生 Project Marketing Intern · 思哈股份有限公司</title>
@@ -21,6 +53,14 @@
     <updated>2026-09-11T00:00:00+08:00</updated>
     <category term="marketing" />
     <summary>地點：台北市松山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【癌症科學發展事業群】產品行銷部/長期實習 (1年) · 台灣東洋藥品工業股份有限公司</title>
+    <id>https://www.104.com.tw/job/8pjp8</id>
+    <link href="https://www.104.com.tw/job/8pjp8" />
+    <updated>2026-09-11T00:00:00+08:00</updated>
+    <category term="marketing" />
+    <summary>地點：台北市南港區 · 平台：104</summary>
   </entry>
   <entry>
     <title>內容經營實習生(數位經營部) · 永豐金證券股份有限公司</title>
@@ -37,6 +77,30 @@
     <updated>2026-09-11T00:00:00+08:00</updated>
     <category term="content" />
     <summary>地點：苗栗縣竹南鎮 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>會計實習生 · 昇陽國際半導體股份有限公司</title>
+    <id>https://www.104.com.tw/job/95t47</id>
+    <link href="https://www.104.com.tw/job/95t47" />
+    <updated>2026-09-11T00:00:00+08:00</updated>
+    <category term="accounting" />
+    <summary>地點：新竹市 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【台中】會計實習/工讀生(早班) · 智生活科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/7qkcn</id>
+    <link href="https://www.104.com.tw/job/7qkcn" />
+    <updated>2026-09-11T00:00:00+08:00</updated>
+    <category term="accounting" />
+    <summary>地點：台中市北區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>中港廠-廠務/環安行政實習生 · 昇陽國際半導體股份有限公司</title>
+    <id>https://www.104.com.tw/job/95t94</id>
+    <link href="https://www.104.com.tw/job/95t94" />
+    <updated>2026-09-11T00:00:00+08:00</updated>
+    <category term="operations" />
+    <summary>地點：台中市梧棲區 · 平台：104</summary>
   </entry>
   <entry>
     <title>Internship - Customer Support Business Excellence Team Intern - Hsinchu _ J-00350420 · (ASML)台灣艾司摩爾科技股份有限公司</title>
@@ -77,14 +141,6 @@
     <updated>2026-09-11T00:00:00+08:00</updated>
     <category term="hospitality" />
     <summary>地點：新竹縣新豐鄉 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【36200元起】五鮮級新竹竹北店-晚班實習正職人員**另享夜班津貼** · 五鮮級平價鍋物_五鮮級國際餐飲股份有限公司</title>
-    <id>https://www.104.com.tw/job/78pef</id>
-    <link href="https://www.104.com.tw/job/78pef" />
-    <updated>2026-09-11T00:00:00+08:00</updated>
-    <category term="hospitality" />
-    <summary>地點：新竹縣竹北市 · 平台：104</summary>
   </entry>
   <entry>
     <title>Lab Intern(實驗室專案實習生) · 藝康企業股份有限公司</title>
@@ -189,61 +245,5 @@
     <updated>2026-09-03T00:00:00+08:00</updated>
     <category term="content" />
     <summary>地點：高雄市三民區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>實習生(經紀業務處) · 亞東證券股份有限公司</title>
-    <id>https://www.104.com.tw/job/86d0i</id>
-    <link href="https://www.104.com.tw/job/86d0i" />
-    <updated>2026-09-03T00:00:00+08:00</updated>
-    <category term="bd_sales" />
-    <summary>地點：新北市板橋區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【立即應徵】雲林｜STREAM冬令營隊老師｜寒假兼職/實習｜伊索教育e-sol. · 認真國際教育股份有限公司</title>
-    <id>https://www.104.com.tw/job/95jwz</id>
-    <link href="https://www.104.com.tw/job/95jwz" />
-    <updated>2026-09-03T00:00:00+08:00</updated>
-    <category term="hr" />
-    <summary>地點：雲林縣斗六市 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【立即應徵】嘉義｜STREAM冬令營隊老師｜寒假兼職/實習｜伊索教育e-sol. · 認真國際教育股份有限公司</title>
-    <id>https://www.104.com.tw/job/95jx1</id>
-    <link href="https://www.104.com.tw/job/95jx1" />
-    <updated>2026-09-03T00:00:00+08:00</updated>
-    <category term="hr" />
-    <summary>地點：嘉義市 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【立即應徵】高雄｜STREAM冬令營隊老師｜寒假兼職/實習｜伊索教育e-sol. · 認真國際教育股份有限公司</title>
-    <id>https://www.104.com.tw/job/95jx5</id>
-    <link href="https://www.104.com.tw/job/95jx5" />
-    <updated>2026-09-03T00:00:00+08:00</updated>
-    <category term="hr" />
-    <summary>地點：高雄市三民區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【立即應徵】台中｜STREAM冬令營隊老師｜寒假兼職/實習｜伊索教育e-sol. · 認真國際教育股份有限公司</title>
-    <id>https://www.104.com.tw/job/95jwx</id>
-    <link href="https://www.104.com.tw/job/95jwx" />
-    <updated>2026-09-03T00:00:00+08:00</updated>
-    <category term="hr" />
-    <summary>地點：台中市北屯區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【立即應徵】雙北｜STREAM冬令營隊老師｜寒假兼職/實習｜伊索教育e-sol. · 認真國際教育股份有限公司</title>
-    <id>https://www.104.com.tw/job/95jwu</id>
-    <link href="https://www.104.com.tw/job/95jwu" />
-    <updated>2026-09-03T00:00:00+08:00</updated>
-    <category term="hr" />
-    <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【立即應徵】桃園｜STREAM冬令營隊老師｜寒假兼職/實習｜伊索教育e-sol. · 認真國際教育股份有限公司</title>
-    <id>https://www.104.com.tw/job/95jwv</id>
-    <link href="https://www.104.com.tw/job/95jwv" />
-    <updated>2026-09-03T00:00:00+08:00</updated>
-    <category term="hr" />
-    <summary>地點：桃園市桃園區 · 平台：104</summary>
   </entry>
 </feed>
