@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:50:48",
+  "generated_at": "2026-09-12T14:41:50",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 104,
+    "total": 114,
     "new_today": 0,
     "by_platform": {
-      "104": 53,
+      "104": 63,
       "CakeResume": 0,
       "Yourator": 51
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 21
+      "count": 24
     },
     {
       "key": "data",
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 18
+      "count": 19
     },
     {
       "key": "content",
@@ -98,14 +98,14 @@
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 5
+      "count": 6
     },
     {
       "key": "hr",
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 2
+      "count": 3
     },
     {
       "key": "accounting",
@@ -119,14 +119,14 @@
       "label": "教育／輔導",
       "emoji": "📚",
       "color": "#0891b2",
-      "count": 1
+      "count": 5
     },
     {
       "key": "operations",
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 14
+      "count": 13
     },
     {
       "key": "legal",
@@ -147,7 +147,7 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 0
+      "count": 1
     },
     {
       "key": "hospitality",
@@ -376,6 +376,24 @@
     },
     {
       "platform": "104",
+      "title": "Vespa 進口二輪維修保養 實習生",
+      "company": "峰雨有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/8ckky",
+      "description": "公司主要針對進口二輪 Vespa機車的維修、改裝、保養。我們希望找到熱愛二輪的人，一起為車主的安全一同努力！把好的技術傳承下去，成為優秀的職人。\n\n【偉士計劃實習生訓練系統】\n第一步、到職\n\n第二步、偉士牌基礎概念培訓\n\n第三步、初試考核 (到職",
+      "category": "tech",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "電腦工程師（學生實習可）",
       "company": "興運整合資訊有限公司",
       "location": "新北市新莊區",
@@ -466,6 +484,24 @@
     },
     {
       "platform": "104",
+      "title": "機電實習工程師(無經驗可培訓)(有獎金紅利)",
+      "company": "立揚機電工程股份有限公司",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/8smjb",
+      "description": "1.安排工程(機電)進度，掌握施工狀況與施工品質\n2.監控工程(機電)規劃與執行，是否遵守安全法規\n3.繪製建築內部水電工程藍圖，精選施工材料\n4.指導監督各施工人員依水電工程藍圖施工\n5.機電工程管理等相關事務\n*公司另設有駐外津貼、住宿及交通津貼、全勤津貼等福利",
+      "category": "tech",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "小松KOMATSU堆高機技術維修員(實習)-台南仁德",
       "company": "台松堆高機股份有限公司",
       "location": "台南市仁德區",
@@ -513,6 +549,24 @@
       "description": "1.堆高機技術維修員，堆高機部-汽油/柴油/電動堆高機維修保養\n2.有堆高機修護經驗者尤佳,未有經驗者有專人指導,增進專業能力\n3. 廠內修護或至客戶廠區進行維修及保養作業。 \n4. 完成公司及主管之交辦事項。\n\n",
       "category": "tech",
       "first_seen": "2026-06-19",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "空調實習工程師(無經驗可培訓)(有獎金紅利)",
+      "company": "立揚機電工程股份有限公司",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/8smjp",
+      "description": "1.安排工程(機電)進度，掌握施工狀況與施工品質\n2.監控工程(機電)規劃與執行，是否遵守安全法規\n3.繪製建築內部空調工程藍圖，精選施工材料\n4.指導監督各施工人員依空調工程藍圖施工\n5.機電工程管理等相關事務\n*公司另設有駐外津貼、住宿及交通津貼、全勤津貼等福利",
+      "category": "tech",
+      "first_seen": "2026-04-25",
       "last_seen": "2026-09-12",
       "deadline": "",
       "skills": [],
@@ -920,6 +974,24 @@
     },
     {
       "platform": "104",
+      "title": "美髮實習師",
+      "company": "Hairms_海爾美髮設計工作室",
+      "location": "台中市北區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/8xwv7",
+      "description": "工作內容：\n1. 具備洗、剪、燙、染、護等美髮設計經驗。\n2. 有意成為美髮設計師或造型師者。\n3. 協助設計師完成工作，材料工具準備。\n\n升遷制度：\n透過公司的培訓以及晉級考試 :\n助理→準師→設計師\n\n多元發展目標：\n1.朝打造全方位的新秀設計師\n2.依個人專長方向培育出專任講師\n3.團隊協助參加業界競賽\n4.依照個人風格人設做行銷\n\n福利制度:\n1.個人業績抽成50%，勞基法基本保證底薪+依",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "數位廣告工讀生／實習生",
       "company": "呈鈺顧問股份有限公司",
       "location": "台北市松山區",
@@ -1215,6 +1287,24 @@
     },
     {
       "platform": "104",
+      "title": "實習設計師 (髮型助理)",
+      "company": "Santé Hair_宇倖造型工作室",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/7mo8f",
+      "description": "實習設計師（助理）-接待客人、協助設計師燙染護、洗髮、技術相關操作、內含教育制度（培養直升設計師）、認真負責、喜歡美髮產業，依目前實際學習階段通過可直接進行下階段學習，需有美髮行業經驗。",
+      "category": "design",
+      "first_seen": "2026-08-13",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "美髮設計師 ,實習設計師",
       "company": "NY2紐約整體造型設計店_心紐約髮廊",
       "location": "高雄市三民區",
@@ -1347,6 +1437,26 @@
       ]
     },
     {
+      "platform": "104",
+      "title": "總公司/人資部/招募助理(歡迎實習生投遞履歷)",
+      "company": "佳音英語_佳音事業股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/8zbuf",
+      "description": "如果你對人力資源領域有興趣，並希望從基礎實務開始累積經驗，歡迎加入我們的團隊！\n1. 協助履歷審閱與初步篩選，整理求職者資料。\n2. 安排面試時間，並與求職者及用人單位進行聯繫。\n3. 面試流程行政支援（如面試通知、資料準備與後續紀錄）。\n4. 協助人資相關文件整理、資料建檔與系統維護。\n5. 徵才活動支援 。\n6. 其他主管交辦事項。\n\n※主要應對以外籍人才相關職務為主，故需具備英文能力。\n\n工",
+      "category": "hr",
+      "first_seen": "2026-08-28",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [
+        "英文"
+      ],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "【SFIN0101I】財會實習生",
       "company": "SHOPLINE 商線科技股份有限公司",
@@ -1449,6 +1559,78 @@
       "description": "",
       "category": "education",
       "first_seen": "2026-08-27",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【板橋校】平日晚班教務助理工讀生（短期勿試，實習可）",
+      "company": "戴爾美語教育科技事業股份有限公司附設臺中市私立戴爾語文短期補習班",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/85090",
+      "description": "協助教務行政事務、文書處理、教材印製、收納管理。 \n櫃台學員服務、電話接聽、電腦資料Key in、各項考試安排規畫。\n環境整潔及主管交辦事項。\n\n工讀時段，星期一至星期三:\n(一)、(二)18:00-22:00\n(三)18:00-22:15",
+      "category": "education",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【板橋校】週六教務助理工讀生（短期勿試可實習）",
+      "company": "戴爾美語教育科技事業股份有限公司附設臺中市私立戴爾語文短期補習班",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/8z2p9",
+      "description": "協助教務行政事務、文書處理、教材印製、電腦建檔。 \n學員服務相關事務處理、各項考試安排規畫。\n環境整潔及主管交辦事項。\n\n工讀時段:\n星期六: 09:30-17:30\n",
+      "category": "education",
+      "first_seen": "2026-06-05",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【板橋校】平日下午教務助理工讀生（短期勿試可實習）",
+      "company": "戴爾美語教育科技事業股份有限公司附設臺中市私立戴爾語文短期補習班",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/7rilr",
+      "description": "協助教務行政事務、文書處理、教材印製、電腦建檔。 \n學員服務相關事務處理、各項考試安排規畫。\n環境整潔及主管交辦事項。\n\n工讀時段:\n星期一至星期五 13:00-18:00\n",
+      "category": "education",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【戴爾美語板橋校】平日星期三、四晚班教務助理工讀生（短期勿試可實習）",
+      "company": "戴爾美語教育科技事業股份有限公司附設臺中市私立戴爾語文短期補習班",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/5zg2d",
+      "description": "電腦表格行政相關事務、文書處理、教材印製、收納管理。 \n學員服務及上課點名、各項考試安排規畫。\n環境整潔及主管交辦事項。\n\n工讀時段:\n星期三、四 17:30-22:15\n",
+      "category": "education",
+      "first_seen": "2026-04-25",
       "last_seen": "2026-09-12",
       "deadline": "",
       "skills": [],
@@ -1622,6 +1804,24 @@
     },
     {
       "platform": "104",
+      "title": "【百瀚智能教育】營運專案實習生 (近向上國中)",
+      "company": "百瀚英語_瀚將教育科技股份有限公司",
+      "location": "台中市西區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/94vhs",
+      "description": "*此職位為長期實習，須能長期配合半年（至少 6 個月），\n我們期望時間一週投入配合 3-5 天（平均一週 18-30小時），\n這樣專案才有機會能一起順利一起執行、落地！*\n\n【2026 T2 實習計劃】\n百瀚外語正處於全新團隊進駐的升級轉型期。",
+      "category": "operations",
+      "first_seen": "2026-08-22",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "行政助理-工讀/實習",
       "company": "銘晉塑膠有限公司",
       "location": "新北市中和區",
@@ -1680,42 +1880,6 @@
     },
     {
       "platform": "104",
-      "title": "中港廠-廠務/環安行政實習生",
-      "company": "昇陽國際半導體股份有限公司",
-      "location": "台中市梧棲區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-11",
-      "url": "https://www.104.com.tw/job/95t94",
-      "description": "準備與資料盤點。\n\n*接受可實習一年期實習生 or 對廠務/環安領域有興趣、熱忱之新鮮人。\n*上班時段可彈性安排討論。\n*人格特質希望具責任感、積極。\n* 自動投遞者，請註明能配合一週上班3~5天。",
-      "category": "operations",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-12",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "【實習計畫】分行營運實習生（請至官網投遞，10月05日收件截止）",
-      "company": "玉山銀行_玉山商業銀行股份有限公司",
-      "location": "台北市松山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-07",
-      "url": "https://www.104.com.tw/job/7dkml",
-      "description": "★職務說明：\n學習櫃檯現金收付、數位平台應用，提升顧客服務、金融商品推廣技能，培養成為專業的金融人才。\n\n★計畫特色：\n1.\t優先轉正機會：實習表現優異者畢業後優先任用。\n2.\t完善培育制度：透過多元學習資源，提升專業表達、邏輯思考與問題解決能力",
-      "category": "operations",
-      "first_seen": "2026-08-31",
-      "last_seen": "2026-09-12",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
       "title": "法務實習生",
       "company": "博仲法律事務所",
       "location": "台北市中正區",
@@ -1768,6 +1932,24 @@
       "skills": [
         "英文"
       ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "《學生實習計畫》倉儲管理實習生 (暑期/學期皆可)",
+      "company": "裕馨國際有限公司",
+      "location": "彰化縣彰化市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/92iwa",
+      "description": "《實習生熱烈招募中》_暑期/學期實習生\n※我們公司為保養品、保健食品自有品牌\n在實習期間，您將在主管的帶領下，快速融入業界，累積實戰經驗！\n培養職場即戰力、累積未來競爭優勢。\n\n我們正在招募倉儲管理夥伴，如果你心思細膩、做事有條理、對電商後勤充滿",
+      "category": "supply_chain",
+      "first_seen": "2026-06-24",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
       "eligibility": []
     },
     {
