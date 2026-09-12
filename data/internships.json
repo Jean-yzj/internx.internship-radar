@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T05:25:47",
+  "generated_at": "2026-09-12T09:50:48",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 95,
-    "new_today": 1,
+    "total": 104,
+    "new_today": 0,
     "by_platform": {
-      "104": 44,
+      "104": 53,
       "CakeResume": 0,
       "Yourator": 51
     }
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 5
+      "count": 6
     },
     {
       "key": "consulting",
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 17
+      "count": 18
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 2
+      "count": 5
     },
     {
       "key": "bd_sales",
@@ -98,7 +98,7 @@
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 4
+      "count": 5
     },
     {
       "key": "hr",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 12
+      "count": 14
     },
     {
       "key": "legal",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 5
+      "count": 6
     },
     {
       "key": "research",
@@ -666,6 +666,24 @@
     },
     {
       "platform": "104",
+      "title": "暑期實習/學生實習",
+      "company": "木合空間制作_元初設計室內裝修有限公司",
+      "location": "高雄市鳳山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/8prnl",
+      "description": "1. 協助公司文件之建檔、管理。\n2. 負責郵件及內部文件之收發。\n3. 協助處理庶務性行政工作（如：文具用品採買）。\n4. 負責外出送件、物件寄送及簡易銀行業務處理。\n5. 負責電話接聽及顧客問題解答。\n6. 支援會議行政工作（如：會議前置茶水準備）。\n7. 負責辦公室環境與設備之清潔與維護。\n8. 支援各部門的業務及活動。\n",
+      "category": "finance",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "金融研究實習夥伴",
       "company": "歡擘整合科技有限公司",
       "location": "台北市中山區",
@@ -902,6 +920,24 @@
     },
     {
       "platform": "104",
+      "title": "數位廣告工讀生／實習生",
+      "company": "呈鈺顧問股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/92mdp",
+      "description": "AI工具輔助工作流程，培養未來必備的AI應用技能\n\n我們深知在職生的時間寶貴，特別提供彈性安排：\n- 彈性時間：每週至少 3 天，需於週一固定排班，可配合你的工作時程每天至少4小時安排\n- 合理薪資：時薪200 元，實習也有應得報酬與時數簽核\n-",
+      "category": "marketing",
+      "first_seen": "2026-06-11",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "幼教實習生【幼教師/教保員】教育部實習學校申請",
       "company": "臺中市私立初心幼兒園",
       "location": "台中市南屯區",
@@ -1085,6 +1121,60 @@
       ]
     },
     {
+      "platform": "104",
+      "title": "永續實習生",
+      "company": "思綴有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/7xeez",
+      "description": "【工作內容】\n作為永續實習生，你將參與公司永續專案的資料整理、碳足跡計算、ESG規劃、報告撰寫與平台建構等實務工作。我們的服務對象橫跨政府機關、公協會與產業團體，能讓你在實務中快速累積對永續議題的敏感度與應對能力。\n\n主要工作內容包括：\n\n協助規",
+      "category": "content",
+      "first_seen": "2026-05-12",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【遠傳電信】三峽文化實習襄理【月休10天】【歡迎無經驗者】",
+      "company": "金聚通訊行",
+      "location": "新北市三峽區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/8ra1b",
+      "description": "工作內容 ：\n迎賓接待、交機、銷售配件、銷貨結帳、跟客戶聊天(個性活潑開朗)。\n1.【薪酬福利】\n-門市人員無上限的業績獎金制度，讓付出與回報成正比\n-職務加給獎金。\n-工作滿一年以上享：生日禮金1,000、結婚禮金3,600、生育補貼6,000、喪葬補助3,100、職災津貼。\n-員工手機折扣及門號優惠。\n-特別假期、員工國內外旅遊、慶典聚餐等。\n【獎 金 類】年終獎金、三節獎金、激勵獎金、績效獎",
+      "category": "content",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【遠傳電信】蘆洲民族實習襄理【月休10天】【歡迎無經驗者】",
+      "company": "金聚通訊行",
+      "location": "新北市蘆洲區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/8ra19",
+      "description": "工作內容 ：\n迎賓接待、交機、銷售配件、銷貨結帳、跟客戶聊天(個性活潑開朗)。\n1.【薪酬福利】\n-門市人員無上限的業績獎金制度，讓付出與回報成正比\n-職務加給獎金。\n-工作滿一年以上享：生日禮金1,000、結婚禮金3,600、生育補貼6,000、喪葬補助3,100、職災津貼。\n-員工手機折扣及門號優惠。\n-特別假期、員工國內外旅遊、慶典聚餐等。\n【獎 金 類】年終獎金、三節獎金、激勵獎金、績效獎",
+      "category": "content",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "[實習生專區]- 資訊AI業務實習生｜完整培訓＋實務經驗＋優先轉正機會！(實習時間一年,每週至少4天)",
       "company": "人工智能股份有限公司",
@@ -1139,6 +1229,29 @@
       "last_seen": "2026-09-12",
       "deadline": "",
       "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "✦ 平面設計實習",
+      "company": "創識方舟股份有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/91aqa",
+      "description": "▍工作內容\n• 平面視覺設計\n• 商品包裝設計\n• 社群圖設計與延伸應用\n\n▍必備能力\n• 熟悉 Photoshop / Illustrator\n• 善用 AI 影像生成與輔助設計工具應用\n• 基礎 Mac OS 操作\n• 基本文書軟體 PowerPoint / Word / Excel\n• 對字體與排版具基礎敏銳度\n\n▍特質\n• 做事嚴謹細心、溝通有耐心\n• 邏輯清楚，理解需求後能有效執行\n• ",
+      "category": "design",
+      "first_seen": "2026-05-07",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [
+        "Photoshop",
+        "Illustrator",
+        "Excel",
+        "PowerPoint"
+      ],
       "eligibility": []
     },
     {
@@ -1567,6 +1680,42 @@
     },
     {
       "platform": "104",
+      "title": "中港廠-廠務/環安行政實習生",
+      "company": "昇陽國際半導體股份有限公司",
+      "location": "台中市梧棲區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-11",
+      "url": "https://www.104.com.tw/job/95t94",
+      "description": "準備與資料盤點。\n\n*接受可實習一年期實習生 or 對廠務/環安領域有興趣、熱忱之新鮮人。\n*上班時段可彈性安排討論。\n*人格特質希望具責任感、積極。\n* 自動投遞者，請註明能配合一週上班3~5天。",
+      "category": "operations",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【實習計畫】分行營運實習生（請至官網投遞，10月05日收件截止）",
+      "company": "玉山銀行_玉山商業銀行股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-07",
+      "url": "https://www.104.com.tw/job/7dkml",
+      "description": "★職務說明：\n學習櫃檯現金收付、數位平台應用，提升顧客服務、金融商品推廣技能，培養成為專業的金融人才。\n\n★計畫特色：\n1.\t優先轉正機會：實習表現優異者畢業後優先任用。\n2.\t完善培育制度：透過多元學習資源，提升專業表達、邏輯思考與問題解決能力",
+      "category": "operations",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "法務實習生",
       "company": "博仲法律事務所",
       "location": "台北市中正區",
@@ -1619,6 +1768,24 @@
       "skills": [
         "英文"
       ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "(平假日兼職)HSR/STN/MCY房務部-房務人員-歡迎學生打工實習",
+      "company": "鼎弋實業股份有限公司",
+      "location": "台中市中區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-12",
+      "url": "https://www.104.com.tw/job/7xpgy",
+      "description": "1.\t客房清潔及保養作業、備品補充。 \n2.\t大廳、營業場所、電梯、客廁等公共區域清潔保養作業。 \n3.　 客用消耗品數量統計。\n4.\t其他主管日常交辦事項。\n5.\t無經驗可、提供完整訓練。\n6.\t具飯店房務經驗者優先錄取。 \n7.\t耗費體力工作，無誠勿試。\n8.\t另有超房獎金制度，歡迎加入。\n\n※上班時間：週一~週五  09:00~16:00（中午休息一小時） 時薪196\n           ",
+      "category": "hospitality",
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-09-12",
+      "deadline": "",
+      "skills": [],
       "eligibility": []
     },
     {
