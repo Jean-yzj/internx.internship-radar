@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T10:50:57",
+  "generated_at": "2026-09-13T15:21:45",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 111,
+    "total": 117,
     "new_today": 1,
     "by_platform": {
-      "104": 60,
+      "104": 66,
       "CakeResume": 0,
       "Yourator": 51
     }
@@ -56,14 +56,14 @@
       "label": "醫療／健康",
       "emoji": "🏥",
       "color": "#db2777",
-      "count": 2
+      "count": 3
     },
     {
       "key": "finance",
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 5
+      "count": 4
     },
     {
       "key": "consulting",
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 15
+      "count": 17
     },
     {
       "key": "content",
@@ -112,7 +112,7 @@
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 2
+      "count": 4
     },
     {
       "key": "education",
@@ -126,14 +126,14 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 20
+      "count": 19
     },
     {
       "key": "legal",
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 3
+      "count": 4
     },
     {
       "key": "manufacturing",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 14
+      "count": 16
     }
   ],
   "jobs": [
@@ -504,6 +504,24 @@
     },
     {
       "platform": "104",
+      "title": "高年級門市實習生｜高齡營養照護示範藥局-七期見安藥局",
+      "company": "七期生醫科技股份有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/95txp",
+      "description": "人生有經驗，工作也可以重新開始。\n\n七期見安藥局正在招募第一批「高年級門市實習生」！\n\n一個65歲的人跟朋友說：「我最近去藥局當實習生。」\n\n我們招募的不是學生實習生，而是願意重新學習一份新工作的熟齡工作者。\n\n不需要藥局經驗，公司提供高齡營養、",
+      "category": "healthcare",
+      "first_seen": "2026-09-13",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【三義桐花村】校外實習生(長期/半年/一年)",
       "company": "薰衣草森林股份有限公司",
       "location": "苗栗縣三義鄉",
@@ -587,24 +605,6 @@
       "description": "finance / Accounting",
       "category": "finance",
       "first_seen": "2026-05-14",
-      "last_seen": "2026-09-13",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "【證券實習生】",
-      "company": "第一金證券股份有限公司",
-      "location": "台北市中山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-08",
-      "url": "https://www.104.com.tw/job/8k9eh",
-      "description": "1.證券線上/臨櫃業務教學與實作\n2.認識證券經紀業務與金融商品\n3.提升證券專業知識與投資技巧",
-      "category": "finance",
-      "first_seen": "2026-04-23",
       "last_seen": "2026-09-13",
       "deadline": "",
       "skills": [],
@@ -902,6 +902,24 @@
     },
     {
       "platform": "104",
+      "title": "實習生",
+      "company": "人揚長遠科技股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/8qzgp",
+      "description": "《申請資格》\n1.在學實習生，大學三年級以上\n2.實習期間：不拘。\n\n《職類》\n1     .Broadsign & Quividi 家外廣告運營平台之服務\n2.    網站行銷企劃,廣告文案／企劃,數位行銷\n\n《職務說明》\n1.",
+      "category": "marketing",
+      "first_seen": "2026-04-28",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "法律實習生 / 工讀生（台中所）",
       "company": "方日法律事務所",
       "location": "台中市西區",
@@ -937,6 +955,24 @@
       "eligibility": [
         "應屆"
       ]
+    },
+    {
+      "platform": "104",
+      "title": "《學生實習計畫》社群行銷小編 (暑期/學期皆可)",
+      "company": "裕馨國際有限公司",
+      "location": "彰化縣彰化市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/91w2j",
+      "description": "《實習生熱烈招募中》_暑期/學期實習生\n※我們公司為保養品、保健食品自有品牌\n在實習期間，您將在主管的帶領下，快速融入業界，累積實戰經驗！\n培養職場即戰力、累積未來競爭優勢。\n\n我們正在招募社群行銷夥伴，希望你是一位對品牌了解並抱有熱忱， 主動積",
+      "category": "marketing",
+      "first_seen": "2026-05-23",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -1263,6 +1299,44 @@
       "description": "1. 協助事務所審計/記帳事務。\n2. 整理傳票/財務資料輸入/國稅局送件/辦公室行政庶務等。\n3. 工作期間可依需求再彈性調整\n\n",
       "category": "accounting",
       "first_seen": "2026-07-27",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "審計/帳務人員(歡迎應屆畢業生實習生及二度就業人士)",
+      "company": "博業會計師事務所",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/3wo4f",
+      "description": "本事務所已導入AI自動化快速報稅系統，帳務系統亦透過AI輔助設定自動生成傳票，大幅提高帳務效率及正確性，減少人工輸入作業。\n1. 審計 : 包含審計查核/專案查核/財稅簽證報告撰寫 \n2. 記帳 : 包含帳務處理/營業稅申報/營所稅申報 \n3. 工商登記 \n4. 協助專案查核\n5. 其他.",
+      "category": "accounting",
+      "first_seen": "2026-06-05",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "應屆"
+      ]
+    },
+    {
+      "platform": "104",
+      "title": "會計行政工讀生、學生實習",
+      "company": "冠富稅務記帳士事務所",
+      "location": "台中市北屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/82tmi",
+      "description": "主要負責發票計算及入帳、電腦登打\n此職務需商科且有修過會計學才合適\n需要長期兼職人員，短期工讀不適合\n\n應具備條件：\n需熟悉電腦中英數登打，上下班時間彈性（夜間工讀、日間工讀、兼職均可）\n如對會計稅務有興趣，畢業後可以繼續留任當主辦會計。\n\n媽媽因為接送小孩需晚到提早下班，兼職可。",
+      "category": "accounting",
+      "first_seen": "2026-06-09",
       "last_seen": "2026-09-13",
       "deadline": "",
       "skills": [],
@@ -1738,17 +1812,17 @@
     },
     {
       "platform": "104",
-      "title": "【實習計畫】分行營運實習生（請至官網投遞，10月05日收件截止）",
-      "company": "玉山銀行_玉山商業銀行股份有限公司",
-      "location": "台北市松山區",
+      "title": "實習律師",
+      "company": "時泓律師事務所",
+      "location": "台北市中山區",
       "salary": "",
       "salary_min": null,
       "salary_type": "unknown",
-      "posted_at": "2026-09-07",
-      "url": "https://www.104.com.tw/job/7dkml",
-      "description": "★職務說明：\n學習櫃檯現金收付、數位平台應用，提升顧客服務、金融商品推廣技能，培養成為專業的金融人才。\n\n★計畫特色：\n1.\t優先轉正機會：實習表現優異者畢業後優先任用。\n2.\t完善培育制度：透過多元學習資源，提升專業表達、邏輯思考與問題解決能力",
-      "category": "operations",
-      "first_seen": "2026-08-31",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/8w40e",
+      "description": "【工作內容】\n1.研究法律問題及其相關特殊法律或法院判決。\n2.學習撰寫訴訟書狀、律師函、法律意見書等法律文件。\n3.協同指導律師，學習處理民、刑事訴訟案件及商業非訟事件。\n4.其他指導律師交辦法律專業事務或協助律所行政事務運作。",
+      "category": "legal",
+      "first_seen": "2026-08-13",
       "last_seen": "2026-09-13",
       "deadline": "",
       "skills": [],
@@ -2136,6 +2210,29 @@
     },
     {
       "platform": "104",
+      "title": "-搶先投遞- 高雄/台北 2027 學生實習計畫",
+      "company": "NXP Semiconductors Taiwan Ltd._台灣恩智浦半導體股份有限公司",
+      "location": "高雄市楠梓區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/952tz",
+      "description": "2027年恩智浦實習生計畫開跑囉！！\n\n有計畫參與實習的同學們，請詳閱以下資訊並完成應徵申請：\n\n※ 實習期間：2027年度 學期 & 暑期\n※ 截止時間：即日起～2026/10/26 (一)\n※ 申請資格：大三(含)以上在學學生（以研究所在學學",
+      "category": "other",
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大三",
+        "大四",
+        "大五",
+        "研究所"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "客勤專員(實習/夜校生可)",
       "company": "鴻昇實業股份有限公司",
       "location": "台中市西區",
@@ -2165,6 +2262,24 @@
       "description": "校外實習計畫",
       "category": "other",
       "first_seen": "2026-04-27",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "長期工讀或實習生",
+      "company": "芝麻街後埔分校_優昇文理語文短期補習班",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/m9cv",
+      "description": "周一~周五(最少3天)\nA班:pm4:00~7:00\nB班:pm5:30~8:30\nC班週三12:00～18:00",
+      "category": "other",
+      "first_seen": "2026-04-23",
       "last_seen": "2026-09-13",
       "deadline": "",
       "skills": [],
