@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T05:41:12",
+  "generated_at": "2026-09-13T10:50:57",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 99,
-    "new_today": 2,
+    "total": 111,
+    "new_today": 1,
     "by_platform": {
-      "104": 48,
+      "104": 60,
       "CakeResume": 0,
       "Yourator": 51
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 14
+      "count": 15
     },
     {
       "key": "data",
@@ -56,7 +56,7 @@
       "label": "醫療／健康",
       "emoji": "🏥",
       "color": "#db2777",
-      "count": 1
+      "count": 2
     },
     {
       "key": "finance",
@@ -77,28 +77,28 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 14
+      "count": 15
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 5
+      "count": 7
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 1
+      "count": 2
     },
     {
       "key": "design",
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 1
+      "count": 2
     },
     {
       "key": "hr",
@@ -126,14 +126,14 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 18
+      "count": 20
     },
     {
       "key": "legal",
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 2
+      "count": 3
     },
     {
       "key": "manufacturing",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 6
+      "count": 7
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 13
+      "count": 14
     }
   ],
   "jobs": [
@@ -394,6 +394,24 @@
     },
     {
       "platform": "104",
+      "title": "電影部門儲備髮型（美髮實習師）",
+      "company": "毛太多股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/8vnns",
+      "description": "1. 接待顧客、了解服務流程並學習如何與顧客應對，執行洗髮、護髮、染髮、燙髮、造型、頭皮護理、等工作。\n2. 演唱會、雜誌、電影廣告等偶像藝人外景工作。\n3. 協助設計師與技術員並且學習到染、燙、剪、護等...技術操作。\n4. 提供完整教育訓練:洗髮、燙髮、剪髮、染髮、整髮之技術訓練。\n5. 通過完整教育訓練，將可以考核設計師。\n6. 營業時間為10:30~19:30\n7. 須對美髮產業有熱忱及抱",
+      "category": "tech",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "AI 應用實習生",
       "company": "稑燾智能有限公司",
       "location": "台北市中正區",
@@ -479,6 +497,24 @@
       "description": "數位行銷 / 軟體開發 / 網路新創 / 商業應用",
       "category": "healthcare",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【三義桐花村】校外實習生(長期/半年/一年)",
+      "company": "薰衣草森林股份有限公司",
+      "location": "苗栗縣三義鄉",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/7q9hv",
+      "description": "☆實習待遇福利\n1. 實習津貼比照勞基法基本工資水準月薪制30,500元\n2. 日排班 6 ~10 小時為原則彈性工時制\n3. 勞健保、團保（含個人壽險、意外險及意外醫療、職災保險）\n4. 免費提供午晚餐、制服、宿舍需繳扣維護管理費1,000元/",
+      "category": "healthcare",
+      "first_seen": "2026-09-13",
       "last_seen": "2026-09-13",
       "deadline": "",
       "skills": [],
@@ -904,6 +940,24 @@
     },
     {
       "platform": "104",
+      "title": "行銷企劃實習生 (畢業後經考核可轉正)",
+      "company": "上策行銷有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/7q6fx",
+      "description": "【Bespo實習生培訓系統】\n第一步、到職註冊\n\n第二步、口碑行銷基礎概念培訓\n\n第三步、初試考核 (到職滿一個月)\n考核六項口碑行銷基礎能力\n通過與否將決定實習生之去留\n通過者將進入第二階段完整寫文訓練\n\n第四步、二試考核(到職滿三個月)\n寫文",
+      "category": "marketing",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【日商】廣告行銷企劃實習生｜N3以上 × 數位廣告× 學以致用",
       "company": "美迪科思行銷股份有限公司",
       "location": "台北市松山區",
@@ -1014,6 +1068,24 @@
     },
     {
       "platform": "104",
+      "title": "(總公司_教編部)實習/工讀生",
+      "company": "總公司_長頸鹿文化事業股份有限公司",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/5dyei",
+      "description": "1. 試題校對+音檔校聽 \n2. 點讀筆畫框+校對 \n3. 音檔剪輯+圖檔整理 \n4. 線上學習內容校對+除錯 \n5. 影片剪輯 \n6. 影像閱卷解答設定、掃描測試 \n7. 其他交辦事項\n8. 每週排班2-3天",
+      "category": "content",
+      "first_seen": "2026-04-27",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習生(大專院校實習生專區)",
       "company": "日暉池上股份有限公司",
       "location": "台東縣池上鄉",
@@ -1025,6 +1097,24 @@
       "description": "【實習部門與工作內容】\n餐飲部-餐飲服務員：餐飲外場服務工作\n房務部-房務員：整理房間\n休閒部-活動指導員：帶領活動及器材租借管理\n服務中心-行李員：接送客人等接待工作（須有汽車駕照）\n\n【實習期間】半年期或一年期\n\n【報名須知】投遞104履歷，",
       "category": "content",
       "first_seen": "2026-04-30",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【校外實習】九九峰園區 實習生 (半年/一年)",
+      "company": "薰衣草森林股份有限公司",
+      "location": "南投縣草屯鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/8smor",
+      "description": "薰衣草森林實習生歡迎您來報名唷~\n目前我們提供以下半年/一年制至職場的實習機會，\n工作的內容包含【園區體驗服務員、餐廳接待服務員、吧檯飲料魔法師、\n商品分享員、售票服務員】，畢業後也可以銜接就業，歡迎您的加入~!\n\n實習待遇福利：\n☆實習津貼優於",
+      "category": "content",
+      "first_seen": "2026-05-05",
       "last_seen": "2026-09-13",
       "deadline": "",
       "skills": [],
@@ -1068,6 +1158,26 @@
     },
     {
       "platform": "104",
+      "title": "商務發展實習生 Business Development Intern｜AI 商務開發｜高潛力轉正",
+      "company": "上策行銷有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/95kxf",
+      "description": "上策行銷正在建立新的 Business Development Team。\n我們想找 反應快、邏輯好、對商業有好奇心，而且懂得運用 AI 的大學生／研究生，一起參與企業客戶的研究、開發與商機追蹤。\n這不是行政實習，也不是傳統大量打電話的業務工作。",
+      "category": "bd_sales",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "不限"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "學期插畫美編實習生（限在學生，絕大部分時間遠端實習）",
       "company": "韋伯文化國際出版有限公司",
       "location": "新北市永和區",
@@ -1085,6 +1195,24 @@
       "eligibility": [
         "不限"
       ]
+    },
+    {
+      "platform": "104",
+      "title": "美髮儲備髮型設計師（美髮實習師）",
+      "company": "毛太多股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/8vnnr",
+      "description": "1. 接待顧客、了解服務流程並學習如何與顧客應對，執行洗髮、護髮、染髮、燙髮、造型、頭皮護理、等工作。\n2. 演唱會、雜誌、電影廣告等偶像藝人外景工作。\n3. 協助設計師與技術員並且學習到染、燙、剪、護等...技術操作。\n4. 提供完整教育訓練:洗髮、燙髮、剪髮、染髮、整髮之技術訓練。\n5. 通過完整教育訓練，將可以考核設計師。\n6. 營業時間為10:30~19:30\n7. 須對美髮產業有熱忱及抱",
+      "category": "design",
+      "first_seen": "2026-05-05",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1556,6 +1684,24 @@
     },
     {
       "platform": "104",
+      "title": "【百瀚智能教育】營運專案實習生 (近新埔民生捷運站)",
+      "company": "百瀚英語_瀚將教育科技股份有限公司",
+      "location": "新北市板橋區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/94mpz",
+      "description": "*此職位為長期實習，須能長期配合半年（至少 6 個月），\n我們期望時間一週投入配合 3-5 天（平均一週 18-30小時），\n這樣專案才有機會能一起順利一起執行、落地！*\n\n【2026 T2 實習計劃】\n我們不把實習生當作純行政打雜，而是把你視為",
+      "category": "operations",
+      "first_seen": "2026-08-08",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "髮型實習師/助理 (台北仁愛圓環)",
       "company": "in% Hair Salon_映忠孝美髮造型社",
       "location": "台北市大安區",
@@ -1592,6 +1738,24 @@
     },
     {
       "platform": "104",
+      "title": "【實習計畫】分行營運實習生（請至官網投遞，10月05日收件截止）",
+      "company": "玉山銀行_玉山商業銀行股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-07",
+      "url": "https://www.104.com.tw/job/7dkml",
+      "description": "★職務說明：\n學習櫃檯現金收付、數位平台應用，提升顧客服務、金融商品推廣技能，培養成為專業的金融人才。\n\n★計畫特色：\n1.\t優先轉正機會：實習表現優異者畢業後優先任用。\n2.\t完善培育制度：透過多元學習資源，提升專業表達、邏輯思考與問題解決能力",
+      "category": "operations",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "實習律師(高雄所)",
       "company": "安捷法律事務所",
       "location": "高雄市鼓山區",
@@ -1621,6 +1785,24 @@
       "description": "與理解，那麼，我們正在找的，也許就是你。\n\n【你會參與的工作內容】：\n\n我們重視每一位實習夥伴的成長，這不只是輔助性的職務，而是一段被信任、被培養的實務旅程。在日常中，你會參與：\n\n＊法律文書草擬與資料準備（起訴狀、答辯狀、意見書等）\n\n＊判決與法",
       "category": "legal",
       "first_seen": "2026-05-29",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "杰論法律事務所",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/6vydg",
+      "description": "實務見解研究、法律意見撰擬、合約審議、訴訟撰狀、其他律師交辦事項",
+      "category": "legal",
+      "first_seen": "2026-04-24",
       "last_seen": "2026-09-13",
       "deadline": "",
       "skills": [],
@@ -1729,6 +1911,24 @@
       "description": "1.\t餐飲服務、點餐等及餐廳外場相關其他工作。\n2.\t協助出餐、備餐及廚房其他相關工作。\n3.\t對餐飲服務工作有熱忱，具備高度親和力\n4.     兼職夥伴也依比例享有特休假喔\n5.\t完成各項主管交代的事宜，\n6.     可配合學生校外實習計畫",
       "category": "hospitality",
       "first_seen": "2026-06-15",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【校外實習】九九峰園區 廚房實習生 (半年/一年)",
+      "company": "薰衣草森林股份有限公司",
+      "location": "南投縣草屯鎮",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/8smo6",
+      "description": "薰衣草森林實習生歡迎您來報名唷~\n目前我們提供以下半年/一年制至職場的實習機會，\n針對具備廚部經驗及技能的料理魔法師們，歡迎您的加入~!\n\n1.香草餐廳(西式料理)    2.就餐廳(西式料理)    3.心之芳庭 (中式料理)\n\n實習待遇福利：",
+      "category": "hospitality",
+      "first_seen": "2026-06-06",
       "last_seen": "2026-09-13",
       "deadline": "",
       "skills": [],
@@ -1891,6 +2091,24 @@
       "description": "高工畢，有證照，現就讀大學者尤佳\n需求:車輛工程系，機械系或高職汽修科，機械科，或有機車，腳踏車維護經驗者，如熟悉工作後另有作業獎金.",
       "category": "other",
       "first_seen": "2026-05-11",
+      "last_seen": "2026-09-13",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "PT美髮實習生時薪220元",
+      "company": "毛太多股份有限公司",
+      "location": "台北市大安區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-13",
+      "url": "https://www.104.com.tw/job/94p4x",
+      "description": "1.執行髮型及造型設計。\n2.執行修髮、洗髮及吹整髮型等工作。\n",
+      "category": "other",
+      "first_seen": "2026-08-11",
       "last_seen": "2026-09-13",
       "deadline": "",
       "skills": [],
