@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:32:38",
+  "generated_at": "2026-09-16T15:49:54",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -8,7 +8,7 @@
   },
   "summary": {
     "total": 293,
-    "new_today": 8,
+    "new_today": 1,
     "by_platform": {
       "104": 241,
       "CakeResume": 0,
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 42
+      "count": 43
     },
     {
       "key": "data",
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 6
+      "count": 8
     },
     {
       "key": "consulting",
@@ -84,7 +84,7 @@
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 22
+      "count": 20
     },
     {
       "key": "bd_sales",
@@ -98,7 +98,7 @@
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 7
+      "count": 8
     },
     {
       "key": "hr",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 33
+      "count": 32
     },
     {
       "key": "legal",
@@ -147,14 +147,14 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 8
+      "count": 7
     },
     {
       "key": "hospitality",
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 2
+      "count": 1
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 22
+      "count": 23
     }
   ],
   "jobs": [
@@ -484,6 +484,26 @@
       "last_seen": "2026-09-16",
       "deadline": "",
       "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "軟裝設計實習工讀生",
+      "company": "L'atelier Fantasia_繽紛室內設計有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-16",
+      "url": "https://www.104.com.tw/job/8yvlw",
+      "description": "我們是一家室內設計公司，現在正在招聘實習工讀生，您不需有相關工作經驗，只要您肯學習、負責任、追求卓越，理念正我們契合歡迎您的加入：\n\n1.  會操作AutoCad、Adobe Photoshop、Sketch up等設計軟體。\n2.  協助軟裝主",
+      "category": "tech",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-09-16",
+      "deadline": "",
+      "skills": [
+        "Photoshop"
+      ],
       "eligibility": []
     },
     {
@@ -2221,6 +2241,24 @@
     },
     {
       "platform": "104",
+      "title": "《實習》私人銀行業務部實習生-台中",
+      "company": "永豐商業銀行股份有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-16",
+      "url": "https://www.104.com.tw/job/95yk8",
+      "description": "1. 負責私人銀行客戶接待暨前台服務，協助來賓登記及引導\n2. 維護私人銀行客戶接待區環境整潔、備品補充及客戶茶點招待\n3. 協助行政庶務，包括文件收發、會議室及訪客名單管理\n4. 協助部門系統測試專案\n5. 其他主管交辦事項",
+      "category": "finance",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "研究部實習生",
       "company": "富蘭克林證券投資顧問股份有限公司",
       "location": "台北市大安區",
@@ -2237,6 +2275,24 @@
       "skills": [
         "Bloomberg"
       ],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "(宜蘭)~大學寒暑假實習生(核准編號：F-AS-115-045)",
+      "company": "新光人壽保險股份有限公司_宜泰通訊處(陳定蔚)",
+      "location": "宜蘭縣宜蘭市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-16",
+      "url": "https://www.104.com.tw/job/8y6ta",
+      "description": "屬活動 成功之路不孤單，專屬活動讓夥伴與你同行。\n(7)一圓主管夢 邀請 2 位夥伴加入並達成資格，即可晉升主管。\n(8)打造夢幻團隊 豐厚的組織獎金，是你成就事業的最佳助力。\n\n(三)薪資待遇:\n此職務為學習型職務~\n先輔導考人身保險證照\n\n實習",
+      "category": "finance",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-09-16",
+      "deadline": "",
+      "skills": [],
       "eligibility": []
     },
     {
@@ -3314,42 +3370,6 @@
       "eligibility": []
     },
     {
-      "platform": "104",
-      "title": "早晚班工讀／實習(長期)  -50嵐逢甲店",
-      "company": "50嵐_穎冠茶飲企業股份有限公司",
-      "location": "台中市西屯區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-16",
-      "url": "https://www.104.com.tw/job/7dqy1",
-      "description": "工作內容：\n1.飲品介紹及協助顧客點單  \n2.前檯收銀、出餐  \n3.調製飲品  \n4.煮茶、備料  \n5.外送服務  \n\n\n其他：\n1.福利制度 \n  -享團保.勞健保及勞退 \n  -免費員工飲品 \n  -三節禮金 \n  -生日禮金 \n  -中秋禮品 \n  -打烊津貼",
-      "category": "content",
-      "first_seen": "2026-09-16",
-      "last_seen": "2026-09-16",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "早晚班工讀／實習(長期) -50嵐嘉義水上店",
-      "company": "50嵐_穎冠茶飲企業股份有限公司",
-      "location": "嘉義縣水上鄉",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-16",
-      "url": "https://www.104.com.tw/job/7dqeq",
-      "description": "工作內容：\n1.飲品介紹及協助顧客點單  \n2.前檯收銀、出餐  \n3.調製飲品  \n4.煮茶、備料  \n5.外送服務  \n\n\n其他：\n1.福利制度 \n  -享團保.勞健保及勞退 \n  -免費員工飲品 \n  -三節禮金 \n  -生日禮金 \n  -中秋禮品 \n  -打烊津貼",
-      "category": "content",
-      "first_seen": "2026-05-20",
-      "last_seen": "2026-09-16",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
       "platform": "Yourator",
       "title": "[實習生專區]- 資訊AI業務實習生｜完整培訓＋實務經驗＋優先轉正機會！(實習時間一年,每週至少4天)",
       "company": "人工智能股份有限公司",
@@ -3658,6 +3678,24 @@
         "大四",
         "研究所"
       ]
+    },
+    {
+      "platform": "104",
+      "title": "室內設計實習工讀生",
+      "company": "L'atelier Fantasia_繽紛室內設計有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-16",
+      "url": "https://www.104.com.tw/job/8pytm",
+      "description": "我們是一家高端室內設計公司，現在正在招聘室內設計實習工讀生，我們專注於高端住宅與藝術空間的設計落實，實習生絕不只是影印倒茶的打雜角色，我們提供你直接參與專案流程、認識頂級材質、觀摩施工現場的實戰機會。如果你對高端室內設計抱有極大熱情，並渴望在實務",
+      "category": "design",
+      "first_seen": "2026-04-25",
+      "last_seen": "2026-09-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "104",
@@ -4207,17 +4245,17 @@
     },
     {
       "platform": "104",
-      "title": "補習班晚班兼職/工讀/學生實習(新竹本店)",
-      "company": "YAMAHA音樂教室_鴻韻樂器行",
-      "location": "新竹市",
+      "title": "實習老師（AI 協作教學・透明升級加薪・零經驗可）｜Obear 黑熊家教班",
+      "company": "黑熊文理短期補習班",
+      "location": "新北市中和區",
       "salary": "",
       "salary_min": null,
       "salary_type": "unknown",
       "posted_at": "2026-09-16",
-      "url": "https://www.104.com.tw/job/922d0",
-      "description": "1.執行主管交辦事項及一般文書資料處理及歸檔工作。\n2.家長溝通與學員接待\n3.處理每日行政事務\n4.環境整潔備品維護\n5.協助照顧來訪顧客的孩童\n6.喜歡小孩子，對教育工作有熱誠\n7.製作出納科目餘額表、收款日報表",
+      "url": "https://www.104.com.tw/job/9501m",
+      "description": "目編寫練習 ・每月完整訓練＋與主管討論（進修時間支薪） ・與 AI 工具協作備課、出題與學習分析（實習計畫書必修「AI×技能結合」，這是你帶得走的能力）\n\n【我們給你的】 ・加薪不用等老闆心情——透明五級晉升制：萌新熊熊→正式熊熊，教學時薪換算",
       "category": "education",
-      "first_seen": "2026-05-28",
+      "first_seen": "2026-08-19",
       "last_seen": "2026-09-16",
       "deadline": "",
       "skills": [],
@@ -4789,24 +4827,6 @@
     },
     {
       "platform": "104",
-      "title": "工研院資通所_行政支援實習生(F202，工作地點: 台北)",
-      "company": "工研院 _財團法人工業技術研究院",
-      "location": "台北市中山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-16",
-      "url": "https://www.104.com.tw/job/958zi",
-      "description": "1.協助計畫執行事務，包括計畫執行進度、成果與參談資料彙整、製作與包裝。\n2.跨單位溝通協調、輔導產業相關行政作業，並協助相關會議與活動安排、規劃。",
-      "category": "operations",
-      "first_seen": "2026-08-26",
-      "last_seen": "2026-09-16",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
       "title": "【實習計畫】分行營運實習生（請至官網投遞，10月05日收件截止）",
       "company": "玉山銀行_玉山商業銀行股份有限公司",
       "location": "台北市松山區",
@@ -5061,24 +5081,6 @@
     },
     {
       "platform": "104",
-      "title": "空運進口機場操作實習生 (內勤)",
-      "company": "中菲行國際物流股份有限公司",
-      "location": "桃園市大園區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-16",
-      "url": "https://www.104.com.tw/job/8lw70",
-      "description": "建立你的職涯舞台，加入中菲行\n想讓自己的職涯更上一層樓嗎？加入中菲行，發揮你的潛力！\n\n我們正在尋找具責任感、主動積極，並希望在快速發展的國際物流產業中持續成長的人才。在中菲行，我們提供支持學習的環境、完善的專業培訓，以及清晰的職涯發展機會。我們的使命很簡單卻充滿力量：為有潛力的人才開啟機會之門，並協助他們培養實現職涯夢想所需的能力。\n\n關於中菲行：\n中菲行國際物流（Dimerco Express",
-      "category": "supply_chain",
-      "first_seen": "2026-05-04",
-      "last_seen": "2026-09-16",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
       "title": "Sheraton Hsinchu 休憩實習生 Recreation Intern",
       "company": "新竹喜來登飯店_承恩餐旅管理顧問股份有限公司",
       "location": "新竹縣竹北市",
@@ -5093,27 +5095,6 @@
       "last_seen": "2026-09-16",
       "deadline": "",
       "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "飯店櫃台 晚班服務人員(可實習)",
-      "company": "仲信金鬱金香酒店_仲信大飯店股份有限公司",
-      "location": "台中市北屯區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-16",
-      "url": "https://www.104.com.tw/job/8madw",
-      "description": "1.飯店櫃台接待 \n2.處理房間安排事宜，如:訂房、排房、進房、退房等。\n3.處理帳務，如:收款、核帳、查帳等。\n4.負責轉接電話並且位客人留言。\n5.旅客接待服務 (具英文或日文能力者佳)\n6.具服務熱忱、合作精神、協調力，能與團隊成員合作達成任務 \n7.工作待遇區間為起薪，另有其他獎金、津貼\n8.試用期過後另再做調薪\n \n*另有 全勤獎金、績效獎金、證照津貼、語言津貼...等",
-      "category": "hospitality",
-      "first_seen": "2026-05-08",
-      "last_seen": "2026-09-16",
-      "deadline": "",
-      "skills": [
-        "英文",
-        "日文"
-      ],
       "eligibility": []
     },
     {
@@ -5363,6 +5344,24 @@
       "description": "隸屬體驗治理與設計中心，支援專案體驗研究工作，\n本實習機會能讓實習生體驗在實際的商業環境中，從零到一的研究流程，與部門研究相關作業/專案/分析，包含了解需求、了解使用者，到最後研究的完成。",
       "category": "other",
       "first_seen": "2026-08-19",
+      "last_seen": "2026-09-16",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "景觀設計實習生",
+      "company": "L'atelier Fantasia_繽紛室內設計有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-16",
+      "url": "https://www.104.com.tw/job/926gh",
+      "description": "招聘景觀設計實習生，如果您也是空間美學歡迎您的加入，我們預期應試者具備以下條件：\n\n1.協助景觀設計專案資料蒐集與研究分析。\n2.協助景觀配置圖、平面圖及施工圖繪製。\n3.協助製作設計提案簡報及專案文件整理。\n4.協助建立3D模型及景觀表現圖。\n5",
+      "category": "other",
+      "first_seen": "2026-06-23",
       "last_seen": "2026-09-16",
       "deadline": "",
       "skills": [],
