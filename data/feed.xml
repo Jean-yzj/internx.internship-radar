@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-09-18T10:17:59+00:00</updated>
+  <updated>2026-09-18T15:30:47+00:00</updated>
   <entry>
     <title>2027實習生專案：IT 基礎架構實習工程師 (2027.2~2027.6) · 大聯大控股股份有限公司</title>
     <id>https://www.104.com.tw/job/961e4</id>
@@ -101,22 +101,6 @@
     <updated>2026-09-18T00:00:00+08:00</updated>
     <category term="hr" />
     <summary>地點：高雄市岡山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【Taiwan Mobile Internship】IT Tech Genius Internship Program · 台灣大哥大股份有限公司</title>
-    <id>https://www.104.com.tw/job/80paa</id>
-    <link href="https://www.104.com.tw/job/80paa" />
-    <updated>2026-09-18T00:00:00+08:00</updated>
-    <category term="hr" />
-    <summary>地點：台北市大安區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>會計行政工讀生、學生實習（新） · 冠富稅務記帳士事務所</title>
-    <id>https://www.104.com.tw/job/961jn</id>
-    <link href="https://www.104.com.tw/job/961jn" />
-    <updated>2026-09-18T00:00:00+08:00</updated>
-    <category term="accounting" />
-    <summary>地點：台中市北屯區 · 平台：104</summary>
   </entry>
   <entry>
     <title>記帳/查帳 實習生 · 暘泰會計師事務所</title>
@@ -245,5 +229,21 @@
     <updated>2026-09-18T00:00:00+08:00</updated>
     <category term="hospitality" />
     <summary>地點：台中市北區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【全台各區】餐飲門市實習生｜可抵學分・畢業優先轉任儲備幹部 · 三商餐飲股份有限公司</title>
+    <id>https://www.104.com.tw/job/960uu</id>
+    <link href="https://www.104.com.tw/job/960uu" />
+    <updated>2026-09-18T00:00:00+08:00</updated>
+    <category term="hospitality" />
+    <summary>地點：台中市后里區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【全台各區】餐飲門市實習生｜可抵學分・畢業優先轉任儲備幹部 · 三商餐飲股份有限公司</title>
+    <id>https://www.104.com.tw/job/960us</id>
+    <link href="https://www.104.com.tw/job/960us" />
+    <updated>2026-09-18T00:00:00+08:00</updated>
+    <category term="hospitality" />
+    <summary>地點：苗栗縣竹南鎮 · 平台：104</summary>
   </entry>
 </feed>
