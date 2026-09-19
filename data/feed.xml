@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-09-19T05:30:47+00:00</updated>
+  <updated>2026-09-19T10:00:26+00:00</updated>
   <entry>
     <title>【潮味決-高雄岡山分社】門市兼職人員（實習值班/儲備幹部） · 潮味決高雄岡山分社_羽食有限公司</title>
     <id>https://www.104.com.tw/job/95qki</id>
@@ -45,14 +45,6 @@
     <updated>2026-09-19T00:00:00+08:00</updated>
     <category term="operations" />
     <summary>地點：台北市中山區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>2027 年輕銀行家培育計畫|HSBC Graduate and Internship Programmes · 滙豐(台灣)商業銀行股份有限公司_HSBC香港上海滙豐</title>
-    <id>https://www.104.com.tw/job/95k5v</id>
-    <link href="https://www.104.com.tw/job/95k5v" />
-    <updated>2026-09-15T00:00:00+08:00</updated>
-    <category term="finance" />
-    <summary>地點：台北市南港區 · 平台：104</summary>
   </entry>
   <entry>
     <title>高年級門市實習生｜高齡營養照護示範藥局-七期見安藥局 · 七期生醫科技股份有限公司</title>
@@ -245,5 +237,13 @@
     <updated>2026-06-19T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：高雄市仁武區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>小松KOMATSU堆高機技術維修員(實習)-台南仁德 · 台松堆高機股份有限公司</title>
+    <id>https://www.104.com.tw/job/6gniz</id>
+    <link href="https://www.104.com.tw/job/6gniz" />
+    <updated>2026-06-19T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台南市仁德區 · 平台：104</summary>
   </entry>
 </feed>

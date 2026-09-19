@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T05:30:47",
+  "generated_at": "2026-09-19T10:00:26",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 105,
-    "new_today": 5,
+    "total": 104,
+    "new_today": 0,
     "by_platform": {
-      "104": 53,
+      "104": 52,
       "CakeResume": 0,
       "Yourator": 52
     }
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 5
+      "count": 4
     },
     {
       "key": "consulting",
@@ -720,26 +720,6 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "2027 年輕銀行家培育計畫|HSBC Graduate and Internship Programmes",
-      "company": "滙豐(台灣)商業銀行股份有限公司_HSBC香港上海滙豐",
-      "location": "台北市南港區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-14",
-      "url": "https://www.104.com.tw/job/95k5v",
-      "description": "專業知識與個人技能量身打造。本次計畫包含Graduate Programme及Internship Programme，提供正職及暑期實習機會，熱烈歡迎有志想在真正的國際性銀行發展的你/妳加入！ \n\n加入滙豐年輕銀行家培育計畫，你/妳將獲得： \n•",
-      "category": "finance",
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-19",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "研究所"
-      ]
     },
     {
       "platform": "Yourator",
