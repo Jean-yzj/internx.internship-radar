@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T10:20:27",
+  "generated_at": "2026-09-20T15:08:55",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 112,
-    "new_today": 0,
+    "total": 121,
+    "new_today": 2,
     "by_platform": {
-      "104": 60,
+      "104": 69,
       "CakeResume": 0,
       "Yourator": 52
     }
@@ -63,42 +63,42 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 7
+      "count": 6
     },
     {
       "key": "consulting",
       "label": "管顧／策略",
       "emoji": "🧭",
       "color": "#ec4899",
-      "count": 7
+      "count": 8
     },
     {
       "key": "marketing",
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 21
+      "count": 24
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 10
+      "count": 11
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 2
+      "count": 3
     },
     {
       "key": "design",
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 1
+      "count": 2
     },
     {
       "key": "hr",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 14
+      "count": 16
     },
     {
       "key": "legal",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 12
+      "count": 13
     }
   ],
   "jobs": [
@@ -633,26 +633,6 @@
       ]
     },
     {
-      "platform": "104",
-      "title": "2027 年輕銀行家培育計畫|HSBC Graduate and Internship Programmes",
-      "company": "滙豐(台灣)商業銀行股份有限公司_HSBC香港上海滙豐",
-      "location": "台北市南港區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-14",
-      "url": "https://www.104.com.tw/job/95k5v",
-      "description": "專業知識與個人技能量身打造。本次計畫包含Graduate Programme及Internship Programme，提供正職及暑期實習機會，熱烈歡迎有志想在真正的國際性銀行發展的你/妳加入！ \n\n加入滙豐年輕銀行家培育計畫，你/妳將獲得： \n•",
-      "category": "finance",
-      "first_seen": "2026-09-15",
-      "last_seen": "2026-09-20",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "研究所"
-      ]
-    },
-    {
       "platform": "Yourator",
       "title": "Slack 商務拓展實習顧問（2026/2027畢業生專案)",
       "company": "伊原力科技",
@@ -683,6 +663,24 @@
       "description": "實習 / intern / 實習生 / 實習生／工讀生",
       "category": "consulting",
       "first_seen": "2026-05-18",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【主管特助培訓】執行長特助實習生－（全職者最快三個月後OKR考核後可轉執行長特助）",
+      "company": "玳特行銷有限公司",
+      "location": "台北市文山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/858m8",
+      "description": ")\n\n可額外學習到\n\n(一)行銷策略資料蒐集與提案製作\n1.進行產業競爭分析及市場調查分析。\n2.針對客戶所屬產業與業態，企劃數位行銷相關提案。\n\n◆ 實習生表現獎勵\n1.三節禮品\n2.學習獎金(到職後所考取的Google認證)\n\n其他部分請去看",
+      "category": "consulting",
+      "first_seen": "2026-07-15",
       "last_seen": "2026-09-20",
       "deadline": "",
       "skills": [],
@@ -980,6 +978,24 @@
     },
     {
       "platform": "104",
+      "title": "行銷文案企劃實習生",
+      "company": "奧藝數位行銷有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/94asj",
+      "description": "1、專案提案、時程安排到進度控管。\n2、網路論壇文案發想及撰寫。\n3、客戶關係維繫與溝通。\n4、專案成效分析。",
+      "category": "marketing",
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "數位媒體行銷實習生 ｜歡迎應屆畢業生/夜間就讀",
       "company": "庫客行銷有限公司",
       "location": "台北市內湖區",
@@ -1056,6 +1072,66 @@
     },
     {
       "platform": "104",
+      "title": "【行政實習生】聰明主動夥伴（歡迎應屆畢業生/ 細心 / 願意在快節奏中成長）",
+      "company": "萱源實業有限公司",
+      "location": "新北市三重區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/8z2qw",
+      "description": "行政與日常庶務管理:\n文件整理、資料建檔、公司基本行政支援\n郵寄、收發、採購、簡單的行政流程協助\n\n帳務協助:\n發票收集、登錄、歸檔與追蹤\n各案 請款/收款/付款 基本表單整理與更新\n零用金管理、簡易收支登錄與對帳資料準備\n\n工作現場節奏有即時性，偶爾需要支援整理資料、協助聯絡與安排事項\n我們需要一個在處理瑣碎任務時依然能保持專注與細心的夥伴。",
+      "category": "marketing",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "應屆"
+      ]
+    },
+    {
+      "platform": "104",
+      "title": "【工務實習生】聰明主動夥伴（歡迎應屆畢業生 / 細節控 / 願意在快節奏成長）",
+      "company": "萱源實業有限公司",
+      "location": "新北市三重區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/8xp87",
+      "description": "工地巡檢與進度追蹤:\n協助工務進行各項現場與工程管理事務\n包含工程進度追蹤、現場狀況回報\n需具備基本文書處理能力\n\n現場問題回報與缺失修繕追蹤:\n發現不符圖說或施工瑕疵：先拍照、標註位置、整理成清單回報\n追蹤師傅改善時程，必要時複查確認已修正\n\n文件與紀錄整理:\n協助整理工地日報/週報、進度表更新\n協助整理驗收照片、缺失清單、施工紀錄\n\n我們需要的是一位腦袋清楚、做事俐落、願意在工地現場學真正本事",
+      "category": "marketing",
+      "first_seen": "2026-09-08",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "應屆"
+      ]
+    },
+    {
+      "platform": "104",
+      "title": "【設計實習生】聰明主動夥伴（歡迎應屆畢業生 / 具美感力 / 靈活跨領域成長）",
+      "company": "萱源實業有限公司",
+      "location": "新北市三重區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/8xqlj",
+      "description": "設計實務協辦:\n協助製作提案簡報、選材版（材料、色彩、燈光氛圍）\n協助整理圖面與修改紀錄，確保版本一致、避免錯圖\n\n圖說整合與美感把關:\n參與專案討論，協助整理會議重點與待辦事項\n在討論與出圖過程中，具備基本美感與邏輯，確保成品符合我們的設計質感與標準\n對細節敏感（尺寸、比例、線條、對齊、標註、字體排版）\n\n現場彈性支援:\n必要時協助現場丈量、照片紀錄、簡易巡場\n協助整理現場問題清單，回報設計師並",
+      "category": "marketing",
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "應屆"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "【迪卡儂總部】Marketing Operations Intern 行銷營運實習生",
       "company": "Decathlon Taiwan_台灣迪卡儂有限公司",
       "location": "新北市中和區",
@@ -1127,26 +1203,6 @@
       "eligibility": []
     },
     {
-      "platform": "104",
-      "title": "SEO 行銷實習生",
-      "company": "將能數位行銷有限公司",
-      "location": "台北市松山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-17",
-      "url": "https://www.104.com.tw/job/7zw8w",
-      "description": "你對行銷充滿熱情，想要踏入數位行銷領域嗎？\n我們正在尋找 SEO 行銷實習生，邀請你一起加入將能團隊，協助 SEO 專案的初步執行。在這裡你不只是幫手，也是推動專案成功的重要夥伴。\n\n【工作內容】\n● SEO 內容文章產出、優化、潤飾\n● SEO",
-      "category": "marketing",
-      "first_seen": "2026-06-05",
-      "last_seen": "2026-09-20",
-      "deadline": "",
-      "skills": [
-        "SEO"
-      ],
-      "eligibility": []
-    },
-    {
       "platform": "Yourator",
       "title": "市場行銷及業務實習生 Marketing & Business Intern",
       "company": "Aidmics 億觀生技",
@@ -1177,6 +1233,24 @@
       "description": "電商 / 跨國團隊",
       "category": "content",
       "first_seen": "2026-05-26",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【旅遊編輯培訓】旅遊平台實習生－（全職者最快三個月OKR考核後可轉編輯助理）",
+      "company": "玳特行銷有限公司",
+      "location": "台北市文山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/8xj0b",
+      "description": "歡迎有心想要從「學徒」做起的準行銷人，加入我們的團隊^^\n此職位是提供給無行銷經驗者，讓你/妳半年內轉職成為行銷企劃為目標。\n在校實習也是非常歡迎，尤其對日本旅遊很有興趣的人~\n\n主要職務內容\n\n(一)「平台」內容企劃與平台管理 (工作大致占比",
+      "category": "content",
+      "first_seen": "2026-07-15",
       "last_seen": "2026-09-20",
       "deadline": "",
       "skills": [],
@@ -1384,6 +1458,24 @@
     },
     {
       "platform": "104",
+      "title": "《閃動格子》- 業務開發實習生",
+      "company": "閃動格子股份有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/8xd9t",
+      "description": "【工作內容】\n入職後，我們將提供技術培訓使你成為商務開實習生，將會遇到下列工作內容：\n1.市場調查與資料整理\n協助蒐集產業趨勢、市場資料與潛在合作名單\n整理並分析目標客群與競品資訊\n2.商機開發與客戶接觸\n協助初步聯繫潛在合作夥伴（電訪／寄信）",
+      "category": "bd_sales",
+      "first_seen": "2026-06-01",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "學期插畫美編實習生（限在學生，絕大部分時間遠端實習）",
       "company": "韋伯文化國際出版有限公司",
       "location": "新北市永和區",
@@ -1401,6 +1493,24 @@
       "eligibility": [
         "不限"
       ]
+    },
+    {
+      "platform": "104",
+      "title": "平面美術設計工讀生(歡迎兼職.工讀.實習.二度就業)",
+      "company": "凱曜網路股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/8wdh3",
+      "description": "設計，不只是美感而已，而是一種方法。\n『最簡單的關於設計的定義，就是一種有目的的創作行為。』—維基百科\n\n來吧，帶著你/你的作品集前來南京復興捷運站附近的辦公大樓內和我們分享。\n你/你的作品之於行銷的火花碰撞，又是如何運用圖像與色彩打造消費欲望和共鳴，\n還有始終樂於在社群媒體上追求網路溝通時效與變化的的心。\n\n本職務必備條件：【每週需能固定配合至少三天以上的時間且至少能合作半年】\n上班時間：平日1",
+      "category": "design",
+      "first_seen": "2026-09-20",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     },
     {
       "platform": "Yourator",
@@ -1730,6 +1840,44 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "中港廠-廠務/環安行政實習生",
+      "company": "昇陽國際半導體股份有限公司中港分公司",
+      "location": "台中市梧棲區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/95rqm",
+      "description": "準備與資料盤點。\n\n*接受可實習一年期實習生 or 對廠務領域有興趣、熱忱之新鮮人。\n*上班時段可彈性安排討論。\n*人格特質希望具責任感、積極。\n* 自動投遞者，請註明能配合一週上班3~5天。",
+      "category": "operations",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "財務行政工讀生/實習生",
+      "company": "凱曜網路股份有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/7mq20",
+      "description": "後將優先轉任正職。\n\n作為 【財務行政工讀生/實習生】將肩負的工作內容有：\n⊕協助財務報表匯整及製作\n⊕財務資料建檔、核對明細\n⊕傳票歸檔與單據憑證整理\n⊕主管交辦事項或庶務辦理\n\n歡迎具財務相關科系之應屆畢業、進修部學生，表現優良畢業後將優先轉任",
+      "category": "operations",
+      "first_seen": "2026-06-10",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "應屆"
+      ]
     },
     {
       "platform": "104",
@@ -2214,6 +2362,24 @@
       "description": "熱忱，具備高度親和力。\n4.\t完成各項主管交代的事宜。\n5.    可配合學生實習計畫。",
       "category": "other",
       "first_seen": "2026-06-20",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "美髮實習師(信義店 景美店 新店店)",
+      "company": "CRE.A HAIR SALON_創意美型有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/627qm",
+      "description": "CRE.a Hair Salon 擴大徵才<<美髮實習師>>\n尋找志同道合一起衝的夥伴！\n想在新北/台北發展夥伴歡迎加入我們的行列！",
+      "category": "other",
+      "first_seen": "2026-05-31",
       "last_seen": "2026-09-20",
       "deadline": "",
       "skills": [],
