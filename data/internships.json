@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T05:45:31",
+  "generated_at": "2026-09-20T10:20:27",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 98,
+    "total": 112,
     "new_today": 0,
     "by_platform": {
-      "104": 46,
+      "104": 60,
       "CakeResume": 0,
       "Yourator": 52
     }
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 6
+      "count": 7
     },
     {
       "key": "consulting",
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 16
+      "count": 21
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 8
+      "count": 10
     },
     {
       "key": "bd_sales",
@@ -105,14 +105,14 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 1
+      "count": 2
     },
     {
       "key": "accounting",
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 3
+      "count": 2
     },
     {
       "key": "education",
@@ -147,14 +147,14 @@
       "label": "供應鏈",
       "emoji": "📦",
       "color": "#84cc16",
-      "count": 0
+      "count": 1
     },
     {
       "key": "hospitality",
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 3
+      "count": 7
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 11
+      "count": 12
     }
   ],
   "jobs": [
@@ -633,6 +633,26 @@
       ]
     },
     {
+      "platform": "104",
+      "title": "2027 年輕銀行家培育計畫|HSBC Graduate and Internship Programmes",
+      "company": "滙豐(台灣)商業銀行股份有限公司_HSBC香港上海滙豐",
+      "location": "台北市南港區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-14",
+      "url": "https://www.104.com.tw/job/95k5v",
+      "description": "專業知識與個人技能量身打造。本次計畫包含Graduate Programme及Internship Programme，提供正職及暑期實習機會，熱烈歡迎有志想在真正的國際性銀行發展的你/妳加入！ \n\n加入滙豐年輕銀行家培育計畫，你/妳將獲得： \n•",
+      "category": "finance",
+      "first_seen": "2026-09-15",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "研究所"
+      ]
+    },
+    {
       "platform": "Yourator",
       "title": "Slack 商務拓展實習顧問（2026/2027畢業生專案)",
       "company": "伊原力科技",
@@ -942,6 +962,44 @@
     },
     {
       "platform": "104",
+      "title": "金工實習工讀",
+      "company": "Wedding Code_葳町釦有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/95q1i",
+      "description": "喜愛珠寶有熱忱的你，擁有婚戒珠寶銷售對金屬有一定常識\n擁有金工手作熱忱！\n\n1. 製作相關課程教材。\n2. 規劃、執行活動。\n3. 講習課程內容。\n4. 進行商品行銷，產品特色分析介紹，並提供產品購買的建議。\n5. 提供售後服務，處理客戶端之問題，給予完善的處理。\n\n有金工相關證照或經驗優先錄取，能了解客人需求，推薦客人適當之產品並解說；平時需維護店內環境，也需要做商品建檔與資料管理，因此需對電腦",
+      "category": "marketing",
+      "first_seen": "2026-09-09",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "數位媒體行銷實習生 ｜歡迎應屆畢業生/夜間就讀",
+      "company": "庫客行銷有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/8irf2",
+      "description": "1.新客戶開發：積極尋找潛在客戶，開拓市場機會，為公司帶來新的合作夥伴。\n2.專業技能培訓：公司提供完善的培訓計劃，無論是否有相關經驗，都能透過學習快速提升專業能力與市場競爭力。\n3.業績獎金制度：根據個人開發表現享有額外業績獎金。\n\n我們希望你具備-\n\n1.願意學習：不管是否有經驗，只要願意學習，我們將提供一切必要資源，幫助你快速成長。\n2.工作熱忱：對工作保持高度熱情，積極面對挑戰，並全力以赴",
+      "category": "marketing",
+      "first_seen": "2026-05-25",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "應屆"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "數位行銷實習生",
       "company": "元田美有限公司",
       "location": "台北市大安區",
@@ -998,6 +1056,42 @@
     },
     {
       "platform": "104",
+      "title": "【迪卡儂總部】Marketing Operations Intern 行銷營運實習生",
+      "company": "Decathlon Taiwan_台灣迪卡儂有限公司",
+      "location": "新北市中和區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/95jri",
+      "description": "在迪卡儂，我們不只熱愛運動，更透過高效的營運與策略推動品牌持續成長！我們正尋找一位細心、有條理且具備良好溝通能力的高效夥伴，加入我們的行銷團隊，協助部門日常營運、財務預算控管、內部資訊傳達與外部廠商協作。在這裡，你將成為行銷團隊運作的核心樞紐，近距離參與行銷團隊的營運節奏與跨部門合作！\n\n｜工作內容｜\n• 財務與行政流程：負責行銷部門之費用報帳、發票整理、請款流程追蹤與日常行政作業。\n• 合約與文",
+      "category": "marketing",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【迪卡儂總部】Brand Communication Intern 品牌行銷實習生",
+      "company": "Decathlon Taiwan_台灣迪卡儂有限公司",
+      "location": "新北市中和區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/95ku1",
+      "description": "，和我們一起思考如何讓更多人認識 Decathlon、理解我們的品牌，並透過不同的內容與體驗感受到運動的魅力。\n\n這不只是一份協助執行的實習工作，你將有機會參與一個品牌專案從想法到落地的完整過程。\n\n你會參與的工作\n\n品牌 Campaign &",
+      "category": "marketing",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "李鐵柱火鍋村竹北店 -實習店長",
       "company": "李鐵柱餐飲股份有限公司",
       "location": "新竹縣竹北市",
@@ -1030,6 +1124,26 @@
       "last_seen": "2026-09-20",
       "deadline": "",
       "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "SEO 行銷實習生",
+      "company": "將能數位行銷有限公司",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-17",
+      "url": "https://www.104.com.tw/job/7zw8w",
+      "description": "你對行銷充滿熱情，想要踏入數位行銷領域嗎？\n我們正在尋找 SEO 行銷實習生，邀請你一起加入將能團隊，協助 SEO 專案的初步執行。在這裡你不只是幫手，也是推動專案成功的重要夥伴。\n\n【工作內容】\n● SEO 內容文章產出、優化、潤飾\n● SEO",
+      "category": "marketing",
+      "first_seen": "2026-06-05",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [
+        "SEO"
+      ],
       "eligibility": []
     },
     {
@@ -1197,6 +1311,42 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "引電修護實習生(內湖) 【無經驗/可培訓】",
+      "company": "Volvo_新凱汽車股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/84kpe",
+      "description": "【VOLVO 新凱汽車｜我們正在找的，就是你】\n您正在找一份穩定又有成就感的工作嗎？\n我們正在找一位手藝細膩、做事有責任感的夥伴，一起打造舒適、安全的座車體驗。\n\n一支短影音，也許能改變你的選擇——\n點我看影片：https://www.facebook.com/share/v/16hWNCQnqi/\n\n這不只是徵才，這是我們對夥伴的期待：\n「如果你～沒有如果，我們就是要你！」\n加入新凱，讓您與國際",
+      "category": "content",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "車輛美容實習生(內湖)",
+      "company": "Volvo_新凱汽車股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/8peo3",
+      "description": "【VOLVO 新凱汽車｜我們正在找的，就是你】\n您正在找一份穩定又有成就感的工作嗎？\n我們正在找一位手藝細膩、做事有責任感的夥伴，一起打造舒適、安全的座車體驗。\n\n一支短影音，也許能改變你的選擇——\n點我看影片：https://www.facebook.com/share/v/16hWNCQnqi/\n\n這不只是徵才，這是我們對夥伴的期待：\n「如果你～沒有如果，我們就是要你！」\n加入新凱，讓您與國際",
+      "category": "content",
+      "first_seen": "2026-05-13",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "[實習生專區]- 資訊AI業務實習生｜完整培訓＋實務經驗＋優先轉正機會！(實習時間一年,每週至少4天)",
       "company": "人工智能股份有限公司",
@@ -1271,6 +1421,24 @@
       "eligibility": []
     },
     {
+      "platform": "104",
+      "title": "***擴大招募***引電修護實習生(內湖、仁愛、士林)【無經驗/可培訓】",
+      "company": "Volvo_新凱汽車股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/86f5r",
+      "description": "【VOLVO 新凱汽車｜我們正在找的，就是你】\n您正在找一份穩定又有成就感的工作嗎？\n我們正在找一位手藝細膩、做事有責任感的夥伴，一起打造舒適、安全的座車體驗。\n\n一支短影音，也許能改變你的選擇——\n點我看影片：https://www.facebook.com/share/v/16hWNCQnqi/\n\n這不只是徵才，這是我們對夥伴的期待：\n「如果你～沒有如果，我們就是要你！」\n加入新凱，讓您與國際",
+      "category": "hr",
+      "first_seen": "2026-05-03",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "【SFIN0101I】財會實習生",
       "company": "SHOPLINE 商線科技股份有限公司",
@@ -1301,24 +1469,6 @@
       "description": "工作內容\n1.\t傳票整理與歸檔\n2.\t文件資料建檔與彙整\n3.\t協助部門行政事務\n4.\t主管交辦事項\n\n",
       "category": "accounting",
       "first_seen": "2026-06-25",
-      "last_seen": "2026-09-20",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "【實習專區】會計助理",
-      "company": "艾克市股份有限公司",
-      "location": "台北市信義區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-20",
-      "url": "https://www.104.com.tw/job/94eo1",
-      "description": "1.協助日常帳務處理與結帳作業，建立基礎會計實務能力。\n2.協助應收應付帳款管理及銀行往來帳務處理。\n3.參與 ERP 系統操作與財務流程建置，培養系統應用能力。\n4.與各部門協作，理解企業整體營運流程。\n\n【職務特色】\n可接觸零售產業實務帳務（門市營運、成本結構）\n有機會參與 ERP / 系統優化專案\n",
-      "category": "accounting",
-      "first_seen": "2026-08-03",
       "last_seen": "2026-09-20",
       "deadline": "",
       "skills": [],
@@ -1709,6 +1859,24 @@
     },
     {
       "platform": "104",
+      "title": "【新北瑞芳物流中心】兼職(長期工讀&學生實習) - 倉儲物流管理員 Warehouse & Logistics Operator(PT)",
+      "company": "Decathlon Taiwan_台灣迪卡儂有限公司",
+      "location": "新北市瑞芳區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/6yfab",
+      "description": "歡迎長期工讀或學生實習需求投遞\n\n<角色特質期許>\n\n台灣迪卡儂物流中心在找尋倉儲物流管理員，支持台灣迪卡儂物流中心的商業計畫。您將成為物流中心的團隊成員，並確保工作環境安全、積極推動流程改善並與團隊共同追求卓越的表現。我們期望您具備：\n• 積極",
+      "category": "supply_chain",
+      "first_seen": "2026-05-14",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "石門水庫桃禧漫遊-實習生  Intern",
       "company": "桃園喜來登酒店／桃園機場假日酒店_桃禧航空城大飯店股份有限公司",
       "location": "桃園市大溪區",
@@ -1720,6 +1888,24 @@
       "description": "露營區: (大溪-桃禧漫遊渡假露營區)\n○服務人員:  接待賓客、協助行李運送 級接駁服務，及相關戶外活動執行等。\n                       餐廳餐飲服務、執行簡易餐飲料理。\n                       帳蓬房務及園區清潔管理。\n                        各據點支援與輪調學習。",
       "category": "hospitality",
       "first_seen": "2026-06-11",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【客意直火-蘆洲長興店】兼職夥伴，可配合學生實習、中壯齡夥伴。",
+      "company": "Kitchen creAfe' 客意直火_匯盟餐飲服務股份有限公司",
+      "location": "新北市蘆洲區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/6xsg7",
+      "description": "1.\t餐飲服務、點餐等及餐廳外場相關其他工作。\n2.\t協助出餐、備餐及廚房其他相關工作。\n3.\t對餐飲服務工作有熱忱，具備高度親和力。\n4.\t兼職夥伴也依比例享有特休假。\n5.\t完成各項主管交代的事宜。\n6.     可配合學生實習計畫。",
+      "category": "hospitality",
+      "first_seen": "2026-06-08",
       "last_seen": "2026-09-20",
       "deadline": "",
       "skills": [],
@@ -1745,6 +1931,42 @@
     },
     {
       "platform": "104",
+      "title": "【客意直火-新莊中原店】兼職夥伴，可配合學生實習、中高齡夥伴。",
+      "company": "Kitchen creAfe' 客意直火_匯盟餐飲服務股份有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/71boa",
+      "description": "1.\t餐飲服務、點餐等及餐廳外場相關其他工作。\n2.\t協助出餐、備餐及廚房其他相關工作。\n3.\t對餐飲服務工作有熱忱，具備高度親和力\n4.     兼職夥伴也依比例享有特休假喔\n5.\t完成各項主管交代的事宜，\n6.     可配合學生校外實習計畫",
+      "category": "hospitality",
+      "first_seen": "2026-06-15",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "餐廳外場正職- TSUTAYA BOOKSTORE(蔦屋台中市政店)~歡迎實習生",
+      "company": "TSUTAYA BOOKSTORE 蔦屋_得利影視股份有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/8r4jr",
+      "description": "(1)外場顧客服務\n(2)飲料調製.協助客訴處理\n(3)維護顧客關係\n(4)環境清潔作業\n(5)口齒清晰、反應靈敏、主動積極\n\n",
+      "category": "hospitality",
+      "first_seen": "2026-05-04",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "飯店實習生（需輪部分大夜）",
       "company": "星鑽正興旅館有限公司",
       "location": "台南市中西區",
@@ -1756,6 +1978,24 @@
       "description": "1. 負責旅客訂房入住、登記、個人資料輸入、退房結帳等相關作業\r\n2. 瞭解客房位置、房型及房價並瞭解如何銷售客房。\r\n3.掌握客房使用狀況，隨時協助房務部做適當的彈性調整和控制。\r\n4.日常表單操作暨出納工作。\r\n5.維護顧客關係，並處理客人抱怨。\r\n6.需要樂觀開朗、主動、笑容滿面的態度。\r\n\r\n\r\n\r\n\r\n",
       "category": "hospitality",
       "first_seen": "2026-05-01",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "餐廳內場正職～TSUTAYA BOOKSTORE(蔦屋台中市政店)~歡迎實習生",
+      "company": "TSUTAYA BOOKSTORE 蔦屋_得利影視股份有限公司",
+      "location": "台中市西屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/6lrdz",
+      "description": "(1)食品備料、食材料理/擺盤/出餐 \n(2)盤點/衛生管理與環境清潔執行 \n(3)細心、主動積極,能配合輪班 \n\n*依照能力或經歷面談時薪\n*歡迎高三同學洽談加入",
+      "category": "hospitality",
+      "first_seen": "2026-04-25",
       "last_seen": "2026-09-20",
       "deadline": "",
       "skills": [],
@@ -1945,23 +2185,39 @@
     },
     {
       "platform": "104",
-      "title": "【2nd STREET日本最大二手店】誠品生活新店店-門市兼職人員(可配合學生實習)",
-      "company": "2ndSTREET_台灣極沃股份有限公司",
-      "location": "新北市新店區",
+      "title": "【客意直火-林口店】兼職夥伴，可配合學生實習、中高齡夥伴。",
+      "company": "Kitchen creAfe' 客意直火_匯盟餐飲服務股份有限公司",
+      "location": "新北市林口區",
       "salary": "",
       "salary_min": null,
       "salary_type": "unknown",
-      "posted_at": "2026-09-08",
-      "url": "https://www.104.com.tw/job/81s6l",
-      "description": "喜愛與人互動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/90dcj",
+      "description": "校外實習計畫",
       "category": "other",
-      "first_seen": "2026-05-09",
+      "first_seen": "2026-04-27",
       "last_seen": "2026-09-20",
       "deadline": "",
       "skills": [],
-      "eligibility": [
-        "大二"
-      ]
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【客意直火-內科西湖店】內外場兼職夥伴$210/hr起，可配合學生實習、中壯齡。",
+      "company": "Kitchen creAfe' 客意直火_匯盟餐飲服務股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-20",
+      "url": "https://www.104.com.tw/job/4p94m",
+      "description": "熱忱，具備高度親和力。\n4.\t完成各項主管交代的事宜。\n5.    可配合學生實習計畫。",
+      "category": "other",
+      "first_seen": "2026-06-20",
+      "last_seen": "2026-09-20",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
     }
   ]
 }
