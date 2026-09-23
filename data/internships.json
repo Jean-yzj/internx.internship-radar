@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T10:31:10",
+  "generated_at": "2026-09-23T15:50:14",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -8,7 +8,7 @@
   },
   "summary": {
     "total": 290,
-    "new_today": 42,
+    "new_today": 1,
     "by_platform": {
       "104": 241,
       "CakeResume": 0,
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 42
+      "count": 41
     },
     {
       "key": "data",
@@ -63,7 +63,7 @@
       "label": "金融",
       "emoji": "💰",
       "color": "#f59e0b",
-      "count": 8
+      "count": 9
     },
     {
       "key": "consulting",
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 31
+      "count": 30
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 11
+      "count": 10
     },
     {
       "key": "bd_sales",
@@ -98,14 +98,14 @@
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 8
+      "count": 7
     },
     {
       "key": "hr",
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 6
+      "count": 8
     },
     {
       "key": "accounting",
@@ -133,7 +133,7 @@
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 3
+      "count": 4
     },
     {
       "key": "manufacturing",
@@ -524,24 +524,6 @@
     },
     {
       "platform": "104",
-      "title": "Internship - Cell Culture (Full time/Part time) / 實習計畫 - 生物技術細胞培養",
-      "company": "生德奈生物科技股份有限公司",
-      "location": "台北市中山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-23",
-      "url": "https://www.104.com.tw/job/8v8fx",
-      "description": "生德奈生物科技股份有限公司\n生物技術 細胞培養實習計畫  Bio Internship program: Cell Culture Internship\n\nAbout This Internship:\n\nThis is a long-term",
-      "category": "tech",
-      "first_seen": "2026-04-27",
-      "last_seen": "2026-09-23",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
       "title": "2026實習生招募–產品整合工程師(竹科)",
       "company": "富采光電股份有限公司 (原為晶元光電及隆達電子)",
       "location": "新竹市",
@@ -553,6 +535,24 @@
       "description": "還在擔心沒有相關工作經驗嗎？履歷不夠亮眼嗎？\n加入富采光電實習星任務，提前累積職場實戰力，為未來職涯加分吧！\n\n加入富采光電，您將獲得：\n#實際參與專案實習，實戰經驗大提升\n#彈性工時，每週安排至少3天實習\n#專業實習認證，讓實習更有份量\n#跨縣",
       "category": "tech",
       "first_seen": "2026-07-03",
+      "last_seen": "2026-09-23",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Internship - Cell Culture (Full time/Part time) / 實習計畫 - 生物技術細胞培養",
+      "company": "生德奈生物科技股份有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-23",
+      "url": "https://www.104.com.tw/job/8v8fx",
+      "description": "生德奈生物科技股份有限公司\n生物技術 細胞培養實習計畫  Bio Internship program: Cell Culture Internship\n\nAbout This Internship:\n\nThis is a long-term",
+      "category": "tech",
+      "first_seen": "2026-04-27",
       "last_seen": "2026-09-23",
       "deadline": "",
       "skills": [],
@@ -697,6 +697,24 @@
       "description": "**一週至少需實習 3 天，並且可實習一年以上**\n\n【工作環境與特色】\n－接觸 SaaS、電商、OMO、新零售與 AI 應用等高速成長領域。\n－與多元職能團隊密切合作，參與真實商業情境與專案推進。\n－重視效率、透明溝通與持續改善，鼓勵提出可落地",
       "category": "tech",
       "first_seen": "2026-07-01",
+      "last_seen": "2026-09-23",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "MIS 專員／助理工程師 / 長期實習生",
+      "company": "圖策科技股份有限公司",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-23",
+      "url": "https://www.104.com.tw/job/966fd",
+      "description": "【職位名稱】\nMIS 專員／助理工程師\n \n【工作內容】\n1. 既有系統除錯與修復：負責盤點公司現行內部系統（以 Ragic 雲端資料庫建置）之人資及進銷存模組的錯誤與異常，包含欄位公式錯誤、表單關聯斷裂、庫存數量不符、簽核流程卡關等問題，分析根因並完成修復。\n2. 系統架構檢視與重構：檢視既有表單設計與資料關聯的合理性，針對結構混亂、重複建置或效能不佳的部分進行整理與重構，建立清楚、可長期維護的",
+      "category": "tech",
+      "first_seen": "2026-09-23",
       "last_seen": "2026-09-23",
       "deadline": "",
       "skills": [],
@@ -925,44 +943,6 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "【預聘】實習工程師",
-      "company": "力晶積成電子製造股份有限公司(力積電)",
-      "location": "新竹市",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-23",
-      "url": "https://www.104.com.tw/job/8s9fb",
-      "description": "\n【2027年力積電人才預聘（暨）實習計畫】\n\n對半導體產業充滿興趣，想要開啟職涯冒險嗎？\n＼歡迎加入我們的「預聘實習計畫」／\n\n除了實際體驗工程師的工作以外，\n還有豐富的培訓課程、專案發表機會，讓你快速提升職場競爭力！\n最重要的是～\n表現優秀就",
-      "category": "tech",
-      "first_seen": "2026-08-24",
-      "last_seen": "2026-09-23",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "[一年期實習] JR0286422 Solution Enabling Engineer (1 Year Internship)",
-      "company": "Intel_美商英特爾亞太科技有限公司台灣分公司",
-      "location": "台北市南港區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-08-31",
-      "url": "https://www.104.com.tw/job/95dui",
-      "description": "\nJob Description\nThe Role and Impact\nAs a Software Solutions Engineering Graduate Intern, you will actively contribute to developing integrated software solutions tailored to customer and platform nee",
-      "category": "tech",
-      "first_seen": "2026-08-31",
-      "last_seen": "2026-09-23",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "研究所"
-      ]
     },
     {
       "platform": "Yourator",
@@ -2268,6 +2248,26 @@
       ]
     },
     {
+      "platform": "104",
+      "title": "學生實習 ADP2027校園實習生（Payroll, Tax & Insurance Intern）",
+      "company": "安德普翰台灣股份有限公司",
+      "location": "台北市信義區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-10",
+      "url": "https://www.104.com.tw/job/95rtm",
+      "description": " Excel 函數及資料整理技巧。\n•\t具備資料分析或報表製作經驗。\n•\t對薪酬福利、人資行政、稅務或法令遵循領域有高度興趣。\n•\t具備英語閱讀能力者佳。\n實習收穫\n•\t深入了解企業薪資、保險及稅務實務運作。\n•\t學習台灣勞動法令及人事相關法規應用。",
+      "category": "finance",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-23",
+      "deadline": "",
+      "skills": [
+        "Excel"
+      ],
+      "eligibility": []
+    },
+    {
       "platform": "Yourator",
       "title": "Slack 商務拓展實習顧問（2026/2027畢業生專案)",
       "company": "伊原力科技",
@@ -2891,6 +2891,24 @@
     },
     {
       "platform": "104",
+      "title": "【誠徵 教學管理幹部】實習主任",
+      "company": "Hella English_臺北市私立錡宏文理短期補習班",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-23",
+      "url": "https://www.104.com.tw/job/8vikd",
+      "description": "非傳統教育體系：\n我們拒絕填鴨式學習，強調孩子的思考、創造力與表達能力。\n每一堂課都是任務導向、互動實作與生活應用的學習歷程。\n\n二、明確升遷制度：\n從實習主任、副主任到主任，皆有完整培訓與評鑑制度。\n\n三、穩定與成長並重：\n我們注重長期發展，提供",
+      "category": "marketing",
+      "first_seen": "2026-05-02",
+      "last_seen": "2026-09-23",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "Gamesofa 休閒遊戲社群行銷長期實習生",
       "company": "神來也麻將_慧邦科技股份有限公司",
       "location": "台北市中正區",
@@ -2920,42 +2938,6 @@
       "description": "\n\n【我們提供的環境與機會】\n✔ 第一線商務開發實戰經驗\n✔  學習數位行銷與提案策略\n✔ 快速成長的團隊合作環境\n✔ 明確職涯發展路徑\n\n【職涯發展】\n業務實習生→ 業務開發專員 → 業務開發經理\n",
       "category": "marketing",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-09-23",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "People & Culture Intern 人力資源實習生",
-      "company": "正大聯合會計師事務所(Grant Thornton)",
-      "location": "台北市南港區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-23",
-      "url": "https://www.104.com.tw/job/8rm8j",
-      "description": "具備的特質】\n- 學習態度主動積極，具有責任感\n- 有創意、有天馬行空的點子分享與回饋\n- 擅於溝通與臨機應變，樂於接受挑戰\n- 對組織文化建立、社群行銷、雇主品牌有興趣\n- 擅長影片剪輯或設計工具佳\n★實習期間至少半年，且每週需配合至少 3 個整",
-      "category": "marketing",
-      "first_seen": "2026-06-22",
-      "last_seen": "2026-09-23",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "馬來西亞市場行銷實習生 Malaysia Market Operations Intern（非短期寒暑假實習）",
-      "company": "玩美行動股份有限公司",
-      "location": "台北市內湖區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-23",
-      "url": "https://www.104.com.tw/job/92tk8",
-      "description": " your supervisor\n\nRequirements:\n- Must be able to work onsite and commit to a long-term internship of 6 months or more\n-",
-      "category": "marketing",
-      "first_seen": "2026-06-17",
       "last_seen": "2026-09-23",
       "deadline": "",
       "skills": [],
@@ -3162,26 +3144,6 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "資訊人員維運(MIS)實習生(資訊服務部)_I00012752",
-      "company": "國泰綜合證券股份有限公司",
-      "location": "台北市大安區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-23",
-      "url": "https://www.104.com.tw/job/8b46l",
-      "description": "【申請資格】\n1. 大學三年級以上(含碩士)在學學生。\n2. 實習後將可視實習表現優先轉正。\n\n【工作內容】\n1. 協助正職人員整理硬體設備相關作業。\n2. 協助正職人員寄發資訊設備。\n3. 協助正職人員執行基本端末文書作業。\n4. 主管交辦事項",
-      "category": "content",
-      "first_seen": "2026-04-27",
-      "last_seen": "2026-09-23",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "研究所"
-      ]
     },
     {
       "platform": "Yourator",
@@ -3609,24 +3571,6 @@
       "eligibility": []
     },
     {
-      "platform": "104",
-      "title": "Gamesofa 美術部門長期實習生",
-      "company": "神來也麻將_慧邦科技股份有限公司",
-      "location": "台北市中正區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-23",
-      "url": "https://www.104.com.tw/job/8kjko",
-      "description": "✦遊戲美術實習生招募✦\n對遊戲美術充滿熱情，想要累積實戰經驗嗎？加入我們，參與遊戲機台美術製作，讓你的作品真正應用到遊戲開發中！\n\n【實習內容】\n● 使用 AI 輔助生成圖像並進行修圖處理，提升美術品質。\n● 協助製作遊戲內機台收集冊，整理與呈現",
-      "category": "design",
-      "first_seen": "2026-07-16",
-      "last_seen": "2026-09-23",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
       "platform": "Yourator",
       "title": "人力資源實習生 HR Intern",
       "company": "優式資本 UC Capital",
@@ -3657,6 +3601,24 @@
       "description": "還在擔心沒有相關工作經驗嗎？履歷不夠亮眼嗎？\n加入富采光電實習星任務，提前累積職場實戰力，為未來職涯加分吧！\n\n加入富采光電，您將獲得：\n#實際參與專案實習，實戰經驗大提升\n#彈性工時，每週安排至少3天實習\n#專業實習認證，讓實習更有份量\n#跨縣",
       "category": "hr",
       "first_seen": "2026-09-14",
+      "last_seen": "2026-09-23",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "HR實習生",
+      "company": "奕力科技股份有限公司",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-23",
+      "url": "https://www.104.com.tw/job/93ssz",
+      "description": "【工作內容】\n1. 協助HR部門行政、庶務相關事務 \n2. 文書資料彙整 \n3. 各式專案之圖文美編 \n4. 其他主管交辦事項\n\n【其他條件】\n1. 熟悉Office應用軟體\n2. 細心、有耐心、主動積極\n3. 可長期配合佳，學期實習可",
+      "category": "hr",
+      "first_seen": "2026-07-16",
       "last_seen": "2026-09-23",
       "deadline": "",
       "skills": [],
@@ -3695,6 +3657,24 @@
       "description": "【昇恆昌台北總部實習計畫★招募中★】\n想提早進入職場體驗嗎？想更了解自己的未來發展嗎？\n實習絕對是你最好的選擇～\n歡迎加入我們的實習行列，更有機會留任轉為正職，讓你畢業即就業！\n\n★以下此為【台北內湖總公司】實習生招募說明★\n\n◎實習期間：即日起",
       "category": "hr",
       "first_seen": "2026-09-09",
+      "last_seen": "2026-09-23",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "人資實習生",
+      "company": "動力安全資訊股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-23",
+      "url": "https://www.104.com.tw/job/8w9b9",
+      "description": "人才庫建立。\n3. 協助新人報到前相關準備作業，包含資料整理、流程追蹤及入職安排。\n4. 協助人資行政相關作業，包含人員資料整理、報表製作及日常行政支援。\n5. 協助人資專案執行及其他主管交辦事項。\n【實習條件】\n1. 接受一年期以上實習安排，歡迎",
+      "category": "hr",
+      "first_seen": "2026-07-09",
       "last_seen": "2026-09-23",
       "deadline": "",
       "skills": [],
@@ -4373,6 +4353,24 @@
       "description": "上班時間:週一至週五08:30-17:30 (午休:12:00-13:30)\n1.學習並協助各類訴訟案件分析處理及撰狀。\n2.協助處理律師交辦事項 。 \n3.細心、主動積極、有學習精神。 ",
       "category": "legal",
       "first_seen": "2026-09-14",
+      "last_seen": "2026-09-23",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習律師",
+      "company": "群勝國際法律事務所",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-23",
+      "url": "https://www.104.com.tw/job/6pm9u",
+      "description": "1. 各類書狀撰擬、案件後續追蹤。\n2. 契約審閱、法律意見書撰擬。\n3. 法律顧問客戶法律諮詢服務。\n4. 商標申請。 \n5. 其它交辦事項。\n",
+      "category": "legal",
+      "first_seen": "2026-07-24",
       "last_seen": "2026-09-23",
       "deadline": "",
       "skills": [],

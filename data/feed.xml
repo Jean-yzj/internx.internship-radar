@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-09-23T10:31:10+00:00</updated>
+  <updated>2026-09-23T15:50:14+00:00</updated>
   <entry>
     <title>應用測試工程師-長期學生實習 · 安恩嘉股份有限公司</title>
     <id>https://www.104.com.tw/job/7uvcg</id>
@@ -18,6 +18,14 @@
     <title>AI 應用實習生｜全遠端 × 彈性排班 × 具轉正機會 · 敲敲行銷顧問股份有限公司</title>
     <id>https://www.104.com.tw/job/96663</id>
     <link href="https://www.104.com.tw/job/96663" />
+    <updated>2026-09-23T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：台北市中正區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>MIS 專員／助理工程師 / 長期實習生 · 圖策科技股份有限公司</title>
+    <id>https://www.104.com.tw/job/966fd</id>
+    <link href="https://www.104.com.tw/job/966fd" />
     <updated>2026-09-23T00:00:00+08:00</updated>
     <category term="tech" />
     <summary>地點：台北市中正區 · 平台：104</summary>
@@ -237,13 +245,5 @@
     <updated>2026-09-23T00:00:00+08:00</updated>
     <category term="hospitality" />
     <summary>地點：彰化縣埔心鄉 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>【全台各區】餐飲門市實習生｜可抵學分・畢業優先轉任儲備幹部 · 三商餐飲股份有限公司</title>
-    <id>https://www.104.com.tw/job/96633</id>
-    <link href="https://www.104.com.tw/job/96633" />
-    <updated>2026-09-23T00:00:00+08:00</updated>
-    <category term="hospitality" />
-    <summary>地點：彰化縣二林鎮 · 平台：104</summary>
   </entry>
 </feed>
