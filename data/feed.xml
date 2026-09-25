@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-09-25T10:52:50+00:00</updated>
+  <updated>2026-09-25T16:12:59+00:00</updated>
   <entry>
     <title>實習生 · 大憲光學企業股份有限公司</title>
     <id>https://www.104.com.tw/job/966xx</id>
@@ -87,6 +87,14 @@
     <summary>地點：新北市林口區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>2027 年輕銀行家培育計畫|HSBC Graduate and Internship Programmes · 滙豐(台灣)商業銀行股份有限公司_HSBC香港上海滙豐</title>
+    <id>https://www.104.com.tw/job/95k5v</id>
+    <link href="https://www.104.com.tw/job/95k5v" />
+    <updated>2026-09-15T00:00:00+08:00</updated>
+    <category term="finance" />
+    <summary>地點：台北市南港區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>會計師事務所僑生實習生（大四下｜可轉正） · 成智聯合會計師事務所</title>
     <id>https://www.104.com.tw/job/8wg8j</id>
     <link href="https://www.104.com.tw/job/8wg8j" />
@@ -107,6 +115,14 @@
     <id>https://www.104.com.tw/job/95ed0</id>
     <link href="https://www.104.com.tw/job/95ed0" />
     <updated>2026-09-11T00:00:00+08:00</updated>
+    <category term="operations" />
+    <summary>地點：台北市內湖區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>【學生實習】供應鏈行政小幫手 · 詠鑠生活股份有限公司</title>
+    <id>https://www.104.com.tw/job/78r2z</id>
+    <link href="https://www.104.com.tw/job/78r2z" />
+    <updated>2026-09-10T00:00:00+08:00</updated>
     <category term="operations" />
     <summary>地點：台北市內湖區 · 平台：104</summary>
   </entry>
@@ -229,21 +245,5 @@
     <updated>2026-08-03T00:00:00+08:00</updated>
     <category term="hospitality" />
     <summary>地點：南投縣魚池鄉 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>行政總務實習生 · 優式資本 UC Capital</title>
-    <id>https://www.yourator.co/companies/UCCapital/jobs/47882</id>
-    <link href="https://www.yourator.co/companies/UCCapital/jobs/47882" />
-    <updated>2026-07-29T00:00:00+08:00</updated>
-    <category term="operations" />
-    <summary>薪資：NT$ 220 -  (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>內容行銷實習生 · 魔數</title>
-    <id>https://www.yourator.co/companies/theworldmaths/jobs/47866</id>
-    <link href="https://www.yourator.co/companies/theworldmaths/jobs/47866" />
-    <updated>2026-07-27T00:00:00+08:00</updated>
-    <category term="marketing" />
-    <summary>薪資：NT$ 198 - 198 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
   </entry>
 </feed>
