@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T05:52:29",
+  "generated_at": "2026-09-25T10:52:50",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 125,
-    "new_today": 3,
+    "total": 136,
+    "new_today": 2,
     "by_platform": {
-      "104": 76,
+      "104": 87,
       "CakeResume": 0,
       "Yourator": 49
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 28
+      "count": 29
     },
     {
       "key": "data",
@@ -77,7 +77,7 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 21
+      "count": 22
     },
     {
       "key": "content",
@@ -91,7 +91,7 @@
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 6
+      "count": 8
     },
     {
       "key": "design",
@@ -105,14 +105,14 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 5
+      "count": 6
     },
     {
       "key": "accounting",
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 2
+      "count": 3
     },
     {
       "key": "education",
@@ -133,7 +133,7 @@
       "label": "法務",
       "emoji": "⚖️",
       "color": "#64748b",
-      "count": 4
+      "count": 5
     },
     {
       "key": "manufacturing",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 3
+      "count": 4
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 14
+      "count": 17
     }
   ],
   "jobs": [
@@ -531,6 +531,24 @@
       "description": "1.  現場場域實測： 協助無人載具（UAV/UGV/機器狗）現地動態測試，採集 LiDAR 與相機感測器數據。\n2.  演算法驗證： 測試並評估BCI控制演算法、SLAM空間建圖與視覺辨識模型的準確率與延遲。\n3.  通訊鏈路測試： 針對無線通訊執行丟包率、延遲與斷線重連壓力測試。\n4.  Issue 記錄與回報： 分析系統 Log、復現異常狀況並輸出結構化測試報告。",
       "category": "tech",
       "first_seen": "2026-09-11",
+      "last_seen": "2026-09-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "解決方案工程師（實習）",
+      "company": "澤龍智能股份有限公司",
+      "location": "新北市林口區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-25",
+      "url": "https://www.104.com.tw/job/95pi9",
+      "description": "► 撰寫與整理技術/產品文件，包含：產品規格書、工廠生產技轉資料、作業流程文件等\n► 協助產品測試執行，並彙整測試結果與報告\n► 配合研發工程團隊進行文件版本管理與更新\n► 協助整理測試數據、問題紀錄與相關技術資料\n► 執行主管交辦的其他文件與測試支援工作",
+      "category": "tech",
+      "first_seen": "2026-09-16",
       "last_seen": "2026-09-25",
       "deadline": "",
       "skills": [],
@@ -1158,6 +1176,24 @@
     },
     {
       "platform": "104",
+      "title": "品牌實習生",
+      "company": "穩立時裝有限公司",
+      "location": "新北市三重區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-25",
+      "url": "https://www.104.com.tw/job/8b0dq",
+      "description": "工作內容\n1. 協助設計師處理主、副品牌之日常營運與專案執行相關事務\n2. 參與公司、藝人合作、進出貨、製作、時裝週等品牌相關活動之籌備與現場支援\n3. 協助完成主管交辦之專案與行政等事項 \n\n品牌介紹\n主品牌｜WooLeeX https://www.instagram.com/wooleexstudio/\n副品牌｜WREVOLUTIONX https://www.instagram.com/wr",
+      "category": "marketing",
+      "first_seen": "2026-06-30",
+      "last_seen": "2026-09-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "服飾電商 品牌營運實習生 Brand Operating Intern",
       "company": "二拾衫_內定股份有限公司",
       "location": "台北市中山區",
@@ -1636,6 +1672,42 @@
     },
     {
       "platform": "104",
+      "title": "大溪區-遠傳門市-實習銷售 35000+獎金",
+      "company": "全宇電信股份有限公司",
+      "location": "桃園市大溪區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-25",
+      "url": "https://www.104.com.tw/job/6i2g0",
+      "description": "工作項目：\n1.門市客戶服務及通訊相關問題諮詢\n2.銷售手機及相關週邊配件\n3.銷售門號\n4.協助客戶完成續約活動\n5.收取電信資費\n6.銷售平板電腦及相關週邊商品\n7.協助客戶體驗門市展售之相關產品\n8.門市環境整齊與整節之維護\n9.完成其他公司指派之事項\n\n徵求挑戰高薪的你 加入我們",
+      "category": "bd_sales",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-09-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "平鎮區-遠傳門市-實習銷售專員 35000起",
+      "company": "全宇電信股份有限公司",
+      "location": "桃園市平鎮區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-25",
+      "url": "https://www.104.com.tw/job/8b4hw",
+      "description": "工作項目：\n1.門市客戶服務及通訊相關問題諮詢\n2.銷售手機及相關週邊配件\n3.銷售門號\n4.協助客戶完成續約活動\n5.收取電信資費\n6.銷售平板電腦及相關週邊商品\n7.協助客戶體驗門市展售之相關產品\n8.門市環境整齊與整節之維護\n9.完成其他公司指派之事項\n\n徵求挑戰高薪的你 加入我們",
+      "category": "bd_sales",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-09-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "學習型的實習生（客服,門市,業務,貿易類）",
       "company": "邑方醫療器材企業社",
       "location": "台中市東區",
@@ -1708,6 +1780,24 @@
     },
     {
       "platform": "104",
+      "title": "【後勤】2026年實習生招募",
+      "company": "啟新生物科技股份有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-25",
+      "url": "https://www.104.com.tw/job/90gqj",
+      "description": "台灣的微生物診斷與檢驗水準更趨完整與國際並進。\n\n◖本職務僅提供在學者應徵，需與學校簽署實習合約◗\n學年實習：115/09/01 (二)- 116/06/30(三)，為期10個月，全勤獎學金31,000元/月；\n學期實習：115/09/01(二)",
+      "category": "hr",
+      "first_seen": "2026-06-28",
+      "last_seen": "2026-09-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "台北/新竹 ▏HR Intern 招募實習生 ▏薪優 ▏工作氛圍佳 ▏有機會轉正 ▏每週至少配合3天",
       "company": "德倫思管理顧問有限公司",
       "location": "台北市內湖區",
@@ -1737,6 +1827,24 @@
       "description": "★非在學學生請勿投遞，此實習機會僅提供實習時數。\n\n★可配合學校實習生計畫，請說明實習時數及期程。 \n\n【實習內容】：\n★藉由參與實務工作，學習相關產業領域專業技能，未來就業可順利接軌，充實就業即戰力。\n★在職期間將規劃各類專業課程，同步提升職場",
       "category": "hr",
       "first_seen": "2026-04-25",
+      "last_seen": "2026-09-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "學期實習生",
+      "company": "群信聯合會計師事務所",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-25",
+      "url": "https://www.104.com.tw/job/7e5q8",
+      "description": "帳務處理及協助查帳工作",
+      "category": "accounting",
+      "first_seen": "2026-09-25",
       "last_seen": "2026-09-25",
       "deadline": "",
       "skills": [],
@@ -2106,6 +2214,24 @@
     },
     {
       "platform": "104",
+      "title": "實習律師",
+      "company": "杰論法律事務所",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-25",
+      "url": "https://www.104.com.tw/job/6vydg",
+      "description": "實務見解研究、法律意見撰擬、合約審議、訴訟撰狀、其他律師交辦事項",
+      "category": "legal",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-09-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "學習型的實習生(生產製造, 品管類)",
       "company": "邑方醫療器材企業社",
       "location": "台中市東區",
@@ -2191,6 +2317,24 @@
       "description": "加入實習生計畫(Intern program)，職場實務等你體驗! \n\n如果您對餐飲服務有高度的熱忱也想學習西班牙傳統料理與創意料理/正統日本懷石料理，請選擇營運部服務部。 \n\n半年期或一年期皆可；一年期者，服務滿六個月以上，勝任工作得向主管申請",
       "category": "hospitality",
       "first_seen": "2026-04-26",
+      "last_seen": "2026-09-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "學生櫃檯實習生(供食宿)",
+      "company": "映涵渡假飯店_大自然休旅業股份有限公司",
+      "location": "南投縣魚池鄉",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-25",
+      "url": "https://www.104.com.tw/job/7m2tz",
+      "description": "1.負責辦理訂房房間之安排，如：訂房、排房、入住、退房等作業\n2.提供當地旅遊諮詢 、擅長與人溝通\n3.櫃檯作業流程管理及溝通協調能力佳\n5.態度親切有禮、負責認真\n6.具備外語能力佳",
+      "category": "hospitality",
+      "first_seen": "2026-08-03",
       "last_seen": "2026-09-25",
       "deadline": "",
       "skills": [],
@@ -2387,6 +2531,62 @@
       "posted_at": "2026-09-25",
       "url": "https://www.104.com.tw/job/8wrer",
       "description": "我們在找這樣的你～\n對日本文化具親和力、不害怕面對陌生人、擅長與人互動\n想在下班後或課餘時間增加斜槓收入\n具日語基礎及能力者（非必要條件但能加級）",
+      "category": "other",
+      "first_seen": "2026-05-11",
+      "last_seen": "2026-09-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "實習技師（台南勇霖/年薪150萬 ）",
+      "company": "勇霖工程顧問有限公司",
+      "location": "台南市東區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-25",
+      "url": "https://www.104.com.tw/job/9681i",
+      "description": "◎歡迎土木、結構、大地、水保、水利、電機、環工、建築等科別技師應徵，我們願意培訓資淺技師，面試詳談。\n◎歡迎有公共工程之規劃設計與預算書圖等經歷者應徵，請於應徵履歷多說明相關實績，以利優先安排面試。\n◎以碩士與2年工作經驗之年輕技師經歷為例，到職第二年度，正常12月月薪+1.5月完工獎金與津貼+7.0月年終獎金+3.5月超越勞基法優渥加班費+執照津貼，合計總年薪150萬以上，其他專長或資淺應徵者薪",
+      "category": "other",
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "研究所"
+      ]
+    },
+    {
+      "platform": "104",
+      "title": "櫃檯實習生/正職",
+      "company": "林谷峻推拿整復",
+      "location": "宜蘭縣宜蘭市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-25",
+      "url": "https://www.104.com.tw/job/7y6ed",
+      "description": "進行週末管休。若需要帶小孩或週末進修請慎重考慮。\n\n櫃台實習生：\n底薪29500  全勤1000\nPT：196 NT./小時\n\n轉正櫃台：\n底薪29500  基礎達標獎金1000　誤餐費補助1300 \n\n獨立櫃台：\n底薪29500  基礎達標獎金",
+      "category": "other",
+      "first_seen": "2026-05-15",
+      "last_seen": "2026-09-25",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "維修實習生/車輛工程",
+      "company": "原動力量科技有限公司",
+      "location": "台北市中正區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-25",
+      "url": "https://www.104.com.tw/job/7hwh5",
+      "description": "高工畢，有證照，現就讀大學者尤佳\n需求:車輛工程系，機械系或高職汽修科，機械科，或有機車，腳踏車維護經驗者，如熟悉工作後另有作業獎金.",
       "category": "other",
       "first_seen": "2026-05-11",
       "last_seen": "2026-09-25",

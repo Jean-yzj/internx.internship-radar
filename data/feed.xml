@@ -5,7 +5,7 @@
   <link href="https://internshipradar.zeabur.app" rel="alternate" />
   <link href="https://internshipradar.zeabur.app/data/feed.xml" rel="self" />
   <id>https://internshipradar.zeabur.app/</id>
-  <updated>2026-09-25T05:52:29+00:00</updated>
+  <updated>2026-09-25T10:52:50+00:00</updated>
   <entry>
     <title>實習生 · 大憲光學企業股份有限公司</title>
     <id>https://www.104.com.tw/job/966xx</id>
@@ -23,12 +23,28 @@
     <summary>地點：台北市中山區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>學期實習生 · 群信聯合會計師事務所</title>
+    <id>https://www.104.com.tw/job/7e5q8</id>
+    <link href="https://www.104.com.tw/job/7e5q8" />
+    <updated>2026-09-25T00:00:00+08:00</updated>
+    <category term="accounting" />
+    <summary>地點：台北市中山區 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>個股研究實習生 · 銀樺投資股份有限公司</title>
     <id>https://www.104.com.tw/job/96779</id>
     <link href="https://www.104.com.tw/job/96779" />
     <updated>2026-09-25T00:00:00+08:00</updated>
     <category term="other" />
     <summary>地點：台北市松山區 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>實習技師（台南勇霖/年薪150萬 ） · 勇霖工程顧問有限公司</title>
+    <id>https://www.104.com.tw/job/9681i</id>
+    <link href="https://www.104.com.tw/job/9681i" />
+    <updated>2026-09-25T00:00:00+08:00</updated>
+    <category term="other" />
+    <summary>地點：台南市東區 · 平台：104</summary>
   </entry>
   <entry>
     <title>演藝產業實習生｜直播・自媒體內容培訓 · 寰宇互娛傳媒有限公司</title>
@@ -61,6 +77,14 @@
     <updated>2026-09-17T00:00:00+08:00</updated>
     <category term="other" />
     <summary>地點：新竹市 · 平台：104</summary>
+  </entry>
+  <entry>
+    <title>解決方案工程師（實習） · 澤龍智能股份有限公司</title>
+    <id>https://www.104.com.tw/job/95pi9</id>
+    <link href="https://www.104.com.tw/job/95pi9" />
+    <updated>2026-09-16T00:00:00+08:00</updated>
+    <category term="tech" />
+    <summary>地點：新北市林口區 · 平台：104</summary>
   </entry>
   <entry>
     <title>會計師事務所僑生實習生（大四下｜可轉正） · 成智聯合會計師事務所</title>
@@ -199,6 +223,14 @@
     <summary>地點：台北市南港區 · 平台：104</summary>
   </entry>
   <entry>
+    <title>學生櫃檯實習生(供食宿) · 映涵渡假飯店_大自然休旅業股份有限公司</title>
+    <id>https://www.104.com.tw/job/7m2tz</id>
+    <link href="https://www.104.com.tw/job/7m2tz" />
+    <updated>2026-08-03T00:00:00+08:00</updated>
+    <category term="hospitality" />
+    <summary>地點：南投縣魚池鄉 · 平台：104</summary>
+  </entry>
+  <entry>
     <title>行政總務實習生 · 優式資本 UC Capital</title>
     <id>https://www.yourator.co/companies/UCCapital/jobs/47882</id>
     <link href="https://www.yourator.co/companies/UCCapital/jobs/47882" />
@@ -213,37 +245,5 @@
     <updated>2026-07-27T00:00:00+08:00</updated>
     <category term="marketing" />
     <summary>薪資：NT$ 198 - 198 (時薪) · 地點：臺北市 · 平台：Yourator</summary>
-  </entry>
-  <entry>
-    <title>實習生 / Part-Time（每天下午半天4小時或每週24小時）｜瓦里安－西門子醫療旗下公司｜Finance Assistant｜財務助理｜派遣職｜105IW · 萬寶華企業管理顧問股份有限公司</title>
-    <id>https://www.104.com.tw/job/9445i</id>
-    <link href="https://www.104.com.tw/job/9445i" />
-    <updated>2026-07-24T00:00:00+08:00</updated>
-    <category term="healthcare" />
-    <summary>地點：台北市南港區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>實習生_人力資源部(新竹廠) · 美商達爾國際有限公司台灣分公司</title>
-    <id>https://www.104.com.tw/job/93x21</id>
-    <link href="https://www.104.com.tw/job/93x21" />
-    <updated>2026-07-20T00:00:00+08:00</updated>
-    <category term="hr" />
-    <summary>地點：新竹市 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>影音剪輯助理（短期／歡迎實習生） · 牧羊人影像有限公司</title>
-    <id>https://www.104.com.tw/job/93w5z</id>
-    <link href="https://www.104.com.tw/job/93w5z" />
-    <updated>2026-07-18T00:00:00+08:00</updated>
-    <category term="content" />
-    <summary>地點：台北市士林區 · 平台：104</summary>
-  </entry>
-  <entry>
-    <title>內/外場實習生 / 高時薪220~280 / 實習生 西餐 餐酒 餐廳 咖啡廳 早午餐 信義 · A Beach 101&amp;Pizza_口香糖俱樂部股份有限公司</title>
-    <id>https://www.104.com.tw/job/8q57d</id>
-    <link href="https://www.104.com.tw/job/8q57d" />
-    <updated>2026-07-09T00:00:00+08:00</updated>
-    <category term="hospitality" />
-    <summary>地點：台北市信義區 · 平台：104</summary>
   </entry>
 </feed>
