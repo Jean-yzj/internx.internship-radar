@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T05:52:49",
+  "generated_at": "2026-09-26T10:33:14",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 91,
-    "new_today": 1,
+    "total": 108,
+    "new_today": 0,
     "by_platform": {
-      "104": 42,
+      "104": 59,
       "CakeResume": 0,
       "Yourator": 49
     }
@@ -56,7 +56,7 @@
       "label": "醫療／健康",
       "emoji": "🏥",
       "color": "#db2777",
-      "count": 1
+      "count": 2
     },
     {
       "key": "finance",
@@ -84,21 +84,21 @@
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 2
+      "count": 4
     },
     {
       "key": "bd_sales",
       "label": "BD／業務",
       "emoji": "🤝",
       "color": "#0ea5e9",
-      "count": 2
+      "count": 3
     },
     {
       "key": "design",
       "label": "設計／UIUX",
       "emoji": "🎨",
       "color": "#f472b6",
-      "count": 2
+      "count": 5
     },
     {
       "key": "hr",
@@ -112,7 +112,7 @@
       "label": "會計／審計",
       "emoji": "📒",
       "color": "#a16207",
-      "count": 0
+      "count": 2
     },
     {
       "key": "education",
@@ -126,7 +126,7 @@
       "label": "營運／專案",
       "emoji": "🗂️",
       "color": "#71717a",
-      "count": 12
+      "count": 13
     },
     {
       "key": "legal",
@@ -154,7 +154,7 @@
       "label": "餐飲／旅遊",
       "emoji": "🍽️",
       "color": "#d946ef",
-      "count": 6
+      "count": 11
     },
     {
       "key": "research",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 12
+      "count": 14
     }
   ],
   "jobs": [
@@ -587,6 +587,24 @@
       "description": "數位行銷 / 軟體開發 / 網路新創 / 商業應用",
       "category": "healthcare",
       "first_seen": "2026-04-23",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "斯朵利髮型 新莊新泰店 誠徵美髮師 實習師 儲備主管",
+      "company": "斯朵利國際有限公司",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/8nns4",
+      "description": "1. 協助接待顧客、為顧客準備茶水、點心與書報雜誌；\r\n2. 執行洗髮、護髮、頭皮護理、紓壓按摩等工作；\r\n3. 協助設計師執行剪髮、染髮、燙髮、髮型吹整、整體造型設計等工作；\r\n4. 完成設計師交辦工作，補充材料和工具；\r\n5. 接聽電話，確認顧客預約時間及服務項目；\r\n6. 清洗器材、設備及整體環境清潔。\r\n\r\n美髮師是現代社會非常重要的職業之一，隨著人們對美的追求不斷提高，美髮師的發展前景也",
+      "category": "healthcare",
+      "first_seen": "2026-07-06",
       "last_seen": "2026-09-26",
       "deadline": "",
       "skills": [],
@@ -1084,6 +1102,24 @@
     },
     {
       "platform": "104",
+      "title": "(HOLA和樂家居) 門市兼職夥伴_內湖店~歡迎長期兼職/企業實習",
+      "company": "HOLA_和樂家居股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/8w97q",
+      "description": "在HOLA，你不只是打工仔，而是生活美學的傳遞者！\n從陳列、銷售到顧客服務，每一步都在學習專業、培養品味，\n還能遇見一群一起打造「心動的家」的好夥伴。\n\n【工作內容】\n｜產品推薦｜介紹生活居家用品(如美食飲品/居家織品/日用品...等)\n｜顧客服務｜透過與顧客交流，知道他們喜歡的風格／用途，並給予合適建議\n｜專區維護｜補貨、維護庫存、保持專區整潔、陳列美觀，營造舒適購物氛圍與體驗\n\n【薪酬福利】\n",
+      "category": "content",
+      "first_seen": "2026-08-07",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "麥當勞-實習襄理 41000-50000. (正職.無經驗可) 滿半年加發一個月薪水",
       "company": "麥當勞_芊品食品有限公司",
       "location": "台南市安平區",
@@ -1095,6 +1131,24 @@
       "description": "公司名稱 ：麥當勞-安平中華西路店\n◆職缺名稱 ：正職儲備幹部 3-4人 (無經驗可/年紀不限制)\n◆工作時間 ：8-9小時一班 (需輪班.細節面談)\n◆工作內容 ：內外場 & 值班管理\n◆薪資範圍 ：38000-50000 (訓練期間36000.視訓練進度與職務內容)\n◆休假方式 ：正職每月8-10天採排休 \n◆工作地點 ：台南市安平區中華西路二段491號\n◆應徵方式 ：請email\n◆ 福利:",
       "category": "content",
       "first_seen": "2026-07-30",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "(HOLA和樂家居) 門市兼職夥伴_土城店~歡迎長期兼職/企業實習",
+      "company": "HOLA_和樂家居股份有限公司",
+      "location": "新北市土城區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/91vz7",
+      "description": "在HOLA，你不只是打工仔，而是生活美學的傳遞者！\n從陳列、銷售到顧客服務，每一步都在學習專業、培養品味，\n還能遇見一群一起打造「心動的家」的好夥伴。\n\n【工作內容】\n｜產品推薦｜介紹生活居家用品(如美食飲品/居家織品/日用品...等)\n｜顧客服務｜透過與顧客交流，知道他們喜歡的風格／用途，並給予合適建議\n｜專區維護｜補貨、維護庫存、保持專區整潔、陳列美觀，營造舒適購物氛圍與體驗\n\n【薪酬福利】\n",
+      "category": "content",
+      "first_seen": "2026-05-23",
       "last_seen": "2026-09-26",
       "deadline": "",
       "skills": [],
@@ -1141,6 +1195,26 @@
     },
     {
       "platform": "104",
+      "title": "商務發展實習生 Business Development Intern｜AI 商務開發｜高潛力轉正",
+      "company": "上策行銷有限公司",
+      "location": "台北市中山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/95kxf",
+      "description": "上策行銷正在建立新的 Business Development Team。\n我們想找 反應快、邏輯好、對商業有好奇心，而且懂得運用 AI 的大學生／研究生，一起參與企業客戶的研究、開發與商機追蹤。\n這不是行政實習，也不是傳統大量打電話的業務工作。",
+      "category": "bd_sales",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "不限"
+      ]
+    },
+    {
+      "platform": "104",
       "title": "平面設計實習生",
       "company": "高尚空間設計股份有限公司",
       "location": "台北市信義區",
@@ -1159,6 +1233,24 @@
     },
     {
       "platform": "104",
+      "title": "斯朵利彰化大埔店~高薪約聘美業夥伴~{實習生}{設計師}{儲備幹部}",
+      "company": "斯朵利國際有限公司",
+      "location": "彰化縣彰化市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/94k8l",
+      "description": "加入斯朵利專業髮型美容店，一起探索美麗秘境！\n斯朵利專業髮型美容店，是一個專為東方女性設計的品牌，融合歐洲科技與東方美學的精髓。我們的足跡遍布全台319家分店，致力於以專業技術與貼心服務，打造每一位顧客的專屬美麗。我們不僅是美的創造者，更是人心連結的橋樑，期待與充滿熱情的你攜手成長，共同綻放精彩未來！\n工作內容：  \n1. 接待顧客，了解需求並提供專業髮型建議，打造專屬設計。  \n2. 操作修髮、",
+      "category": "design",
+      "first_seen": "2026-08-06",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "室內設計實習生",
       "company": "高尚空間設計股份有限公司",
       "location": "台北市信義區",
@@ -1170,6 +1262,42 @@
       "description": "1. 各類活動的規劃、報表製作、安排與執行。\n2. 負責接聽電話、接待訪客、準備會議室及茶水。\n3. 需會操作繪圖2D/3D模具等設計軟體。\n4. 協助設計及工地監工。\n5. 輔助設計師行政事務。\n6. 處理其他設計/行銷/文書事項。\n5. 完成設計會議記錄，各項文書作業。 \n6. ⽂書處理（掃描、建檔、Key資料）。\n7. 主管臨時交辦事項（如：到案場協助拍攝、軟裝佈置）\n",
       "category": "design",
       "first_seen": "2026-05-01",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "斯朵利髮型台中 【成功店】 誠徵【設計師】【實習師】【儲備幹部】  無經驗可",
+      "company": "斯朵利國際有限公司",
+      "location": "台中市大里區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/8em2l",
+      "description": "誠徵 髮型師/髮型助理\n\n七大優勢\n1.保障底薪 高抽成\n2.享有勞健保  勞退 供住宿\n3.各項獎金機制  介紹獎金 獎勵創意獎金\n4.免費教育課程 國內外遊學團 知名外師課程\n5.八個月晉升髮型師\n6.免資金發展創業機會\n\n美髮師保障底薪50000以上\n美髮助理保障底薪30000以上\n\n0經驗不用怕  我們有完善的教育中心\n免費培訓  讓你更快上手 8個月當設計師不是夢\n\n我們有透明的考核升遷",
+      "category": "design",
+      "first_seen": "2026-06-12",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "建築中長期實習",
+      "company": "翁國修建築師事務所",
+      "location": "台中市南屯區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/78qt0",
+      "description": "1.協助及配合設計師完成專案\n2.繪製基本圖說\n3.行政文件協助整理\n4.具備汽機車交通能力尤佳\n5.可以提供校外實習學分\n\n",
+      "category": "design",
+      "first_seen": "2026-06-02",
       "last_seen": "2026-09-26",
       "deadline": "",
       "skills": [],
@@ -1242,6 +1370,42 @@
       "description": "國泰飯店觀光事業啟動職涯第一哩路~實習生招募活動開跑中\n邀請對旅遊／飯店業有熱情的你一起登上實習夢想的舞台！\n在國泰，不僅是實習，更是你的職涯指南，歡迎你一起了解飯店樣貌、探索自我，找到專屬自己的實習主場！\n\n【為什麼你該加入國泰飯店】\n多元福利",
       "category": "hr",
       "first_seen": "2026-04-30",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "會計審計實習生",
+      "company": "馬施云大華聯合會計師事務所",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/6v30a",
+      "description": "協助處理會計帳務，以及支援審計工作",
+      "category": "accounting",
+      "first_seen": "2026-04-24",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "會計審計實習生",
+      "company": "馬施云大華聯合會計師事務所",
+      "location": "台北市松山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/6v2yi",
+      "description": "協助處理會計帳務，以及支援審計工作\n",
+      "category": "accounting",
+      "first_seen": "2026-05-16",
       "last_seen": "2026-09-26",
       "deadline": "",
       "skills": [],
@@ -1465,6 +1629,24 @@
     },
     {
       "platform": "104",
+      "title": "記帳/查帳 實習助理",
+      "company": "暘泰會計師事務所",
+      "location": "台中市西區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/960uq",
+      "description": "\n1. 協助申報營業稅、營所稅等各項稅務。\n2. 協助總分類帳、帳冊記錄及憑證之登載、核算及保管。\n3. 協助負責客戶外帳之查核及登帳、結帳整理及稅務申報。\n4. 協助配合財報需要，備妥查帳準備資料。\n",
+      "category": "operations",
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "櫃台行政（實習生、工讀生可/無經驗可）",
       "company": "大數智能教育股份有限公司",
       "location": "台北市中山區",
@@ -1501,6 +1683,60 @@
     },
     {
       "platform": "104",
+      "title": "【36200元起】五鮮級新竹新豐店-早班實習正職人員",
+      "company": "五鮮級平價鍋物_五鮮級國際餐飲股份有限公司",
+      "location": "新竹縣新豐鄉",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/8rhkl",
+      "description": "1.提供優質服務：負責顧客接待、接受點餐、收送餐點、收拾桌面以及備餐等工作，確保顧客享受到愉快的餐飲體驗。\n2.維持整潔環境：一同努力保持店內環境的整潔和衛生，這包括洗碗和清潔的工作。\n3.團隊協同作業：在店長的指導下，一起執行各項任務，確保工作流程順暢。\n4.多元學習崗位：鼓勵每位團隊成員不僅限於一個崗位，您將有機會學習並參與各種不同的工作。\n5.單一固定班制：提供固定班制不需要輪班工作，以維持",
+      "category": "hospitality",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【34200元起】五鮮級台南東平店-晚班實習正職人員**另享夜班津貼**",
+      "company": "五鮮級平價鍋物_五鮮級國際餐飲股份有限公司",
+      "location": "台南市東區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/84htc",
+      "description": "1.提供優質服務：負責顧客接待、接受點餐、收送餐點、收拾桌面以及備餐等工作，確保顧客享受到愉快的餐飲體驗。\n2.維持整潔環境：一同努力保持店內環境的整潔和衛生，這包括洗碗和清潔的工作。\n3.團隊協同作業：在店長的指導下，一起執行各項任務，確保工作流程順暢。\n4.多元學習崗位：鼓勵每位團隊成員不僅限於一個崗位，您將有機會學習並參與各種不同的工作。\n5.單一固定班制：提供固定班制不需要輪班工作，以維持",
+      "category": "hospitality",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【34200元起】五鮮級高雄鼎力店-晚班實習正職人員**另享夜班津貼**",
+      "company": "五鮮級平價鍋物_五鮮級國際餐飲股份有限公司",
+      "location": "高雄市三民區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/960es",
+      "description": "1.提供優質服務：負責顧客接待、接受點餐、收送餐點、收拾桌面以及備餐等工作，確保顧客享受到愉快的餐飲體驗。\n2.維持整潔環境：一同努力保持店內環境的整潔和衛生，這包括洗碗和清潔的工作。\n3.團隊協同作業：在店長的指導下，一起執行各項任務，確保工作流程順暢。\n4.多元學習崗位：鼓勵每位團隊成員不僅限於一個崗位，您將有機會學習並參與各種不同的工作。\n5.單一固定班制：提供固定班制不需要輪班工作，以維持",
+      "category": "hospitality",
+      "first_seen": "2026-09-18",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "外場實習生\b⏐\b月薪35000-40000元⏐外場餐飲餐廳餐酒",
       "company": "A Beach 101&Pizza_口香糖俱樂部股份有限公司",
       "location": "台北市信義區",
@@ -1512,6 +1748,42 @@
       "description": "『工作內容』\n1. 負責送餐及聯繫內外場之工作。\n2. 負責客人帶位、點餐等工作。\n3. 於客人用餐完畢後，負責收拾碗盤與清理環境。\n4. 進行吧台調飲及備料。\n5. 負責結帳、收銀之工作。\n6. 負責全店的打掃與清理，時而進行環境清潔。\n\n\n我們提供完整培訓制度，從基礎開始，逐步培養你成為能獨立帶場的夥伴：\n\n『基礎訓練』（新進人員）\n從現場基本運作開始學習，熟悉餐廳節奏與工作流程\n\n『崗位訓練",
       "category": "hospitality",
       "first_seen": "2026-04-25",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【36200元起】五鮮級新竹竹北店-晚班實習正職人員**另享夜班津貼**",
+      "company": "五鮮級平價鍋物_五鮮級國際餐飲股份有限公司",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/78pef",
+      "description": "1.提供優質服務：負責顧客接待、接受點餐、收送餐點、收拾桌面以及備餐等工作，確保顧客享受到愉快的餐飲體驗。\n2.維持整潔環境：一同努力保持店內環境的整潔和衛生，這包括洗碗和清潔的工作。\n3.團隊協同作業：在店長的指導下，一起執行各項任務，確保工作流程順暢。\n4.多元學習崗位：鼓勵每位團隊成員不僅限於一個崗位，您將有機會學習並參與各種不同的工作。\n5.單一固定班制：提供固定班制不需要輪班工作，以維持",
+      "category": "hospitality",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【36200元起】五鮮級新竹環北店-晚班實習正職人員**另享夜班津貼**",
+      "company": "五鮮級平價鍋物_五鮮級國際餐飲股份有限公司",
+      "location": "新竹縣竹北市",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/7d2d7",
+      "description": "1.提供優質服務：負責顧客接待、接受點餐、收送餐點、收拾桌面以及備餐等工作，確保顧客享受到愉快的餐飲體驗。\n2.維持整潔環境：一同努力保持店內環境的整潔和衛生，這包括洗碗和清潔的工作。\n3.團隊協同作業：在店長的指導下，一起執行各項任務，確保工作流程順暢。\n4.多元學習崗位：鼓勵每位團隊成員不僅限於一個崗位，您將有機會學習並參與各種不同的工作。\n5.單一固定班制：提供固定班制不需要輪班工作，以維持",
+      "category": "hospitality",
+      "first_seen": "2026-09-11",
       "last_seen": "2026-09-26",
       "deadline": "",
       "skills": [],
@@ -1555,6 +1827,24 @@
     },
     {
       "platform": "104",
+      "title": "廚助(實習)",
+      "company": "紫藤花藝村_麟記廚藝坊",
+      "location": "新北市八里區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/92i5a",
+      "description": "無經驗可，但須對廚房工作有興趣\n底薪30000 ，有經驗者薪資另議\n享勞健保、團保，月休8天\n供膳一餐\n1.負責洗、剝、削、切各種食材，以完成烹飪的前置 工作。 以中式料理為主。\n2.協助主廚測量食材的容量與重量。\n3.於出菜時負責菜餚擺盤或調整份量之工作。\n4.依據餐單準備相關的食材。\n5.將食材清洗並做簡單的處理備用。\n6.根據顧客的點單進行烹調。\n7.清理以及保養設備。",
+      "category": "hospitality",
+      "first_seen": "2026-06-12",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "西餐廚師實習生\b⏐\b月薪35000-40000元⏐內場廚房餐飲餐廳餐酒",
       "company": "A Beach 101&Pizza_口香糖俱樂部股份有限公司",
       "location": "台北市信義區",
@@ -1584,24 +1874,6 @@
       "description": "1. 學習多元宴會型態場地擺設及餐飲服務。\n2. 客房組輪值培訓計畫。 \n3. 配合學校培訓優秀學生。\n4. 根據飯店提供培訓計劃,進行在職訓練，畢業後續留年資照算。  \n5. 歡迎學生進行學校實習計畫，歡迎活潑的您一同加入。\n\n＊每週固定一二三",
       "category": "hospitality",
       "first_seen": "2026-08-10",
-      "last_seen": "2026-09-26",
-      "deadline": "",
-      "skills": [],
-      "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "【實習生Intern】台北國泰萬怡酒店",
-      "company": "國泰飯店觀光事業_國泰商旅股份有限公司",
-      "location": "台北市中山區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-26",
-      "url": "https://www.104.com.tw/job/7lsz9",
-      "description": "國泰飯店觀光事業啟動職涯第一哩路~實習生招募活動開跑中\n邀請對旅遊／飯店業有熱情的你一起登上實習夢想的舞台！\n在國泰，不僅是實習，更是你的職涯指南，歡迎你一起了解飯店樣貌、探索自我，找到專屬自己的實習主場！\n\n【為什麼你該加入國泰飯店】\n多元福利",
-      "category": "hospitality",
-      "first_seen": "2026-04-30",
       "last_seen": "2026-09-26",
       "deadline": "",
       "skills": [],
@@ -1822,6 +2094,44 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "(HOLA和樂家居) 網購包裝出貨專員_土城Online店~歡迎長期兼職/企業實習/二度就業",
+      "company": "HOLA_和樂家居股份有限公司",
+      "location": "新北市土城區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/91vz5",
+      "description": "1.網路購物備貨，出貨品質控管\n2.商品包裝、裝箱、上架、下架\n3.協助商品進貨、理貨\n4.顧客退貨、貨故理賠商品處理\n5.不定期出貨專案支援\n6.其他主管交辦事項\n7.需搬重物，體力好佳\n8.需輪早、晚班、假日班\n工作環境佳，有冷氣，依學經歷/專業技能/發展潛力敘薪",
+      "category": "other",
+      "first_seen": "2026-05-23",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【2nd STREET日本最大二手店】誠品生活新店店-門市兼職人員(可配合學生實習)",
+      "company": "2ndSTREET_台灣極沃股份有限公司",
+      "location": "新北市新店區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-21",
+      "url": "https://www.104.com.tw/job/81s6l",
+      "description": "喜愛與人互動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！",
+      "category": "other",
+      "first_seen": "2026-05-09",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "大二"
+      ]
     }
   ]
 }
