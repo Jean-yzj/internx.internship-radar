@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T10:33:14",
+  "generated_at": "2026-09-26T15:26:12",
   "params": {
     "days": null,
     "keyword": "實習",
@@ -7,10 +7,10 @@
     "llm_categorized": false
   },
   "summary": {
-    "total": 108,
+    "total": 112,
     "new_today": 0,
     "by_platform": {
-      "104": 59,
+      "104": 63,
       "CakeResume": 0,
       "Yourator": 49
     }
@@ -28,7 +28,7 @@
       "label": "科技／軟體",
       "emoji": "💻",
       "color": "#2563eb",
-      "count": 20
+      "count": 21
     },
     {
       "key": "data",
@@ -77,14 +77,14 @@
       "label": "行銷／品牌",
       "emoji": "📣",
       "color": "#dc2626",
-      "count": 18
+      "count": 19
     },
     {
       "key": "content",
       "label": "內容／媒體",
       "emoji": "✍️",
       "color": "#10b981",
-      "count": 4
+      "count": 6
     },
     {
       "key": "bd_sales",
@@ -105,7 +105,7 @@
       "label": "人資",
       "emoji": "👥",
       "color": "#6366f1",
-      "count": 4
+      "count": 5
     },
     {
       "key": "accounting",
@@ -168,7 +168,7 @@
       "label": "其他",
       "emoji": "📋",
       "color": "#94a3b8",
-      "count": 14
+      "count": 13
     }
   ],
   "jobs": [
@@ -355,6 +355,26 @@
         "Docker"
       ],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "Engineering Intern (工程師實習生)",
+      "company": "Paramtek_拚願科技股份有限公司",
+      "location": "桃園市龜山區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/92e3e",
+      "description": "【臺灣國產雷達科技研發實習計畫招募中】\n\n歡迎具備以下電資相關專業領域的碩、博士班在學同學，加入我們的研發實習團隊，一同打造新世相控陣列雷達技術：\n\n- 天線及電磁設計（Antenna, EM）\n- 射頻電路設計（RF）\n- 電子及訊號電源完整性",
+      "category": "tech",
+      "first_seen": "2026-06-05",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "博士"
+      ]
     },
     {
       "platform": "104",
@@ -974,6 +994,24 @@
     },
     {
       "platform": "104",
+      "title": "工讀生 / 實習生 / 學生",
+      "company": "聖翔力學企業社",
+      "location": "新北市新莊區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/8sht1",
+      "description": "1.協助車輛維修與改裝流程\n\n2.環境與工具整理\n\n3.馬力機操作與測試輔助\n\n4.車輛拍照、紀錄改裝過程\n\n5.社群貼文/拍攝支援 (非必要)\n\n6.主管交辦事項\n",
+      "category": "marketing",
+      "first_seen": "2026-05-30",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "【台中梧棲區】佳音英語－儲備英文老師（兼職/長期配合，歡迎在校生實習）",
       "company": "高雄市私立葛蕾娜語文文理短期補習班",
       "location": "台中市梧棲區",
@@ -1138,6 +1176,24 @@
     },
     {
       "platform": "104",
+      "title": "【遠傳電信】蘆洲民族實習襄理【月休10天】【歡迎無經驗者】",
+      "company": "金聚通訊行",
+      "location": "新北市蘆洲區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/8ra19",
+      "description": "工作內容 ：\n迎賓接待、交機、銷售配件、銷貨結帳、跟客戶聊天(個性活潑開朗)。\n1.【薪酬福利】\n-門市人員無上限的業績獎金制度，讓付出與回報成正比\n-職務加給獎金。\n-工作滿一年以上享：生日禮金1,000、結婚禮金3,600、生育補貼6,000、喪葬補助3,100、職災津貼。\n-員工手機折扣及門號優惠。\n-特別假期、員工國內外旅遊、慶典聚餐等。\n【獎 金 類】年終獎金、三節獎金、激勵獎金、績效獎",
+      "category": "content",
+      "first_seen": "2026-04-26",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
       "title": "(HOLA和樂家居) 門市兼職夥伴_土城店~歡迎長期兼職/企業實習",
       "company": "HOLA_和樂家居股份有限公司",
       "location": "新北市土城區",
@@ -1149,6 +1205,24 @@
       "description": "在HOLA，你不只是打工仔，而是生活美學的傳遞者！\n從陳列、銷售到顧客服務，每一步都在學習專業、培養品味，\n還能遇見一群一起打造「心動的家」的好夥伴。\n\n【工作內容】\n｜產品推薦｜介紹生活居家用品(如美食飲品/居家織品/日用品...等)\n｜顧客服務｜透過與顧客交流，知道他們喜歡的風格／用途，並給予合適建議\n｜專區維護｜補貨、維護庫存、保持專區整潔、陳列美觀，營造舒適購物氛圍與體驗\n\n【薪酬福利】\n",
       "category": "content",
       "first_seen": "2026-05-23",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "【遠傳電信】三峽文化實習襄理【月休10天】【歡迎無經驗者】",
+      "company": "金聚通訊行",
+      "location": "新北市三峽區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-26",
+      "url": "https://www.104.com.tw/job/8ra1b",
+      "description": "工作內容 ：\n迎賓接待、交機、銷售配件、銷貨結帳、跟客戶聊天(個性活潑開朗)。\n1.【薪酬福利】\n-門市人員無上限的業績獎金制度，讓付出與回報成正比\n-職務加給獎金。\n-工作滿一年以上享：生日禮金1,000、結婚禮金3,600、生育補貼6,000、喪葬補助3,100、職災津貼。\n-員工手機折扣及門號優惠。\n-特別假期、員工國內外旅遊、慶典聚餐等。\n【獎 金 類】年終獎金、三節獎金、激勵獎金、績效獎",
+      "category": "content",
+      "first_seen": "2026-04-26",
       "last_seen": "2026-09-26",
       "deadline": "",
       "skills": [],
@@ -1374,6 +1448,26 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
+    },
+    {
+      "platform": "104",
+      "title": "(台北內湖) HR實習生",
+      "company": "恆隆行貿易股份有限公司",
+      "location": "台北市內湖區",
+      "salary": "",
+      "salary_min": null,
+      "salary_type": "unknown",
+      "posted_at": "2026-09-23",
+      "url": "https://www.104.com.tw/job/965v2",
+      "description": "招募部門 HR實習生（大學生｜實習期間將學習完整的招募流程，適合對 HR、人力資源及企業管理有興趣的大學生）\n\n【工作內容】\n1. 協助人力資源部門進行招募相關工作。\n2. 協助整理及更新履歷資料。\n3. 協助刊登職缺、搜尋人才及初步篩選履歷。",
+      "category": "hr",
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-26",
+      "deadline": "",
+      "skills": [],
+      "eligibility": [
+        "不限"
+      ]
     },
     {
       "platform": "104",
@@ -2112,26 +2206,6 @@
       "deadline": "",
       "skills": [],
       "eligibility": []
-    },
-    {
-      "platform": "104",
-      "title": "【2nd STREET日本最大二手店】誠品生活新店店-門市兼職人員(可配合學生實習)",
-      "company": "2ndSTREET_台灣極沃股份有限公司",
-      "location": "新北市新店區",
-      "salary": "",
-      "salary_min": null,
-      "salary_type": "unknown",
-      "posted_at": "2026-09-21",
-      "url": "https://www.104.com.tw/job/81s6l",
-      "description": "喜愛與人互動，並樂於提供客人愉快且溫暖的服務\n★喜愛團隊合作、積極主動並富有責任感\n★願意接受公司培訓，學習商品鑑定及估價\n★可配合學校實習\n\n歡迎您加入我們的行列，共同引領物品再生、創造獨特生活！",
-      "category": "other",
-      "first_seen": "2026-05-09",
-      "last_seen": "2026-09-26",
-      "deadline": "",
-      "skills": [],
-      "eligibility": [
-        "大二"
-      ]
     }
   ]
 }
